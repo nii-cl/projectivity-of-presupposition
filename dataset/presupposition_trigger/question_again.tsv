@@ -1,0 +1,201 @@
+	sentence1	sentence2	label	heuristics	example1	example2	split
+0	Did the athlete burst into the room again?	 The athlete had burst into the room before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+1	Did the child shed tears again?	 The child had shed tears before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+2	Did the assistant hurt others again?	 The assistant had hurt others before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+3	Did the assistant shut the door again?	 The assistant had shut the door before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	test
+4	Did the boy hurt others again?	 The boy had hurt others before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+5	Did the singer thrust the fork into the cake again?	 The singer had thrust the fork into the cake before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+6	Did the child hurt others again?	 The child had hurt others before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+7	Did the doctor slit the envelope again?	 The doctor had slit the envelope before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+8	Did the worker let the blinds down again?	 The worker had let the blinds down before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+9	Did the dancer let the blinds down again?	 The dancer had let the blinds down before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+10	Did the athlete burst into the room again?	 The athlete had burst into the room before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+11	Did the singer spread the rumor again?	 The singer had spread the rumor before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+12	Did the boy split the log again?	 The boy had split the log before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+13	Did the woman read the letter again?	 The woman had read the letter before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+14	Did the boy slit the envelope again?	 The boy had slit the envelope before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+15	Did the athlete upset the boat again?	 The athlete had upset the boat before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+16	Did the director set the dish on the table again?	 The director had set the dish on the table before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+17	Did the student let the blinds down again?	 The student had let the blinds down before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+18	Did the girl thrust the fork into the cake again?	 The girl had thrust the fork into the cake before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+19	Did the assistant slit the envelope again?	 The assistant had slit the envelope before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+20	Did the director upset the boat again?	 The director had upset the boat before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+21	Did the boy hit the ball with the bat again?	 The boy had hit the ball with the bat before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+22	Did the girl cast bronze into a statue again?	 The girl had cast bronze into a statue before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+23	Did the teacher read the letter again?	 The teacher had read the letter before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+24	Did the woman bet $100 on the race again?	 The woman had bet $100 on the race before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+25	Did the manager upset the boat again?	 The manager had upset the boat before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	test
+26	Did the girl bet $100 on the race again?	 The girl had bet $100 on the race before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+27	Did the doctor slit the envelope again?	 The doctor had slit the envelope before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+28	Did the stranger spread the rumor again?	 The stranger had spread the rumor before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+29	Did the doctor put the book on the shelf again?	 The doctor had put the book on the shelf before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+30	Did the stranger put the book on the shelf again?	 The stranger had put the book on the shelf before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+31	Did the stranger put the book on the shelf again?	 The stranger had put the book on the shelf before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+32	Did the student set the dish on the table again?	 The student had set the dish on the table before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+33	Did the man upset the boat again?	 The man had upset the boat before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+34	Did the student split the log again?	 The student had split the log before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+35	Did the girl shed tears again?	 The girl had shed tears before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+36	Did the director spread the rumor again?	 The director had spread the rumor before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+37	Did the child spread the rumor again?	 The child had spread the rumor before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+38	Did the kid put the book on the shelf again?	 The kid had put the book on the shelf before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+39	Did the man thrust the fork into the cake again?	 The man had thrust the fork into the cake before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+40	Did the doctor shed tears again?	 The doctor had shed tears before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+41	Did the worker hurt others again?	 The worker had hurt others before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+42	Did the worker read the letter again?	 The worker had read the letter before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+43	Did the student read the letter again?	 The student had read the letter before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+44	Did the woman hurt others again?	 The woman had hurt others before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+45	Did the singer thrust the fork into the cake again?	 The singer had thrust the fork into the cake before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+46	Did the singer shut the door again?	 The singer had shut the door before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+47	Did the girl cast bronze into a statue again?	 The girl had cast bronze into a statue before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+48	Did the doctor set the dish on the table again?	 The doctor had set the dish on the table before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+49	Did the stranger slit the envelope again?	 The stranger had slit the envelope before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+50	Did the worker slit the envelope again?	 The worker had slit the envelope before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+51	Did the professor bet $100 on the race again?	 The professor had bet $100 on the race before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+52	Did the worker cast bronze into a statue again?	 The worker had cast bronze into a statue before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+53	Did the student split the log again?	 The student had split the log before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+54	Did the kid set the dish on the table again?	 The kid had set the dish on the table before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+55	Did the professor read the letter again?	 The professor had read the letter before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+56	Did the worker upset the boat again?	 The worker had upset the boat before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	test
+57	Did the man hit the ball with the bat again?	 The man had hit the ball with the bat before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+58	Did the girl shed tears again?	 The girl had shed tears before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+59	Did the kid burst into the room again?	 The kid had burst into the room before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+60	Did the singer cast bronze into a statue again?	 The singer had cast bronze into a statue before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+61	Did the student cast bronze into a statue again?	 The student had cast bronze into a statue before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+62	Did the stranger cast bronze into a statue again?	 The stranger had cast bronze into a statue before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+63	Did the woman read the letter again?	 The woman had read the letter before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+64	Did the man hurt others again?	 The man had hurt others before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+65	Did the manager split the log again?	 The manager had split the log before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+66	Did the manager let the blinds down again?	 The manager had let the blinds down before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+67	Did the dancer bet $100 on the race again?	 The dancer had bet $100 on the race before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+68	Did the singer read the letter again?	 The singer had read the letter before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	test
+69	Did the student spread the rumor again?	 The student had spread the rumor before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+70	Did the professor put the book on the shelf again?	 The professor had put the book on the shelf before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+71	Did the stranger upset the boat again?	 The stranger had upset the boat before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+72	Did the teacher split the log again?	 The teacher had split the log before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+73	Did the worker bet $100 on the race again?	 The worker had bet $100 on the race before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+74	Did the professor split the log again?	 The professor had split the log before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+75	Did the boy set the dish on the table again?	 The boy had set the dish on the table before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+76	Did the worker read the letter again?	 The worker had read the letter before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+77	Did the student shut the door again?	 The student had shut the door before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+78	Did the man hit the ball with the bat again?	 The man had hit the ball with the bat before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+79	Did the boy set the dish on the table again?	 The boy had set the dish on the table before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+80	Did the singer slit the envelope again?	 The singer had slit the envelope before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+81	Did the manager read the letter again?	 The manager had read the letter before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+82	Did the child upset the boat again?	 The child had upset the boat before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+83	Did the worker read the letter again?	 The worker had read the letter before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+84	Did the woman burst into the room again?	 The woman had burst into the room before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+85	Did the athlete shed tears again?	 The athlete had shed tears before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+86	Did the teacher hit the ball with the bat again?	 The teacher had hit the ball with the bat before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+87	Did the assistant bet $100 on the race again?	 The assistant had bet $100 on the race before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+88	Did the athlete put the book on the shelf again?	 The athlete had put the book on the shelf before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+89	Did the doctor thrust the fork into the cake again?	 The doctor had thrust the fork into the cake before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	test
+90	Did the professor read the letter again?	 The professor had read the letter before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+91	Did the doctor split the log again?	 The doctor had split the log before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+92	Did the girl shut the door again?	 The girl had shut the door before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+93	Did the assistant set the dish on the table again?	 The assistant had set the dish on the table before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+94	Did the director hit the ball with the bat again?	 The director had hit the ball with the bat before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+95	Did the manager spread the rumor again?	 The manager had spread the rumor before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+96	Did the professor hurt others again?	 The professor had hurt others before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+97	Did the singer hit the ball with the bat again?	 The singer had hit the ball with the bat before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+98	Did the boy bet $100 on the race again?	 The boy had bet $100 on the race before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+99	Did the stranger put the book on the shelf again?	 The stranger had put the book on the shelf before.	entailment	 -	 Did the doctor cut the tree again?	 The doctor cut the tree before.	train
+100	Did the stranger thrust the fork into the cake again?	 The stranger had not thrust the fork into the cake before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+101	Did the doctor shut the door again?	 The doctor had not shut the door before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+102	Did the boy bet $100 on the race again?	 The boy had not bet $100 on the race before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+103	Did the assistant let the blinds down again?	 The assistant had not let the blinds down before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+104	Did the professor cast bronze into a statue again?	 The professor had not cast bronze into a statue before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+105	Did the worker put the book on the shelf again?	 The worker had not put the book on the shelf before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+106	Did the teacher let the blinds down again?	 The teacher had not let the blinds down before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+107	Did the professor cast bronze into a statue again?	 The professor had not cast bronze into a statue before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+108	Did the student put the book on the shelf again?	 The student had not put the book on the shelf before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+109	Did the boy hit the ball with the bat again?	 The boy had not hit the ball with the bat before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+110	Did the athlete hurt others again?	 The athlete had not hurt others before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+111	Did the boy upset the boat again?	 The boy had not upset the boat before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+112	Did the child hurt others again?	 The child had not hurt others before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+113	Did the dancer hit the ball with the bat again?	 The dancer had not hit the ball with the bat before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+114	Did the professor thrust the fork into the cake again?	 The professor had not thrust the fork into the cake before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+115	Did the boy let the blinds down again?	 The boy had not let the blinds down before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+116	Did the teacher cast bronze into a statue again?	 The teacher had not cast bronze into a statue before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+117	Did the doctor read the letter again?	 The doctor had not read the letter before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+118	Did the manager spread the rumor again?	 The manager had not spread the rumor before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+119	Did the teacher upset the boat again?	 The teacher had not upset the boat before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+120	Did the doctor burst into the room again?	 The doctor had not burst into the room before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+121	Did the manager read the letter again?	 The manager had not read the letter before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+122	Did the child let the blinds down again?	 The child had not let the blinds down before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+123	Did the manager cast bronze into a statue again?	 The manager had not cast bronze into a statue before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+124	Did the professor hurt others again?	 The professor had not hurt others before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+125	Did the assistant put the book on the shelf again?	 The assistant had not put the book on the shelf before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+126	Did the child bet $100 on the race again?	 The child had not bet $100 on the race before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+127	Did the worker burst into the room again?	 The worker had not burst into the room before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+128	Did the man let the blinds down again?	 The man had not let the blinds down before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+129	Did the boy thrust the fork into the cake again?	 The boy had not thrust the fork into the cake before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+130	Did the worker upset the boat again?	 The worker had not upset the boat before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+131	Did the teacher hit the ball with the bat again?	 The teacher had not hit the ball with the bat before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+132	Did the director slit the envelope again?	 The director had not slit the envelope before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+133	Did the girl set the dish on the table again?	 The girl had not set the dish on the table before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+134	Did the child spread the rumor again?	 The child had not spread the rumor before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+135	Did the child burst into the room again?	 The child had not burst into the room before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+136	Did the boy set the dish on the table again?	 The boy had not set the dish on the table before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+137	Did the girl read the letter again?	 The girl had not read the letter before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+138	Did the stranger shed tears again?	 The stranger had not shed tears before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+139	Did the singer upset the boat again?	 The singer had not upset the boat before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+140	Did the doctor let the blinds down again?	 The doctor had not let the blinds down before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+141	Did the singer slit the envelope again?	 The singer had not slit the envelope before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+142	Did the student put the book on the shelf again?	 The student had not put the book on the shelf before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+143	Did the doctor read the letter again?	 The doctor had not read the letter before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	test
+144	Did the boy hit the ball with the bat again?	 The boy had not hit the ball with the bat before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+145	Did the boy set the dish on the table again?	 The boy had not set the dish on the table before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+146	Did the dancer hit the ball with the bat again?	 The dancer had not hit the ball with the bat before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+147	Did the athlete shed tears again?	 The athlete had not shed tears before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+148	Did the professor hit the ball with the bat again?	 The professor had not hit the ball with the bat before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+149	Did the girl shut the door again?	 The girl had not shut the door before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+150	Did the man spread the rumor again?	 The man had not spread the rumor before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+151	Did the singer slit the envelope again?	 The singer had not slit the envelope before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+152	Did the child slit the envelope again?	 The child had not slit the envelope before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+153	Did the child upset the boat again?	 The child had not upset the boat before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+154	Did the manager read the letter again?	 The manager had not read the letter before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+155	Did the assistant shut the door again?	 The assistant had not shut the door before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+156	Did the worker split the log again?	 The worker had not split the log before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+157	Did the girl let the blinds down again?	 The girl had not let the blinds down before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+158	Did the kid put the book on the shelf again?	 The kid had not put the book on the shelf before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+159	Did the manager shed tears again?	 The manager had not shed tears before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	test
+160	Did the kid let the blinds down again?	 The kid had not let the blinds down before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+161	Did the singer read the letter again?	 The singer had not read the letter before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+162	Did the kid spread the rumor again?	 The kid had not spread the rumor before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+163	Did the professor split the log again?	 The professor had not split the log before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+164	Did the woman read the letter again?	 The woman had not read the letter before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+165	Did the stranger split the log again?	 The stranger had not split the log before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+166	Did the manager bet $100 on the race again?	 The manager had not bet $100 on the race before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	test
+167	Did the director shut the door again?	 The director had not shut the door before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+168	Did the dancer bet $100 on the race again?	 The dancer had not bet $100 on the race before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+169	Did the assistant upset the boat again?	 The assistant had not upset the boat before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+170	Did the assistant shut the door again?	 The assistant had not shut the door before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+171	Did the doctor read the letter again?	 The doctor had not read the letter before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+172	Did the child hit the ball with the bat again?	 The child had not hit the ball with the bat before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+173	Did the man split the log again?	 The man had not split the log before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+174	Did the athlete spread the rumor again?	 The athlete had not spread the rumor before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+175	Did the girl thrust the fork into the cake again?	 The girl had not thrust the fork into the cake before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+176	Did the professor spread the rumor again?	 The professor had not spread the rumor before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	test
+177	Did the dancer split the log again?	 The dancer had not split the log before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+178	Did the manager slit the envelope again?	 The manager had not slit the envelope before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+179	Did the director hit the ball with the bat again?	 The director had not hit the ball with the bat before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+180	Did the director set the dish on the table again?	 The director had not set the dish on the table before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+181	Did the dancer let the blinds down again?	 The dancer had not let the blinds down before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+182	Did the doctor split the log again?	 The doctor had not split the log before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+183	Did the child read the letter again?	 The child had not read the letter before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+184	Did the worker spread the rumor again?	 The worker had not spread the rumor before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+185	Did the woman upset the boat again?	 The woman had not upset the boat before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+186	Did the assistant burst into the room again?	 The assistant had not burst into the room before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+187	Did the manager thrust the fork into the cake again?	 The manager had not thrust the fork into the cake before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+188	Did the teacher burst into the room again?	 The teacher had not burst into the room before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	test
+189	Did the professor let the blinds down again?	 The professor had not let the blinds down before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+190	Did the singer split the log again?	 The singer had not split the log before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+191	Did the stranger cast bronze into a statue again?	 The stranger had not cast bronze into a statue before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+192	Did the doctor slit the envelope again?	 The doctor had not slit the envelope before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+193	Did the boy shed tears again?	 The boy had not shed tears before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+194	Did the dancer set the dish on the table again?	 The dancer had not set the dish on the table before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+195	Did the director upset the boat again?	 The director had not upset the boat before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+196	Did the boy spread the rumor again?	 The boy had not spread the rumor before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+197	Did the manager slit the envelope again?	 The manager had not slit the envelope before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+198	Did the woman slit the envelope again?	 The woman had not slit the envelope before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train
+199	Did the doctor let the blinds down again?	 The doctor had not let the blinds down before.	contradiction	 -	 Did the doctor cut the tree again?	 The doctor had not cut the tree before.	train

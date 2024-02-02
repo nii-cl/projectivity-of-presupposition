@@ -1,0 +1,200 @@
+{"premise": "Did John beat the singer, who spread the rumor?", "hypothesis": "The singer spread the rumor.", "label": "entailment"}
+{"premise": "Did Bob comfort the girl, who put the book on the shelf?", "hypothesis": "The girl put the book on the shelf.", "label": "entailment"}
+{"premise": "Did Jim chase the manager, who bet $100 on the race?", "hypothesis": "The manager bet $100 on the race.", "label": "entailment"}
+{"premise": "Did Katy deceive the dancer, who read the letter?", "hypothesis": "The dancer read the letter.", "label": "entailment"}
+{"premise": "Did Ben find the athlete, who cast bronze into a statue?", "hypothesis": "The athlete cast bronze into a statue.", "label": "entailment"}
+{"premise": "Did Jenny respect the stranger, who hurt others?", "hypothesis": "The stranger hurt others.", "label": "entailment"}
+{"premise": "Did Jack kick the professor, who put the book on the shelf?", "hypothesis": "The professor put the book on the shelf.", "label": "entailment"}
+{"premise": "Did Kyle respect the professor, who split the log?", "hypothesis": "The professor split the log.", "label": "entailment"}
+{"premise": "Did Steven comfort the teacher, who read the letter?", "hypothesis": "The teacher read the letter.", "label": "entailment"}
+{"premise": "Did Ben chase the girl, who hurt others?", "hypothesis": "The girl hurt others.", "label": "entailment"}
+{"premise": "Did Jack chase the assistant, who shut the door?", "hypothesis": "The assistant shut the door.", "label": "entailment"}
+{"premise": "Did Jim meet the assistant, who bet $100 on the race?", "hypothesis": "The assistant bet $100 on the race.", "label": "entailment"}
+{"premise": "Did John beat the child, who slit the envelope?", "hypothesis": "The child slit the envelope.", "label": "entailment"}
+{"premise": "Did Steven kick the manager, who burst into the room?", "hypothesis": "The manager burst into the room.", "label": "entailment"}
+{"premise": "Did John respect the assistant, who let the blinds down?", "hypothesis": "The assistant let the blinds down.", "label": "entailment"}
+{"premise": "Did Jim see the student, who spread the rumor?", "hypothesis": "The student spread the rumor.", "label": "entailment"}
+{"premise": "Did Kyle love the man, who set the dish on the table?", "hypothesis": "The man set the dish on the table.", "label": "entailment"}
+{"premise": "Did Jim comfort the kid, who bet $100 on the race?", "hypothesis": "The kid bet $100 on the race.", "label": "entailment"}
+{"premise": "Did Jenny avoid the girl, who hurt others?", "hypothesis": "The girl hurt others.", "label": "entailment"}
+{"premise": "Did Steven see the athlete, who slit the envelope?", "hypothesis": "The athlete slit the envelope.", "label": "entailment"}
+{"premise": "Did Mary beat the student, who spread the rumor?", "hypothesis": "The student spread the rumor.", "label": "entailment"}
+{"premise": "Did Jim see the stranger, who cast bronze into a statue?", "hypothesis": "The stranger cast bronze into a statue.", "label": "entailment"}
+{"premise": "Did Bob chase the student, who shut the door?", "hypothesis": "The student shut the door.", "label": "entailment"}
+{"premise": "Did Jason respect the worker, who read the letter?", "hypothesis": "The worker read the letter.", "label": "entailment"}
+{"premise": "Did Jim deceive the stranger, who read the letter?", "hypothesis": "The stranger read the letter.", "label": "entailment"}
+{"premise": "Did Kyle love the worker, who upset the boat?", "hypothesis": "The worker upset the boat.", "label": "entailment"}
+{"premise": "Did Jack see the worker, who upset the boat?", "hypothesis": "The worker upset the boat.", "label": "entailment"}
+{"premise": "Did John respect the director, who thrust the fork into the cake?", "hypothesis": "The director thrust the fork into the cake.", "label": "entailment"}
+{"premise": "Did Tom kick the woman, who read the letter?", "hypothesis": "The woman read the letter.", "label": "entailment"}
+{"premise": "Did Kyle deceive the singer, who spread the rumor?", "hypothesis": "The singer spread the rumor.", "label": "entailment"}
+{"premise": "Did Steven chase the doctor, who put the book on the shelf?", "hypothesis": "The doctor put the book on the shelf.", "label": "entailment"}
+{"premise": "Did Jim comfort the athlete, who let the blinds down?", "hypothesis": "The athlete let the blinds down.", "label": "entailment"}
+{"premise": "Did Bob love the boy, who burst into the room?", "hypothesis": "The boy burst into the room.", "label": "entailment"}
+{"premise": "Did Ben see the assistant, who upset the boat?", "hypothesis": "The assistant upset the boat.", "label": "entailment"}
+{"premise": "Did Kyle kick the assistant, who split the log?", "hypothesis": "The assistant split the log.", "label": "entailment"}
+{"premise": "Did Jason deceive the student, who split the log?", "hypothesis": "The student split the log.", "label": "entailment"}
+{"premise": "Did Tom avoid the teacher, who spread the rumor?", "hypothesis": "The teacher spread the rumor.", "label": "entailment"}
+{"premise": "Did Mary chase the dancer, who let the blinds down?", "hypothesis": "The dancer let the blinds down.", "label": "entailment"}
+{"premise": "Did Bob avoid the student, who let the blinds down?", "hypothesis": "The student let the blinds down.", "label": "entailment"}
+{"premise": "Did Mary kick the professor, who cast bronze into a statue?", "hypothesis": "The professor cast bronze into a statue.", "label": "entailment"}
+{"premise": "Did Steven love the woman, who hit the ball with the bat?", "hypothesis": "The woman hit the ball with the bat.", "label": "entailment"}
+{"premise": "Did Jim avoid the athlete, who hit the ball with the bat?", "hypothesis": "The athlete hit the ball with the bat.", "label": "entailment"}
+{"premise": "Did Jenny find the teacher, who shed tears?", "hypothesis": "The teacher shed tears.", "label": "entailment"}
+{"premise": "Did Jim meet the boy, who read the letter?", "hypothesis": "The boy read the letter.", "label": "entailment"}
+{"premise": "Did Katy meet the teacher, who split the log?", "hypothesis": "The teacher split the log.", "label": "entailment"}
+{"premise": "Did Ben respect the student, who slit the envelope?", "hypothesis": "The student slit the envelope.", "label": "entailment"}
+{"premise": "Did Steven comfort the kid, who bet $100 on the race?", "hypothesis": "The kid bet $100 on the race.", "label": "entailment"}
+{"premise": "Did Tom find the girl, who split the log?", "hypothesis": "The girl split the log.", "label": "entailment"}
+{"premise": "Did Ben find the singer, who shut the door?", "hypothesis": "The singer shut the door.", "label": "entailment"}
+{"premise": "Did Ben beat the stranger, who bet $100 on the race?", "hypothesis": "The stranger bet $100 on the race.", "label": "entailment"}
+{"premise": "Did Katy find the singer, who upset the boat?", "hypothesis": "The singer upset the boat.", "label": "entailment"}
+{"premise": "Did Ben beat the girl, who thrust the fork into the cake?", "hypothesis": "The girl thrust the fork into the cake.", "label": "entailment"}
+{"premise": "Did Kyle avoid the dancer, who spread the rumor?", "hypothesis": "The dancer spread the rumor.", "label": "entailment"}
+{"premise": "Did John chase the teacher, who let the blinds down?", "hypothesis": "The teacher let the blinds down.", "label": "entailment"}
+{"premise": "Did Kyle respect the athlete, who slit the envelope?", "hypothesis": "The athlete slit the envelope.", "label": "entailment"}
+{"premise": "Did Jim deceive the doctor, who hit the ball with the bat?", "hypothesis": "The doctor hit the ball with the bat.", "label": "entailment"}
+{"premise": "Did Katy kick the doctor, who hit the ball with the bat?", "hypothesis": "The doctor hit the ball with the bat.", "label": "entailment"}
+{"premise": "Did John comfort the stranger, who put the book on the shelf?", "hypothesis": "The stranger put the book on the shelf.", "label": "entailment"}
+{"premise": "Did Kyle meet the stranger, who shed tears?", "hypothesis": "The stranger shed tears.", "label": "entailment"}
+{"premise": "Did Bob avoid the teacher, who slit the envelope?", "hypothesis": "The teacher slit the envelope.", "label": "entailment"}
+{"premise": "Did Steven chase the teacher, who set the dish on the table?", "hypothesis": "The teacher set the dish on the table.", "label": "entailment"}
+{"premise": "Did Mary find the singer, who shed tears?", "hypothesis": "The singer shed tears.", "label": "entailment"}
+{"premise": "Did Mary beat the kid, who slit the envelope?", "hypothesis": "The kid slit the envelope.", "label": "entailment"}
+{"premise": "Did John meet the woman, who slit the envelope?", "hypothesis": "The woman slit the envelope.", "label": "entailment"}
+{"premise": "Did Jason find the child, who put the book on the shelf?", "hypothesis": "The child put the book on the shelf.", "label": "entailment"}
+{"premise": "Did Jason love the boy, who put the book on the shelf?", "hypothesis": "The boy put the book on the shelf.", "label": "entailment"}
+{"premise": "Did Jason kick the woman, who slit the envelope?", "hypothesis": "The woman slit the envelope.", "label": "entailment"}
+{"premise": "Did Jim chase the teacher, who let the blinds down?", "hypothesis": "The teacher let the blinds down.", "label": "entailment"}
+{"premise": "Did Mary avoid the stranger, who hit the ball with the bat?", "hypothesis": "The stranger hit the ball with the bat.", "label": "entailment"}
+{"premise": "Did Jason comfort the manager, who shed tears?", "hypothesis": "The manager shed tears.", "label": "entailment"}
+{"premise": "Did Tom find the stranger, who bet $100 on the race?", "hypothesis": "The stranger bet $100 on the race.", "label": "entailment"}
+{"premise": "Did Steven beat the singer, who read the letter?", "hypothesis": "The singer read the letter.", "label": "entailment"}
+{"premise": "Did Jason meet the director, who thrust the fork into the cake?", "hypothesis": "The director thrust the fork into the cake.", "label": "entailment"}
+{"premise": "Did Jenny meet the athlete, who read the letter?", "hypothesis": "The athlete read the letter.", "label": "entailment"}
+{"premise": "Did Ben see the kid, who spread the rumor?", "hypothesis": "The kid spread the rumor.", "label": "entailment"}
+{"premise": "Did John chase the professor, who bet $100 on the race?", "hypothesis": "The professor bet $100 on the race.", "label": "entailment"}
+{"premise": "Did Jason kick the doctor, who slit the envelope?", "hypothesis": "The doctor slit the envelope.", "label": "entailment"}
+{"premise": "Did John love the dancer, who thrust the fork into the cake?", "hypothesis": "The dancer thrust the fork into the cake.", "label": "entailment"}
+{"premise": "Did Kyle find the child, who let the blinds down?", "hypothesis": "The child let the blinds down.", "label": "entailment"}
+{"premise": "Did Jim love the athlete, who put the book on the shelf?", "hypothesis": "The athlete put the book on the shelf.", "label": "entailment"}
+{"premise": "Did Katy deceive the girl, who spread the rumor?", "hypothesis": "The girl spread the rumor.", "label": "entailment"}
+{"premise": "Did Mary meet the dancer, who set the dish on the table?", "hypothesis": "The dancer set the dish on the table.", "label": "entailment"}
+{"premise": "Did Kyle meet the teacher, who shut the door?", "hypothesis": "The teacher shut the door.", "label": "entailment"}
+{"premise": "Did John avoid the worker, who spread the rumor?", "hypothesis": "The worker spread the rumor.", "label": "entailment"}
+{"premise": "Did John find the boy, who burst into the room?", "hypothesis": "The boy burst into the room.", "label": "entailment"}
+{"premise": "Did Steven beat the stranger, who shut the door?", "hypothesis": "The stranger shut the door.", "label": "entailment"}
+{"premise": "Did Steven kick the girl, who let the blinds down?", "hypothesis": "The girl let the blinds down.", "label": "entailment"}
+{"premise": "Did Bob deceive the teacher, who let the blinds down?", "hypothesis": "The teacher let the blinds down.", "label": "entailment"}
+{"premise": "Did Ben chase the student, who shed tears?", "hypothesis": "The student shed tears.", "label": "entailment"}
+{"premise": "Did Ben comfort the athlete, who shed tears?", "hypothesis": "The athlete shed tears.", "label": "entailment"}
+{"premise": "Did Tom deceive the man, who burst into the room?", "hypothesis": "The man burst into the room.", "label": "entailment"}
+{"premise": "Did Steven chase the woman, who let the blinds down?", "hypothesis": "The woman let the blinds down.", "label": "entailment"}
+{"premise": "Did Jason find the woman, who hit the ball with the bat?", "hypothesis": "The woman hit the ball with the bat.", "label": "entailment"}
+{"premise": "Did Katy chase the child, who read the letter?", "hypothesis": "The child read the letter.", "label": "entailment"}
+{"premise": "Did Ben comfort the professor, who put the book on the shelf?", "hypothesis": "The professor put the book on the shelf.", "label": "entailment"}
+{"premise": "Did Katy deceive the manager, who shed tears?", "hypothesis": "The manager shed tears.", "label": "entailment"}
+{"premise": "Did Bob kick the girl, who cast bronze into a statue?", "hypothesis": "The girl cast bronze into a statue.", "label": "entailment"}
+{"premise": "Did Kyle chase the singer, who thrust the fork into the cake?", "hypothesis": "The singer thrust the fork into the cake.", "label": "entailment"}
+{"premise": "Did Kyle meet the man, who burst into the room?", "hypothesis": "The man burst into the room.", "label": "entailment"}
+{"premise": "Did Tom chase the man, who upset the boat?", "hypothesis": "The man upset the boat.", "label": "entailment"}
+{"premise": "Did Steven kick the stranger, who slit the envelope?", "hypothesis": "The stranger did not slit the envelope.", "label": "contradiction"}
+{"premise": "Did Bob find the man, who read the letter?", "hypothesis": "The man did not read the letter.", "label": "contradiction"}
+{"premise": "Did Kyle chase the man, who upset the boat?", "hypothesis": "The man did not upset the boat.", "label": "contradiction"}
+{"premise": "Did Katy beat the professor, who read the letter?", "hypothesis": "The professor did not read the letter.", "label": "contradiction"}
+{"premise": "Did Steven avoid the doctor, who set the dish on the table?", "hypothesis": "The doctor did not set the dish on the table.", "label": "contradiction"}
+{"premise": "Did Jenny chase the assistant, who spread the rumor?", "hypothesis": "The assistant did not spread the rumor.", "label": "contradiction"}
+{"premise": "Did Steven avoid the manager, who set the dish on the table?", "hypothesis": "The manager did not set the dish on the table.", "label": "contradiction"}
+{"premise": "Did Jenny see the woman, who bet $100 on the race?", "hypothesis": "The woman did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "Did John beat the singer, who spread the rumor?", "hypothesis": "The singer did not spread the rumor.", "label": "contradiction"}
+{"premise": "Did Jenny kick the assistant, who hit the ball with the bat?", "hypothesis": "The assistant did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "Did Katy love the child, who bet $100 on the race?", "hypothesis": "The child did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "Did Tom deceive the doctor, who slit the envelope?", "hypothesis": "The doctor did not slit the envelope.", "label": "contradiction"}
+{"premise": "Did Mary comfort the manager, who upset the boat?", "hypothesis": "The manager did not upset the boat.", "label": "contradiction"}
+{"premise": "Did Katy chase the student, who burst into the room?", "hypothesis": "The student did not burst into the room.", "label": "contradiction"}
+{"premise": "Did Jack chase the manager, who let the blinds down?", "hypothesis": "The manager did not let the blinds down.", "label": "contradiction"}
+{"premise": "Did Jason chase the doctor, who read the letter?", "hypothesis": "The doctor did not read the letter.", "label": "contradiction"}
+{"premise": "Did Jim chase the kid, who slit the envelope?", "hypothesis": "The kid did not slit the envelope.", "label": "contradiction"}
+{"premise": "Did John beat the worker, who split the log?", "hypothesis": "The worker did not split the log.", "label": "contradiction"}
+{"premise": "Did Tom see the doctor, who hurt others?", "hypothesis": "The doctor did not hurt others.", "label": "contradiction"}
+{"premise": "Did Kyle see the boy, who put the book on the shelf?", "hypothesis": "The boy did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "Did Ben meet the assistant, who cast bronze into a statue?", "hypothesis": "The assistant did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "Did Mary love the boy, who thrust the fork into the cake?", "hypothesis": "The boy did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "Did John comfort the manager, who burst into the room?", "hypothesis": "The manager did not burst into the room.", "label": "contradiction"}
+{"premise": "Did John meet the director, who bet $100 on the race?", "hypothesis": "The director did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "Did John meet the girl, who upset the boat?", "hypothesis": "The girl did not upset the boat.", "label": "contradiction"}
+{"premise": "Did Mary respect the boy, who slit the envelope?", "hypothesis": "The boy did not slit the envelope.", "label": "contradiction"}
+{"premise": "Did Bob see the worker, who cast bronze into a statue?", "hypothesis": "The worker did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "Did John meet the athlete, who split the log?", "hypothesis": "The athlete did not split the log.", "label": "contradiction"}
+{"premise": "Did Steven deceive the worker, who thrust the fork into the cake?", "hypothesis": "The worker did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "Did Kyle kick the boy, who hurt others?", "hypothesis": "The boy did not hurt others.", "label": "contradiction"}
+{"premise": "Did Steven deceive the dancer, who hit the ball with the bat?", "hypothesis": "The dancer did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "Did Mary find the woman, who burst into the room?", "hypothesis": "The woman did not burst into the room.", "label": "contradiction"}
+{"premise": "Did Jenny avoid the teacher, who let the blinds down?", "hypothesis": "The teacher did not let the blinds down.", "label": "contradiction"}
+{"premise": "Did Mary respect the kid, who bet $100 on the race?", "hypothesis": "The kid did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "Did Tom avoid the student, who upset the boat?", "hypothesis": "The student did not upset the boat.", "label": "contradiction"}
+{"premise": "Did Jenny deceive the student, who shut the door?", "hypothesis": "The student did not shut the door.", "label": "contradiction"}
+{"premise": "Did John kick the manager, who hit the ball with the bat?", "hypothesis": "The manager did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "Did Jack love the manager, who put the book on the shelf?", "hypothesis": "The manager did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "Did Jim meet the singer, who read the letter?", "hypothesis": "The singer did not read the letter.", "label": "contradiction"}
+{"premise": "Did Jim chase the teacher, who shed tears?", "hypothesis": "The teacher did not shed tears.", "label": "contradiction"}
+{"premise": "Did Jack beat the student, who slit the envelope?", "hypothesis": "The student did not slit the envelope.", "label": "contradiction"}
+{"premise": "Did Kyle see the stranger, who let the blinds down?", "hypothesis": "The stranger did not let the blinds down.", "label": "contradiction"}
+{"premise": "Did Bob respect the manager, who hit the ball with the bat?", "hypothesis": "The manager did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "Did Jim respect the professor, who set the dish on the table?", "hypothesis": "The professor did not set the dish on the table.", "label": "contradiction"}
+{"premise": "Did Steven comfort the director, who read the letter?", "hypothesis": "The director did not read the letter.", "label": "contradiction"}
+{"premise": "Did Kyle chase the worker, who set the dish on the table?", "hypothesis": "The worker did not set the dish on the table.", "label": "contradiction"}
+{"premise": "Did Steven respect the kid, who slit the envelope?", "hypothesis": "The kid did not slit the envelope.", "label": "contradiction"}
+{"premise": "Did Jenny see the man, who spread the rumor?", "hypothesis": "The man did not spread the rumor.", "label": "contradiction"}
+{"premise": "Did Steven meet the woman, who cast bronze into a statue?", "hypothesis": "The woman did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "Did Bob respect the woman, who slit the envelope?", "hypothesis": "The woman did not slit the envelope.", "label": "contradiction"}
+{"premise": "Did Kyle chase the boy, who shed tears?", "hypothesis": "The boy did not shed tears.", "label": "contradiction"}
+{"premise": "Did Tom respect the assistant, who slit the envelope?", "hypothesis": "The assistant did not slit the envelope.", "label": "contradiction"}
+{"premise": "Did Bob find the assistant, who let the blinds down?", "hypothesis": "The assistant did not let the blinds down.", "label": "contradiction"}
+{"premise": "Did Kyle love the kid, who hurt others?", "hypothesis": "The kid did not hurt others.", "label": "contradiction"}
+{"premise": "Did Kyle beat the athlete, who upset the boat?", "hypothesis": "The athlete did not upset the boat.", "label": "contradiction"}
+{"premise": "Did Kyle kick the girl, who spread the rumor?", "hypothesis": "The girl did not spread the rumor.", "label": "contradiction"}
+{"premise": "Did John beat the professor, who shed tears?", "hypothesis": "The professor did not shed tears.", "label": "contradiction"}
+{"premise": "Did John love the worker, who shut the door?", "hypothesis": "The worker did not shut the door.", "label": "contradiction"}
+{"premise": "Did Kyle avoid the worker, who spread the rumor?", "hypothesis": "The worker did not spread the rumor.", "label": "contradiction"}
+{"premise": "Did Jack deceive the student, who put the book on the shelf?", "hypothesis": "The student did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "Did Steven meet the director, who slit the envelope?", "hypothesis": "The director did not slit the envelope.", "label": "contradiction"}
+{"premise": "Did Tom comfort the teacher, who upset the boat?", "hypothesis": "The teacher did not upset the boat.", "label": "contradiction"}
+{"premise": "Did Jack kick the girl, who cast bronze into a statue?", "hypothesis": "The girl did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "Did Katy kick the doctor, who let the blinds down?", "hypothesis": "The doctor did not let the blinds down.", "label": "contradiction"}
+{"premise": "Did Ben see the student, who put the book on the shelf?", "hypothesis": "The student did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "Did Mary love the kid, who burst into the room?", "hypothesis": "The kid did not burst into the room.", "label": "contradiction"}
+{"premise": "Did John comfort the man, who let the blinds down?", "hypothesis": "The man did not let the blinds down.", "label": "contradiction"}
+{"premise": "Did Jim deceive the doctor, who slit the envelope?", "hypothesis": "The doctor did not slit the envelope.", "label": "contradiction"}
+{"premise": "Did John meet the woman, who cast bronze into a statue?", "hypothesis": "The woman did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "Did Jason chase the director, who hit the ball with the bat?", "hypothesis": "The director did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "Did Jim kick the athlete, who burst into the room?", "hypothesis": "The athlete did not burst into the room.", "label": "contradiction"}
+{"premise": "Did Jim respect the child, who shut the door?", "hypothesis": "The child did not shut the door.", "label": "contradiction"}
+{"premise": "Did Ben meet the boy, who burst into the room?", "hypothesis": "The boy did not burst into the room.", "label": "contradiction"}
+{"premise": "Did Ben respect the girl, who upset the boat?", "hypothesis": "The girl did not upset the boat.", "label": "contradiction"}
+{"premise": "Did Mary love the girl, who put the book on the shelf?", "hypothesis": "The girl did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "Did Ben beat the student, who bet $100 on the race?", "hypothesis": "The student did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "Did Ben respect the worker, who cast bronze into a statue?", "hypothesis": "The worker did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "Did Jim beat the teacher, who upset the boat?", "hypothesis": "The teacher did not upset the boat.", "label": "contradiction"}
+{"premise": "Did Tom see the director, who put the book on the shelf?", "hypothesis": "The director did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "Did Jim beat the manager, who hit the ball with the bat?", "hypothesis": "The manager did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "Did Tom kick the girl, who upset the boat?", "hypothesis": "The girl did not upset the boat.", "label": "contradiction"}
+{"premise": "Did Jenny comfort the assistant, who slit the envelope?", "hypothesis": "The assistant did not slit the envelope.", "label": "contradiction"}
+{"premise": "Did Mary find the worker, who spread the rumor?", "hypothesis": "The worker did not spread the rumor.", "label": "contradiction"}
+{"premise": "Did Bob kick the manager, who cast bronze into a statue?", "hypothesis": "The manager did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "Did Bob comfort the dancer, who shut the door?", "hypothesis": "The dancer did not shut the door.", "label": "contradiction"}
+{"premise": "Did Katy avoid the kid, who upset the boat?", "hypothesis": "The kid did not upset the boat.", "label": "contradiction"}
+{"premise": "Did Bob meet the child, who spread the rumor?", "hypothesis": "The child did not spread the rumor.", "label": "contradiction"}
+{"premise": "Did Jenny love the kid, who let the blinds down?", "hypothesis": "The kid did not let the blinds down.", "label": "contradiction"}
+{"premise": "Did Ben see the kid, who cast bronze into a statue?", "hypothesis": "The kid did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "Did Jack avoid the teacher, who hurt others?", "hypothesis": "The teacher did not hurt others.", "label": "contradiction"}
+{"premise": "Did Jim meet the assistant, who thrust the fork into the cake?", "hypothesis": "The assistant did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "Did Katy see the stranger, who slit the envelope?", "hypothesis": "The stranger did not slit the envelope.", "label": "contradiction"}
+{"premise": "Did Steven comfort the stranger, who hit the ball with the bat?", "hypothesis": "The stranger did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "Did Kyle see the child, who put the book on the shelf?", "hypothesis": "The child did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "Did Jenny love the child, who hit the ball with the bat?", "hypothesis": "The child did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "Did Jason love the director, who set the dish on the table?", "hypothesis": "The director did not set the dish on the table.", "label": "contradiction"}
+{"premise": "Did Bob respect the worker, who hit the ball with the bat?", "hypothesis": "The worker did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "Did Ben see the man, who shut the door?", "hypothesis": "The man did not shut the door.", "label": "contradiction"}
+{"premise": "Did Jason avoid the woman, who put the book on the shelf?", "hypothesis": "The woman did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "Did Tom respect the manager, who put the book on the shelf?", "hypothesis": "The manager did not put the book on the shelf.", "label": "contradiction"}

@@ -1,0 +1,200 @@
+{"premise": "If the student had hurt others again, the professor could have let the blinds down.", "hypothesis": "The student had hurt others before.", "label": "entailment"}
+{"premise": "If the teacher had hurt others again, the woman could have set the dish on the table.", "hypothesis": "The teacher had hurt others before.", "label": "entailment"}
+{"premise": "If the athlete had thrust the fork into the cake again, the director could have let the blinds down.", "hypothesis": "The athlete had thrust the fork into the cake before.", "label": "entailment"}
+{"premise": "If the kid had bet $100 on the race again, the worker would have thrust the fork into the cake.", "hypothesis": "The kid had bet $100 on the race before.", "label": "entailment"}
+{"premise": "If the doctor had spread the rumor again, the worker could have slit the envelope.", "hypothesis": "The doctor had spread the rumor before.", "label": "entailment"}
+{"premise": "If the boy had burst into the room again, the director could have hit the ball with the bat.", "hypothesis": "The boy had burst into the room before.", "label": "entailment"}
+{"premise": "If the athlete had split the log again, the kid would have spread the rumor.", "hypothesis": "The athlete had split the log before.", "label": "entailment"}
+{"premise": "If the professor had upset the boat again, the singer would have bet $100 on the race.", "hypothesis": "The professor had upset the boat before.", "label": "entailment"}
+{"premise": "If the girl had hit the ball with the bat again, the doctor could have let the blinds down.", "hypothesis": "The girl had hit the ball with the bat before.", "label": "entailment"}
+{"premise": "If the doctor had shed tears again, the worker could have bet $100 on the race.", "hypothesis": "The doctor had shed tears before.", "label": "entailment"}
+{"premise": "If the director had thrust the fork into the cake again, the manager would have bet $100 on the race.", "hypothesis": "The director had thrust the fork into the cake before.", "label": "entailment"}
+{"premise": "If the athlete had split the log again, the student could have let the blinds down.", "hypothesis": "The athlete had split the log before.", "label": "entailment"}
+{"premise": "If the man had read the letter again, the student could have burst into the room.", "hypothesis": "The man had read the letter before.", "label": "entailment"}
+{"premise": "If the stranger had hurt others again, the woman could have spread the rumor.", "hypothesis": "The stranger had hurt others before.", "label": "entailment"}
+{"premise": "If the director had bet $100 on the race again, the professor could have let the blinds down.", "hypothesis": "The director had bet $100 on the race before.", "label": "entailment"}
+{"premise": "If the assistant had shed tears again, the boy could have shut the door.", "hypothesis": "The assistant had shed tears before.", "label": "entailment"}
+{"premise": "If the teacher had hurt others again, the director could have read the letter.", "hypothesis": "The teacher had hurt others before.", "label": "entailment"}
+{"premise": "If the stranger had shed tears again, the child could have hurt others.", "hypothesis": "The stranger had shed tears before.", "label": "entailment"}
+{"premise": "If the assistant had shut the door again, the stranger would have let the blinds down.", "hypothesis": "The assistant had shut the door before.", "label": "entailment"}
+{"premise": "If the singer had spread the rumor again, the teacher could have bet $100 on the race.", "hypothesis": "The singer had spread the rumor before.", "label": "entailment"}
+{"premise": "If the athlete had read the letter again, the kid could have let the blinds down.", "hypothesis": "The athlete had read the letter before.", "label": "entailment"}
+{"premise": "If the kid had upset the boat again, the boy would have shed tears.", "hypothesis": "The kid had upset the boat before.", "label": "entailment"}
+{"premise": "If the manager had set the dish on the table again, the athlete could have hit the ball with the bat.", "hypothesis": "The manager had set the dish on the table before.", "label": "entailment"}
+{"premise": "If the child had hurt others again, the teacher could have read the letter.", "hypothesis": "The child had hurt others before.", "label": "entailment"}
+{"premise": "If the doctor had hurt others again, the singer could have thrust the fork into the cake.", "hypothesis": "The doctor had hurt others before.", "label": "entailment"}
+{"premise": "If the woman had slit the envelope again, the child could have read the letter.", "hypothesis": "The woman had slit the envelope before.", "label": "entailment"}
+{"premise": "If the worker had thrust the fork into the cake again, the man could have set the dish on the table.", "hypothesis": "The worker had thrust the fork into the cake before.", "label": "entailment"}
+{"premise": "If the manager had upset the boat again, the kid could have put the book on the shelf.", "hypothesis": "The manager had upset the boat before.", "label": "entailment"}
+{"premise": "If the girl had bet $100 on the race again, the stranger could have shut the door.", "hypothesis": "The girl had bet $100 on the race before.", "label": "entailment"}
+{"premise": "If the man had put the book on the shelf again, the director could have upset the boat.", "hypothesis": "The man had put the book on the shelf before.", "label": "entailment"}
+{"premise": "If the assistant had slit the envelope again, the teacher would have hurt others.", "hypothesis": "The assistant had slit the envelope before.", "label": "entailment"}
+{"premise": "If the girl had split the log again, the athlete could have hit the ball with the bat.", "hypothesis": "The girl had split the log before.", "label": "entailment"}
+{"premise": "If the teacher had shed tears again, the student could have read the letter.", "hypothesis": "The teacher had shed tears before.", "label": "entailment"}
+{"premise": "If the man had upset the boat again, the boy would have split the log.", "hypothesis": "The man had upset the boat before.", "label": "entailment"}
+{"premise": "If the boy had hit the ball with the bat again, the director would have spread the rumor.", "hypothesis": "The boy had hit the ball with the bat before.", "label": "entailment"}
+{"premise": "If the man had spread the rumor again, the manager would have thrust the fork into the cake.", "hypothesis": "The man had spread the rumor before.", "label": "entailment"}
+{"premise": "If the athlete had thrust the fork into the cake again, the manager would have shed tears.", "hypothesis": "The athlete had thrust the fork into the cake before.", "label": "entailment"}
+{"premise": "If the stranger had burst into the room again, the teacher could have shed tears.", "hypothesis": "The stranger had burst into the room before.", "label": "entailment"}
+{"premise": "If the child had shut the door again, the boy would have hit the ball with the bat.", "hypothesis": "The child had shut the door before.", "label": "entailment"}
+{"premise": "If the man had bet $100 on the race again, the stranger could have spread the rumor.", "hypothesis": "The man had bet $100 on the race before.", "label": "entailment"}
+{"premise": "If the singer had read the letter again, the child could have shut the door.", "hypothesis": "The singer had read the letter before.", "label": "entailment"}
+{"premise": "If the manager had split the log again, the student could have spread the rumor.", "hypothesis": "The manager had split the log before.", "label": "entailment"}
+{"premise": "If the athlete had shut the door again, the teacher could have shed tears.", "hypothesis": "The athlete had shut the door before.", "label": "entailment"}
+{"premise": "If the man had upset the boat again, the teacher would have spread the rumor.", "hypothesis": "The man had upset the boat before.", "label": "entailment"}
+{"premise": "If the singer had slit the envelope again, the stranger would have thrust the fork into the cake.", "hypothesis": "The singer had slit the envelope before.", "label": "entailment"}
+{"premise": "If the manager had upset the boat again, the athlete would have cast bronze into a statue.", "hypothesis": "The manager had upset the boat before.", "label": "entailment"}
+{"premise": "If the worker had shut the door again, the boy could have split the log.", "hypothesis": "The worker had shut the door before.", "label": "entailment"}
+{"premise": "If the manager had put the book on the shelf again, the professor could have thrust the fork into the cake.", "hypothesis": "The manager had put the book on the shelf before.", "label": "entailment"}
+{"premise": "If the director had hurt others again, the kid could have shut the door.", "hypothesis": "The director had hurt others before.", "label": "entailment"}
+{"premise": "If the singer had upset the boat again, the teacher could have bet $100 on the race.", "hypothesis": "The singer had upset the boat before.", "label": "entailment"}
+{"premise": "If the director had hit the ball with the bat again, the manager could have bet $100 on the race.", "hypothesis": "The director had hit the ball with the bat before.", "label": "entailment"}
+{"premise": "If the kid had upset the boat again, the doctor could have let the blinds down.", "hypothesis": "The kid had upset the boat before.", "label": "entailment"}
+{"premise": "If the worker had hit the ball with the bat again, the dancer could have read the letter.", "hypothesis": "The worker had hit the ball with the bat before.", "label": "entailment"}
+{"premise": "If the girl had let the blinds down again, the woman would have split the log.", "hypothesis": "The girl had let the blinds down before.", "label": "entailment"}
+{"premise": "If the woman had spread the rumor again, the athlete could have burst into the room.", "hypothesis": "The woman had spread the rumor before.", "label": "entailment"}
+{"premise": "If the director had upset the boat again, the man would have burst into the room.", "hypothesis": "The director had upset the boat before.", "label": "entailment"}
+{"premise": "If the woman had slit the envelope again, the dancer would have upset the boat.", "hypothesis": "The woman had slit the envelope before.", "label": "entailment"}
+{"premise": "If the singer had slit the envelope again, the man would have thrust the fork into the cake.", "hypothesis": "The singer had slit the envelope before.", "label": "entailment"}
+{"premise": "If the doctor had hit the ball with the bat again, the stranger would have shut the door.", "hypothesis": "The doctor had hit the ball with the bat before.", "label": "entailment"}
+{"premise": "If the athlete had split the log again, the student would have read the letter.", "hypothesis": "The athlete had split the log before.", "label": "entailment"}
+{"premise": "If the singer had slit the envelope again, the man could have shed tears.", "hypothesis": "The singer had slit the envelope before.", "label": "entailment"}
+{"premise": "If the manager had hurt others again, the director would have thrust the fork into the cake.", "hypothesis": "The manager had hurt others before.", "label": "entailment"}
+{"premise": "If the manager had cast bronze into a statue again, the singer would have split the log.", "hypothesis": "The manager had cast bronze into a statue before.", "label": "entailment"}
+{"premise": "If the girl had hit the ball with the bat again, the assistant would have burst into the room.", "hypothesis": "The girl had hit the ball with the bat before.", "label": "entailment"}
+{"premise": "If the stranger had slit the envelope again, the child would have set the dish on the table.", "hypothesis": "The stranger had slit the envelope before.", "label": "entailment"}
+{"premise": "If the worker had hit the ball with the bat again, the athlete could have bet $100 on the race.", "hypothesis": "The worker had hit the ball with the bat before.", "label": "entailment"}
+{"premise": "If the kid had slit the envelope again, the child could have spread the rumor.", "hypothesis": "The kid had slit the envelope before.", "label": "entailment"}
+{"premise": "If the worker had upset the boat again, the director could have hit the ball with the bat.", "hypothesis": "The worker had upset the boat before.", "label": "entailment"}
+{"premise": "If the dancer had hurt others again, the man could have shed tears.", "hypothesis": "The dancer had hurt others before.", "label": "entailment"}
+{"premise": "If the teacher had shed tears again, the singer could have put the book on the shelf.", "hypothesis": "The teacher had shed tears before.", "label": "entailment"}
+{"premise": "If the kid had bet $100 on the race again, the girl would have burst into the room.", "hypothesis": "The kid had bet $100 on the race before.", "label": "entailment"}
+{"premise": "If the athlete had read the letter again, the singer could have let the blinds down.", "hypothesis": "The athlete had read the letter before.", "label": "entailment"}
+{"premise": "If the assistant had shed tears again, the child could have spread the rumor.", "hypothesis": "The assistant had shed tears before.", "label": "entailment"}
+{"premise": "If the girl had hurt others again, the dancer would have upset the boat.", "hypothesis": "The girl had hurt others before.", "label": "entailment"}
+{"premise": "If the boy had upset the boat again, the director would have bet $100 on the race.", "hypothesis": "The boy had upset the boat before.", "label": "entailment"}
+{"premise": "If the kid had put the book on the shelf again, the director would have slit the envelope.", "hypothesis": "The kid had put the book on the shelf before.", "label": "entailment"}
+{"premise": "If the singer had set the dish on the table again, the assistant would have shed tears.", "hypothesis": "The singer had set the dish on the table before.", "label": "entailment"}
+{"premise": "If the girl had spread the rumor again, the doctor would have slit the envelope.", "hypothesis": "The girl had spread the rumor before.", "label": "entailment"}
+{"premise": "If the girl had burst into the room again, the student could have bet $100 on the race.", "hypothesis": "The girl had burst into the room before.", "label": "entailment"}
+{"premise": "If the girl had hurt others again, the teacher would have burst into the room.", "hypothesis": "The girl had hurt others before.", "label": "entailment"}
+{"premise": "If the doctor had split the log again, the boy could have spread the rumor.", "hypothesis": "The doctor had split the log before.", "label": "entailment"}
+{"premise": "If the assistant had shut the door again, the woman would have hit the ball with the bat.", "hypothesis": "The assistant had shut the door before.", "label": "entailment"}
+{"premise": "If the manager had cast bronze into a statue again, the man could have set the dish on the table.", "hypothesis": "The manager had cast bronze into a statue before.", "label": "entailment"}
+{"premise": "If the woman had thrust the fork into the cake again, the athlete would have read the letter.", "hypothesis": "The woman had thrust the fork into the cake before.", "label": "entailment"}
+{"premise": "If the man had upset the boat again, the girl could have hurt others.", "hypothesis": "The man had upset the boat before.", "label": "entailment"}
+{"premise": "If the professor had hit the ball with the bat again, the girl could have read the letter.", "hypothesis": "The professor had hit the ball with the bat before.", "label": "entailment"}
+{"premise": "If the worker had hit the ball with the bat again, the stranger could have read the letter.", "hypothesis": "The worker had hit the ball with the bat before.", "label": "entailment"}
+{"premise": "If the girl had hurt others again, the director could have set the dish on the table.", "hypothesis": "The girl had hurt others before.", "label": "entailment"}
+{"premise": "If the child had let the blinds down again, the athlete could have thrust the fork into the cake.", "hypothesis": "The child had let the blinds down before.", "label": "entailment"}
+{"premise": "If the doctor had put the book on the shelf again, the worker could have thrust the fork into the cake.", "hypothesis": "The doctor had put the book on the shelf before.", "label": "entailment"}
+{"premise": "If the teacher had hurt others again, the director could have set the dish on the table.", "hypothesis": "The teacher had hurt others before.", "label": "entailment"}
+{"premise": "If the woman had hurt others again, the worker would have slit the envelope.", "hypothesis": "The woman had hurt others before.", "label": "entailment"}
+{"premise": "If the boy had bet $100 on the race again, the dancer would have thrust the fork into the cake.", "hypothesis": "The boy had bet $100 on the race before.", "label": "entailment"}
+{"premise": "If the child had burst into the room again, the teacher would have bet $100 on the race.", "hypothesis": "The child had burst into the room before.", "label": "entailment"}
+{"premise": "If the student had shut the door again, the singer would have slit the envelope.", "hypothesis": "The student had shut the door before.", "label": "entailment"}
+{"premise": "If the athlete had set the dish on the table again, the dancer would have put the book on the shelf.", "hypothesis": "The athlete had set the dish on the table before.", "label": "entailment"}
+{"premise": "If the kid had slit the envelope again, the assistant could have upset the boat.", "hypothesis": "The kid had slit the envelope before.", "label": "entailment"}
+{"premise": "If the boy had cast bronze into a statue again, the assistant could have set the dish on the table.", "hypothesis": "The boy had cast bronze into a statue before.", "label": "entailment"}
+{"premise": "If the student had slit the envelope again, the dancer could have hurt others.", "hypothesis": "The student had slit the envelope before.", "label": "entailment"}
+{"premise": "If the student had split the log again, the singer would have spread the rumor.", "hypothesis": "The student had split the log before.", "label": "entailment"}
+{"premise": "If the woman had set the dish on the table again, the athlete could have slit the envelope.", "hypothesis": "The woman had not set the dish on the table before.", "label": "contradiction"}
+{"premise": "If the doctor had read the letter again, the student would have burst into the room.", "hypothesis": "The doctor had not read the letter before.", "label": "contradiction"}
+{"premise": "If the athlete had thrust the fork into the cake again, the assistant would have split the log.", "hypothesis": "The athlete had not thrust the fork into the cake before.", "label": "contradiction"}
+{"premise": "If the child had put the book on the shelf again, the professor could have let the blinds down.", "hypothesis": "The child had not put the book on the shelf before.", "label": "contradiction"}
+{"premise": "If the dancer had thrust the fork into the cake again, the singer would have shut the door.", "hypothesis": "The dancer had not thrust the fork into the cake before.", "label": "contradiction"}
+{"premise": "If the director had slit the envelope again, the manager would have split the log.", "hypothesis": "The director had not slit the envelope before.", "label": "contradiction"}
+{"premise": "If the kid had hit the ball with the bat again, the assistant could have cast bronze into a statue.", "hypothesis": "The kid had not hit the ball with the bat before.", "label": "contradiction"}
+{"premise": "If the professor had hit the ball with the bat again, the girl could have bet $100 on the race.", "hypothesis": "The professor had not hit the ball with the bat before.", "label": "contradiction"}
+{"premise": "If the kid had bet $100 on the race again, the child could have split the log.", "hypothesis": "The kid had not bet $100 on the race before.", "label": "contradiction"}
+{"premise": "If the man had hit the ball with the bat again, the doctor could have shed tears.", "hypothesis": "The man had not hit the ball with the bat before.", "label": "contradiction"}
+{"premise": "If the kid had read the letter again, the dancer could have let the blinds down.", "hypothesis": "The kid had not read the letter before.", "label": "contradiction"}
+{"premise": "If the boy had slit the envelope again, the woman would have hurt others.", "hypothesis": "The boy had not slit the envelope before.", "label": "contradiction"}
+{"premise": "If the assistant had burst into the room again, the athlete would have set the dish on the table.", "hypothesis": "The assistant had not burst into the room before.", "label": "contradiction"}
+{"premise": "If the assistant had upset the boat again, the worker could have let the blinds down.", "hypothesis": "The assistant had not upset the boat before.", "label": "contradiction"}
+{"premise": "If the girl had hit the ball with the bat again, the boy could have slit the envelope.", "hypothesis": "The girl had not hit the ball with the bat before.", "label": "contradiction"}
+{"premise": "If the stranger had slit the envelope again, the professor could have put the book on the shelf.", "hypothesis": "The stranger had not slit the envelope before.", "label": "contradiction"}
+{"premise": "If the boy had bet $100 on the race again, the singer could have cast bronze into a statue.", "hypothesis": "The boy had not bet $100 on the race before.", "label": "contradiction"}
+{"premise": "If the director had upset the boat again, the kid could have read the letter.", "hypothesis": "The director had not upset the boat before.", "label": "contradiction"}
+{"premise": "If the manager had set the dish on the table again, the singer could have bet $100 on the race.", "hypothesis": "The manager had not set the dish on the table before.", "label": "contradiction"}
+{"premise": "If the singer had let the blinds down again, the teacher would have set the dish on the table.", "hypothesis": "The singer had not let the blinds down before.", "label": "contradiction"}
+{"premise": "If the student had shut the door again, the manager could have cast bronze into a statue.", "hypothesis": "The student had not shut the door before.", "label": "contradiction"}
+{"premise": "If the child had burst into the room again, the worker could have slit the envelope.", "hypothesis": "The child had not burst into the room before.", "label": "contradiction"}
+{"premise": "If the girl had read the letter again, the boy could have burst into the room.", "hypothesis": "The girl had not read the letter before.", "label": "contradiction"}
+{"premise": "If the woman had spread the rumor again, the student could have set the dish on the table.", "hypothesis": "The woman had not spread the rumor before.", "label": "contradiction"}
+{"premise": "If the boy had split the log again, the kid would have shut the door.", "hypothesis": "The boy had not split the log before.", "label": "contradiction"}
+{"premise": "If the man had thrust the fork into the cake again, the child could have bet $100 on the race.", "hypothesis": "The man had not thrust the fork into the cake before.", "label": "contradiction"}
+{"premise": "If the man had bet $100 on the race again, the professor could have thrust the fork into the cake.", "hypothesis": "The man had not bet $100 on the race before.", "label": "contradiction"}
+{"premise": "If the singer had cast bronze into a statue again, the athlete would have put the book on the shelf.", "hypothesis": "The singer had not cast bronze into a statue before.", "label": "contradiction"}
+{"premise": "If the singer had shut the door again, the dancer would have let the blinds down.", "hypothesis": "The singer had not shut the door before.", "label": "contradiction"}
+{"premise": "If the professor had set the dish on the table again, the singer could have upset the boat.", "hypothesis": "The professor had not set the dish on the table before.", "label": "contradiction"}
+{"premise": "If the professor had set the dish on the table again, the doctor would have cast bronze into a statue.", "hypothesis": "The professor had not set the dish on the table before.", "label": "contradiction"}
+{"premise": "If the assistant had let the blinds down again, the child would have spread the rumor.", "hypothesis": "The assistant had not let the blinds down before.", "label": "contradiction"}
+{"premise": "If the worker had hit the ball with the bat again, the stranger would have bet $100 on the race.", "hypothesis": "The worker had not hit the ball with the bat before.", "label": "contradiction"}
+{"premise": "If the child had let the blinds down again, the dancer could have thrust the fork into the cake.", "hypothesis": "The child had not let the blinds down before.", "label": "contradiction"}
+{"premise": "If the singer had burst into the room again, the assistant would have bet $100 on the race.", "hypothesis": "The singer had not burst into the room before.", "label": "contradiction"}
+{"premise": "If the kid had slit the envelope again, the director could have put the book on the shelf.", "hypothesis": "The kid had not slit the envelope before.", "label": "contradiction"}
+{"premise": "If the singer had thrust the fork into the cake again, the athlete would have upset the boat.", "hypothesis": "The singer had not thrust the fork into the cake before.", "label": "contradiction"}
+{"premise": "If the athlete had shut the door again, the kid could have slit the envelope.", "hypothesis": "The athlete had not shut the door before.", "label": "contradiction"}
+{"premise": "If the teacher had slit the envelope again, the manager would have thrust the fork into the cake.", "hypothesis": "The teacher had not slit the envelope before.", "label": "contradiction"}
+{"premise": "If the teacher had hit the ball with the bat again, the boy would have read the letter.", "hypothesis": "The teacher had not hit the ball with the bat before.", "label": "contradiction"}
+{"premise": "If the worker had let the blinds down again, the dancer could have put the book on the shelf.", "hypothesis": "The worker had not let the blinds down before.", "label": "contradiction"}
+{"premise": "If the kid had shut the door again, the dancer would have let the blinds down.", "hypothesis": "The kid had not shut the door before.", "label": "contradiction"}
+{"premise": "If the dancer had shed tears again, the manager could have let the blinds down.", "hypothesis": "The dancer had not shed tears before.", "label": "contradiction"}
+{"premise": "If the worker had bet $100 on the race again, the dancer could have let the blinds down.", "hypothesis": "The worker had not bet $100 on the race before.", "label": "contradiction"}
+{"premise": "If the doctor had put the book on the shelf again, the worker would have split the log.", "hypothesis": "The doctor had not put the book on the shelf before.", "label": "contradiction"}
+{"premise": "If the kid had burst into the room again, the girl could have cast bronze into a statue.", "hypothesis": "The kid had not burst into the room before.", "label": "contradiction"}
+{"premise": "If the woman had shed tears again, the man would have thrust the fork into the cake.", "hypothesis": "The woman had not shed tears before.", "label": "contradiction"}
+{"premise": "If the worker had split the log again, the kid could have thrust the fork into the cake.", "hypothesis": "The worker had not split the log before.", "label": "contradiction"}
+{"premise": "If the kid had thrust the fork into the cake again, the athlete could have hit the ball with the bat.", "hypothesis": "The kid had not thrust the fork into the cake before.", "label": "contradiction"}
+{"premise": "If the boy had set the dish on the table again, the woman could have spread the rumor.", "hypothesis": "The boy had not set the dish on the table before.", "label": "contradiction"}
+{"premise": "If the director had bet $100 on the race again, the dancer could have let the blinds down.", "hypothesis": "The director had not bet $100 on the race before.", "label": "contradiction"}
+{"premise": "If the director had slit the envelope again, the athlete could have upset the boat.", "hypothesis": "The director had not slit the envelope before.", "label": "contradiction"}
+{"premise": "If the athlete had slit the envelope again, the teacher would have split the log.", "hypothesis": "The athlete had not slit the envelope before.", "label": "contradiction"}
+{"premise": "If the doctor had bet $100 on the race again, the dancer could have set the dish on the table.", "hypothesis": "The doctor had not bet $100 on the race before.", "label": "contradiction"}
+{"premise": "If the kid had burst into the room again, the stranger would have shed tears.", "hypothesis": "The kid had not burst into the room before.", "label": "contradiction"}
+{"premise": "If the kid had spread the rumor again, the assistant could have set the dish on the table.", "hypothesis": "The kid had not spread the rumor before.", "label": "contradiction"}
+{"premise": "If the singer had thrust the fork into the cake again, the worker would have spread the rumor.", "hypothesis": "The singer had not thrust the fork into the cake before.", "label": "contradiction"}
+{"premise": "If the doctor had thrust the fork into the cake again, the singer would have slit the envelope.", "hypothesis": "The doctor had not thrust the fork into the cake before.", "label": "contradiction"}
+{"premise": "If the student had bet $100 on the race again, the woman would have cast bronze into a statue.", "hypothesis": "The student had not bet $100 on the race before.", "label": "contradiction"}
+{"premise": "If the manager had slit the envelope again, the child could have upset the boat.", "hypothesis": "The manager had not slit the envelope before.", "label": "contradiction"}
+{"premise": "If the girl had slit the envelope again, the director would have put the book on the shelf.", "hypothesis": "The girl had not slit the envelope before.", "label": "contradiction"}
+{"premise": "If the stranger had thrust the fork into the cake again, the dancer could have read the letter.", "hypothesis": "The stranger had not thrust the fork into the cake before.", "label": "contradiction"}
+{"premise": "If the girl had let the blinds down again, the worker could have read the letter.", "hypothesis": "The girl had not let the blinds down before.", "label": "contradiction"}
+{"premise": "If the director had let the blinds down again, the assistant could have spread the rumor.", "hypothesis": "The director had not let the blinds down before.", "label": "contradiction"}
+{"premise": "If the professor had bet $100 on the race again, the kid would have split the log.", "hypothesis": "The professor had not bet $100 on the race before.", "label": "contradiction"}
+{"premise": "If the assistant had bet $100 on the race again, the professor would have put the book on the shelf.", "hypothesis": "The assistant had not bet $100 on the race before.", "label": "contradiction"}
+{"premise": "If the singer had set the dish on the table again, the boy would have hurt others.", "hypothesis": "The singer had not set the dish on the table before.", "label": "contradiction"}
+{"premise": "If the singer had upset the boat again, the kid would have set the dish on the table.", "hypothesis": "The singer had not upset the boat before.", "label": "contradiction"}
+{"premise": "If the teacher had shut the door again, the singer could have slit the envelope.", "hypothesis": "The teacher had not shut the door before.", "label": "contradiction"}
+{"premise": "If the stranger had put the book on the shelf again, the director would have slit the envelope.", "hypothesis": "The stranger had not put the book on the shelf before.", "label": "contradiction"}
+{"premise": "If the stranger had let the blinds down again, the student could have cast bronze into a statue.", "hypothesis": "The stranger had not let the blinds down before.", "label": "contradiction"}
+{"premise": "If the kid had spread the rumor again, the singer would have shed tears.", "hypothesis": "The kid had not spread the rumor before.", "label": "contradiction"}
+{"premise": "If the manager had shed tears again, the professor would have upset the boat.", "hypothesis": "The manager had not shed tears before.", "label": "contradiction"}
+{"premise": "If the woman had let the blinds down again, the child would have set the dish on the table.", "hypothesis": "The woman had not let the blinds down before.", "label": "contradiction"}
+{"premise": "If the student had put the book on the shelf again, the girl would have burst into the room.", "hypothesis": "The student had not put the book on the shelf before.", "label": "contradiction"}
+{"premise": "If the girl had burst into the room again, the athlete could have spread the rumor.", "hypothesis": "The girl had not burst into the room before.", "label": "contradiction"}
+{"premise": "If the teacher had let the blinds down again, the boy could have cast bronze into a statue.", "hypothesis": "The teacher had not let the blinds down before.", "label": "contradiction"}
+{"premise": "If the child had hurt others again, the worker could have set the dish on the table.", "hypothesis": "The child had not hurt others before.", "label": "contradiction"}
+{"premise": "If the doctor had shed tears again, the teacher could have burst into the room.", "hypothesis": "The doctor had not shed tears before.", "label": "contradiction"}
+{"premise": "If the dancer had slit the envelope again, the woman would have thrust the fork into the cake.", "hypothesis": "The dancer had not slit the envelope before.", "label": "contradiction"}
+{"premise": "If the doctor had thrust the fork into the cake again, the kid would have let the blinds down.", "hypothesis": "The doctor had not thrust the fork into the cake before.", "label": "contradiction"}
+{"premise": "If the man had hurt others again, the boy would have spread the rumor.", "hypothesis": "The man had not hurt others before.", "label": "contradiction"}
+{"premise": "If the kid had spread the rumor again, the woman would have cast bronze into a statue.", "hypothesis": "The kid had not spread the rumor before.", "label": "contradiction"}
+{"premise": "If the manager had split the log again, the boy could have bet $100 on the race.", "hypothesis": "The manager had not split the log before.", "label": "contradiction"}
+{"premise": "If the athlete had set the dish on the table again, the manager would have split the log.", "hypothesis": "The athlete had not set the dish on the table before.", "label": "contradiction"}
+{"premise": "If the man had hit the ball with the bat again, the girl could have thrust the fork into the cake.", "hypothesis": "The man had not hit the ball with the bat before.", "label": "contradiction"}
+{"premise": "If the professor had hit the ball with the bat again, the assistant could have hurt others.", "hypothesis": "The professor had not hit the ball with the bat before.", "label": "contradiction"}
+{"premise": "If the assistant had shut the door again, the athlete could have shed tears.", "hypothesis": "The assistant had not shut the door before.", "label": "contradiction"}
+{"premise": "If the girl had hit the ball with the bat again, the man could have hurt others.", "hypothesis": "The girl had not hit the ball with the bat before.", "label": "contradiction"}
+{"premise": "If the dancer had hurt others again, the athlete would have split the log.", "hypothesis": "The dancer had not hurt others before.", "label": "contradiction"}
+{"premise": "If the kid had bet $100 on the race again, the assistant would have let the blinds down.", "hypothesis": "The kid had not bet $100 on the race before.", "label": "contradiction"}
+{"premise": "If the stranger had split the log again, the man could have thrust the fork into the cake.", "hypothesis": "The stranger had not split the log before.", "label": "contradiction"}
+{"premise": "If the girl had spread the rumor again, the child could have shut the door.", "hypothesis": "The girl had not spread the rumor before.", "label": "contradiction"}
+{"premise": "If the director had read the letter again, the athlete would have thrust the fork into the cake.", "hypothesis": "The director had not read the letter before.", "label": "contradiction"}
+{"premise": "If the professor had hit the ball with the bat again, the singer would have bet $100 on the race.", "hypothesis": "The professor had not hit the ball with the bat before.", "label": "contradiction"}
+{"premise": "If the assistant had let the blinds down again, the director would have hit the ball with the bat.", "hypothesis": "The assistant had not let the blinds down before.", "label": "contradiction"}
+{"premise": "If the singer had put the book on the shelf again, the director would have let the blinds down.", "hypothesis": "The singer had not put the book on the shelf before.", "label": "contradiction"}
+{"premise": "If the assistant had read the letter again, the professor would have thrust the fork into the cake.", "hypothesis": "The assistant had not read the letter before.", "label": "contradiction"}
+{"premise": "If the teacher had read the letter again, the dancer could have hurt others.", "hypothesis": "The teacher had not read the letter before.", "label": "contradiction"}
+{"premise": "If the dancer had shut the door again, the stranger would have put the book on the shelf.", "hypothesis": "The dancer had not shut the door before.", "label": "contradiction"}

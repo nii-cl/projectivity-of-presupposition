@@ -1,0 +1,201 @@
+	sentence1	sentence2	label	heuristics	example1	example2	split
+1200	Jason found the student, who shut the door.	 The student shut the door.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1201	Kyle respected the singer, who thrust the fork into the cake.	 The singer thrust the fork into the cake.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1202	Kyle loved the doctor, who cast bronze into a statue.	 The doctor cast bronze into a statue.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1203	Kyle deceived the manager, who hit the ball with the bat.	 The manager hit the ball with the bat.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1204	Kyle chased the professor, who split the log.	 The professor split the log.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1205	Kyle beat the man, who split the log.	 The man split the log.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1206	Katy respected the doctor, who split the log.	 The doctor split the log.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	test
+1207	Jim kicked the child, who hurt others.	 The child hurt others.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1208	Katy loved the student, who shed tears.	 The student shed tears.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1209	Ben saw the doctor, who shed tears.	 The doctor shed tears.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1210	Jenny found the stranger, who put the book on the shelf.	 The stranger put the book on the shelf.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1211	Tom met the director, who shed tears.	 The director shed tears.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1212	Steven found the athlete, who hurt others.	 The athlete hurt others.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1213	Jenny deceived the manager, who thrust the fork into the cake.	 The manager thrust the fork into the cake.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	test
+1214	Jim kicked the child, who thrust the fork into the cake.	 The child thrust the fork into the cake.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1215	John comforted the teacher, who put the book on the shelf.	 The teacher put the book on the shelf.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1216	Steven saw the dancer, who thrust the fork into the cake.	 The dancer thrust the fork into the cake.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1217	Jack saw the professor, who let the blinds down.	 The professor let the blinds down.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1218	Bob chased the director, who hit the ball with the bat.	 The director hit the ball with the bat.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1219	Steven chased the singer, who read the letter.	 The singer read the letter.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1220	Jack avoided the singer, who slit the envelope.	 The singer slit the envelope.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1221	Ben kicked the doctor, who spread the rumor.	 The doctor spread the rumor.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1222	Kyle kicked the boy, who shut the door.	 The boy shut the door.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1223	Jason avoided the girl, who split the log.	 The girl split the log.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1224	Jack avoided the child, who cast bronze into a statue.	 The child cast bronze into a statue.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1225	Katy kicked the singer, who shut the door.	 The singer shut the door.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1226	Bob kicked the dancer, who spread the rumor.	 The dancer spread the rumor.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1227	Mary loved the director, who spread the rumor.	 The director spread the rumor.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1228	Mary avoided the worker, who thrust the fork into the cake.	 The worker thrust the fork into the cake.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1229	Steven saw the teacher, who read the letter.	 The teacher read the letter.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1230	Mary loved the dancer, who upset the boat.	 The dancer upset the boat.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1231	Steven loved the boy, who set the dish on the table.	 The boy set the dish on the table.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	test
+1232	John chased the athlete, who hit the ball with the bat.	 The athlete hit the ball with the bat.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1233	Katy found the director, who spread the rumor.	 The director spread the rumor.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1234	Tom deceived the girl, who slit the envelope.	 The girl slit the envelope.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1235	Tom beat the athlete, who spread the rumor.	 The athlete spread the rumor.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1236	Mary beat the girl, who shed tears.	 The girl shed tears.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1237	Steven beat the professor, who hit the ball with the bat.	 The professor hit the ball with the bat.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1238	Mary avoided the girl, who shut the door.	 The girl shut the door.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1239	Tom kicked the man, who burst into the room.	 The man burst into the room.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1240	Kyle respected the professor, who bet $100 on the race.	 The professor bet $100 on the race.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1241	Kyle found the manager, who shut the door.	 The manager shut the door.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1242	Katy beat the doctor, who shed tears.	 The doctor shed tears.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1243	Bob beat the student, who shut the door.	 The student shut the door.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1244	Bob kicked the student, who hit the ball with the bat.	 The student hit the ball with the bat.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1245	Jack found the manager, who put the book on the shelf.	 The manager put the book on the shelf.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1246	Katy found the woman, who hurt others.	 The woman hurt others.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1247	Tom met the doctor, who split the log.	 The doctor split the log.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1248	Bob saw the professor, who thrust the fork into the cake.	 The professor thrust the fork into the cake.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1249	Katy found the dancer, who hurt others.	 The dancer hurt others.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1250	Steven beat the girl, who let the blinds down.	 The girl let the blinds down.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1251	John loved the girl, who shut the door.	 The girl shut the door.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	test
+1252	Steven respected the athlete, who spread the rumor.	 The athlete spread the rumor.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1253	Bob found the assistant, who bet $100 on the race.	 The assistant bet $100 on the race.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1254	Mary saw the director, who hurt others.	 The director hurt others.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1255	Steven chased the student, who let the blinds down.	 The student let the blinds down.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1256	Kyle saw the director, who put the book on the shelf.	 The director put the book on the shelf.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1257	Jenny kicked the assistant, who hurt others.	 The assistant hurt others.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1258	Steven loved the worker, who cast bronze into a statue.	 The worker cast bronze into a statue.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1259	Ben chased the manager, who burst into the room.	 The manager burst into the room.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1260	Kyle respected the child, who upset the boat.	 The child upset the boat.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1261	Mary loved the doctor, who shed tears.	 The doctor shed tears.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1262	Kyle respected the kid, who put the book on the shelf.	 The kid put the book on the shelf.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1263	Tom beat the assistant, who split the log.	 The assistant split the log.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1264	Jenny kicked the athlete, who shut the door.	 The athlete shut the door.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1265	Katy met the man, who spread the rumor.	 The man spread the rumor.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1266	Jenny chased the singer, who shut the door.	 The singer shut the door.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1267	Mary loved the child, who burst into the room.	 The child burst into the room.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1268	Jack chased the worker, who split the log.	 The worker split the log.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1269	Steven found the dancer, who burst into the room.	 The dancer burst into the room.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1270	John chased the assistant, who put the book on the shelf.	 The assistant put the book on the shelf.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1271	Jack found the stranger, who upset the boat.	 The stranger upset the boat.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1272	Jim chased the doctor, who shut the door.	 The doctor shut the door.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	test
+1273	Steven chased the doctor, who burst into the room.	 The doctor burst into the room.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1274	Ben respected the singer, who spread the rumor.	 The singer spread the rumor.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1275	Kyle loved the worker, who shed tears.	 The worker shed tears.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1276	Jack saw the woman, who hurt others.	 The woman hurt others.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1277	Steven kicked the director, who shed tears.	 The director shed tears.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1278	Jenny kicked the assistant, who bet $100 on the race.	 The assistant bet $100 on the race.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1279	Jack comforted the assistant, who spread the rumor.	 The assistant spread the rumor.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1280	John avoided the manager, who hit the ball with the bat.	 The manager hit the ball with the bat.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1281	Jack loved the worker, who hit the ball with the bat.	 The worker hit the ball with the bat.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1282	Jim avoided the kid, who bet $100 on the race.	 The kid bet $100 on the race.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1283	Steven kicked the worker, who hit the ball with the bat.	 The worker hit the ball with the bat.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1284	Tom respected the kid, who upset the boat.	 The kid upset the boat.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1285	Bob beat the teacher, who put the book on the shelf.	 The teacher put the book on the shelf.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1286	Steven met the child, who read the letter.	 The child read the letter.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1287	Jack respected the kid, who hurt others.	 The kid hurt others.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1288	John avoided the child, who split the log.	 The child split the log.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1289	Steven comforted the professor, who shed tears.	 The professor shed tears.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1290	John chased the athlete, who set the dish on the table.	 The athlete set the dish on the table.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1291	Tom comforted the dancer, who cast bronze into a statue.	 The dancer cast bronze into a statue.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1292	John met the professor, who split the log.	 The professor split the log.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1293	Tom chased the stranger, who shed tears.	 The stranger shed tears.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1294	John chased the boy, who shed tears.	 The boy shed tears.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1295	Ben loved the athlete, who put the book on the shelf.	 The athlete put the book on the shelf.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1296	John comforted the assistant, who shut the door.	 The assistant shut the door.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1297	Tom beat the dancer, who bet $100 on the race.	 The dancer bet $100 on the race.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1298	Steven saw the teacher, who upset the boat.	 The teacher upset the boat.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1299	Ben kicked the singer, who cast bronze into a statue.	 The singer cast bronze into a statue.	entailment	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1300	Jason comforted the woman, who split the log.	 The woman did not split the log.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1301	Jack kicked the athlete, who burst into the room.	 The athlete did not burst into the room.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1302	Jack found the doctor, who spread the rumor.	 The doctor did not spread the rumor.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1303	Bob beat the woman, who put the book on the shelf.	 The woman did not put the book on the shelf.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1304	Bob kicked the stranger, who shut the door.	 The stranger did not shut the door.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1305	Tom found the kid, who spread the rumor.	 The kid did not spread the rumor.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1306	Tom respected the athlete, who split the log.	 The athlete did not split the log.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1307	Katy found the dancer, who cast bronze into a statue.	 The dancer did not cast bronze into a statue.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1308	Katy chased the assistant, who burst into the room.	 The assistant did not burst into the room.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1309	Jim comforted the professor, who set the dish on the table.	 The professor did not set the dish on the table.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1310	Jack found the child, who burst into the room.	 The child did not burst into the room.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1311	Bob deceived the boy, who bet $100 on the race.	 The boy did not bet $100 on the race.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1312	Katy kicked the worker, who cast bronze into a statue.	 The worker did not cast bronze into a statue.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1313	Jason chased the doctor, who burst into the room.	 The doctor did not burst into the room.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1314	Kyle saw the child, who thrust the fork into the cake.	 The child did not thrust the fork into the cake.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1315	Steven comforted the girl, who thrust the fork into the cake.	 The girl did not thrust the fork into the cake.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1316	Ben loved the boy, who read the letter.	 The boy did not read the letter.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	test
+1317	Bob found the woman, who hit the ball with the bat.	 The woman did not hit the ball with the bat.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1318	Katy met the doctor, who spread the rumor.	 The doctor did not spread the rumor.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1319	Jim chased the stranger, who cast bronze into a statue.	 The stranger did not cast bronze into a statue.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1320	Jason chased the man, who shed tears.	 The man did not shed tears.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1321	Steven respected the director, who hurt others.	 The director did not hurt others.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1322	Ben kicked the child, who shut the door.	 The child did not shut the door.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1323	Katy respected the director, who cast bronze into a statue.	 The director did not cast bronze into a statue.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1324	Kyle found the stranger, who slit the envelope.	 The stranger did not slit the envelope.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1325	John avoided the kid, who slit the envelope.	 The kid did not slit the envelope.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1326	Steven comforted the doctor, who bet $100 on the race.	 The doctor did not bet $100 on the race.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1327	Kyle saw the boy, who bet $100 on the race.	 The boy did not bet $100 on the race.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1328	Tom respected the professor, who shed tears.	 The professor did not shed tears.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1329	Jim beat the assistant, who spread the rumor.	 The assistant did not spread the rumor.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1330	Jason deceived the stranger, who bet $100 on the race.	 The stranger did not bet $100 on the race.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1331	Kyle comforted the professor, who split the log.	 The professor did not split the log.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1332	Jason loved the teacher, who slit the envelope.	 The teacher did not slit the envelope.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1333	Tom found the child, who let the blinds down.	 The child did not let the blinds down.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1334	Kyle met the worker, who shut the door.	 The worker did not shut the door.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1335	John beat the professor, who set the dish on the table.	 The professor did not set the dish on the table.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1336	Steven met the woman, who split the log.	 The woman did not split the log.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	test
+1337	Mary deceived the boy, who upset the boat.	 The boy did not upset the boat.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1338	Jim met the assistant, who cast bronze into a statue.	 The assistant did not cast bronze into a statue.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1339	Jim deceived the student, who put the book on the shelf.	 The student did not put the book on the shelf.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1340	Tom deceived the assistant, who shut the door.	 The assistant did not shut the door.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1341	Jim chased the girl, who burst into the room.	 The girl did not burst into the room.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1342	Bob loved the doctor, who shut the door.	 The doctor did not shut the door.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1343	Bob respected the singer, who bet $100 on the race.	 The singer did not bet $100 on the race.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1344	Mary avoided the doctor, who let the blinds down.	 The doctor did not let the blinds down.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1345	Mary chased the girl, who slit the envelope.	 The girl did not slit the envelope.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1346	Katy beat the girl, who set the dish on the table.	 The girl did not set the dish on the table.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1347	Katy loved the girl, who split the log.	 The girl did not split the log.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1348	Katy beat the athlete, who shut the door.	 The athlete did not shut the door.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1349	Kyle deceived the professor, who hurt others.	 The professor did not hurt others.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1350	Jason met the child, who bet $100 on the race.	 The child did not bet $100 on the race.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1351	Mary respected the dancer, who burst into the room.	 The dancer did not burst into the room.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	test
+1352	Steven kicked the dancer, who let the blinds down.	 The dancer did not let the blinds down.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1353	Jenny loved the student, who hurt others.	 The student did not hurt others.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1354	Bob found the boy, who cast bronze into a statue.	 The boy did not cast bronze into a statue.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	test
+1355	Ben loved the assistant, who thrust the fork into the cake.	 The assistant did not thrust the fork into the cake.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1356	John kicked the man, who split the log.	 The man did not split the log.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1357	Steven found the teacher, who let the blinds down.	 The teacher did not let the blinds down.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1358	Steven comforted the dancer, who upset the boat.	 The dancer did not upset the boat.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1359	Bob comforted the kid, who cast bronze into a statue.	 The kid did not cast bronze into a statue.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1360	Jim comforted the child, who read the letter.	 The child did not read the letter.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	test
+1361	Jim met the doctor, who hit the ball with the bat.	 The doctor did not hit the ball with the bat.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1362	Jenny deceived the director, who hurt others.	 The director did not hurt others.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1363	Ben avoided the assistant, who put the book on the shelf.	 The assistant did not put the book on the shelf.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1364	Jason beat the assistant, who shut the door.	 The assistant did not shut the door.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1365	Kyle kicked the professor, who hurt others.	 The professor did not hurt others.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1366	Ben beat the student, who upset the boat.	 The student did not upset the boat.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1367	Jenny respected the worker, who slit the envelope.	 The worker did not slit the envelope.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1368	Jack comforted the assistant, who hit the ball with the bat.	 The assistant did not hit the ball with the bat.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1369	Steven deceived the singer, who let the blinds down.	 The singer did not let the blinds down.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1370	Tom chased the boy, who burst into the room.	 The boy did not burst into the room.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1371	Kyle loved the director, who split the log.	 The director did not split the log.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1372	Steven respected the professor, who split the log.	 The professor did not split the log.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1373	Mary beat the singer, who burst into the room.	 The singer did not burst into the room.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1374	Mary deceived the dancer, who shed tears.	 The dancer did not shed tears.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1375	Ben found the man, who hurt others.	 The man did not hurt others.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1376	Bob respected the girl, who bet $100 on the race.	 The girl did not bet $100 on the race.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1377	Jack beat the doctor, who hit the ball with the bat.	 The doctor did not hit the ball with the bat.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1378	Kyle kicked the man, who let the blinds down.	 The man did not let the blinds down.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1379	Katy comforted the dancer, who let the blinds down.	 The dancer did not let the blinds down.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1380	Bob found the doctor, who upset the boat.	 The doctor did not upset the boat.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1381	Jim found the director, who set the dish on the table.	 The director did not set the dish on the table.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1382	John beat the worker, who thrust the fork into the cake.	 The worker did not thrust the fork into the cake.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1383	Ben kicked the stranger, who hit the ball with the bat.	 The stranger did not hit the ball with the bat.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1384	Kyle comforted the kid, who read the letter.	 The kid did not read the letter.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1385	Ben beat the worker, who set the dish on the table.	 The worker did not set the dish on the table.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1386	Katy found the student, who read the letter.	 The student did not read the letter.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1387	Ben saw the student, who cast bronze into a statue.	 The student did not cast bronze into a statue.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1388	Jenny comforted the student, who cast bronze into a statue.	 The student did not cast bronze into a statue.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1389	Jim chased the woman, who shut the door.	 The woman did not shut the door.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1390	Mary comforted the stranger, who hurt others.	 The stranger did not hurt others.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1391	Jason met the singer, who put the book on the shelf.	 The singer did not put the book on the shelf.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1392	Kyle found the doctor, who bet $100 on the race.	 The doctor did not bet $100 on the race.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1393	Kyle comforted the teacher, who split the log.	 The teacher did not split the log.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1394	Jim avoided the stranger, who upset the boat.	 The stranger did not upset the boat.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1395	Jim comforted the dancer, who bet $100 on the race.	 The dancer did not bet $100 on the race.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1396	John saw the girl, who shed tears.	 The girl did not shed tears.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1397	Jenny chased the man, who slit the envelope.	 The man did not slit the envelope.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1398	Kyle deceived the teacher, who read the letter.	 The teacher did not read the letter.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train
+1399	Tom loved the student, who put the book on the shelf.	 The student did not put the book on the shelf.	contradiction	 -	 The doctor comma who cut the tree comma burst into the room.	 The doctor cut the tree.	train

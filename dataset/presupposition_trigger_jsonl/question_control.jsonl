@@ -1,0 +1,1200 @@
+{"premise": "Did the child read the letter again?", "hypothesis": "The child read the letter again.", "label": "neutral"}
+{"premise": "Did the child shut the door again?", "hypothesis": "The child shut the door again.", "label": "neutral"}
+{"premise": "Did the athlete let the blinds down again?", "hypothesis": "The athlete let the blinds down again.", "label": "neutral"}
+{"premise": "Did the director hit the ball with the bat again?", "hypothesis": "The director hit the ball with the bat again.", "label": "neutral"}
+{"premise": "Did the assistant upset the boat again?", "hypothesis": "The assistant upset the boat again.", "label": "neutral"}
+{"premise": "Did the athlete hurt others again?", "hypothesis": "The athlete hurt others again.", "label": "neutral"}
+{"premise": "Did the director cast bronze into a statue again?", "hypothesis": "The director cast bronze into a statue again.", "label": "neutral"}
+{"premise": "Did the student read the letter again?", "hypothesis": "The student read the letter again.", "label": "neutral"}
+{"premise": "Did the child spread the rumor again?", "hypothesis": "The child spread the rumor again.", "label": "neutral"}
+{"premise": "Did the dancer bet $100 on the race again?", "hypothesis": "The dancer bet $100 on the race again.", "label": "neutral"}
+{"premise": "Did the teacher put the book on the shelf again?", "hypothesis": "The teacher put the book on the shelf again.", "label": "neutral"}
+{"premise": "Did the athlete burst into the room again?", "hypothesis": "The athlete burst into the room again.", "label": "neutral"}
+{"premise": "Did the man read the letter again?", "hypothesis": "The man read the letter again.", "label": "neutral"}
+{"premise": "Did the boy slit the envelope again?", "hypothesis": "The boy slit the envelope again.", "label": "neutral"}
+{"premise": "Did the professor split the log again?", "hypothesis": "The professor split the log again.", "label": "neutral"}
+{"premise": "Did the man spread the rumor again?", "hypothesis": "The man spread the rumor again.", "label": "neutral"}
+{"premise": "Did the man bet $100 on the race again?", "hypothesis": "The man bet $100 on the race again.", "label": "neutral"}
+{"premise": "Did the dancer hit the ball with the bat again?", "hypothesis": "The dancer hit the ball with the bat again.", "label": "neutral"}
+{"premise": "Did the professor let the blinds down again?", "hypothesis": "The professor let the blinds down again.", "label": "neutral"}
+{"premise": "Did the professor read the letter again?", "hypothesis": "The professor read the letter again.", "label": "neutral"}
+{"premise": "Did the dancer read the letter again?", "hypothesis": "The dancer read the letter again.", "label": "neutral"}
+{"premise": "Did the girl read the letter again?", "hypothesis": "The girl read the letter again.", "label": "neutral"}
+{"premise": "Did the professor put the book on the shelf again?", "hypothesis": "The professor put the book on the shelf again.", "label": "neutral"}
+{"premise": "Did the dancer put the book on the shelf again?", "hypothesis": "The dancer put the book on the shelf again.", "label": "neutral"}
+{"premise": "Did the woman thrust the fork into the cake again?", "hypothesis": "The woman thrust the fork into the cake again.", "label": "neutral"}
+{"premise": "Did the manager read the letter again?", "hypothesis": "The manager read the letter again.", "label": "neutral"}
+{"premise": "Did the man upset the boat again?", "hypothesis": "The man upset the boat again.", "label": "neutral"}
+{"premise": "Did the manager hurt others again?", "hypothesis": "The manager hurt others again.", "label": "neutral"}
+{"premise": "Did the worker put the book on the shelf again?", "hypothesis": "The worker put the book on the shelf again.", "label": "neutral"}
+{"premise": "Did the singer burst into the room again?", "hypothesis": "The singer burst into the room again.", "label": "neutral"}
+{"premise": "Did the singer upset the boat again?", "hypothesis": "The singer upset the boat again.", "label": "neutral"}
+{"premise": "Did the worker hit the ball with the bat again?", "hypothesis": "The worker hit the ball with the bat again.", "label": "neutral"}
+{"premise": "Did the athlete thrust the fork into the cake again?", "hypothesis": "The athlete thrust the fork into the cake again.", "label": "neutral"}
+{"premise": "Did the professor slit the envelope again?", "hypothesis": "The professor slit the envelope again.", "label": "neutral"}
+{"premise": "Did the kid upset the boat again?", "hypothesis": "The kid upset the boat again.", "label": "neutral"}
+{"premise": "Did the teacher thrust the fork into the cake again?", "hypothesis": "The teacher thrust the fork into the cake again.", "label": "neutral"}
+{"premise": "Did the girl spread the rumor again?", "hypothesis": "The girl spread the rumor again.", "label": "neutral"}
+{"premise": "Did the doctor bet $100 on the race again?", "hypothesis": "The doctor bet $100 on the race again.", "label": "neutral"}
+{"premise": "Did the manager hit the ball with the bat again?", "hypothesis": "The manager hit the ball with the bat again.", "label": "neutral"}
+{"premise": "Did the dancer let the blinds down again?", "hypothesis": "The dancer let the blinds down again.", "label": "neutral"}
+{"premise": "Did the professor shut the door again?", "hypothesis": "The professor shut the door again.", "label": "neutral"}
+{"premise": "Did the worker burst into the room again?", "hypothesis": "The worker burst into the room again.", "label": "neutral"}
+{"premise": "Did the director shed tears again?", "hypothesis": "The director shed tears again.", "label": "neutral"}
+{"premise": "Did the teacher set the dish on the table again?", "hypothesis": "The teacher set the dish on the table again.", "label": "neutral"}
+{"premise": "Did the stranger split the log again?", "hypothesis": "The stranger split the log again.", "label": "neutral"}
+{"premise": "Did the director spread the rumor again?", "hypothesis": "The director spread the rumor again.", "label": "neutral"}
+{"premise": "Did the doctor let the blinds down again?", "hypothesis": "The doctor let the blinds down again.", "label": "neutral"}
+{"premise": "Did the athlete split the log again?", "hypothesis": "The athlete split the log again.", "label": "neutral"}
+{"premise": "Did the worker bet $100 on the race again?", "hypothesis": "The worker bet $100 on the race again.", "label": "neutral"}
+{"premise": "Did the athlete set the dish on the table again?", "hypothesis": "The athlete set the dish on the table again.", "label": "neutral"}
+{"premise": "Did the singer let the blinds down again?", "hypothesis": "The singer let the blinds down again.", "label": "neutral"}
+{"premise": "Did the child read the letter again?", "hypothesis": "The child read the letter again.", "label": "neutral"}
+{"premise": "Did the kid bet $100 on the race again?", "hypothesis": "The kid bet $100 on the race again.", "label": "neutral"}
+{"premise": "Did the manager spread the rumor again?", "hypothesis": "The manager spread the rumor again.", "label": "neutral"}
+{"premise": "Did the manager shut the door again?", "hypothesis": "The manager shut the door again.", "label": "neutral"}
+{"premise": "Did the professor bet $100 on the race again?", "hypothesis": "The professor bet $100 on the race again.", "label": "neutral"}
+{"premise": "Did the teacher spread the rumor again?", "hypothesis": "The teacher spread the rumor again.", "label": "neutral"}
+{"premise": "Did the athlete hurt others again?", "hypothesis": "The athlete hurt others again.", "label": "neutral"}
+{"premise": "Did the girl hit the ball with the bat again?", "hypothesis": "The girl hit the ball with the bat again.", "label": "neutral"}
+{"premise": "Did the boy bet $100 on the race again?", "hypothesis": "The boy bet $100 on the race again.", "label": "neutral"}
+{"premise": "Did the worker spread the rumor again?", "hypothesis": "The worker spread the rumor again.", "label": "neutral"}
+{"premise": "Did the kid spread the rumor again?", "hypothesis": "The kid spread the rumor again.", "label": "neutral"}
+{"premise": "Did the worker put the book on the shelf again?", "hypothesis": "The worker put the book on the shelf again.", "label": "neutral"}
+{"premise": "Did the assistant shed tears again?", "hypothesis": "The assistant shed tears again.", "label": "neutral"}
+{"premise": "Did the student spread the rumor again?", "hypothesis": "The student spread the rumor again.", "label": "neutral"}
+{"premise": "Did the professor shut the door again?", "hypothesis": "The professor shut the door again.", "label": "neutral"}
+{"premise": "Did the kid bet $100 on the race again?", "hypothesis": "The kid bet $100 on the race again.", "label": "neutral"}
+{"premise": "Did the woman put the book on the shelf again?", "hypothesis": "The woman put the book on the shelf again.", "label": "neutral"}
+{"premise": "Did the stranger spread the rumor again?", "hypothesis": "The stranger spread the rumor again.", "label": "neutral"}
+{"premise": "Did the child put the book on the shelf again?", "hypothesis": "The child put the book on the shelf again.", "label": "neutral"}
+{"premise": "Did the dancer spread the rumor again?", "hypothesis": "The dancer spread the rumor again.", "label": "neutral"}
+{"premise": "Did the professor split the log again?", "hypothesis": "The professor split the log again.", "label": "neutral"}
+{"premise": "Did the boy shed tears again?", "hypothesis": "The boy shed tears again.", "label": "neutral"}
+{"premise": "Did the doctor cast bronze into a statue again?", "hypothesis": "The doctor cast bronze into a statue again.", "label": "neutral"}
+{"premise": "Did the kid split the log again?", "hypothesis": "The kid split the log again.", "label": "neutral"}
+{"premise": "Did the teacher shut the door again?", "hypothesis": "The teacher shut the door again.", "label": "neutral"}
+{"premise": "Did the kid shed tears again?", "hypothesis": "The kid shed tears again.", "label": "neutral"}
+{"premise": "Did the manager let the blinds down again?", "hypothesis": "The manager let the blinds down again.", "label": "neutral"}
+{"premise": "Did the athlete cast bronze into a statue again?", "hypothesis": "The athlete cast bronze into a statue again.", "label": "neutral"}
+{"premise": "Did the assistant cast bronze into a statue again?", "hypothesis": "The assistant cast bronze into a statue again.", "label": "neutral"}
+{"premise": "Did the worker put the book on the shelf again?", "hypothesis": "The worker put the book on the shelf again.", "label": "neutral"}
+{"premise": "Did the dancer shut the door again?", "hypothesis": "The dancer shut the door again.", "label": "neutral"}
+{"premise": "Did the boy shut the door again?", "hypothesis": "The boy shut the door again.", "label": "neutral"}
+{"premise": "Did the kid thrust the fork into the cake again?", "hypothesis": "The kid thrust the fork into the cake again.", "label": "neutral"}
+{"premise": "Did the teacher upset the boat again?", "hypothesis": "The teacher upset the boat again.", "label": "neutral"}
+{"premise": "Did the worker hit the ball with the bat again?", "hypothesis": "The worker hit the ball with the bat again.", "label": "neutral"}
+{"premise": "Did the director let the blinds down again?", "hypothesis": "The director let the blinds down again.", "label": "neutral"}
+{"premise": "Did the dancer hit the ball with the bat again?", "hypothesis": "The dancer hit the ball with the bat again.", "label": "neutral"}
+{"premise": "Did the doctor shed tears again?", "hypothesis": "The doctor shed tears again.", "label": "neutral"}
+{"premise": "Did the kid hurt others again?", "hypothesis": "The kid hurt others again.", "label": "neutral"}
+{"premise": "Did the worker put the book on the shelf again?", "hypothesis": "The worker put the book on the shelf again.", "label": "neutral"}
+{"premise": "Did the kid set the dish on the table again?", "hypothesis": "The kid set the dish on the table again.", "label": "neutral"}
+{"premise": "Did the doctor let the blinds down again?", "hypothesis": "The doctor let the blinds down again.", "label": "neutral"}
+{"premise": "Did the assistant let the blinds down again?", "hypothesis": "The assistant let the blinds down again.", "label": "neutral"}
+{"premise": "Did the worker thrust the fork into the cake again?", "hypothesis": "The worker thrust the fork into the cake again.", "label": "neutral"}
+{"premise": "Did the kid split the log again?", "hypothesis": "The kid split the log again.", "label": "neutral"}
+{"premise": "Did the teacher let the blinds down again?", "hypothesis": "The teacher let the blinds down again.", "label": "neutral"}
+{"premise": "Did the student upset the boat again?", "hypothesis": "The student upset the boat again.", "label": "neutral"}
+{"premise": "Did the manager thrust the fork into the cake again?", "hypothesis": "The manager thrust the fork into the cake again.", "label": "neutral"}
+{"premise": "Did the director set the dish on the table again?", "hypothesis": "The director set the dish on the table again.", "label": "neutral"}
+{"premise": "Did the stranger burst into the room again?", "hypothesis": "The stranger did not burst into the room again.", "label": "neutral"}
+{"premise": "Did the girl thrust the fork into the cake again?", "hypothesis": "The girl did not thrust the fork into the cake again.", "label": "neutral"}
+{"premise": "Did the student shed tears again?", "hypothesis": "The student did not shed tears again.", "label": "neutral"}
+{"premise": "Did the director let the blinds down again?", "hypothesis": "The director did not let the blinds down again.", "label": "neutral"}
+{"premise": "Did the woman thrust the fork into the cake again?", "hypothesis": "The woman did not thrust the fork into the cake again.", "label": "neutral"}
+{"premise": "Did the assistant burst into the room again?", "hypothesis": "The assistant did not burst into the room again.", "label": "neutral"}
+{"premise": "Did the professor shut the door again?", "hypothesis": "The professor did not shut the door again.", "label": "neutral"}
+{"premise": "Did the dancer spread the rumor again?", "hypothesis": "The dancer did not spread the rumor again.", "label": "neutral"}
+{"premise": "Did the athlete shed tears again?", "hypothesis": "The athlete did not shed tears again.", "label": "neutral"}
+{"premise": "Did the teacher set the dish on the table again?", "hypothesis": "The teacher did not set the dish on the table again.", "label": "neutral"}
+{"premise": "Did the woman shed tears again?", "hypothesis": "The woman did not shed tears again.", "label": "neutral"}
+{"premise": "Did the athlete cast bronze into a statue again?", "hypothesis": "The athlete did not cast bronze into a statue again.", "label": "neutral"}
+{"premise": "Did the worker burst into the room again?", "hypothesis": "The worker did not burst into the room again.", "label": "neutral"}
+{"premise": "Did the boy spread the rumor again?", "hypothesis": "The boy did not spread the rumor again.", "label": "neutral"}
+{"premise": "Did the dancer upset the boat again?", "hypothesis": "The dancer did not upset the boat again.", "label": "neutral"}
+{"premise": "Did the boy split the log again?", "hypothesis": "The boy did not split the log again.", "label": "neutral"}
+{"premise": "Did the stranger set the dish on the table again?", "hypothesis": "The stranger did not set the dish on the table again.", "label": "neutral"}
+{"premise": "Did the dancer bet $100 on the race again?", "hypothesis": "The dancer did not bet $100 on the race again.", "label": "neutral"}
+{"premise": "Did the dancer hurt others again?", "hypothesis": "The dancer did not hurt others again.", "label": "neutral"}
+{"premise": "Did the kid slit the envelope again?", "hypothesis": "The kid did not slit the envelope again.", "label": "neutral"}
+{"premise": "Did the child split the log again?", "hypothesis": "The child did not split the log again.", "label": "neutral"}
+{"premise": "Did the director split the log again?", "hypothesis": "The director did not split the log again.", "label": "neutral"}
+{"premise": "Did the woman read the letter again?", "hypothesis": "The woman did not read the letter again.", "label": "neutral"}
+{"premise": "Did the singer set the dish on the table again?", "hypothesis": "The singer did not set the dish on the table again.", "label": "neutral"}
+{"premise": "Did the athlete set the dish on the table again?", "hypothesis": "The athlete did not set the dish on the table again.", "label": "neutral"}
+{"premise": "Did the dancer hurt others again?", "hypothesis": "The dancer did not hurt others again.", "label": "neutral"}
+{"premise": "Did the director let the blinds down again?", "hypothesis": "The director did not let the blinds down again.", "label": "neutral"}
+{"premise": "Did the student shut the door again?", "hypothesis": "The student did not shut the door again.", "label": "neutral"}
+{"premise": "Did the girl shut the door again?", "hypothesis": "The girl did not shut the door again.", "label": "neutral"}
+{"premise": "Did the worker cast bronze into a statue again?", "hypothesis": "The worker did not cast bronze into a statue again.", "label": "neutral"}
+{"premise": "Did the assistant hurt others again?", "hypothesis": "The assistant did not hurt others again.", "label": "neutral"}
+{"premise": "Did the girl hit the ball with the bat again?", "hypothesis": "The girl did not hit the ball with the bat again.", "label": "neutral"}
+{"premise": "Did the girl shut the door again?", "hypothesis": "The girl did not shut the door again.", "label": "neutral"}
+{"premise": "Did the dancer shut the door again?", "hypothesis": "The dancer did not shut the door again.", "label": "neutral"}
+{"premise": "Did the professor let the blinds down again?", "hypothesis": "The professor did not let the blinds down again.", "label": "neutral"}
+{"premise": "Did the director cast bronze into a statue again?", "hypothesis": "The director did not cast bronze into a statue again.", "label": "neutral"}
+{"premise": "Did the athlete upset the boat again?", "hypothesis": "The athlete did not upset the boat again.", "label": "neutral"}
+{"premise": "Did the professor put the book on the shelf again?", "hypothesis": "The professor did not put the book on the shelf again.", "label": "neutral"}
+{"premise": "Did the kid upset the boat again?", "hypothesis": "The kid did not upset the boat again.", "label": "neutral"}
+{"premise": "Did the manager cast bronze into a statue again?", "hypothesis": "The manager did not cast bronze into a statue again.", "label": "neutral"}
+{"premise": "Did the man thrust the fork into the cake again?", "hypothesis": "The man did not thrust the fork into the cake again.", "label": "neutral"}
+{"premise": "Did the assistant slit the envelope again?", "hypothesis": "The assistant did not slit the envelope again.", "label": "neutral"}
+{"premise": "Did the dancer shut the door again?", "hypothesis": "The dancer did not shut the door again.", "label": "neutral"}
+{"premise": "Did the worker read the letter again?", "hypothesis": "The worker did not read the letter again.", "label": "neutral"}
+{"premise": "Did the girl burst into the room again?", "hypothesis": "The girl did not burst into the room again.", "label": "neutral"}
+{"premise": "Did the singer split the log again?", "hypothesis": "The singer did not split the log again.", "label": "neutral"}
+{"premise": "Did the girl set the dish on the table again?", "hypothesis": "The girl did not set the dish on the table again.", "label": "neutral"}
+{"premise": "Did the boy burst into the room again?", "hypothesis": "The boy did not burst into the room again.", "label": "neutral"}
+{"premise": "Did the professor cast bronze into a statue again?", "hypothesis": "The professor did not cast bronze into a statue again.", "label": "neutral"}
+{"premise": "Did the professor read the letter again?", "hypothesis": "The professor did not read the letter again.", "label": "neutral"}
+{"premise": "Did the singer bet $100 on the race again?", "hypothesis": "The singer did not bet $100 on the race again.", "label": "neutral"}
+{"premise": "Did the professor shed tears again?", "hypothesis": "The professor did not shed tears again.", "label": "neutral"}
+{"premise": "Did the kid slit the envelope again?", "hypothesis": "The kid did not slit the envelope again.", "label": "neutral"}
+{"premise": "Did the director upset the boat again?", "hypothesis": "The director did not upset the boat again.", "label": "neutral"}
+{"premise": "Did the stranger burst into the room again?", "hypothesis": "The stranger did not burst into the room again.", "label": "neutral"}
+{"premise": "Did the teacher put the book on the shelf again?", "hypothesis": "The teacher did not put the book on the shelf again.", "label": "neutral"}
+{"premise": "Did the doctor burst into the room again?", "hypothesis": "The doctor did not burst into the room again.", "label": "neutral"}
+{"premise": "Did the doctor set the dish on the table again?", "hypothesis": "The doctor did not set the dish on the table again.", "label": "neutral"}
+{"premise": "Did the boy burst into the room again?", "hypothesis": "The boy did not burst into the room again.", "label": "neutral"}
+{"premise": "Did the athlete set the dish on the table again?", "hypothesis": "The athlete did not set the dish on the table again.", "label": "neutral"}
+{"premise": "Did the kid thrust the fork into the cake again?", "hypothesis": "The kid did not thrust the fork into the cake again.", "label": "neutral"}
+{"premise": "Did the singer cast bronze into a statue again?", "hypothesis": "The singer did not cast bronze into a statue again.", "label": "neutral"}
+{"premise": "Did the student let the blinds down again?", "hypothesis": "The student did not let the blinds down again.", "label": "neutral"}
+{"premise": "Did the boy spread the rumor again?", "hypothesis": "The boy did not spread the rumor again.", "label": "neutral"}
+{"premise": "Did the woman upset the boat again?", "hypothesis": "The woman did not upset the boat again.", "label": "neutral"}
+{"premise": "Did the teacher upset the boat again?", "hypothesis": "The teacher did not upset the boat again.", "label": "neutral"}
+{"premise": "Did the boy set the dish on the table again?", "hypothesis": "The boy did not set the dish on the table again.", "label": "neutral"}
+{"premise": "Did the man read the letter again?", "hypothesis": "The man did not read the letter again.", "label": "neutral"}
+{"premise": "Did the director bet $100 on the race again?", "hypothesis": "The director did not bet $100 on the race again.", "label": "neutral"}
+{"premise": "Did the child let the blinds down again?", "hypothesis": "The child did not let the blinds down again.", "label": "neutral"}
+{"premise": "Did the professor burst into the room again?", "hypothesis": "The professor did not burst into the room again.", "label": "neutral"}
+{"premise": "Did the man thrust the fork into the cake again?", "hypothesis": "The man did not thrust the fork into the cake again.", "label": "neutral"}
+{"premise": "Did the manager cast bronze into a statue again?", "hypothesis": "The manager did not cast bronze into a statue again.", "label": "neutral"}
+{"premise": "Did the child hit the ball with the bat again?", "hypothesis": "The child did not hit the ball with the bat again.", "label": "neutral"}
+{"premise": "Did the teacher burst into the room again?", "hypothesis": "The teacher did not burst into the room again.", "label": "neutral"}
+{"premise": "Did the singer read the letter again?", "hypothesis": "The singer did not read the letter again.", "label": "neutral"}
+{"premise": "Did the athlete slit the envelope again?", "hypothesis": "The athlete did not slit the envelope again.", "label": "neutral"}
+{"premise": "Did the worker bet $100 on the race again?", "hypothesis": "The worker did not bet $100 on the race again.", "label": "neutral"}
+{"premise": "Did the boy shut the door again?", "hypothesis": "The boy did not shut the door again.", "label": "neutral"}
+{"premise": "Did the boy upset the boat again?", "hypothesis": "The boy did not upset the boat again.", "label": "neutral"}
+{"premise": "Did the dancer read the letter again?", "hypothesis": "The dancer did not read the letter again.", "label": "neutral"}
+{"premise": "Did the professor burst into the room again?", "hypothesis": "The professor did not burst into the room again.", "label": "neutral"}
+{"premise": "Did the dancer shut the door again?", "hypothesis": "The dancer did not shut the door again.", "label": "neutral"}
+{"premise": "Did the doctor thrust the fork into the cake again?", "hypothesis": "The doctor did not thrust the fork into the cake again.", "label": "neutral"}
+{"premise": "Did the stranger spread the rumor again?", "hypothesis": "The stranger did not spread the rumor again.", "label": "neutral"}
+{"premise": "Did the athlete shed tears again?", "hypothesis": "The athlete did not shed tears again.", "label": "neutral"}
+{"premise": "Did the student hurt others again?", "hypothesis": "The student did not hurt others again.", "label": "neutral"}
+{"premise": "Did the kid bet $100 on the race again?", "hypothesis": "The kid did not bet $100 on the race again.", "label": "neutral"}
+{"premise": "Did the doctor hit the ball with the bat again?", "hypothesis": "The doctor did not hit the ball with the bat again.", "label": "neutral"}
+{"premise": "Did the teacher split the log again?", "hypothesis": "The teacher did not split the log again.", "label": "neutral"}
+{"premise": "Did the stranger hurt others again?", "hypothesis": "The stranger did not hurt others again.", "label": "neutral"}
+{"premise": "Did the manager thrust the fork into the cake again?", "hypothesis": "The manager did not thrust the fork into the cake again.", "label": "neutral"}
+{"premise": "Did the man thrust the fork into the cake again?", "hypothesis": "The man did not thrust the fork into the cake again.", "label": "neutral"}
+{"premise": "Did the kid slit the envelope again?", "hypothesis": "The kid did not slit the envelope again.", "label": "neutral"}
+{"premise": "Did the dancer bet $100 on the race again?", "hypothesis": "The dancer did not bet $100 on the race again.", "label": "neutral"}
+{"premise": "Did the girl let the blinds down again?", "hypothesis": "The girl did not let the blinds down again.", "label": "neutral"}
+{"premise": "Did the doctor put the book on the shelf again?", "hypothesis": "The doctor did not put the book on the shelf again.", "label": "neutral"}
+{"premise": "Did the boy set the dish on the table again?", "hypothesis": "The boy did not set the dish on the table again.", "label": "neutral"}
+{"premise": "Did the doctor spread the rumor again?", "hypothesis": "The doctor did not spread the rumor again.", "label": "neutral"}
+{"premise": "Did the man set the dish on the table again?", "hypothesis": "The man did not set the dish on the table again.", "label": "neutral"}
+{"premise": "Did the doctor upset the boat calmly?", "hypothesis": "The doctor upset the boat calmly.", "label": "neutral"}
+{"premise": "Did the worker read the letter quickly?", "hypothesis": "The worker read the letter quickly.", "label": "neutral"}
+{"premise": "Did the girl shed tears happily?", "hypothesis": "The girl shed tears happily.", "label": "neutral"}
+{"premise": "Did the manager spread the rumor angrily?", "hypothesis": "The manager spread the rumor angrily.", "label": "neutral"}
+{"premise": "Did the girl let the blinds down easily?", "hypothesis": "The girl let the blinds down easily.", "label": "neutral"}
+{"premise": "Did the singer cast bronze into a statue angrily?", "hypothesis": "The singer cast bronze into a statue angrily.", "label": "neutral"}
+{"premise": "Did the professor shed tears quietly?", "hypothesis": "The professor shed tears quietly.", "label": "neutral"}
+{"premise": "Did the stranger bet $100 on the race easily?", "hypothesis": "The stranger bet $100 on the race easily.", "label": "neutral"}
+{"premise": "Did the man put the book on the shelf slowly?", "hypothesis": "The man put the book on the shelf slowly.", "label": "neutral"}
+{"premise": "Did the director put the book on the shelf calmly?", "hypothesis": "The director put the book on the shelf calmly.", "label": "neutral"}
+{"premise": "Did the girl bet $100 on the race quietly?", "hypothesis": "The girl bet $100 on the race quietly.", "label": "neutral"}
+{"premise": "Did the director split the log easily?", "hypothesis": "The director split the log easily.", "label": "neutral"}
+{"premise": "Did the worker thrust the fork into the cake quickly?", "hypothesis": "The worker thrust the fork into the cake quickly.", "label": "neutral"}
+{"premise": "Did the woman upset the boat calmly?", "hypothesis": "The woman upset the boat calmly.", "label": "neutral"}
+{"premise": "Did the assistant split the log quietly?", "hypothesis": "The assistant split the log quietly.", "label": "neutral"}
+{"premise": "Did the worker spread the rumor calmly?", "hypothesis": "The worker spread the rumor calmly.", "label": "neutral"}
+{"premise": "Did the singer shut the door anxiously?", "hypothesis": "The singer shut the door anxiously.", "label": "neutral"}
+{"premise": "Did the child shut the door sadly?", "hypothesis": "The child shut the door sadly.", "label": "neutral"}
+{"premise": "Did the child hurt others angrily?", "hypothesis": "The child hurt others angrily.", "label": "neutral"}
+{"premise": "Did the director put the book on the shelf quickly?", "hypothesis": "The director put the book on the shelf quickly.", "label": "neutral"}
+{"premise": "Did the teacher let the blinds down quietly?", "hypothesis": "The teacher let the blinds down quietly.", "label": "neutral"}
+{"premise": "Did the manager split the log quickly?", "hypothesis": "The manager split the log quickly.", "label": "neutral"}
+{"premise": "Did the teacher spread the rumor calmly?", "hypothesis": "The teacher spread the rumor calmly.", "label": "neutral"}
+{"premise": "Did the singer hit the ball with the bat slowly?", "hypothesis": "The singer hit the ball with the bat slowly.", "label": "neutral"}
+{"premise": "Did the girl cast bronze into a statue angrily?", "hypothesis": "The girl cast bronze into a statue angrily.", "label": "neutral"}
+{"premise": "Did the dancer bet $100 on the race sadly?", "hypothesis": "The dancer bet $100 on the race sadly.", "label": "neutral"}
+{"premise": "Did the child shed tears quickly?", "hypothesis": "The child shed tears quickly.", "label": "neutral"}
+{"premise": "Did the woman put the book on the shelf anxiously?", "hypothesis": "The woman put the book on the shelf anxiously.", "label": "neutral"}
+{"premise": "Did the manager set the dish on the table quietly?", "hypothesis": "The manager set the dish on the table quietly.", "label": "neutral"}
+{"premise": "Did the singer upset the boat angrily?", "hypothesis": "The singer upset the boat angrily.", "label": "neutral"}
+{"premise": "Did the doctor thrust the fork into the cake calmly?", "hypothesis": "The doctor thrust the fork into the cake calmly.", "label": "neutral"}
+{"premise": "Did the woman slit the envelope sadly?", "hypothesis": "The woman slit the envelope sadly.", "label": "neutral"}
+{"premise": "Did the doctor let the blinds down quickly?", "hypothesis": "The doctor let the blinds down quickly.", "label": "neutral"}
+{"premise": "Did the athlete read the letter easily?", "hypothesis": "The athlete read the letter easily.", "label": "neutral"}
+{"premise": "Did the director put the book on the shelf quickly?", "hypothesis": "The director put the book on the shelf quickly.", "label": "neutral"}
+{"premise": "Did the woman let the blinds down quietly?", "hypothesis": "The woman let the blinds down quietly.", "label": "neutral"}
+{"premise": "Did the director hurt others quickly?", "hypothesis": "The director hurt others quickly.", "label": "neutral"}
+{"premise": "Did the student hurt others slowly?", "hypothesis": "The student hurt others slowly.", "label": "neutral"}
+{"premise": "Did the girl put the book on the shelf happily?", "hypothesis": "The girl put the book on the shelf happily.", "label": "neutral"}
+{"premise": "Did the professor put the book on the shelf slowly?", "hypothesis": "The professor put the book on the shelf slowly.", "label": "neutral"}
+{"premise": "Did the manager hurt others quietly?", "hypothesis": "The manager hurt others quietly.", "label": "neutral"}
+{"premise": "Did the stranger hit the ball with the bat angrily?", "hypothesis": "The stranger hit the ball with the bat angrily.", "label": "neutral"}
+{"premise": "Did the boy slit the envelope slowly?", "hypothesis": "The boy slit the envelope slowly.", "label": "neutral"}
+{"premise": "Did the manager read the letter anxiously?", "hypothesis": "The manager read the letter anxiously.", "label": "neutral"}
+{"premise": "Did the assistant thrust the fork into the cake calmly?", "hypothesis": "The assistant thrust the fork into the cake calmly.", "label": "neutral"}
+{"premise": "Did the athlete spread the rumor slowly?", "hypothesis": "The athlete spread the rumor slowly.", "label": "neutral"}
+{"premise": "Did the boy cast bronze into a statue slowly?", "hypothesis": "The boy cast bronze into a statue slowly.", "label": "neutral"}
+{"premise": "Did the child shed tears sadly?", "hypothesis": "The child shed tears sadly.", "label": "neutral"}
+{"premise": "Did the student set the dish on the table angrily?", "hypothesis": "The student set the dish on the table angrily.", "label": "neutral"}
+{"premise": "Did the woman let the blinds down easily?", "hypothesis": "The woman let the blinds down easily.", "label": "neutral"}
+{"premise": "Did the girl shed tears angrily?", "hypothesis": "The girl shed tears angrily.", "label": "neutral"}
+{"premise": "Did the student bet $100 on the race easily?", "hypothesis": "The student bet $100 on the race easily.", "label": "neutral"}
+{"premise": "Did the woman spread the rumor quietly?", "hypothesis": "The woman spread the rumor quietly.", "label": "neutral"}
+{"premise": "Did the stranger let the blinds down easily?", "hypothesis": "The stranger let the blinds down easily.", "label": "neutral"}
+{"premise": "Did the kid set the dish on the table slowly?", "hypothesis": "The kid set the dish on the table slowly.", "label": "neutral"}
+{"premise": "Did the boy read the letter sadly?", "hypothesis": "The boy read the letter sadly.", "label": "neutral"}
+{"premise": "Did the assistant cast bronze into a statue easily?", "hypothesis": "The assistant cast bronze into a statue easily.", "label": "neutral"}
+{"premise": "Did the assistant hurt others calmly?", "hypothesis": "The assistant hurt others calmly.", "label": "neutral"}
+{"premise": "Did the athlete hit the ball with the bat quickly?", "hypothesis": "The athlete hit the ball with the bat quickly.", "label": "neutral"}
+{"premise": "Did the girl hit the ball with the bat angrily?", "hypothesis": "The girl hit the ball with the bat angrily.", "label": "neutral"}
+{"premise": "Did the director split the log easily?", "hypothesis": "The director split the log easily.", "label": "neutral"}
+{"premise": "Did the assistant read the letter quickly?", "hypothesis": "The assistant read the letter quickly.", "label": "neutral"}
+{"premise": "Did the manager shed tears sadly?", "hypothesis": "The manager shed tears sadly.", "label": "neutral"}
+{"premise": "Did the manager set the dish on the table sadly?", "hypothesis": "The manager set the dish on the table sadly.", "label": "neutral"}
+{"premise": "Did the girl thrust the fork into the cake happily?", "hypothesis": "The girl thrust the fork into the cake happily.", "label": "neutral"}
+{"premise": "Did the athlete hurt others sadly?", "hypothesis": "The athlete hurt others sadly.", "label": "neutral"}
+{"premise": "Did the singer let the blinds down happily?", "hypothesis": "The singer let the blinds down happily.", "label": "neutral"}
+{"premise": "Did the teacher set the dish on the table quietly?", "hypothesis": "The teacher set the dish on the table quietly.", "label": "neutral"}
+{"premise": "Did the man read the letter sadly?", "hypothesis": "The man read the letter sadly.", "label": "neutral"}
+{"premise": "Did the assistant put the book on the shelf angrily?", "hypothesis": "The assistant put the book on the shelf angrily.", "label": "neutral"}
+{"premise": "Did the assistant slit the envelope quietly?", "hypothesis": "The assistant slit the envelope quietly.", "label": "neutral"}
+{"premise": "Did the dancer hit the ball with the bat calmly?", "hypothesis": "The dancer hit the ball with the bat calmly.", "label": "neutral"}
+{"premise": "Did the manager bet $100 on the race slowly?", "hypothesis": "The manager bet $100 on the race slowly.", "label": "neutral"}
+{"premise": "Did the singer burst into the room sadly?", "hypothesis": "The singer burst into the room sadly.", "label": "neutral"}
+{"premise": "Did the kid slit the envelope calmly?", "hypothesis": "The kid slit the envelope calmly.", "label": "neutral"}
+{"premise": "Did the teacher upset the boat angrily?", "hypothesis": "The teacher upset the boat angrily.", "label": "neutral"}
+{"premise": "Did the stranger slit the envelope quickly?", "hypothesis": "The stranger slit the envelope quickly.", "label": "neutral"}
+{"premise": "Did the teacher read the letter calmly?", "hypothesis": "The teacher read the letter calmly.", "label": "neutral"}
+{"premise": "Did the professor hit the ball with the bat easily?", "hypothesis": "The professor hit the ball with the bat easily.", "label": "neutral"}
+{"premise": "Did the manager upset the boat anxiously?", "hypothesis": "The manager upset the boat anxiously.", "label": "neutral"}
+{"premise": "Did the worker burst into the room sadly?", "hypothesis": "The worker burst into the room sadly.", "label": "neutral"}
+{"premise": "Did the professor shut the door quickly?", "hypothesis": "The professor shut the door quickly.", "label": "neutral"}
+{"premise": "Did the child cast bronze into a statue anxiously?", "hypothesis": "The child cast bronze into a statue anxiously.", "label": "neutral"}
+{"premise": "Did the man bet $100 on the race quickly?", "hypothesis": "The man bet $100 on the race quickly.", "label": "neutral"}
+{"premise": "Did the woman bet $100 on the race calmly?", "hypothesis": "The woman bet $100 on the race calmly.", "label": "neutral"}
+{"premise": "Did the kid cast bronze into a statue calmly?", "hypothesis": "The kid cast bronze into a statue calmly.", "label": "neutral"}
+{"premise": "Did the woman bet $100 on the race slowly?", "hypothesis": "The woman bet $100 on the race slowly.", "label": "neutral"}
+{"premise": "Did the manager cast bronze into a statue easily?", "hypothesis": "The manager cast bronze into a statue easily.", "label": "neutral"}
+{"premise": "Did the athlete let the blinds down anxiously?", "hypothesis": "The athlete let the blinds down anxiously.", "label": "neutral"}
+{"premise": "Did the professor put the book on the shelf quickly?", "hypothesis": "The professor put the book on the shelf quickly.", "label": "neutral"}
+{"premise": "Did the boy let the blinds down happily?", "hypothesis": "The boy let the blinds down happily.", "label": "neutral"}
+{"premise": "Did the boy upset the boat easily?", "hypothesis": "The boy upset the boat easily.", "label": "neutral"}
+{"premise": "Did the child put the book on the shelf calmly?", "hypothesis": "The child put the book on the shelf calmly.", "label": "neutral"}
+{"premise": "Did the doctor put the book on the shelf quickly?", "hypothesis": "The doctor put the book on the shelf quickly.", "label": "neutral"}
+{"premise": "Did the stranger thrust the fork into the cake quickly?", "hypothesis": "The stranger thrust the fork into the cake quickly.", "label": "neutral"}
+{"premise": "Did the kid spread the rumor easily?", "hypothesis": "The kid spread the rumor easily.", "label": "neutral"}
+{"premise": "Did the worker burst into the room angrily?", "hypothesis": "The worker burst into the room angrily.", "label": "neutral"}
+{"premise": "Did the boy upset the boat slowly?", "hypothesis": "The boy upset the boat slowly.", "label": "neutral"}
+{"premise": "Did the athlete set the dish on the table quietly?", "hypothesis": "The athlete set the dish on the table quietly.", "label": "neutral"}
+{"premise": "Did the boy let the blinds down quickly?", "hypothesis": "The boy let the blinds down quickly.", "label": "neutral"}
+{"premise": "Did the worker shed tears slowly?", "hypothesis": "The worker did not shed tears slowly.", "label": "neutral"}
+{"premise": "Did the worker split the log easily?", "hypothesis": "The worker did not split the log easily.", "label": "neutral"}
+{"premise": "Did the kid thrust the fork into the cake quietly?", "hypothesis": "The kid did not thrust the fork into the cake quietly.", "label": "neutral"}
+{"premise": "Did the worker cast bronze into a statue quickly?", "hypothesis": "The worker did not cast bronze into a statue quickly.", "label": "neutral"}
+{"premise": "Did the kid burst into the room sadly?", "hypothesis": "The kid did not burst into the room sadly.", "label": "neutral"}
+{"premise": "Did the teacher spread the rumor calmly?", "hypothesis": "The teacher did not spread the rumor calmly.", "label": "neutral"}
+{"premise": "Did the man hit the ball with the bat anxiously?", "hypothesis": "The man did not hit the ball with the bat anxiously.", "label": "neutral"}
+{"premise": "Did the director hurt others quickly?", "hypothesis": "The director did not hurt others quickly.", "label": "neutral"}
+{"premise": "Did the child shed tears calmly?", "hypothesis": "The child did not shed tears calmly.", "label": "neutral"}
+{"premise": "Did the doctor put the book on the shelf quickly?", "hypothesis": "The doctor did not put the book on the shelf quickly.", "label": "neutral"}
+{"premise": "Did the assistant split the log slowly?", "hypothesis": "The assistant did not split the log slowly.", "label": "neutral"}
+{"premise": "Did the child spread the rumor anxiously?", "hypothesis": "The child did not spread the rumor anxiously.", "label": "neutral"}
+{"premise": "Did the kid bet $100 on the race slowly?", "hypothesis": "The kid did not bet $100 on the race slowly.", "label": "neutral"}
+{"premise": "Did the student split the log quietly?", "hypothesis": "The student did not split the log quietly.", "label": "neutral"}
+{"premise": "Did the assistant hurt others happily?", "hypothesis": "The assistant did not hurt others happily.", "label": "neutral"}
+{"premise": "Did the boy bet $100 on the race quickly?", "hypothesis": "The boy did not bet $100 on the race quickly.", "label": "neutral"}
+{"premise": "Did the stranger cast bronze into a statue quietly?", "hypothesis": "The stranger did not cast bronze into a statue quietly.", "label": "neutral"}
+{"premise": "Did the manager read the letter angrily?", "hypothesis": "The manager did not read the letter angrily.", "label": "neutral"}
+{"premise": "Did the woman burst into the room angrily?", "hypothesis": "The woman did not burst into the room angrily.", "label": "neutral"}
+{"premise": "Did the athlete read the letter sadly?", "hypothesis": "The athlete did not read the letter sadly.", "label": "neutral"}
+{"premise": "Did the professor set the dish on the table happily?", "hypothesis": "The professor did not set the dish on the table happily.", "label": "neutral"}
+{"premise": "Did the teacher split the log quickly?", "hypothesis": "The teacher did not split the log quickly.", "label": "neutral"}
+{"premise": "Did the man let the blinds down happily?", "hypothesis": "The man did not let the blinds down happily.", "label": "neutral"}
+{"premise": "Did the man slit the envelope happily?", "hypothesis": "The man did not slit the envelope happily.", "label": "neutral"}
+{"premise": "Did the boy set the dish on the table sadly?", "hypothesis": "The boy did not set the dish on the table sadly.", "label": "neutral"}
+{"premise": "Did the student cast bronze into a statue easily?", "hypothesis": "The student did not cast bronze into a statue easily.", "label": "neutral"}
+{"premise": "Did the boy thrust the fork into the cake happily?", "hypothesis": "The boy did not thrust the fork into the cake happily.", "label": "neutral"}
+{"premise": "Did the kid let the blinds down angrily?", "hypothesis": "The kid did not let the blinds down angrily.", "label": "neutral"}
+{"premise": "Did the doctor split the log angrily?", "hypothesis": "The doctor did not split the log angrily.", "label": "neutral"}
+{"premise": "Did the assistant set the dish on the table easily?", "hypothesis": "The assistant did not set the dish on the table easily.", "label": "neutral"}
+{"premise": "Did the girl read the letter quickly?", "hypothesis": "The girl did not read the letter quickly.", "label": "neutral"}
+{"premise": "Did the dancer split the log angrily?", "hypothesis": "The dancer did not split the log angrily.", "label": "neutral"}
+{"premise": "Did the student cast bronze into a statue quickly?", "hypothesis": "The student did not cast bronze into a statue quickly.", "label": "neutral"}
+{"premise": "Did the director bet $100 on the race happily?", "hypothesis": "The director did not bet $100 on the race happily.", "label": "neutral"}
+{"premise": "Did the child shed tears anxiously?", "hypothesis": "The child did not shed tears anxiously.", "label": "neutral"}
+{"premise": "Did the stranger spread the rumor anxiously?", "hypothesis": "The stranger did not spread the rumor anxiously.", "label": "neutral"}
+{"premise": "Did the dancer read the letter quietly?", "hypothesis": "The dancer did not read the letter quietly.", "label": "neutral"}
+{"premise": "Did the teacher let the blinds down quickly?", "hypothesis": "The teacher did not let the blinds down quickly.", "label": "neutral"}
+{"premise": "Did the assistant shut the door calmly?", "hypothesis": "The assistant did not shut the door calmly.", "label": "neutral"}
+{"premise": "Did the assistant bet $100 on the race sadly?", "hypothesis": "The assistant did not bet $100 on the race sadly.", "label": "neutral"}
+{"premise": "Did the director shed tears quietly?", "hypothesis": "The director did not shed tears quietly.", "label": "neutral"}
+{"premise": "Did the dancer bet $100 on the race happily?", "hypothesis": "The dancer did not bet $100 on the race happily.", "label": "neutral"}
+{"premise": "Did the professor put the book on the shelf quietly?", "hypothesis": "The professor did not put the book on the shelf quietly.", "label": "neutral"}
+{"premise": "Did the teacher let the blinds down calmly?", "hypothesis": "The teacher did not let the blinds down calmly.", "label": "neutral"}
+{"premise": "Did the boy put the book on the shelf sadly?", "hypothesis": "The boy did not put the book on the shelf sadly.", "label": "neutral"}
+{"premise": "Did the teacher upset the boat slowly?", "hypothesis": "The teacher did not upset the boat slowly.", "label": "neutral"}
+{"premise": "Did the woman burst into the room easily?", "hypothesis": "The woman did not burst into the room easily.", "label": "neutral"}
+{"premise": "Did the boy split the log easily?", "hypothesis": "The boy did not split the log easily.", "label": "neutral"}
+{"premise": "Did the woman hurt others easily?", "hypothesis": "The woman did not hurt others easily.", "label": "neutral"}
+{"premise": "Did the boy hit the ball with the bat easily?", "hypothesis": "The boy did not hit the ball with the bat easily.", "label": "neutral"}
+{"premise": "Did the man shut the door happily?", "hypothesis": "The man did not shut the door happily.", "label": "neutral"}
+{"premise": "Did the teacher set the dish on the table quietly?", "hypothesis": "The teacher did not set the dish on the table quietly.", "label": "neutral"}
+{"premise": "Did the kid bet $100 on the race calmly?", "hypothesis": "The kid did not bet $100 on the race calmly.", "label": "neutral"}
+{"premise": "Did the student slit the envelope happily?", "hypothesis": "The student did not slit the envelope happily.", "label": "neutral"}
+{"premise": "Did the worker upset the boat calmly?", "hypothesis": "The worker did not upset the boat calmly.", "label": "neutral"}
+{"premise": "Did the child spread the rumor happily?", "hypothesis": "The child did not spread the rumor happily.", "label": "neutral"}
+{"premise": "Did the boy set the dish on the table slowly?", "hypothesis": "The boy did not set the dish on the table slowly.", "label": "neutral"}
+{"premise": "Did the professor hit the ball with the bat easily?", "hypothesis": "The professor did not hit the ball with the bat easily.", "label": "neutral"}
+{"premise": "Did the woman split the log anxiously?", "hypothesis": "The woman did not split the log anxiously.", "label": "neutral"}
+{"premise": "Did the worker bet $100 on the race quietly?", "hypothesis": "The worker did not bet $100 on the race quietly.", "label": "neutral"}
+{"premise": "Did the girl bet $100 on the race sadly?", "hypothesis": "The girl did not bet $100 on the race sadly.", "label": "neutral"}
+{"premise": "Did the man let the blinds down anxiously?", "hypothesis": "The man did not let the blinds down anxiously.", "label": "neutral"}
+{"premise": "Did the stranger put the book on the shelf calmly?", "hypothesis": "The stranger did not put the book on the shelf calmly.", "label": "neutral"}
+{"premise": "Did the dancer hit the ball with the bat sadly?", "hypothesis": "The dancer did not hit the ball with the bat sadly.", "label": "neutral"}
+{"premise": "Did the woman set the dish on the table sadly?", "hypothesis": "The woman did not set the dish on the table sadly.", "label": "neutral"}
+{"premise": "Did the director burst into the room quickly?", "hypothesis": "The director did not burst into the room quickly.", "label": "neutral"}
+{"premise": "Did the manager shed tears calmly?", "hypothesis": "The manager did not shed tears calmly.", "label": "neutral"}
+{"premise": "Did the dancer put the book on the shelf angrily?", "hypothesis": "The dancer did not put the book on the shelf angrily.", "label": "neutral"}
+{"premise": "Did the doctor cast bronze into a statue anxiously?", "hypothesis": "The doctor did not cast bronze into a statue anxiously.", "label": "neutral"}
+{"premise": "Did the boy set the dish on the table quickly?", "hypothesis": "The boy did not set the dish on the table quickly.", "label": "neutral"}
+{"premise": "Did the girl shut the door anxiously?", "hypothesis": "The girl did not shut the door anxiously.", "label": "neutral"}
+{"premise": "Did the doctor put the book on the shelf sadly?", "hypothesis": "The doctor did not put the book on the shelf sadly.", "label": "neutral"}
+{"premise": "Did the assistant cast bronze into a statue anxiously?", "hypothesis": "The assistant did not cast bronze into a statue anxiously.", "label": "neutral"}
+{"premise": "Did the girl thrust the fork into the cake sadly?", "hypothesis": "The girl did not thrust the fork into the cake sadly.", "label": "neutral"}
+{"premise": "Did the director hurt others quickly?", "hypothesis": "The director did not hurt others quickly.", "label": "neutral"}
+{"premise": "Did the boy thrust the fork into the cake angrily?", "hypothesis": "The boy did not thrust the fork into the cake angrily.", "label": "neutral"}
+{"premise": "Did the worker slit the envelope slowly?", "hypothesis": "The worker did not slit the envelope slowly.", "label": "neutral"}
+{"premise": "Did the manager split the log angrily?", "hypothesis": "The manager did not split the log angrily.", "label": "neutral"}
+{"premise": "Did the assistant hurt others quietly?", "hypothesis": "The assistant did not hurt others quietly.", "label": "neutral"}
+{"premise": "Did the student split the log sadly?", "hypothesis": "The student did not split the log sadly.", "label": "neutral"}
+{"premise": "Did the doctor bet $100 on the race calmly?", "hypothesis": "The doctor did not bet $100 on the race calmly.", "label": "neutral"}
+{"premise": "Did the girl upset the boat angrily?", "hypothesis": "The girl did not upset the boat angrily.", "label": "neutral"}
+{"premise": "Did the student upset the boat calmly?", "hypothesis": "The student did not upset the boat calmly.", "label": "neutral"}
+{"premise": "Did the teacher thrust the fork into the cake slowly?", "hypothesis": "The teacher did not thrust the fork into the cake slowly.", "label": "neutral"}
+{"premise": "Did the professor shut the door easily?", "hypothesis": "The professor did not shut the door easily.", "label": "neutral"}
+{"premise": "Did the man cast bronze into a statue anxiously?", "hypothesis": "The man did not cast bronze into a statue anxiously.", "label": "neutral"}
+{"premise": "Did the athlete burst into the room slowly?", "hypothesis": "The athlete did not burst into the room slowly.", "label": "neutral"}
+{"premise": "Did the woman slit the envelope quietly?", "hypothesis": "The woman did not slit the envelope quietly.", "label": "neutral"}
+{"premise": "Did the manager put the book on the shelf happily?", "hypothesis": "The manager did not put the book on the shelf happily.", "label": "neutral"}
+{"premise": "Did the singer slit the envelope angrily?", "hypothesis": "The singer did not slit the envelope angrily.", "label": "neutral"}
+{"premise": "Did the kid thrust the fork into the cake calmly?", "hypothesis": "The kid did not thrust the fork into the cake calmly.", "label": "neutral"}
+{"premise": "Did the child read the letter calmly?", "hypothesis": "The child did not read the letter calmly.", "label": "neutral"}
+{"premise": "Did the professor bet $100 on the race quickly?", "hypothesis": "The professor did not bet $100 on the race quickly.", "label": "neutral"}
+{"premise": "Did the assistant put the book on the shelf sadly?", "hypothesis": "The assistant did not put the book on the shelf sadly.", "label": "neutral"}
+{"premise": "Did the doctor split the log calmly?", "hypothesis": "The doctor did not split the log calmly.", "label": "neutral"}
+{"premise": "Did the doctor cast bronze into a statue quickly?", "hypothesis": "The doctor did not cast bronze into a statue quickly.", "label": "neutral"}
+{"premise": "Did the stranger split the log sadly?", "hypothesis": "The stranger did not split the log sadly.", "label": "neutral"}
+{"premise": "Did the kid slit the envelope quietly?", "hypothesis": "The kid did not slit the envelope quietly.", "label": "neutral"}
+{"premise": "Did the woman burst into the room easily?", "hypothesis": "The woman did not burst into the room easily.", "label": "neutral"}
+{"premise": "Did the manager set the dish on the table easily?", "hypothesis": "The manager did not set the dish on the table easily.", "label": "neutral"}
+{"premise": "Did the manager spread the rumor after thrusting the fork into the cake?", "hypothesis": "The manager spread the rumor after thrusting the fork into the cake.", "label": "neutral"}
+{"premise": "Did the dancer set the dish on the table when splitting the log?", "hypothesis": "The dancer set the dish on the table when splitting the log.", "label": "neutral"}
+{"premise": "Did the student split the log after betting $100 on the race?", "hypothesis": "The student split the log after betting $100 on the race.", "label": "neutral"}
+{"premise": "Did the manager set the dish on the table before hurting others?", "hypothesis": "The manager set the dish on the table before hurting others.", "label": "neutral"}
+{"premise": "Did the professor slit the envelope while letting the blinds down?", "hypothesis": "The professor slit the envelope while letting the blinds down.", "label": "neutral"}
+{"premise": "Did the kid upset the boat while shutting the door?", "hypothesis": "The kid upset the boat while shutting the door.", "label": "neutral"}
+{"premise": "Did the professor cast bronze into a statue while setting the dish on the table?", "hypothesis": "The professor cast bronze into a statue while setting the dish on the table.", "label": "neutral"}
+{"premise": "Did the singer cast bronze into a statue when bursting into the room?", "hypothesis": "The singer cast bronze into a statue when bursting into the room.", "label": "neutral"}
+{"premise": "Did the kid hit the ball with the bat when shedding tears?", "hypothesis": "The kid hit the ball with the bat when shedding tears.", "label": "neutral"}
+{"premise": "Did the student put the book on the shelf after slitting the envelope?", "hypothesis": "The student put the book on the shelf after slitting the envelope.", "label": "neutral"}
+{"premise": "Did the teacher thrust the fork into the cake while setting the dish on the table?", "hypothesis": "The teacher thrust the fork into the cake while setting the dish on the table.", "label": "neutral"}
+{"premise": "Did the student spread the rumor while reading the letter?", "hypothesis": "The student spread the rumor while reading the letter.", "label": "neutral"}
+{"premise": "Did the singer thrust the fork into the cake before splitting the log?", "hypothesis": "The singer thrust the fork into the cake before splitting the log.", "label": "neutral"}
+{"premise": "Did the manager thrust the fork into the cake before splitting the log?", "hypothesis": "The manager thrust the fork into the cake before splitting the log.", "label": "neutral"}
+{"premise": "Did the assistant shut the door before casting bronze into a statue?", "hypothesis": "The assistant shut the door before casting bronze into a statue.", "label": "neutral"}
+{"premise": "Did the kid thrust the fork into the cake while reading the letter?", "hypothesis": "The kid thrust the fork into the cake while reading the letter.", "label": "neutral"}
+{"premise": "Did the athlete slit the envelope when thrusting the fork into the cake?", "hypothesis": "The athlete slit the envelope when thrusting the fork into the cake.", "label": "neutral"}
+{"premise": "Did the doctor thrust the fork into the cake before setting the dish on the table?", "hypothesis": "The doctor thrust the fork into the cake before setting the dish on the table.", "label": "neutral"}
+{"premise": "Did the manager hurt others before thrusting the fork into the cake?", "hypothesis": "The manager hurt others before thrusting the fork into the cake.", "label": "neutral"}
+{"premise": "Did the director hurt others before putting the book on the shelf?", "hypothesis": "The director hurt others before putting the book on the shelf.", "label": "neutral"}
+{"premise": "Did the man shed tears when putting the book on the shelf?", "hypothesis": "The man shed tears when putting the book on the shelf.", "label": "neutral"}
+{"premise": "Did the man bet $100 on the race while upsetting the boat?", "hypothesis": "The man bet $100 on the race while upsetting the boat.", "label": "neutral"}
+{"premise": "Did the boy upset the boat after splitting the log?", "hypothesis": "The boy upset the boat after splitting the log.", "label": "neutral"}
+{"premise": "Did the athlete slit the envelope while spreading the rumor?", "hypothesis": "The athlete slit the envelope while spreading the rumor.", "label": "neutral"}
+{"premise": "Did the professor read the letter before letting the blinds down?", "hypothesis": "The professor read the letter before letting the blinds down.", "label": "neutral"}
+{"premise": "Did the teacher let the blinds down when bursting into the room?", "hypothesis": "The teacher let the blinds down when bursting into the room.", "label": "neutral"}
+{"premise": "Did the child read the letter when splitting the log?", "hypothesis": "The child read the letter when splitting the log.", "label": "neutral"}
+{"premise": "Did the man let the blinds down while splitting the log?", "hypothesis": "The man let the blinds down while splitting the log.", "label": "neutral"}
+{"premise": "Did the singer set the dish on the table after upsetting the boat?", "hypothesis": "The singer set the dish on the table after upsetting the boat.", "label": "neutral"}
+{"premise": "Did the dancer upset the boat before putting the book on the shelf?", "hypothesis": "The dancer upset the boat before putting the book on the shelf.", "label": "neutral"}
+{"premise": "Did the stranger hit the ball with the bat before shutting the door?", "hypothesis": "The stranger hit the ball with the bat before shutting the door.", "label": "neutral"}
+{"premise": "Did the girl hurt others while shutting the door?", "hypothesis": "The girl hurt others while shutting the door.", "label": "neutral"}
+{"premise": "Did the director slit the envelope before betting $100 on the race?", "hypothesis": "The director slit the envelope before betting $100 on the race.", "label": "neutral"}
+{"premise": "Did the stranger hit the ball with the bat while shedding tears?", "hypothesis": "The stranger hit the ball with the bat while shedding tears.", "label": "neutral"}
+{"premise": "Did the professor thrust the fork into the cake before setting the dish on the table?", "hypothesis": "The professor thrust the fork into the cake before setting the dish on the table.", "label": "neutral"}
+{"premise": "Did the stranger thrust the fork into the cake when spreading the rumor?", "hypothesis": "The stranger thrust the fork into the cake when spreading the rumor.", "label": "neutral"}
+{"premise": "Did the child hit the ball with the bat when upsetting the boat?", "hypothesis": "The child hit the ball with the bat when upsetting the boat.", "label": "neutral"}
+{"premise": "Did the man shut the door before upsetting the boat?", "hypothesis": "The man shut the door before upsetting the boat.", "label": "neutral"}
+{"premise": "Did the girl read the letter before setting the dish on the table?", "hypothesis": "The girl read the letter before setting the dish on the table.", "label": "neutral"}
+{"premise": "Did the child hurt others while splitting the log?", "hypothesis": "The child hurt others while splitting the log.", "label": "neutral"}
+{"premise": "Did the worker thrust the fork into the cake before bursting into the room?", "hypothesis": "The worker thrust the fork into the cake before bursting into the room.", "label": "neutral"}
+{"premise": "Did the singer shed tears while casting bronze into a statue?", "hypothesis": "The singer shed tears while casting bronze into a statue.", "label": "neutral"}
+{"premise": "Did the woman burst into the room before thrusting the fork into the cake?", "hypothesis": "The woman burst into the room before thrusting the fork into the cake.", "label": "neutral"}
+{"premise": "Did the teacher burst into the room before slitting the envelope?", "hypothesis": "The teacher burst into the room before slitting the envelope.", "label": "neutral"}
+{"premise": "Did the stranger spread the rumor while upsetting the boat?", "hypothesis": "The stranger spread the rumor while upsetting the boat.", "label": "neutral"}
+{"premise": "Did the worker hurt others before slitting the envelope?", "hypothesis": "The worker hurt others before slitting the envelope.", "label": "neutral"}
+{"premise": "Did the worker thrust the fork into the cake when reading the letter?", "hypothesis": "The worker thrust the fork into the cake when reading the letter.", "label": "neutral"}
+{"premise": "Did the manager bet $100 on the race before reading the letter?", "hypothesis": "The manager bet $100 on the race before reading the letter.", "label": "neutral"}
+{"premise": "Did the kid cast bronze into a statue when bursting into the room?", "hypothesis": "The kid cast bronze into a statue when bursting into the room.", "label": "neutral"}
+{"premise": "Did the singer shut the door before upsetting the boat?", "hypothesis": "The singer shut the door before upsetting the boat.", "label": "neutral"}
+{"premise": "Did the director split the log after hurting others?", "hypothesis": "The director split the log after hurting others.", "label": "neutral"}
+{"premise": "Did the doctor put the book on the shelf while hurting others?", "hypothesis": "The doctor put the book on the shelf while hurting others.", "label": "neutral"}
+{"premise": "Did the athlete let the blinds down when casting bronze into a statue?", "hypothesis": "The athlete let the blinds down when casting bronze into a statue.", "label": "neutral"}
+{"premise": "Did the boy spread the rumor before casting bronze into a statue?", "hypothesis": "The boy spread the rumor before casting bronze into a statue.", "label": "neutral"}
+{"premise": "Did the stranger upset the boat while putting the book on the shelf?", "hypothesis": "The stranger upset the boat while putting the book on the shelf.", "label": "neutral"}
+{"premise": "Did the child put the book on the shelf when betting $100 on the race?", "hypothesis": "The child put the book on the shelf when betting $100 on the race.", "label": "neutral"}
+{"premise": "Did the doctor read the letter after hurting others?", "hypothesis": "The doctor read the letter after hurting others.", "label": "neutral"}
+{"premise": "Did the assistant thrust the fork into the cake when letting the blinds down?", "hypothesis": "The assistant thrust the fork into the cake when letting the blinds down.", "label": "neutral"}
+{"premise": "Did the doctor shut the door before casting bronze into a statue?", "hypothesis": "The doctor shut the door before casting bronze into a statue.", "label": "neutral"}
+{"premise": "Did the student shut the door while upsetting the boat?", "hypothesis": "The student shut the door while upsetting the boat.", "label": "neutral"}
+{"premise": "Did the man set the dish on the table while upsetting the boat?", "hypothesis": "The man set the dish on the table while upsetting the boat.", "label": "neutral"}
+{"premise": "Did the boy cast bronze into a statue after spreading the rumor?", "hypothesis": "The boy cast bronze into a statue after spreading the rumor.", "label": "neutral"}
+{"premise": "Did the student shed tears while putting the book on the shelf?", "hypothesis": "The student shed tears while putting the book on the shelf.", "label": "neutral"}
+{"premise": "Did the kid bet $100 on the race after upsetting the boat?", "hypothesis": "The kid bet $100 on the race after upsetting the boat.", "label": "neutral"}
+{"premise": "Did the assistant shed tears when slitting the envelope?", "hypothesis": "The assistant shed tears when slitting the envelope.", "label": "neutral"}
+{"premise": "Did the student split the log while slitting the envelope?", "hypothesis": "The student split the log while slitting the envelope.", "label": "neutral"}
+{"premise": "Did the kid cast bronze into a statue when reading the letter?", "hypothesis": "The kid cast bronze into a statue when reading the letter.", "label": "neutral"}
+{"premise": "Did the child hurt others before slitting the envelope?", "hypothesis": "The child hurt others before slitting the envelope.", "label": "neutral"}
+{"premise": "Did the stranger cast bronze into a statue while spreading the rumor?", "hypothesis": "The stranger cast bronze into a statue while spreading the rumor.", "label": "neutral"}
+{"premise": "Did the dancer thrust the fork into the cake after bursting into the room?", "hypothesis": "The dancer thrust the fork into the cake after bursting into the room.", "label": "neutral"}
+{"premise": "Did the singer bet $100 on the race after casting bronze into a statue?", "hypothesis": "The singer bet $100 on the race after casting bronze into a statue.", "label": "neutral"}
+{"premise": "Did the stranger split the log after casting bronze into a statue?", "hypothesis": "The stranger split the log after casting bronze into a statue.", "label": "neutral"}
+{"premise": "Did the singer slit the envelope while reading the letter?", "hypothesis": "The singer slit the envelope while reading the letter.", "label": "neutral"}
+{"premise": "Did the worker let the blinds down before betting $100 on the race?", "hypothesis": "The worker let the blinds down before betting $100 on the race.", "label": "neutral"}
+{"premise": "Did the boy shed tears after putting the book on the shelf?", "hypothesis": "The boy shed tears after putting the book on the shelf.", "label": "neutral"}
+{"premise": "Did the assistant cast bronze into a statue before letting the blinds down?", "hypothesis": "The assistant cast bronze into a statue before letting the blinds down.", "label": "neutral"}
+{"premise": "Did the kid put the book on the shelf before setting the dish on the table?", "hypothesis": "The kid put the book on the shelf before setting the dish on the table.", "label": "neutral"}
+{"premise": "Did the dancer hit the ball with the bat while spreading the rumor?", "hypothesis": "The dancer hit the ball with the bat while spreading the rumor.", "label": "neutral"}
+{"premise": "Did the girl burst into the room while betting $100 on the race?", "hypothesis": "The girl burst into the room while betting $100 on the race.", "label": "neutral"}
+{"premise": "Did the assistant cast bronze into a statue after letting the blinds down?", "hypothesis": "The assistant cast bronze into a statue after letting the blinds down.", "label": "neutral"}
+{"premise": "Did the girl bet $100 on the race while casting bronze into a statue?", "hypothesis": "The girl bet $100 on the race while casting bronze into a statue.", "label": "neutral"}
+{"premise": "Did the boy split the log after letting the blinds down?", "hypothesis": "The boy split the log after letting the blinds down.", "label": "neutral"}
+{"premise": "Did the child thrust the fork into the cake before reading the letter?", "hypothesis": "The child thrust the fork into the cake before reading the letter.", "label": "neutral"}
+{"premise": "Did the manager hit the ball with the bat when hurting others?", "hypothesis": "The manager hit the ball with the bat when hurting others.", "label": "neutral"}
+{"premise": "Did the teacher thrust the fork into the cake before upsetting the boat?", "hypothesis": "The teacher thrust the fork into the cake before upsetting the boat.", "label": "neutral"}
+{"premise": "Did the director hit the ball with the bat while reading the letter?", "hypothesis": "The director hit the ball with the bat while reading the letter.", "label": "neutral"}
+{"premise": "Did the athlete shut the door after hitting the ball with the bat?", "hypothesis": "The athlete shut the door after hitting the ball with the bat.", "label": "neutral"}
+{"premise": "Did the director burst into the room after hitting the ball with the bat?", "hypothesis": "The director burst into the room after hitting the ball with the bat.", "label": "neutral"}
+{"premise": "Did the child burst into the room after casting bronze into a statue?", "hypothesis": "The child burst into the room after casting bronze into a statue.", "label": "neutral"}
+{"premise": "Did the director upset the boat before slitting the envelope?", "hypothesis": "The director upset the boat before slitting the envelope.", "label": "neutral"}
+{"premise": "Did the woman bet $100 on the race when upsetting the boat?", "hypothesis": "The woman bet $100 on the race when upsetting the boat.", "label": "neutral"}
+{"premise": "Did the boy thrust the fork into the cake after spreading the rumor?", "hypothesis": "The boy thrust the fork into the cake after spreading the rumor.", "label": "neutral"}
+{"premise": "Did the child let the blinds down after setting the dish on the table?", "hypothesis": "The child let the blinds down after setting the dish on the table.", "label": "neutral"}
+{"premise": "Did the athlete cast bronze into a statue after setting the dish on the table?", "hypothesis": "The athlete cast bronze into a statue after setting the dish on the table.", "label": "neutral"}
+{"premise": "Did the child set the dish on the table while shedding tears?", "hypothesis": "The child set the dish on the table while shedding tears.", "label": "neutral"}
+{"premise": "Did the man burst into the room when shedding tears?", "hypothesis": "The man burst into the room when shedding tears.", "label": "neutral"}
+{"premise": "Did the boy burst into the room after betting $100 on the race?", "hypothesis": "The boy burst into the room after betting $100 on the race.", "label": "neutral"}
+{"premise": "Did the director hurt others after shedding tears?", "hypothesis": "The director hurt others after shedding tears.", "label": "neutral"}
+{"premise": "Did the director read the letter after letting the blinds down?", "hypothesis": "The director read the letter after letting the blinds down.", "label": "neutral"}
+{"premise": "Did the professor hit the ball with the bat while letting the blinds down?", "hypothesis": "The professor hit the ball with the bat while letting the blinds down.", "label": "neutral"}
+{"premise": "Did the manager spread the rumor while splitting the log?", "hypothesis": "The manager did not spread the rumor while splitting the log.", "label": "neutral"}
+{"premise": "Did the girl burst into the room when reading the letter?", "hypothesis": "The girl did not burst into the room when reading the letter.", "label": "neutral"}
+{"premise": "Did the athlete set the dish on the table while betting $100 on the race?", "hypothesis": "The athlete did not set the dish on the table while betting $100 on the race.", "label": "neutral"}
+{"premise": "Did the kid let the blinds down before bursting into the room?", "hypothesis": "The kid did not let the blinds down before bursting into the room.", "label": "neutral"}
+{"premise": "Did the director hurt others while thrusting the fork into the cake?", "hypothesis": "The director did not hurt others while thrusting the fork into the cake.", "label": "neutral"}
+{"premise": "Did the dancer put the book on the shelf before upsetting the boat?", "hypothesis": "The dancer did not put the book on the shelf before upsetting the boat.", "label": "neutral"}
+{"premise": "Did the teacher cast bronze into a statue while spreading the rumor?", "hypothesis": "The teacher did not cast bronze into a statue while spreading the rumor.", "label": "neutral"}
+{"premise": "Did the student put the book on the shelf before setting the dish on the table?", "hypothesis": "The student did not put the book on the shelf before setting the dish on the table.", "label": "neutral"}
+{"premise": "Did the teacher put the book on the shelf while shutting the door?", "hypothesis": "The teacher did not put the book on the shelf while shutting the door.", "label": "neutral"}
+{"premise": "Did the student set the dish on the table when betting $100 on the race?", "hypothesis": "The student did not set the dish on the table when betting $100 on the race.", "label": "neutral"}
+{"premise": "Did the child shut the door while slitting the envelope?", "hypothesis": "The child did not shut the door while slitting the envelope.", "label": "neutral"}
+{"premise": "Did the manager let the blinds down after betting $100 on the race?", "hypothesis": "The manager did not let the blinds down after betting $100 on the race.", "label": "neutral"}
+{"premise": "Did the kid put the book on the shelf after hurting others?", "hypothesis": "The kid did not put the book on the shelf after hurting others.", "label": "neutral"}
+{"premise": "Did the student burst into the room when setting the dish on the table?", "hypothesis": "The student did not burst into the room when setting the dish on the table.", "label": "neutral"}
+{"premise": "Did the athlete upset the boat while hurting others?", "hypothesis": "The athlete did not upset the boat while hurting others.", "label": "neutral"}
+{"premise": "Did the professor let the blinds down before slitting the envelope?", "hypothesis": "The professor did not let the blinds down before slitting the envelope.", "label": "neutral"}
+{"premise": "Did the singer hit the ball with the bat while setting the dish on the table?", "hypothesis": "The singer did not hit the ball with the bat while setting the dish on the table.", "label": "neutral"}
+{"premise": "Did the stranger hit the ball with the bat when hurting others?", "hypothesis": "The stranger did not hit the ball with the bat when hurting others.", "label": "neutral"}
+{"premise": "Did the worker read the letter after shutting the door?", "hypothesis": "The worker did not read the letter after shutting the door.", "label": "neutral"}
+{"premise": "Did the worker burst into the room before shutting the door?", "hypothesis": "The worker did not burst into the room before shutting the door.", "label": "neutral"}
+{"premise": "Did the manager cast bronze into a statue when thrusting the fork into the cake?", "hypothesis": "The manager did not cast bronze into a statue when thrusting the fork into the cake.", "label": "neutral"}
+{"premise": "Did the stranger shut the door before slitting the envelope?", "hypothesis": "The stranger did not shut the door before slitting the envelope.", "label": "neutral"}
+{"premise": "Did the professor read the letter when letting the blinds down?", "hypothesis": "The professor did not read the letter when letting the blinds down.", "label": "neutral"}
+{"premise": "Did the worker cast bronze into a statue when splitting the log?", "hypothesis": "The worker did not cast bronze into a statue when splitting the log.", "label": "neutral"}
+{"premise": "Did the teacher shed tears before upsetting the boat?", "hypothesis": "The teacher did not shed tears before upsetting the boat.", "label": "neutral"}
+{"premise": "Did the child split the log before slitting the envelope?", "hypothesis": "The child did not split the log before slitting the envelope.", "label": "neutral"}
+{"premise": "Did the man set the dish on the table before thrusting the fork into the cake?", "hypothesis": "The man did not set the dish on the table before thrusting the fork into the cake.", "label": "neutral"}
+{"premise": "Did the manager upset the boat after betting $100 on the race?", "hypothesis": "The manager did not upset the boat after betting $100 on the race.", "label": "neutral"}
+{"premise": "Did the worker shut the door before casting bronze into a statue?", "hypothesis": "The worker did not shut the door before casting bronze into a statue.", "label": "neutral"}
+{"premise": "Did the assistant shed tears before upsetting the boat?", "hypothesis": "The assistant did not shed tears before upsetting the boat.", "label": "neutral"}
+{"premise": "Did the stranger bet $100 on the race while upsetting the boat?", "hypothesis": "The stranger did not bet $100 on the race while upsetting the boat.", "label": "neutral"}
+{"premise": "Did the athlete shut the door after setting the dish on the table?", "hypothesis": "The athlete did not shut the door after setting the dish on the table.", "label": "neutral"}
+{"premise": "Did the man shut the door after upsetting the boat?", "hypothesis": "The man did not shut the door after upsetting the boat.", "label": "neutral"}
+{"premise": "Did the worker let the blinds down while splitting the log?", "hypothesis": "The worker did not let the blinds down while splitting the log.", "label": "neutral"}
+{"premise": "Did the professor set the dish on the table before thrusting the fork into the cake?", "hypothesis": "The professor did not set the dish on the table before thrusting the fork into the cake.", "label": "neutral"}
+{"premise": "Did the doctor split the log while letting the blinds down?", "hypothesis": "The doctor did not split the log while letting the blinds down.", "label": "neutral"}
+{"premise": "Did the boy spread the rumor after bursting into the room?", "hypothesis": "The boy did not spread the rumor after bursting into the room.", "label": "neutral"}
+{"premise": "Did the professor burst into the room after slitting the envelope?", "hypothesis": "The professor did not burst into the room after slitting the envelope.", "label": "neutral"}
+{"premise": "Did the man upset the boat while shedding tears?", "hypothesis": "The man did not upset the boat while shedding tears.", "label": "neutral"}
+{"premise": "Did the athlete bet $100 on the race before putting the book on the shelf?", "hypothesis": "The athlete did not bet $100 on the race before putting the book on the shelf.", "label": "neutral"}
+{"premise": "Did the child cast bronze into a statue when shutting the door?", "hypothesis": "The child did not cast bronze into a statue when shutting the door.", "label": "neutral"}
+{"premise": "Did the woman spread the rumor when splitting the log?", "hypothesis": "The woman did not spread the rumor when splitting the log.", "label": "neutral"}
+{"premise": "Did the director bet $100 on the race before reading the letter?", "hypothesis": "The director did not bet $100 on the race before reading the letter.", "label": "neutral"}
+{"premise": "Did the child cast bronze into a statue while hitting the ball with the bat?", "hypothesis": "The child did not cast bronze into a statue while hitting the ball with the bat.", "label": "neutral"}
+{"premise": "Did the kid split the log after hitting the ball with the bat?", "hypothesis": "The kid did not split the log after hitting the ball with the bat.", "label": "neutral"}
+{"premise": "Did the director read the letter before hitting the ball with the bat?", "hypothesis": "The director did not read the letter before hitting the ball with the bat.", "label": "neutral"}
+{"premise": "Did the woman split the log while hurting others?", "hypothesis": "The woman did not split the log while hurting others.", "label": "neutral"}
+{"premise": "Did the athlete hit the ball with the bat before thrusting the fork into the cake?", "hypothesis": "The athlete did not hit the ball with the bat before thrusting the fork into the cake.", "label": "neutral"}
+{"premise": "Did the singer burst into the room when shutting the door?", "hypothesis": "The singer did not burst into the room when shutting the door.", "label": "neutral"}
+{"premise": "Did the woman burst into the room while shutting the door?", "hypothesis": "The woman did not burst into the room while shutting the door.", "label": "neutral"}
+{"premise": "Did the man shed tears before reading the letter?", "hypothesis": "The man did not shed tears before reading the letter.", "label": "neutral"}
+{"premise": "Did the boy put the book on the shelf when spreading the rumor?", "hypothesis": "The boy did not put the book on the shelf when spreading the rumor.", "label": "neutral"}
+{"premise": "Did the doctor hurt others after reading the letter?", "hypothesis": "The doctor did not hurt others after reading the letter.", "label": "neutral"}
+{"premise": "Did the singer upset the boat while splitting the log?", "hypothesis": "The singer did not upset the boat while splitting the log.", "label": "neutral"}
+{"premise": "Did the kid slit the envelope after letting the blinds down?", "hypothesis": "The kid did not slit the envelope after letting the blinds down.", "label": "neutral"}
+{"premise": "Did the athlete put the book on the shelf when bursting into the room?", "hypothesis": "The athlete did not put the book on the shelf when bursting into the room.", "label": "neutral"}
+{"premise": "Did the assistant let the blinds down after upsetting the boat?", "hypothesis": "The assistant did not let the blinds down after upsetting the boat.", "label": "neutral"}
+{"premise": "Did the worker put the book on the shelf before shedding tears?", "hypothesis": "The worker did not put the book on the shelf before shedding tears.", "label": "neutral"}
+{"premise": "Did the assistant burst into the room while putting the book on the shelf?", "hypothesis": "The assistant did not burst into the room while putting the book on the shelf.", "label": "neutral"}
+{"premise": "Did the man hurt others when spreading the rumor?", "hypothesis": "The man did not hurt others when spreading the rumor.", "label": "neutral"}
+{"premise": "Did the worker bet $100 on the race after shutting the door?", "hypothesis": "The worker did not bet $100 on the race after shutting the door.", "label": "neutral"}
+{"premise": "Did the manager burst into the room before casting bronze into a statue?", "hypothesis": "The manager did not burst into the room before casting bronze into a statue.", "label": "neutral"}
+{"premise": "Did the director let the blinds down before putting the book on the shelf?", "hypothesis": "The director did not let the blinds down before putting the book on the shelf.", "label": "neutral"}
+{"premise": "Did the girl shed tears before slitting the envelope?", "hypothesis": "The girl did not shed tears before slitting the envelope.", "label": "neutral"}
+{"premise": "Did the professor cast bronze into a statue before shedding tears?", "hypothesis": "The professor did not cast bronze into a statue before shedding tears.", "label": "neutral"}
+{"premise": "Did the worker burst into the room before betting $100 on the race?", "hypothesis": "The worker did not burst into the room before betting $100 on the race.", "label": "neutral"}
+{"premise": "Did the manager hit the ball with the bat when hurting others?", "hypothesis": "The manager did not hit the ball with the bat when hurting others.", "label": "neutral"}
+{"premise": "Did the student slit the envelope while shedding tears?", "hypothesis": "The student did not slit the envelope while shedding tears.", "label": "neutral"}
+{"premise": "Did the woman cast bronze into a statue before bursting into the room?", "hypothesis": "The woman did not cast bronze into a statue before bursting into the room.", "label": "neutral"}
+{"premise": "Did the child read the letter before hurting others?", "hypothesis": "The child did not read the letter before hurting others.", "label": "neutral"}
+{"premise": "Did the singer let the blinds down before setting the dish on the table?", "hypothesis": "The singer did not let the blinds down before setting the dish on the table.", "label": "neutral"}
+{"premise": "Did the man hurt others when reading the letter?", "hypothesis": "The man did not hurt others when reading the letter.", "label": "neutral"}
+{"premise": "Did the child split the log while hitting the ball with the bat?", "hypothesis": "The child did not split the log while hitting the ball with the bat.", "label": "neutral"}
+{"premise": "Did the doctor upset the boat after shutting the door?", "hypothesis": "The doctor did not upset the boat after shutting the door.", "label": "neutral"}
+{"premise": "Did the child spread the rumor before betting $100 on the race?", "hypothesis": "The child did not spread the rumor before betting $100 on the race.", "label": "neutral"}
+{"premise": "Did the teacher hit the ball with the bat after putting the book on the shelf?", "hypothesis": "The teacher did not hit the ball with the bat after putting the book on the shelf.", "label": "neutral"}
+{"premise": "Did the kid hurt others when hitting the ball with the bat?", "hypothesis": "The kid did not hurt others when hitting the ball with the bat.", "label": "neutral"}
+{"premise": "Did the worker bet $100 on the race when letting the blinds down?", "hypothesis": "The worker did not bet $100 on the race when letting the blinds down.", "label": "neutral"}
+{"premise": "Did the assistant shed tears after hitting the ball with the bat?", "hypothesis": "The assistant did not shed tears after hitting the ball with the bat.", "label": "neutral"}
+{"premise": "Did the woman thrust the fork into the cake after reading the letter?", "hypothesis": "The woman did not thrust the fork into the cake after reading the letter.", "label": "neutral"}
+{"premise": "Did the doctor spread the rumor when upsetting the boat?", "hypothesis": "The doctor did not spread the rumor when upsetting the boat.", "label": "neutral"}
+{"premise": "Did the teacher cast bronze into a statue while splitting the log?", "hypothesis": "The teacher did not cast bronze into a statue while splitting the log.", "label": "neutral"}
+{"premise": "Did the girl burst into the room before reading the letter?", "hypothesis": "The girl did not burst into the room before reading the letter.", "label": "neutral"}
+{"premise": "Did the kid slit the envelope before casting bronze into a statue?", "hypothesis": "The kid did not slit the envelope before casting bronze into a statue.", "label": "neutral"}
+{"premise": "Did the woman shed tears while reading the letter?", "hypothesis": "The woman did not shed tears while reading the letter.", "label": "neutral"}
+{"premise": "Did the teacher let the blinds down after slitting the envelope?", "hypothesis": "The teacher did not let the blinds down after slitting the envelope.", "label": "neutral"}
+{"premise": "Did the doctor cast bronze into a statue after putting the book on the shelf?", "hypothesis": "The doctor did not cast bronze into a statue after putting the book on the shelf.", "label": "neutral"}
+{"premise": "Did the manager shut the door after putting the book on the shelf?", "hypothesis": "The manager did not shut the door after putting the book on the shelf.", "label": "neutral"}
+{"premise": "Did the assistant hit the ball with the bat after casting bronze into a statue?", "hypothesis": "The assistant did not hit the ball with the bat after casting bronze into a statue.", "label": "neutral"}
+{"premise": "Did the student burst into the room when splitting the log?", "hypothesis": "The student did not burst into the room when splitting the log.", "label": "neutral"}
+{"premise": "Did the stranger bet $100 on the race before thrusting the fork into the cake?", "hypothesis": "The stranger did not bet $100 on the race before thrusting the fork into the cake.", "label": "neutral"}
+{"premise": "Did the worker set the dish on the table after thrusting the fork into the cake?", "hypothesis": "The worker did not set the dish on the table after thrusting the fork into the cake.", "label": "neutral"}
+{"premise": "Did the girl hit the ball with the bat when shedding tears?", "hypothesis": "The girl did not hit the ball with the bat when shedding tears.", "label": "neutral"}
+{"premise": "Did the boy bet $100 on the race while shedding tears?", "hypothesis": "The boy did not bet $100 on the race while shedding tears.", "label": "neutral"}
+{"premise": "Did the athlete shut the door before setting the dish on the table?", "hypothesis": "The athlete did not shut the door before setting the dish on the table.", "label": "neutral"}
+{"premise": "Did the child spread the rumor when betting $100 on the race?", "hypothesis": "The child did not spread the rumor when betting $100 on the race.", "label": "neutral"}
+{"premise": "Did the student set the dish on the table while splitting the log?", "hypothesis": "The student did not set the dish on the table while splitting the log.", "label": "neutral"}
+{"premise": "Did the girl hurt others when bursting into the room?", "hypothesis": "The girl did not hurt others when bursting into the room.", "label": "neutral"}
+{"premise": "Did the dancer shed tears when thrusting the fork into the cake?", "hypothesis": "The dancer did not shed tears when thrusting the fork into the cake.", "label": "neutral"}
+{"premise": "Did the athlete hit the ball with the bat before shutting the door?", "hypothesis": "The athlete did not hit the ball with the bat before shutting the door.", "label": "neutral"}
+{"premise": "Did the worker split the log more seriously than the director?", "hypothesis": "The worker split the log more seriously than the director.", "label": "neutral"}
+{"premise": "Did the singer upset the boat worse than the athlete?", "hypothesis": "The singer upset the boat worse than the athlete.", "label": "neutral"}
+{"premise": "Did the dancer bet $100 on the race better than the worker?", "hypothesis": "The dancer bet $100 on the race better than the worker.", "label": "neutral"}
+{"premise": "Did the girl bet $100 on the race more seriously than the worker?", "hypothesis": "The girl bet $100 on the race more seriously than the worker.", "label": "neutral"}
+{"premise": "Did the man cast bronze into a statue better than the singer?", "hypothesis": "The man cast bronze into a statue better than the singer.", "label": "neutral"}
+{"premise": "Did the singer hit the ball with the bat worse than the kid?", "hypothesis": "The singer hit the ball with the bat worse than the kid.", "label": "neutral"}
+{"premise": "Did the student read the letter worse than the boy?", "hypothesis": "The student read the letter worse than the boy.", "label": "neutral"}
+{"premise": "Did the athlete slit the envelope earlier than the doctor?", "hypothesis": "The athlete slit the envelope earlier than the doctor.", "label": "neutral"}
+{"premise": "Did the doctor burst into the room more seriously than the dancer?", "hypothesis": "The doctor burst into the room more seriously than the dancer.", "label": "neutral"}
+{"premise": "Did the girl hurt others worse than the worker?", "hypothesis": "The girl hurt others worse than the worker.", "label": "neutral"}
+{"premise": "Did the girl split the log more seriously than the kid?", "hypothesis": "The girl split the log more seriously than the kid.", "label": "neutral"}
+{"premise": "Did the director let the blinds down earlier than the kid?", "hypothesis": "The director let the blinds down earlier than the kid.", "label": "neutral"}
+{"premise": "Did the worker bet $100 on the race worse than the doctor?", "hypothesis": "The worker bet $100 on the race worse than the doctor.", "label": "neutral"}
+{"premise": "Did the worker set the dish on the table earlier than the man?", "hypothesis": "The worker set the dish on the table earlier than the man.", "label": "neutral"}
+{"premise": "Did the boy set the dish on the table worse than the kid?", "hypothesis": "The boy set the dish on the table worse than the kid.", "label": "neutral"}
+{"premise": "Did the professor bet $100 on the race worse than the assistant?", "hypothesis": "The professor bet $100 on the race worse than the assistant.", "label": "neutral"}
+{"premise": "Did the boy hit the ball with the bat more seriously than the kid?", "hypothesis": "The boy hit the ball with the bat more seriously than the kid.", "label": "neutral"}
+{"premise": "Did the professor read the letter worse than the teacher?", "hypothesis": "The professor read the letter worse than the teacher.", "label": "neutral"}
+{"premise": "Did the kid spread the rumor earlier than the manager?", "hypothesis": "The kid spread the rumor earlier than the manager.", "label": "neutral"}
+{"premise": "Did the man read the letter more seriously than the woman?", "hypothesis": "The man read the letter more seriously than the woman.", "label": "neutral"}
+{"premise": "Did the manager shut the door more seriously than the professor?", "hypothesis": "The manager shut the door more seriously than the professor.", "label": "neutral"}
+{"premise": "Did the kid put the book on the shelf earlier than the assistant?", "hypothesis": "The kid put the book on the shelf earlier than the assistant.", "label": "neutral"}
+{"premise": "Did the boy hurt others worse than the doctor?", "hypothesis": "The boy hurt others worse than the doctor.", "label": "neutral"}
+{"premise": "Did the teacher put the book on the shelf worse than the student?", "hypothesis": "The teacher put the book on the shelf worse than the student.", "label": "neutral"}
+{"premise": "Did the assistant slit the envelope earlier than the man?", "hypothesis": "The assistant slit the envelope earlier than the man.", "label": "neutral"}
+{"premise": "Did the stranger shed tears more seriously than the kid?", "hypothesis": "The stranger shed tears more seriously than the kid.", "label": "neutral"}
+{"premise": "Did the athlete cast bronze into a statue earlier than the child?", "hypothesis": "The athlete cast bronze into a statue earlier than the child.", "label": "neutral"}
+{"premise": "Did the girl bet $100 on the race worse than the athlete?", "hypothesis": "The girl bet $100 on the race worse than the athlete.", "label": "neutral"}
+{"premise": "Did the manager slit the envelope better than the boy?", "hypothesis": "The manager slit the envelope better than the boy.", "label": "neutral"}
+{"premise": "Did the boy spread the rumor more seriously than the man?", "hypothesis": "The boy spread the rumor more seriously than the man.", "label": "neutral"}
+{"premise": "Did the worker shed tears earlier than the dancer?", "hypothesis": "The worker shed tears earlier than the dancer.", "label": "neutral"}
+{"premise": "Did the manager set the dish on the table worse than the kid?", "hypothesis": "The manager set the dish on the table worse than the kid.", "label": "neutral"}
+{"premise": "Did the boy split the log better than the director?", "hypothesis": "The boy split the log better than the director.", "label": "neutral"}
+{"premise": "Did the athlete split the log better than the teacher?", "hypothesis": "The athlete split the log better than the teacher.", "label": "neutral"}
+{"premise": "Did the girl put the book on the shelf worse than the director?", "hypothesis": "The girl put the book on the shelf worse than the director.", "label": "neutral"}
+{"premise": "Did the teacher spread the rumor more seriously than the boy?", "hypothesis": "The teacher spread the rumor more seriously than the boy.", "label": "neutral"}
+{"premise": "Did the dancer burst into the room better than the stranger?", "hypothesis": "The dancer burst into the room better than the stranger.", "label": "neutral"}
+{"premise": "Did the dancer cast bronze into a statue worse than the worker?", "hypothesis": "The dancer cast bronze into a statue worse than the worker.", "label": "neutral"}
+{"premise": "Did the singer cast bronze into a statue earlier than the boy?", "hypothesis": "The singer cast bronze into a statue earlier than the boy.", "label": "neutral"}
+{"premise": "Did the singer set the dish on the table better than the assistant?", "hypothesis": "The singer set the dish on the table better than the assistant.", "label": "neutral"}
+{"premise": "Did the worker thrust the fork into the cake worse than the doctor?", "hypothesis": "The worker thrust the fork into the cake worse than the doctor.", "label": "neutral"}
+{"premise": "Did the assistant let the blinds down worse than the athlete?", "hypothesis": "The assistant let the blinds down worse than the athlete.", "label": "neutral"}
+{"premise": "Did the singer split the log more seriously than the kid?", "hypothesis": "The singer split the log more seriously than the kid.", "label": "neutral"}
+{"premise": "Did the girl let the blinds down more seriously than the singer?", "hypothesis": "The girl let the blinds down more seriously than the singer.", "label": "neutral"}
+{"premise": "Did the singer set the dish on the table better than the child?", "hypothesis": "The singer set the dish on the table better than the child.", "label": "neutral"}
+{"premise": "Did the child cast bronze into a statue more seriously than the woman?", "hypothesis": "The child cast bronze into a statue more seriously than the woman.", "label": "neutral"}
+{"premise": "Did the doctor let the blinds down worse than the woman?", "hypothesis": "The doctor let the blinds down worse than the woman.", "label": "neutral"}
+{"premise": "Did the kid let the blinds down better than the director?", "hypothesis": "The kid let the blinds down better than the director.", "label": "neutral"}
+{"premise": "Did the assistant let the blinds down more seriously than the kid?", "hypothesis": "The assistant let the blinds down more seriously than the kid.", "label": "neutral"}
+{"premise": "Did the doctor thrust the fork into the cake better than the dancer?", "hypothesis": "The doctor thrust the fork into the cake better than the dancer.", "label": "neutral"}
+{"premise": "Did the assistant upset the boat worse than the student?", "hypothesis": "The assistant upset the boat worse than the student.", "label": "neutral"}
+{"premise": "Did the student set the dish on the table worse than the manager?", "hypothesis": "The student set the dish on the table worse than the manager.", "label": "neutral"}
+{"premise": "Did the student put the book on the shelf earlier than the singer?", "hypothesis": "The student put the book on the shelf earlier than the singer.", "label": "neutral"}
+{"premise": "Did the singer shut the door earlier than the girl?", "hypothesis": "The singer shut the door earlier than the girl.", "label": "neutral"}
+{"premise": "Did the woman upset the boat earlier than the manager?", "hypothesis": "The woman upset the boat earlier than the manager.", "label": "neutral"}
+{"premise": "Did the athlete burst into the room better than the worker?", "hypothesis": "The athlete burst into the room better than the worker.", "label": "neutral"}
+{"premise": "Did the worker cast bronze into a statue better than the man?", "hypothesis": "The worker cast bronze into a statue better than the man.", "label": "neutral"}
+{"premise": "Did the woman burst into the room worse than the dancer?", "hypothesis": "The woman burst into the room worse than the dancer.", "label": "neutral"}
+{"premise": "Did the child shed tears earlier than the girl?", "hypothesis": "The child shed tears earlier than the girl.", "label": "neutral"}
+{"premise": "Did the worker hit the ball with the bat better than the assistant?", "hypothesis": "The worker hit the ball with the bat better than the assistant.", "label": "neutral"}
+{"premise": "Did the girl put the book on the shelf worse than the stranger?", "hypothesis": "The girl put the book on the shelf worse than the stranger.", "label": "neutral"}
+{"premise": "Did the kid shut the door earlier than the dancer?", "hypothesis": "The kid shut the door earlier than the dancer.", "label": "neutral"}
+{"premise": "Did the boy hurt others earlier than the doctor?", "hypothesis": "The boy hurt others earlier than the doctor.", "label": "neutral"}
+{"premise": "Did the professor put the book on the shelf better than the kid?", "hypothesis": "The professor put the book on the shelf better than the kid.", "label": "neutral"}
+{"premise": "Did the doctor slit the envelope better than the man?", "hypothesis": "The doctor slit the envelope better than the man.", "label": "neutral"}
+{"premise": "Did the man shut the door better than the dancer?", "hypothesis": "The man shut the door better than the dancer.", "label": "neutral"}
+{"premise": "Did the singer set the dish on the table worse than the assistant?", "hypothesis": "The singer set the dish on the table worse than the assistant.", "label": "neutral"}
+{"premise": "Did the assistant upset the boat earlier than the child?", "hypothesis": "The assistant upset the boat earlier than the child.", "label": "neutral"}
+{"premise": "Did the woman set the dish on the table more seriously than the worker?", "hypothesis": "The woman set the dish on the table more seriously than the worker.", "label": "neutral"}
+{"premise": "Did the worker shed tears worse than the man?", "hypothesis": "The worker shed tears worse than the man.", "label": "neutral"}
+{"premise": "Did the assistant bet $100 on the race better than the teacher?", "hypothesis": "The assistant bet $100 on the race better than the teacher.", "label": "neutral"}
+{"premise": "Did the assistant cast bronze into a statue worse than the athlete?", "hypothesis": "The assistant cast bronze into a statue worse than the athlete.", "label": "neutral"}
+{"premise": "Did the child cast bronze into a statue worse than the doctor?", "hypothesis": "The child cast bronze into a statue worse than the doctor.", "label": "neutral"}
+{"premise": "Did the stranger burst into the room more seriously than the teacher?", "hypothesis": "The stranger burst into the room more seriously than the teacher.", "label": "neutral"}
+{"premise": "Did the student slit the envelope more seriously than the assistant?", "hypothesis": "The student slit the envelope more seriously than the assistant.", "label": "neutral"}
+{"premise": "Did the girl spread the rumor better than the stranger?", "hypothesis": "The girl spread the rumor better than the stranger.", "label": "neutral"}
+{"premise": "Did the kid hit the ball with the bat earlier than the singer?", "hypothesis": "The kid hit the ball with the bat earlier than the singer.", "label": "neutral"}
+{"premise": "Did the stranger let the blinds down more seriously than the dancer?", "hypothesis": "The stranger let the blinds down more seriously than the dancer.", "label": "neutral"}
+{"premise": "Did the teacher burst into the room more seriously than the child?", "hypothesis": "The teacher burst into the room more seriously than the child.", "label": "neutral"}
+{"premise": "Did the student let the blinds down better than the manager?", "hypothesis": "The student let the blinds down better than the manager.", "label": "neutral"}
+{"premise": "Did the man shut the door better than the manager?", "hypothesis": "The man shut the door better than the manager.", "label": "neutral"}
+{"premise": "Did the woman burst into the room more seriously than the director?", "hypothesis": "The woman burst into the room more seriously than the director.", "label": "neutral"}
+{"premise": "Did the girl set the dish on the table worse than the man?", "hypothesis": "The girl set the dish on the table worse than the man.", "label": "neutral"}
+{"premise": "Did the director upset the boat more seriously than the kid?", "hypothesis": "The director upset the boat more seriously than the kid.", "label": "neutral"}
+{"premise": "Did the man shut the door better than the stranger?", "hypothesis": "The man shut the door better than the stranger.", "label": "neutral"}
+{"premise": "Did the athlete bet $100 on the race worse than the man?", "hypothesis": "The athlete bet $100 on the race worse than the man.", "label": "neutral"}
+{"premise": "Did the director set the dish on the table more seriously than the man?", "hypothesis": "The director set the dish on the table more seriously than the man.", "label": "neutral"}
+{"premise": "Did the student shed tears more seriously than the teacher?", "hypothesis": "The student shed tears more seriously than the teacher.", "label": "neutral"}
+{"premise": "Did the manager shed tears worse than the stranger?", "hypothesis": "The manager shed tears worse than the stranger.", "label": "neutral"}
+{"premise": "Did the stranger shed tears more seriously than the woman?", "hypothesis": "The stranger shed tears more seriously than the woman.", "label": "neutral"}
+{"premise": "Did the man read the letter better than the child?", "hypothesis": "The man read the letter better than the child.", "label": "neutral"}
+{"premise": "Did the boy set the dish on the table more seriously than the athlete?", "hypothesis": "The boy set the dish on the table more seriously than the athlete.", "label": "neutral"}
+{"premise": "Did the student burst into the room better than the man?", "hypothesis": "The student burst into the room better than the man.", "label": "neutral"}
+{"premise": "Did the boy hurt others worse than the teacher?", "hypothesis": "The boy hurt others worse than the teacher.", "label": "neutral"}
+{"premise": "Did the doctor put the book on the shelf better than the student?", "hypothesis": "The doctor put the book on the shelf better than the student.", "label": "neutral"}
+{"premise": "Did the director spread the rumor earlier than the manager?", "hypothesis": "The director spread the rumor earlier than the manager.", "label": "neutral"}
+{"premise": "Did the worker hit the ball with the bat more seriously than the woman?", "hypothesis": "The worker hit the ball with the bat more seriously than the woman.", "label": "neutral"}
+{"premise": "Did the kid cast bronze into a statue better than the manager?", "hypothesis": "The kid cast bronze into a statue better than the manager.", "label": "neutral"}
+{"premise": "Did the girl slit the envelope better than the director?", "hypothesis": "The girl slit the envelope better than the director.", "label": "neutral"}
+{"premise": "Did the woman shed tears worse than the stranger?", "hypothesis": "The woman shed tears worse than the stranger.", "label": "neutral"}
+{"premise": "Did the assistant thrust the fork into the cake earlier than the girl?", "hypothesis": "The assistant did not thrust the fork into the cake earlier than the girl.", "label": "neutral"}
+{"premise": "Did the student shed tears worse than the assistant?", "hypothesis": "The student did not shed tears worse than the assistant.", "label": "neutral"}
+{"premise": "Did the student hurt others worse than the girl?", "hypothesis": "The student did not hurt others worse than the girl.", "label": "neutral"}
+{"premise": "Did the girl shut the door better than the worker?", "hypothesis": "The girl did not shut the door better than the worker.", "label": "neutral"}
+{"premise": "Did the dancer spread the rumor worse than the professor?", "hypothesis": "The dancer did not spread the rumor worse than the professor.", "label": "neutral"}
+{"premise": "Did the assistant bet $100 on the race more seriously than the boy?", "hypothesis": "The assistant did not bet $100 on the race more seriously than the boy.", "label": "neutral"}
+{"premise": "Did the kid set the dish on the table better than the teacher?", "hypothesis": "The kid did not set the dish on the table better than the teacher.", "label": "neutral"}
+{"premise": "Did the woman cast bronze into a statue worse than the student?", "hypothesis": "The woman did not cast bronze into a statue worse than the student.", "label": "neutral"}
+{"premise": "Did the worker upset the boat earlier than the singer?", "hypothesis": "The worker did not upset the boat earlier than the singer.", "label": "neutral"}
+{"premise": "Did the man shut the door better than the woman?", "hypothesis": "The man did not shut the door better than the woman.", "label": "neutral"}
+{"premise": "Did the director slit the envelope earlier than the kid?", "hypothesis": "The director did not slit the envelope earlier than the kid.", "label": "neutral"}
+{"premise": "Did the student slit the envelope more seriously than the man?", "hypothesis": "The student did not slit the envelope more seriously than the man.", "label": "neutral"}
+{"premise": "Did the assistant bet $100 on the race earlier than the boy?", "hypothesis": "The assistant did not bet $100 on the race earlier than the boy.", "label": "neutral"}
+{"premise": "Did the athlete burst into the room better than the girl?", "hypothesis": "The athlete did not burst into the room better than the girl.", "label": "neutral"}
+{"premise": "Did the boy upset the boat more seriously than the dancer?", "hypothesis": "The boy did not upset the boat more seriously than the dancer.", "label": "neutral"}
+{"premise": "Did the singer slit the envelope more seriously than the director?", "hypothesis": "The singer did not slit the envelope more seriously than the director.", "label": "neutral"}
+{"premise": "Did the dancer slit the envelope worse than the manager?", "hypothesis": "The dancer did not slit the envelope worse than the manager.", "label": "neutral"}
+{"premise": "Did the doctor spread the rumor earlier than the teacher?", "hypothesis": "The doctor did not spread the rumor earlier than the teacher.", "label": "neutral"}
+{"premise": "Did the child shed tears better than the man?", "hypothesis": "The child did not shed tears better than the man.", "label": "neutral"}
+{"premise": "Did the director hit the ball with the bat more seriously than the stranger?", "hypothesis": "The director did not hit the ball with the bat more seriously than the stranger.", "label": "neutral"}
+{"premise": "Did the student shut the door better than the manager?", "hypothesis": "The student did not shut the door better than the manager.", "label": "neutral"}
+{"premise": "Did the man hit the ball with the bat better than the professor?", "hypothesis": "The man did not hit the ball with the bat better than the professor.", "label": "neutral"}
+{"premise": "Did the manager bet $100 on the race earlier than the singer?", "hypothesis": "The manager did not bet $100 on the race earlier than the singer.", "label": "neutral"}
+{"premise": "Did the woman hurt others earlier than the assistant?", "hypothesis": "The woman did not hurt others earlier than the assistant.", "label": "neutral"}
+{"premise": "Did the teacher split the log earlier than the director?", "hypothesis": "The teacher did not split the log earlier than the director.", "label": "neutral"}
+{"premise": "Did the boy put the book on the shelf worse than the teacher?", "hypothesis": "The boy did not put the book on the shelf worse than the teacher.", "label": "neutral"}
+{"premise": "Did the athlete bet $100 on the race earlier than the kid?", "hypothesis": "The athlete did not bet $100 on the race earlier than the kid.", "label": "neutral"}
+{"premise": "Did the teacher spread the rumor more seriously than the woman?", "hypothesis": "The teacher did not spread the rumor more seriously than the woman.", "label": "neutral"}
+{"premise": "Did the director shut the door earlier than the man?", "hypothesis": "The director did not shut the door earlier than the man.", "label": "neutral"}
+{"premise": "Did the director thrust the fork into the cake better than the assistant?", "hypothesis": "The director did not thrust the fork into the cake better than the assistant.", "label": "neutral"}
+{"premise": "Did the kid hit the ball with the bat earlier than the worker?", "hypothesis": "The kid did not hit the ball with the bat earlier than the worker.", "label": "neutral"}
+{"premise": "Did the teacher let the blinds down more seriously than the singer?", "hypothesis": "The teacher did not let the blinds down more seriously than the singer.", "label": "neutral"}
+{"premise": "Did the doctor upset the boat more seriously than the dancer?", "hypothesis": "The doctor did not upset the boat more seriously than the dancer.", "label": "neutral"}
+{"premise": "Did the doctor put the book on the shelf worse than the athlete?", "hypothesis": "The doctor did not put the book on the shelf worse than the athlete.", "label": "neutral"}
+{"premise": "Did the child hurt others worse than the dancer?", "hypothesis": "The child did not hurt others worse than the dancer.", "label": "neutral"}
+{"premise": "Did the manager split the log better than the woman?", "hypothesis": "The manager did not split the log better than the woman.", "label": "neutral"}
+{"premise": "Did the doctor shed tears worse than the child?", "hypothesis": "The doctor did not shed tears worse than the child.", "label": "neutral"}
+{"premise": "Did the boy cast bronze into a statue more seriously than the student?", "hypothesis": "The boy did not cast bronze into a statue more seriously than the student.", "label": "neutral"}
+{"premise": "Did the worker burst into the room more seriously than the professor?", "hypothesis": "The worker did not burst into the room more seriously than the professor.", "label": "neutral"}
+{"premise": "Did the kid thrust the fork into the cake worse than the singer?", "hypothesis": "The kid did not thrust the fork into the cake worse than the singer.", "label": "neutral"}
+{"premise": "Did the athlete upset the boat more seriously than the doctor?", "hypothesis": "The athlete did not upset the boat more seriously than the doctor.", "label": "neutral"}
+{"premise": "Did the professor read the letter earlier than the kid?", "hypothesis": "The professor did not read the letter earlier than the kid.", "label": "neutral"}
+{"premise": "Did the director slit the envelope better than the woman?", "hypothesis": "The director did not slit the envelope better than the woman.", "label": "neutral"}
+{"premise": "Did the kid split the log more seriously than the girl?", "hypothesis": "The kid did not split the log more seriously than the girl.", "label": "neutral"}
+{"premise": "Did the kid put the book on the shelf better than the assistant?", "hypothesis": "The kid did not put the book on the shelf better than the assistant.", "label": "neutral"}
+{"premise": "Did the manager set the dish on the table better than the teacher?", "hypothesis": "The manager did not set the dish on the table better than the teacher.", "label": "neutral"}
+{"premise": "Did the teacher shed tears worse than the professor?", "hypothesis": "The teacher did not shed tears worse than the professor.", "label": "neutral"}
+{"premise": "Did the girl thrust the fork into the cake earlier than the doctor?", "hypothesis": "The girl did not thrust the fork into the cake earlier than the doctor.", "label": "neutral"}
+{"premise": "Did the woman put the book on the shelf better than the manager?", "hypothesis": "The woman did not put the book on the shelf better than the manager.", "label": "neutral"}
+{"premise": "Did the worker shed tears earlier than the kid?", "hypothesis": "The worker did not shed tears earlier than the kid.", "label": "neutral"}
+{"premise": "Did the professor hit the ball with the bat earlier than the stranger?", "hypothesis": "The professor did not hit the ball with the bat earlier than the stranger.", "label": "neutral"}
+{"premise": "Did the doctor split the log more seriously than the girl?", "hypothesis": "The doctor did not split the log more seriously than the girl.", "label": "neutral"}
+{"premise": "Did the dancer shed tears worse than the woman?", "hypothesis": "The dancer did not shed tears worse than the woman.", "label": "neutral"}
+{"premise": "Did the student let the blinds down worse than the manager?", "hypothesis": "The student did not let the blinds down worse than the manager.", "label": "neutral"}
+{"premise": "Did the student burst into the room worse than the singer?", "hypothesis": "The student did not burst into the room worse than the singer.", "label": "neutral"}
+{"premise": "Did the student split the log more seriously than the professor?", "hypothesis": "The student did not split the log more seriously than the professor.", "label": "neutral"}
+{"premise": "Did the singer hit the ball with the bat better than the teacher?", "hypothesis": "The singer did not hit the ball with the bat better than the teacher.", "label": "neutral"}
+{"premise": "Did the manager upset the boat more seriously than the man?", "hypothesis": "The manager did not upset the boat more seriously than the man.", "label": "neutral"}
+{"premise": "Did the girl slit the envelope worse than the dancer?", "hypothesis": "The girl did not slit the envelope worse than the dancer.", "label": "neutral"}
+{"premise": "Did the student upset the boat earlier than the woman?", "hypothesis": "The student did not upset the boat earlier than the woman.", "label": "neutral"}
+{"premise": "Did the manager set the dish on the table earlier than the student?", "hypothesis": "The manager did not set the dish on the table earlier than the student.", "label": "neutral"}
+{"premise": "Did the doctor upset the boat earlier than the teacher?", "hypothesis": "The doctor did not upset the boat earlier than the teacher.", "label": "neutral"}
+{"premise": "Did the child bet $100 on the race more seriously than the dancer?", "hypothesis": "The child did not bet $100 on the race more seriously than the dancer.", "label": "neutral"}
+{"premise": "Did the dancer thrust the fork into the cake earlier than the stranger?", "hypothesis": "The dancer did not thrust the fork into the cake earlier than the stranger.", "label": "neutral"}
+{"premise": "Did the director set the dish on the table better than the teacher?", "hypothesis": "The director did not set the dish on the table better than the teacher.", "label": "neutral"}
+{"premise": "Did the man let the blinds down earlier than the child?", "hypothesis": "The man did not let the blinds down earlier than the child.", "label": "neutral"}
+{"premise": "Did the director shed tears more seriously than the doctor?", "hypothesis": "The director did not shed tears more seriously than the doctor.", "label": "neutral"}
+{"premise": "Did the teacher upset the boat earlier than the director?", "hypothesis": "The teacher did not upset the boat earlier than the director.", "label": "neutral"}
+{"premise": "Did the manager hurt others earlier than the child?", "hypothesis": "The manager did not hurt others earlier than the child.", "label": "neutral"}
+{"premise": "Did the manager set the dish on the table worse than the woman?", "hypothesis": "The manager did not set the dish on the table worse than the woman.", "label": "neutral"}
+{"premise": "Did the assistant slit the envelope earlier than the professor?", "hypothesis": "The assistant did not slit the envelope earlier than the professor.", "label": "neutral"}
+{"premise": "Did the manager read the letter worse than the stranger?", "hypothesis": "The manager did not read the letter worse than the stranger.", "label": "neutral"}
+{"premise": "Did the director hit the ball with the bat earlier than the doctor?", "hypothesis": "The director did not hit the ball with the bat earlier than the doctor.", "label": "neutral"}
+{"premise": "Did the singer bet $100 on the race worse than the kid?", "hypothesis": "The singer did not bet $100 on the race worse than the kid.", "label": "neutral"}
+{"premise": "Did the doctor thrust the fork into the cake more seriously than the dancer?", "hypothesis": "The doctor did not thrust the fork into the cake more seriously than the dancer.", "label": "neutral"}
+{"premise": "Did the kid upset the boat worse than the doctor?", "hypothesis": "The kid did not upset the boat worse than the doctor.", "label": "neutral"}
+{"premise": "Did the man shut the door worse than the dancer?", "hypothesis": "The man did not shut the door worse than the dancer.", "label": "neutral"}
+{"premise": "Did the child bet $100 on the race more seriously than the teacher?", "hypothesis": "The child did not bet $100 on the race more seriously than the teacher.", "label": "neutral"}
+{"premise": "Did the dancer hit the ball with the bat better than the student?", "hypothesis": "The dancer did not hit the ball with the bat better than the student.", "label": "neutral"}
+{"premise": "Did the professor read the letter earlier than the doctor?", "hypothesis": "The professor did not read the letter earlier than the doctor.", "label": "neutral"}
+{"premise": "Did the assistant burst into the room more seriously than the boy?", "hypothesis": "The assistant did not burst into the room more seriously than the boy.", "label": "neutral"}
+{"premise": "Did the stranger shed tears earlier than the kid?", "hypothesis": "The stranger did not shed tears earlier than the kid.", "label": "neutral"}
+{"premise": "Did the manager let the blinds down worse than the worker?", "hypothesis": "The manager did not let the blinds down worse than the worker.", "label": "neutral"}
+{"premise": "Did the worker bet $100 on the race worse than the athlete?", "hypothesis": "The worker did not bet $100 on the race worse than the athlete.", "label": "neutral"}
+{"premise": "Did the girl bet $100 on the race worse than the stranger?", "hypothesis": "The girl did not bet $100 on the race worse than the stranger.", "label": "neutral"}
+{"premise": "Did the teacher hurt others more seriously than the athlete?", "hypothesis": "The teacher did not hurt others more seriously than the athlete.", "label": "neutral"}
+{"premise": "Did the girl slit the envelope better than the teacher?", "hypothesis": "The girl did not slit the envelope better than the teacher.", "label": "neutral"}
+{"premise": "Did the teacher split the log more seriously than the boy?", "hypothesis": "The teacher did not split the log more seriously than the boy.", "label": "neutral"}
+{"premise": "Did the singer put the book on the shelf earlier than the doctor?", "hypothesis": "The singer did not put the book on the shelf earlier than the doctor.", "label": "neutral"}
+{"premise": "Did the worker thrust the fork into the cake better than the doctor?", "hypothesis": "The worker did not thrust the fork into the cake better than the doctor.", "label": "neutral"}
+{"premise": "Did the girl spread the rumor better than the worker?", "hypothesis": "The girl did not spread the rumor better than the worker.", "label": "neutral"}
+{"premise": "Did the singer bet $100 on the race better than the director?", "hypothesis": "The singer did not bet $100 on the race better than the director.", "label": "neutral"}
+{"premise": "Did the girl hit the ball with the bat better than the singer?", "hypothesis": "The girl did not hit the ball with the bat better than the singer.", "label": "neutral"}
+{"premise": "Did the assistant shut the door worse than the boy?", "hypothesis": "The assistant did not shut the door worse than the boy.", "label": "neutral"}
+{"premise": "Did the man spread the rumor worse than the doctor?", "hypothesis": "The man did not spread the rumor worse than the doctor.", "label": "neutral"}
+{"premise": "Did the girl slit the envelope earlier than the director?", "hypothesis": "The girl did not slit the envelope earlier than the director.", "label": "neutral"}
+{"premise": "Did the student upset the boat more seriously than the athlete?", "hypothesis": "The student did not upset the boat more seriously than the athlete.", "label": "neutral"}
+{"premise": "Did the student let the blinds down earlier than the boy?", "hypothesis": "The student did not let the blinds down earlier than the boy.", "label": "neutral"}
+{"premise": "Did the assistant let the blinds down earlier than the man?", "hypothesis": "The assistant did not let the blinds down earlier than the man.", "label": "neutral"}
+{"premise": "Did the boy read the letter earlier than the teacher?", "hypothesis": "The boy did not read the letter earlier than the teacher.", "label": "neutral"}
+{"premise": "Did the professor cease casting bronze into a statue?", "hypothesis": "The professor ceased casting bronze into a statue.", "label": "neutral"}
+{"premise": "Did the singer finish spreading the rumor?", "hypothesis": "The singer finished spreading the rumor.", "label": "neutral"}
+{"premise": "Did the boy quit reading the letter?", "hypothesis": "The boy quit reading the letter.", "label": "neutral"}
+{"premise": "Did the girl stop reading the letter?", "hypothesis": "The girl stopped reading the letter.", "label": "neutral"}
+{"premise": "Did the assistant finish casting bronze into a statue?", "hypothesis": "The assistant finished casting bronze into a statue.", "label": "neutral"}
+{"premise": "Did the man continue shutting the door?", "hypothesis": "The man continued shutting the door.", "label": "neutral"}
+{"premise": "Did the director cease hitting the ball with the bat?", "hypothesis": "The director ceased hitting the ball with the bat.", "label": "neutral"}
+{"premise": "Did the worker quit thrusting the fork into the cake?", "hypothesis": "The worker quit thrusting the fork into the cake.", "label": "neutral"}
+{"premise": "Did the athlete quit hurting others?", "hypothesis": "The athlete quit hurting others.", "label": "neutral"}
+{"premise": "Did the athlete finish setting the dish on the table?", "hypothesis": "The athlete finished setting the dish on the table.", "label": "neutral"}
+{"premise": "Did the man stop betting $100 on the race?", "hypothesis": "The man stopped betting $100 on the race.", "label": "neutral"}
+{"premise": "Did the singer continue splitting the log?", "hypothesis": "The singer continued splitting the log.", "label": "neutral"}
+{"premise": "Did the student keep putting the book on the shelf?", "hypothesis": "The student kept putting the book on the shelf.", "label": "neutral"}
+{"premise": "Did the student quit letting the blinds down?", "hypothesis": "The student quit letting the blinds down.", "label": "neutral"}
+{"premise": "Did the woman stop letting the blinds down?", "hypothesis": "The woman stopped letting the blinds down.", "label": "neutral"}
+{"premise": "Did the manager continue setting the dish on the table?", "hypothesis": "The manager continued setting the dish on the table.", "label": "neutral"}
+{"premise": "Did the boy continue reading the letter?", "hypothesis": "The boy continued reading the letter.", "label": "neutral"}
+{"premise": "Did the kid cease upsetting the boat?", "hypothesis": "The kid ceased upsetting the boat.", "label": "neutral"}
+{"premise": "Did the student keep spreading the rumor?", "hypothesis": "The student kept spreading the rumor.", "label": "neutral"}
+{"premise": "Did the child quit reading the letter?", "hypothesis": "The child quit reading the letter.", "label": "neutral"}
+{"premise": "Did the assistant finish shedding tears?", "hypothesis": "The assistant finished shedding tears.", "label": "neutral"}
+{"premise": "Did the athlete quit shedding tears?", "hypothesis": "The athlete quit shedding tears.", "label": "neutral"}
+{"premise": "Did the athlete keep shedding tears?", "hypothesis": "The athlete kept shedding tears.", "label": "neutral"}
+{"premise": "Did the professor finish setting the dish on the table?", "hypothesis": "The professor finished setting the dish on the table.", "label": "neutral"}
+{"premise": "Did the teacher give up bursting into the room?", "hypothesis": "The teacher gave up bursting into the room.", "label": "neutral"}
+{"premise": "Did the girl cease upsetting the boat?", "hypothesis": "The girl ceased upsetting the boat.", "label": "neutral"}
+{"premise": "Did the athlete quit casting bronze into a statue?", "hypothesis": "The athlete quit casting bronze into a statue.", "label": "neutral"}
+{"premise": "Did the stranger quit hurting others?", "hypothesis": "The stranger quit hurting others.", "label": "neutral"}
+{"premise": "Did the woman give up hurting others?", "hypothesis": "The woman gave up hurting others.", "label": "neutral"}
+{"premise": "Did the girl finish hurting others?", "hypothesis": "The girl finished hurting others.", "label": "neutral"}
+{"premise": "Did the singer stop spreading the rumor?", "hypothesis": "The singer stopped spreading the rumor.", "label": "neutral"}
+{"premise": "Did the boy give up letting the blinds down?", "hypothesis": "The boy gave up letting the blinds down.", "label": "neutral"}
+{"premise": "Did the woman give up hurting others?", "hypothesis": "The woman gave up hurting others.", "label": "neutral"}
+{"premise": "Did the girl stop reading the letter?", "hypothesis": "The girl stopped reading the letter.", "label": "neutral"}
+{"premise": "Did the teacher cease hurting others?", "hypothesis": "The teacher ceased hurting others.", "label": "neutral"}
+{"premise": "Did the stranger finish bursting into the room?", "hypothesis": "The stranger finished bursting into the room.", "label": "neutral"}
+{"premise": "Did the director quit reading the letter?", "hypothesis": "The director quit reading the letter.", "label": "neutral"}
+{"premise": "Did the girl give up hurting others?", "hypothesis": "The girl gave up hurting others.", "label": "neutral"}
+{"premise": "Did the manager finish shedding tears?", "hypothesis": "The manager finished shedding tears.", "label": "neutral"}
+{"premise": "Did the doctor stop hitting the ball with the bat?", "hypothesis": "The doctor stopped hitting the ball with the bat.", "label": "neutral"}
+{"premise": "Did the kid keep bursting into the room?", "hypothesis": "The kid kept bursting into the room.", "label": "neutral"}
+{"premise": "Did the director cease hitting the ball with the bat?", "hypothesis": "The director ceased hitting the ball with the bat.", "label": "neutral"}
+{"premise": "Did the doctor cease spreading the rumor?", "hypothesis": "The doctor ceased spreading the rumor.", "label": "neutral"}
+{"premise": "Did the kid continue shedding tears?", "hypothesis": "The kid continued shedding tears.", "label": "neutral"}
+{"premise": "Did the singer quit putting the book on the shelf?", "hypothesis": "The singer quit putting the book on the shelf.", "label": "neutral"}
+{"premise": "Did the worker continue betting $100 on the race?", "hypothesis": "The worker continued betting $100 on the race.", "label": "neutral"}
+{"premise": "Did the doctor give up casting bronze into a statue?", "hypothesis": "The doctor gave up casting bronze into a statue.", "label": "neutral"}
+{"premise": "Did the assistant finish slitting the envelope?", "hypothesis": "The assistant finished slitting the envelope.", "label": "neutral"}
+{"premise": "Did the man keep bursting into the room?", "hypothesis": "The man kept bursting into the room.", "label": "neutral"}
+{"premise": "Did the stranger cease casting bronze into a statue?", "hypothesis": "The stranger ceased casting bronze into a statue.", "label": "neutral"}
+{"premise": "Did the dancer cease slitting the envelope?", "hypothesis": "The dancer ceased slitting the envelope.", "label": "neutral"}
+{"premise": "Did the man quit casting bronze into a statue?", "hypothesis": "The man quit casting bronze into a statue.", "label": "neutral"}
+{"premise": "Did the manager cease reading the letter?", "hypothesis": "The manager ceased reading the letter.", "label": "neutral"}
+{"premise": "Did the athlete cease slitting the envelope?", "hypothesis": "The athlete ceased slitting the envelope.", "label": "neutral"}
+{"premise": "Did the kid stop thrusting the fork into the cake?", "hypothesis": "The kid stopped thrusting the fork into the cake.", "label": "neutral"}
+{"premise": "Did the man continue casting bronze into a statue?", "hypothesis": "The man continued casting bronze into a statue.", "label": "neutral"}
+{"premise": "Did the teacher keep slitting the envelope?", "hypothesis": "The teacher kept slitting the envelope.", "label": "neutral"}
+{"premise": "Did the director finish casting bronze into a statue?", "hypothesis": "The director finished casting bronze into a statue.", "label": "neutral"}
+{"premise": "Did the manager stop hitting the ball with the bat?", "hypothesis": "The manager stopped hitting the ball with the bat.", "label": "neutral"}
+{"premise": "Did the teacher cease setting the dish on the table?", "hypothesis": "The teacher ceased setting the dish on the table.", "label": "neutral"}
+{"premise": "Did the kid cease casting bronze into a statue?", "hypothesis": "The kid ceased casting bronze into a statue.", "label": "neutral"}
+{"premise": "Did the boy continue hurting others?", "hypothesis": "The boy continued hurting others.", "label": "neutral"}
+{"premise": "Did the teacher give up hurting others?", "hypothesis": "The teacher gave up hurting others.", "label": "neutral"}
+{"premise": "Did the worker keep hitting the ball with the bat?", "hypothesis": "The worker kept hitting the ball with the bat.", "label": "neutral"}
+{"premise": "Did the professor finish shedding tears?", "hypothesis": "The professor finished shedding tears.", "label": "neutral"}
+{"premise": "Did the kid give up shutting the door?", "hypothesis": "The kid gave up shutting the door.", "label": "neutral"}
+{"premise": "Did the dancer keep slitting the envelope?", "hypothesis": "The dancer kept slitting the envelope.", "label": "neutral"}
+{"premise": "Did the doctor finish hurting others?", "hypothesis": "The doctor finished hurting others.", "label": "neutral"}
+{"premise": "Did the girl cease casting bronze into a statue?", "hypothesis": "The girl ceased casting bronze into a statue.", "label": "neutral"}
+{"premise": "Did the worker continue letting the blinds down?", "hypothesis": "The worker continued letting the blinds down.", "label": "neutral"}
+{"premise": "Did the woman cease shedding tears?", "hypothesis": "The woman ceased shedding tears.", "label": "neutral"}
+{"premise": "Did the singer finish hurting others?", "hypothesis": "The singer finished hurting others.", "label": "neutral"}
+{"premise": "Did the man give up putting the book on the shelf?", "hypothesis": "The man gave up putting the book on the shelf.", "label": "neutral"}
+{"premise": "Did the dancer give up reading the letter?", "hypothesis": "The dancer gave up reading the letter.", "label": "neutral"}
+{"premise": "Did the assistant quit shedding tears?", "hypothesis": "The assistant quit shedding tears.", "label": "neutral"}
+{"premise": "Did the man finish splitting the log?", "hypothesis": "The man finished splitting the log.", "label": "neutral"}
+{"premise": "Did the singer finish reading the letter?", "hypothesis": "The singer finished reading the letter.", "label": "neutral"}
+{"premise": "Did the stranger stop shedding tears?", "hypothesis": "The stranger stopped shedding tears.", "label": "neutral"}
+{"premise": "Did the manager finish splitting the log?", "hypothesis": "The manager finished splitting the log.", "label": "neutral"}
+{"premise": "Did the student keep upsetting the boat?", "hypothesis": "The student kept upsetting the boat.", "label": "neutral"}
+{"premise": "Did the kid quit thrusting the fork into the cake?", "hypothesis": "The kid quit thrusting the fork into the cake.", "label": "neutral"}
+{"premise": "Did the dancer keep splitting the log?", "hypothesis": "The dancer kept splitting the log.", "label": "neutral"}
+{"premise": "Did the student keep shutting the door?", "hypothesis": "The student kept shutting the door.", "label": "neutral"}
+{"premise": "Did the worker continue bursting into the room?", "hypothesis": "The worker continued bursting into the room.", "label": "neutral"}
+{"premise": "Did the teacher stop bursting into the room?", "hypothesis": "The teacher stopped bursting into the room.", "label": "neutral"}
+{"premise": "Did the professor cease bursting into the room?", "hypothesis": "The professor ceased bursting into the room.", "label": "neutral"}
+{"premise": "Did the stranger finish putting the book on the shelf?", "hypothesis": "The stranger finished putting the book on the shelf.", "label": "neutral"}
+{"premise": "Did the kid cease putting the book on the shelf?", "hypothesis": "The kid ceased putting the book on the shelf.", "label": "neutral"}
+{"premise": "Did the child stop shedding tears?", "hypothesis": "The child stopped shedding tears.", "label": "neutral"}
+{"premise": "Did the athlete continue thrusting the fork into the cake?", "hypothesis": "The athlete continued thrusting the fork into the cake.", "label": "neutral"}
+{"premise": "Did the teacher stop thrusting the fork into the cake?", "hypothesis": "The teacher stopped thrusting the fork into the cake.", "label": "neutral"}
+{"premise": "Did the singer continue letting the blinds down?", "hypothesis": "The singer continued letting the blinds down.", "label": "neutral"}
+{"premise": "Did the director keep slitting the envelope?", "hypothesis": "The director kept slitting the envelope.", "label": "neutral"}
+{"premise": "Did the child stop letting the blinds down?", "hypothesis": "The child stopped letting the blinds down.", "label": "neutral"}
+{"premise": "Did the stranger cease reading the letter?", "hypothesis": "The stranger ceased reading the letter.", "label": "neutral"}
+{"premise": "Did the professor quit putting the book on the shelf?", "hypothesis": "The professor quit putting the book on the shelf.", "label": "neutral"}
+{"premise": "Did the girl stop letting the blinds down?", "hypothesis": "The girl stopped letting the blinds down.", "label": "neutral"}
+{"premise": "Did the man finish bursting into the room?", "hypothesis": "The man finished bursting into the room.", "label": "neutral"}
+{"premise": "Did the kid give up hurting others?", "hypothesis": "The kid gave up hurting others.", "label": "neutral"}
+{"premise": "Did the teacher quit betting $100 on the race?", "hypothesis": "The teacher quit betting $100 on the race.", "label": "neutral"}
+{"premise": "Did the woman cease betting $100 on the race?", "hypothesis": "The woman did not cease betting $100 on the race.", "label": "neutral"}
+{"premise": "Did the professor continue upsetting the boat?", "hypothesis": "The professor did not continue upsetting the boat.", "label": "neutral"}
+{"premise": "Did the stranger keep upsetting the boat?", "hypothesis": "The stranger did not keep upsetting the boat.", "label": "neutral"}
+{"premise": "Did the student stop shedding tears?", "hypothesis": "The student did not stop shedding tears.", "label": "neutral"}
+{"premise": "Did the boy stop upsetting the boat?", "hypothesis": "The boy did not stop upsetting the boat.", "label": "neutral"}
+{"premise": "Did the worker give up spreading the rumor?", "hypothesis": "The worker did not give up spreading the rumor.", "label": "neutral"}
+{"premise": "Did the dancer cease slitting the envelope?", "hypothesis": "The dancer did not cease slitting the envelope.", "label": "neutral"}
+{"premise": "Did the worker continue setting the dish on the table?", "hypothesis": "The worker did not continue setting the dish on the table.", "label": "neutral"}
+{"premise": "Did the professor stop casting bronze into a statue?", "hypothesis": "The professor did not stop casting bronze into a statue.", "label": "neutral"}
+{"premise": "Did the student stop setting the dish on the table?", "hypothesis": "The student did not stop setting the dish on the table.", "label": "neutral"}
+{"premise": "Did the assistant finish reading the letter?", "hypothesis": "The assistant did not finish reading the letter.", "label": "neutral"}
+{"premise": "Did the worker stop reading the letter?", "hypothesis": "The worker did not stop reading the letter.", "label": "neutral"}
+{"premise": "Did the dancer quit slitting the envelope?", "hypothesis": "The dancer did not quit slitting the envelope.", "label": "neutral"}
+{"premise": "Did the singer keep letting the blinds down?", "hypothesis": "The singer did not keep letting the blinds down.", "label": "neutral"}
+{"premise": "Did the doctor quit slitting the envelope?", "hypothesis": "The doctor did not quit slitting the envelope.", "label": "neutral"}
+{"premise": "Did the singer cease hitting the ball with the bat?", "hypothesis": "The singer did not cease hitting the ball with the bat.", "label": "neutral"}
+{"premise": "Did the woman give up letting the blinds down?", "hypothesis": "The woman did not give up letting the blinds down.", "label": "neutral"}
+{"premise": "Did the student keep spreading the rumor?", "hypothesis": "The student did not keep spreading the rumor.", "label": "neutral"}
+{"premise": "Did the manager quit putting the book on the shelf?", "hypothesis": "The manager did not quit putting the book on the shelf.", "label": "neutral"}
+{"premise": "Did the director cease putting the book on the shelf?", "hypothesis": "The director did not cease putting the book on the shelf.", "label": "neutral"}
+{"premise": "Did the manager cease shedding tears?", "hypothesis": "The manager did not cease shedding tears.", "label": "neutral"}
+{"premise": "Did the manager continue bursting into the room?", "hypothesis": "The manager did not continue bursting into the room.", "label": "neutral"}
+{"premise": "Did the child give up hitting the ball with the bat?", "hypothesis": "The child did not give up hitting the ball with the bat.", "label": "neutral"}
+{"premise": "Did the manager stop letting the blinds down?", "hypothesis": "The manager did not stop letting the blinds down.", "label": "neutral"}
+{"premise": "Did the stranger give up hurting others?", "hypothesis": "The stranger did not give up hurting others.", "label": "neutral"}
+{"premise": "Did the singer cease spreading the rumor?", "hypothesis": "The singer did not cease spreading the rumor.", "label": "neutral"}
+{"premise": "Did the athlete finish shutting the door?", "hypothesis": "The athlete did not finish shutting the door.", "label": "neutral"}
+{"premise": "Did the man stop slitting the envelope?", "hypothesis": "The man did not stop slitting the envelope.", "label": "neutral"}
+{"premise": "Did the woman continue shutting the door?", "hypothesis": "The woman did not continue shutting the door.", "label": "neutral"}
+{"premise": "Did the child finish casting bronze into a statue?", "hypothesis": "The child did not finish casting bronze into a statue.", "label": "neutral"}
+{"premise": "Did the manager give up bursting into the room?", "hypothesis": "The manager did not give up bursting into the room.", "label": "neutral"}
+{"premise": "Did the professor keep letting the blinds down?", "hypothesis": "The professor did not keep letting the blinds down.", "label": "neutral"}
+{"premise": "Did the man finish upsetting the boat?", "hypothesis": "The man did not finish upsetting the boat.", "label": "neutral"}
+{"premise": "Did the stranger cease thrusting the fork into the cake?", "hypothesis": "The stranger did not cease thrusting the fork into the cake.", "label": "neutral"}
+{"premise": "Did the kid continue betting $100 on the race?", "hypothesis": "The kid did not continue betting $100 on the race.", "label": "neutral"}
+{"premise": "Did the singer quit shutting the door?", "hypothesis": "The singer did not quit shutting the door.", "label": "neutral"}
+{"premise": "Did the assistant finish bursting into the room?", "hypothesis": "The assistant did not finish bursting into the room.", "label": "neutral"}
+{"premise": "Did the dancer finish reading the letter?", "hypothesis": "The dancer did not finish reading the letter.", "label": "neutral"}
+{"premise": "Did the boy give up slitting the envelope?", "hypothesis": "The boy did not give up slitting the envelope.", "label": "neutral"}
+{"premise": "Did the dancer give up putting the book on the shelf?", "hypothesis": "The dancer did not give up putting the book on the shelf.", "label": "neutral"}
+{"premise": "Did the dancer give up slitting the envelope?", "hypothesis": "The dancer did not give up slitting the envelope.", "label": "neutral"}
+{"premise": "Did the director give up hitting the ball with the bat?", "hypothesis": "The director did not give up hitting the ball with the bat.", "label": "neutral"}
+{"premise": "Did the worker quit hurting others?", "hypothesis": "The worker did not quit hurting others.", "label": "neutral"}
+{"premise": "Did the manager cease letting the blinds down?", "hypothesis": "The manager did not cease letting the blinds down.", "label": "neutral"}
+{"premise": "Did the doctor finish bursting into the room?", "hypothesis": "The doctor did not finish bursting into the room.", "label": "neutral"}
+{"premise": "Did the worker quit letting the blinds down?", "hypothesis": "The worker did not quit letting the blinds down.", "label": "neutral"}
+{"premise": "Did the dancer cease putting the book on the shelf?", "hypothesis": "The dancer did not cease putting the book on the shelf.", "label": "neutral"}
+{"premise": "Did the child give up hurting others?", "hypothesis": "The child did not give up hurting others.", "label": "neutral"}
+{"premise": "Did the boy finish hurting others?", "hypothesis": "The boy did not finish hurting others.", "label": "neutral"}
+{"premise": "Did the boy stop putting the book on the shelf?", "hypothesis": "The boy did not stop putting the book on the shelf.", "label": "neutral"}
+{"premise": "Did the assistant keep reading the letter?", "hypothesis": "The assistant did not keep reading the letter.", "label": "neutral"}
+{"premise": "Did the doctor keep bursting into the room?", "hypothesis": "The doctor did not keep bursting into the room.", "label": "neutral"}
+{"premise": "Did the teacher keep splitting the log?", "hypothesis": "The teacher did not keep splitting the log.", "label": "neutral"}
+{"premise": "Did the athlete give up shutting the door?", "hypothesis": "The athlete did not give up shutting the door.", "label": "neutral"}
+{"premise": "Did the boy give up letting the blinds down?", "hypothesis": "The boy did not give up letting the blinds down.", "label": "neutral"}
+{"premise": "Did the singer stop casting bronze into a statue?", "hypothesis": "The singer did not stop casting bronze into a statue.", "label": "neutral"}
+{"premise": "Did the boy finish putting the book on the shelf?", "hypothesis": "The boy did not finish putting the book on the shelf.", "label": "neutral"}
+{"premise": "Did the director finish shedding tears?", "hypothesis": "The director did not finish shedding tears.", "label": "neutral"}
+{"premise": "Did the dancer give up letting the blinds down?", "hypothesis": "The dancer did not give up letting the blinds down.", "label": "neutral"}
+{"premise": "Did the student give up slitting the envelope?", "hypothesis": "The student did not give up slitting the envelope.", "label": "neutral"}
+{"premise": "Did the singer continue betting $100 on the race?", "hypothesis": "The singer did not continue betting $100 on the race.", "label": "neutral"}
+{"premise": "Did the manager give up shedding tears?", "hypothesis": "The manager did not give up shedding tears.", "label": "neutral"}
+{"premise": "Did the worker finish shedding tears?", "hypothesis": "The worker did not finish shedding tears.", "label": "neutral"}
+{"premise": "Did the girl finish spreading the rumor?", "hypothesis": "The girl did not finish spreading the rumor.", "label": "neutral"}
+{"premise": "Did the doctor finish hurting others?", "hypothesis": "The doctor did not finish hurting others.", "label": "neutral"}
+{"premise": "Did the dancer keep slitting the envelope?", "hypothesis": "The dancer did not keep slitting the envelope.", "label": "neutral"}
+{"premise": "Did the dancer give up casting bronze into a statue?", "hypothesis": "The dancer did not give up casting bronze into a statue.", "label": "neutral"}
+{"premise": "Did the worker quit thrusting the fork into the cake?", "hypothesis": "The worker did not quit thrusting the fork into the cake.", "label": "neutral"}
+{"premise": "Did the kid finish spreading the rumor?", "hypothesis": "The kid did not finish spreading the rumor.", "label": "neutral"}
+{"premise": "Did the director quit putting the book on the shelf?", "hypothesis": "The director did not quit putting the book on the shelf.", "label": "neutral"}
+{"premise": "Did the worker finish upsetting the boat?", "hypothesis": "The worker did not finish upsetting the boat.", "label": "neutral"}
+{"premise": "Did the woman finish letting the blinds down?", "hypothesis": "The woman did not finish letting the blinds down.", "label": "neutral"}
+{"premise": "Did the stranger give up reading the letter?", "hypothesis": "The stranger did not give up reading the letter.", "label": "neutral"}
+{"premise": "Did the girl give up hitting the ball with the bat?", "hypothesis": "The girl did not give up hitting the ball with the bat.", "label": "neutral"}
+{"premise": "Did the kid finish bursting into the room?", "hypothesis": "The kid did not finish bursting into the room.", "label": "neutral"}
+{"premise": "Did the assistant cease putting the book on the shelf?", "hypothesis": "The assistant did not cease putting the book on the shelf.", "label": "neutral"}
+{"premise": "Did the director give up betting $100 on the race?", "hypothesis": "The director did not give up betting $100 on the race.", "label": "neutral"}
+{"premise": "Did the man finish thrusting the fork into the cake?", "hypothesis": "The man did not finish thrusting the fork into the cake.", "label": "neutral"}
+{"premise": "Did the director stop putting the book on the shelf?", "hypothesis": "The director did not stop putting the book on the shelf.", "label": "neutral"}
+{"premise": "Did the singer cease setting the dish on the table?", "hypothesis": "The singer did not cease setting the dish on the table.", "label": "neutral"}
+{"premise": "Did the child stop thrusting the fork into the cake?", "hypothesis": "The child did not stop thrusting the fork into the cake.", "label": "neutral"}
+{"premise": "Did the doctor give up letting the blinds down?", "hypothesis": "The doctor did not give up letting the blinds down.", "label": "neutral"}
+{"premise": "Did the student keep splitting the log?", "hypothesis": "The student did not keep splitting the log.", "label": "neutral"}
+{"premise": "Did the stranger keep shedding tears?", "hypothesis": "The stranger did not keep shedding tears.", "label": "neutral"}
+{"premise": "Did the child cease spreading the rumor?", "hypothesis": "The child did not cease spreading the rumor.", "label": "neutral"}
+{"premise": "Did the director give up reading the letter?", "hypothesis": "The director did not give up reading the letter.", "label": "neutral"}
+{"premise": "Did the singer cease hurting others?", "hypothesis": "The singer did not cease hurting others.", "label": "neutral"}
+{"premise": "Did the child keep spreading the rumor?", "hypothesis": "The child did not keep spreading the rumor.", "label": "neutral"}
+{"premise": "Did the doctor stop hurting others?", "hypothesis": "The doctor did not stop hurting others.", "label": "neutral"}
+{"premise": "Did the child quit hitting the ball with the bat?", "hypothesis": "The child did not quit hitting the ball with the bat.", "label": "neutral"}
+{"premise": "Did the man finish betting $100 on the race?", "hypothesis": "The man did not finish betting $100 on the race.", "label": "neutral"}
+{"premise": "Did the girl quit hurting others?", "hypothesis": "The girl did not quit hurting others.", "label": "neutral"}
+{"premise": "Did the dancer quit shutting the door?", "hypothesis": "The dancer did not quit shutting the door.", "label": "neutral"}
+{"premise": "Did the doctor finish shutting the door?", "hypothesis": "The doctor did not finish shutting the door.", "label": "neutral"}
+{"premise": "Did the kid finish hurting others?", "hypothesis": "The kid did not finish hurting others.", "label": "neutral"}
+{"premise": "Did the assistant continue betting $100 on the race?", "hypothesis": "The assistant did not continue betting $100 on the race.", "label": "neutral"}
+{"premise": "Did the kid cease bursting into the room?", "hypothesis": "The kid did not cease bursting into the room.", "label": "neutral"}
+{"premise": "Did the director cease shutting the door?", "hypothesis": "The director did not cease shutting the door.", "label": "neutral"}
+{"premise": "Did the athlete stop slitting the envelope?", "hypothesis": "The athlete did not stop slitting the envelope.", "label": "neutral"}
+{"premise": "Did the stranger stop letting the blinds down?", "hypothesis": "The stranger did not stop letting the blinds down.", "label": "neutral"}
+{"premise": "Did the child remember splitting the log?", "hypothesis": "The child remembered splitting the log.", "label": "neutral"}
+{"premise": "Did the boy forget casting bronze into a statue?", "hypothesis": "The boy forgot casting bronze into a statue.", "label": "neutral"}
+{"premise": "Did the doctor forget setting the dish on the table?", "hypothesis": "The doctor forgot setting the dish on the table.", "label": "neutral"}
+{"premise": "Did the student regret reading the letter?", "hypothesis": "The student regretted reading the letter.", "label": "neutral"}
+{"premise": "Did the boy remember spreading the rumor?", "hypothesis": "The boy remembered spreading the rumor.", "label": "neutral"}
+{"premise": "Did the manager remember splitting the log?", "hypothesis": "The manager remembered splitting the log.", "label": "neutral"}
+{"premise": "Did the stranger forget hitting the ball with the bat?", "hypothesis": "The stranger forgot hitting the ball with the bat.", "label": "neutral"}
+{"premise": "Did the professor remember shedding tears?", "hypothesis": "The professor remembered shedding tears.", "label": "neutral"}
+{"premise": "Did the girl remember casting bronze into a statue?", "hypothesis": "The girl remembered casting bronze into a statue.", "label": "neutral"}
+{"premise": "Did the singer regret shutting the door?", "hypothesis": "The singer regretted shutting the door.", "label": "neutral"}
+{"premise": "Did the girl regret spreading the rumor?", "hypothesis": "The girl regretted spreading the rumor.", "label": "neutral"}
+{"premise": "Did the teacher forget hitting the ball with the bat?", "hypothesis": "The teacher forgot hitting the ball with the bat.", "label": "neutral"}
+{"premise": "Did the teacher regret bursting into the room?", "hypothesis": "The teacher regretted bursting into the room.", "label": "neutral"}
+{"premise": "Did the dancer regret putting the book on the shelf?", "hypothesis": "The dancer regretted putting the book on the shelf.", "label": "neutral"}
+{"premise": "Did the student regret betting $100 on the race?", "hypothesis": "The student regretted betting $100 on the race.", "label": "neutral"}
+{"premise": "Did the director forget betting $100 on the race?", "hypothesis": "The director forgot betting $100 on the race.", "label": "neutral"}
+{"premise": "Did the kid forget upsetting the boat?", "hypothesis": "The kid forgot upsetting the boat.", "label": "neutral"}
+{"premise": "Did the boy regret splitting the log?", "hypothesis": "The boy regretted splitting the log.", "label": "neutral"}
+{"premise": "Did the singer remember putting the book on the shelf?", "hypothesis": "The singer remembered putting the book on the shelf.", "label": "neutral"}
+{"premise": "Did the director remember letting the blinds down?", "hypothesis": "The director remembered letting the blinds down.", "label": "neutral"}
+{"premise": "Did the worker regret spreading the rumor?", "hypothesis": "The worker regretted spreading the rumor.", "label": "neutral"}
+{"premise": "Did the child remember putting the book on the shelf?", "hypothesis": "The child remembered putting the book on the shelf.", "label": "neutral"}
+{"premise": "Did the singer regret casting bronze into a statue?", "hypothesis": "The singer regretted casting bronze into a statue.", "label": "neutral"}
+{"premise": "Did the worker remember letting the blinds down?", "hypothesis": "The worker remembered letting the blinds down.", "label": "neutral"}
+{"premise": "Did the worker forget putting the book on the shelf?", "hypothesis": "The worker forgot putting the book on the shelf.", "label": "neutral"}
+{"premise": "Did the singer forget betting $100 on the race?", "hypothesis": "The singer forgot betting $100 on the race.", "label": "neutral"}
+{"premise": "Did the worker forget slitting the envelope?", "hypothesis": "The worker forgot slitting the envelope.", "label": "neutral"}
+{"premise": "Did the assistant regret hitting the ball with the bat?", "hypothesis": "The assistant regretted hitting the ball with the bat.", "label": "neutral"}
+{"premise": "Did the director remember betting $100 on the race?", "hypothesis": "The director remembered betting $100 on the race.", "label": "neutral"}
+{"premise": "Did the stranger regret reading the letter?", "hypothesis": "The stranger regretted reading the letter.", "label": "neutral"}
+{"premise": "Did the doctor remember slitting the envelope?", "hypothesis": "The doctor remembered slitting the envelope.", "label": "neutral"}
+{"premise": "Did the professor forget setting the dish on the table?", "hypothesis": "The professor forgot setting the dish on the table.", "label": "neutral"}
+{"premise": "Did the student remember casting bronze into a statue?", "hypothesis": "The student remembered casting bronze into a statue.", "label": "neutral"}
+{"premise": "Did the student forget shutting the door?", "hypothesis": "The student forgot shutting the door.", "label": "neutral"}
+{"premise": "Did the teacher remember casting bronze into a statue?", "hypothesis": "The teacher remembered casting bronze into a statue.", "label": "neutral"}
+{"premise": "Did the boy remember slitting the envelope?", "hypothesis": "The boy remembered slitting the envelope.", "label": "neutral"}
+{"premise": "Did the teacher remember betting $100 on the race?", "hypothesis": "The teacher remembered betting $100 on the race.", "label": "neutral"}
+{"premise": "Did the boy regret letting the blinds down?", "hypothesis": "The boy regretted letting the blinds down.", "label": "neutral"}
+{"premise": "Did the manager remember reading the letter?", "hypothesis": "The manager remembered reading the letter.", "label": "neutral"}
+{"premise": "Did the singer regret upsetting the boat?", "hypothesis": "The singer regretted upsetting the boat.", "label": "neutral"}
+{"premise": "Did the woman remember casting bronze into a statue?", "hypothesis": "The woman remembered casting bronze into a statue.", "label": "neutral"}
+{"premise": "Did the student regret betting $100 on the race?", "hypothesis": "The student regretted betting $100 on the race.", "label": "neutral"}
+{"premise": "Did the man remember reading the letter?", "hypothesis": "The man remembered reading the letter.", "label": "neutral"}
+{"premise": "Did the manager regret letting the blinds down?", "hypothesis": "The manager regretted letting the blinds down.", "label": "neutral"}
+{"premise": "Did the athlete remember splitting the log?", "hypothesis": "The athlete remembered splitting the log.", "label": "neutral"}
+{"premise": "Did the child regret upsetting the boat?", "hypothesis": "The child regretted upsetting the boat.", "label": "neutral"}
+{"premise": "Did the student forget putting the book on the shelf?", "hypothesis": "The student forgot putting the book on the shelf.", "label": "neutral"}
+{"premise": "Did the boy remember betting $100 on the race?", "hypothesis": "The boy remembered betting $100 on the race.", "label": "neutral"}
+{"premise": "Did the athlete forget putting the book on the shelf?", "hypothesis": "The athlete forgot putting the book on the shelf.", "label": "neutral"}
+{"premise": "Did the professor forget putting the book on the shelf?", "hypothesis": "The professor forgot putting the book on the shelf.", "label": "neutral"}
+{"premise": "Did the assistant regret slitting the envelope?", "hypothesis": "The assistant regretted slitting the envelope.", "label": "neutral"}
+{"premise": "Did the assistant remember setting the dish on the table?", "hypothesis": "The assistant remembered setting the dish on the table.", "label": "neutral"}
+{"premise": "Did the doctor remember bursting into the room?", "hypothesis": "The doctor remembered bursting into the room.", "label": "neutral"}
+{"premise": "Did the professor regret splitting the log?", "hypothesis": "The professor regretted splitting the log.", "label": "neutral"}
+{"premise": "Did the singer forget bursting into the room?", "hypothesis": "The singer forgot bursting into the room.", "label": "neutral"}
+{"premise": "Did the dancer remember betting $100 on the race?", "hypothesis": "The dancer remembered betting $100 on the race.", "label": "neutral"}
+{"premise": "Did the kid remember setting the dish on the table?", "hypothesis": "The kid remembered setting the dish on the table.", "label": "neutral"}
+{"premise": "Did the assistant regret letting the blinds down?", "hypothesis": "The assistant regretted letting the blinds down.", "label": "neutral"}
+{"premise": "Did the kid forget bursting into the room?", "hypothesis": "The kid forgot bursting into the room.", "label": "neutral"}
+{"premise": "Did the manager forget spreading the rumor?", "hypothesis": "The manager forgot spreading the rumor.", "label": "neutral"}
+{"premise": "Did the dancer forget setting the dish on the table?", "hypothesis": "The dancer forgot setting the dish on the table.", "label": "neutral"}
+{"premise": "Did the worker remember bursting into the room?", "hypothesis": "The worker remembered bursting into the room.", "label": "neutral"}
+{"premise": "Did the manager remember splitting the log?", "hypothesis": "The manager remembered splitting the log.", "label": "neutral"}
+{"premise": "Did the child remember letting the blinds down?", "hypothesis": "The child remembered letting the blinds down.", "label": "neutral"}
+{"premise": "Did the athlete forget casting bronze into a statue?", "hypothesis": "The athlete forgot casting bronze into a statue.", "label": "neutral"}
+{"premise": "Did the student remember upsetting the boat?", "hypothesis": "The student remembered upsetting the boat.", "label": "neutral"}
+{"premise": "Did the professor remember reading the letter?", "hypothesis": "The professor remembered reading the letter.", "label": "neutral"}
+{"premise": "Did the woman forget shutting the door?", "hypothesis": "The woman forgot shutting the door.", "label": "neutral"}
+{"premise": "Did the singer forget casting bronze into a statue?", "hypothesis": "The singer forgot casting bronze into a statue.", "label": "neutral"}
+{"premise": "Did the teacher remember bursting into the room?", "hypothesis": "The teacher remembered bursting into the room.", "label": "neutral"}
+{"premise": "Did the professor forget bursting into the room?", "hypothesis": "The professor forgot bursting into the room.", "label": "neutral"}
+{"premise": "Did the girl remember reading the letter?", "hypothesis": "The girl remembered reading the letter.", "label": "neutral"}
+{"premise": "Did the woman forget putting the book on the shelf?", "hypothesis": "The woman forgot putting the book on the shelf.", "label": "neutral"}
+{"premise": "Did the assistant forget shutting the door?", "hypothesis": "The assistant forgot shutting the door.", "label": "neutral"}
+{"premise": "Did the director remember hitting the ball with the bat?", "hypothesis": "The director remembered hitting the ball with the bat.", "label": "neutral"}
+{"premise": "Did the stranger remember shedding tears?", "hypothesis": "The stranger remembered shedding tears.", "label": "neutral"}
+{"premise": "Did the kid forget shedding tears?", "hypothesis": "The kid forgot shedding tears.", "label": "neutral"}
+{"premise": "Did the student forget betting $100 on the race?", "hypothesis": "The student forgot betting $100 on the race.", "label": "neutral"}
+{"premise": "Did the dancer remember splitting the log?", "hypothesis": "The dancer remembered splitting the log.", "label": "neutral"}
+{"premise": "Did the teacher forget casting bronze into a statue?", "hypothesis": "The teacher forgot casting bronze into a statue.", "label": "neutral"}
+{"premise": "Did the doctor remember letting the blinds down?", "hypothesis": "The doctor remembered letting the blinds down.", "label": "neutral"}
+{"premise": "Did the woman forget upsetting the boat?", "hypothesis": "The woman forgot upsetting the boat.", "label": "neutral"}
+{"premise": "Did the kid remember shutting the door?", "hypothesis": "The kid remembered shutting the door.", "label": "neutral"}
+{"premise": "Did the boy forget letting the blinds down?", "hypothesis": "The boy forgot letting the blinds down.", "label": "neutral"}
+{"premise": "Did the doctor regret spreading the rumor?", "hypothesis": "The doctor regretted spreading the rumor.", "label": "neutral"}
+{"premise": "Did the director forget casting bronze into a statue?", "hypothesis": "The director forgot casting bronze into a statue.", "label": "neutral"}
+{"premise": "Did the woman forget betting $100 on the race?", "hypothesis": "The woman forgot betting $100 on the race.", "label": "neutral"}
+{"premise": "Did the manager forget slitting the envelope?", "hypothesis": "The manager forgot slitting the envelope.", "label": "neutral"}
+{"premise": "Did the teacher forget thrusting the fork into the cake?", "hypothesis": "The teacher forgot thrusting the fork into the cake.", "label": "neutral"}
+{"premise": "Did the student forget hurting others?", "hypothesis": "The student forgot hurting others.", "label": "neutral"}
+{"premise": "Did the professor regret betting $100 on the race?", "hypothesis": "The professor regretted betting $100 on the race.", "label": "neutral"}
+{"premise": "Did the stranger forget hurting others?", "hypothesis": "The stranger forgot hurting others.", "label": "neutral"}
+{"premise": "Did the man remember hitting the ball with the bat?", "hypothesis": "The man remembered hitting the ball with the bat.", "label": "neutral"}
+{"premise": "Did the girl forget shedding tears?", "hypothesis": "The girl forgot shedding tears.", "label": "neutral"}
+{"premise": "Did the assistant remember bursting into the room?", "hypothesis": "The assistant remembered bursting into the room.", "label": "neutral"}
+{"premise": "Did the doctor remember shedding tears?", "hypothesis": "The doctor remembered shedding tears.", "label": "neutral"}
+{"premise": "Did the girl remember hurting others?", "hypothesis": "The girl remembered hurting others.", "label": "neutral"}
+{"premise": "Did the woman regret hitting the ball with the bat?", "hypothesis": "The woman regretted hitting the ball with the bat.", "label": "neutral"}
+{"premise": "Did the director regret letting the blinds down?", "hypothesis": "The director regretted letting the blinds down.", "label": "neutral"}
+{"premise": "Did the girl remember slitting the envelope?", "hypothesis": "The girl remembered slitting the envelope.", "label": "neutral"}
+{"premise": "Did the doctor forget splitting the log?", "hypothesis": "The doctor did not forget splitting the log.", "label": "neutral"}
+{"premise": "Did the kid remember setting the dish on the table?", "hypothesis": "The kid did not remember setting the dish on the table.", "label": "neutral"}
+{"premise": "Did the professor forget thrusting the fork into the cake?", "hypothesis": "The professor did not forget thrusting the fork into the cake.", "label": "neutral"}
+{"premise": "Did the woman regret reading the letter?", "hypothesis": "The woman did not regret reading the letter.", "label": "neutral"}
+{"premise": "Did the singer regret splitting the log?", "hypothesis": "The singer did not regret splitting the log.", "label": "neutral"}
+{"premise": "Did the dancer regret slitting the envelope?", "hypothesis": "The dancer did not regret slitting the envelope.", "label": "neutral"}
+{"premise": "Did the stranger forget shutting the door?", "hypothesis": "The stranger did not forget shutting the door.", "label": "neutral"}
+{"premise": "Did the singer remember betting $100 on the race?", "hypothesis": "The singer did not remember betting $100 on the race.", "label": "neutral"}
+{"premise": "Did the child forget shutting the door?", "hypothesis": "The child did not forget shutting the door.", "label": "neutral"}
+{"premise": "Did the student forget shutting the door?", "hypothesis": "The student did not forget shutting the door.", "label": "neutral"}
+{"premise": "Did the woman regret shutting the door?", "hypothesis": "The woman did not regret shutting the door.", "label": "neutral"}
+{"premise": "Did the singer remember putting the book on the shelf?", "hypothesis": "The singer did not remember putting the book on the shelf.", "label": "neutral"}
+{"premise": "Did the student remember putting the book on the shelf?", "hypothesis": "The student did not remember putting the book on the shelf.", "label": "neutral"}
+{"premise": "Did the dancer regret slitting the envelope?", "hypothesis": "The dancer did not regret slitting the envelope.", "label": "neutral"}
+{"premise": "Did the director forget shutting the door?", "hypothesis": "The director did not forget shutting the door.", "label": "neutral"}
+{"premise": "Did the woman regret casting bronze into a statue?", "hypothesis": "The woman did not regret casting bronze into a statue.", "label": "neutral"}
+{"premise": "Did the director regret shutting the door?", "hypothesis": "The director did not regret shutting the door.", "label": "neutral"}
+{"premise": "Did the man remember casting bronze into a statue?", "hypothesis": "The man did not remember casting bronze into a statue.", "label": "neutral"}
+{"premise": "Did the singer remember thrusting the fork into the cake?", "hypothesis": "The singer did not remember thrusting the fork into the cake.", "label": "neutral"}
+{"premise": "Did the dancer regret shutting the door?", "hypothesis": "The dancer did not regret shutting the door.", "label": "neutral"}
+{"premise": "Did the kid forget hitting the ball with the bat?", "hypothesis": "The kid did not forget hitting the ball with the bat.", "label": "neutral"}
+{"premise": "Did the singer forget bursting into the room?", "hypothesis": "The singer did not forget bursting into the room.", "label": "neutral"}
+{"premise": "Did the worker remember slitting the envelope?", "hypothesis": "The worker did not remember slitting the envelope.", "label": "neutral"}
+{"premise": "Did the professor remember setting the dish on the table?", "hypothesis": "The professor did not remember setting the dish on the table.", "label": "neutral"}
+{"premise": "Did the dancer remember hitting the ball with the bat?", "hypothesis": "The dancer did not remember hitting the ball with the bat.", "label": "neutral"}
+{"premise": "Did the student regret upsetting the boat?", "hypothesis": "The student did not regret upsetting the boat.", "label": "neutral"}
+{"premise": "Did the professor forget thrusting the fork into the cake?", "hypothesis": "The professor did not forget thrusting the fork into the cake.", "label": "neutral"}
+{"premise": "Did the director forget shedding tears?", "hypothesis": "The director did not forget shedding tears.", "label": "neutral"}
+{"premise": "Did the manager remember splitting the log?", "hypothesis": "The manager did not remember splitting the log.", "label": "neutral"}
+{"premise": "Did the professor regret betting $100 on the race?", "hypothesis": "The professor did not regret betting $100 on the race.", "label": "neutral"}
+{"premise": "Did the singer forget thrusting the fork into the cake?", "hypothesis": "The singer did not forget thrusting the fork into the cake.", "label": "neutral"}
+{"premise": "Did the manager regret hitting the ball with the bat?", "hypothesis": "The manager did not regret hitting the ball with the bat.", "label": "neutral"}
+{"premise": "Did the kid remember upsetting the boat?", "hypothesis": "The kid did not remember upsetting the boat.", "label": "neutral"}
+{"premise": "Did the dancer forget casting bronze into a statue?", "hypothesis": "The dancer did not forget casting bronze into a statue.", "label": "neutral"}
+{"premise": "Did the singer forget bursting into the room?", "hypothesis": "The singer did not forget bursting into the room.", "label": "neutral"}
+{"premise": "Did the student forget upsetting the boat?", "hypothesis": "The student did not forget upsetting the boat.", "label": "neutral"}
+{"premise": "Did the doctor regret thrusting the fork into the cake?", "hypothesis": "The doctor did not regret thrusting the fork into the cake.", "label": "neutral"}
+{"premise": "Did the woman remember spreading the rumor?", "hypothesis": "The woman did not remember spreading the rumor.", "label": "neutral"}
+{"premise": "Did the boy forget splitting the log?", "hypothesis": "The boy did not forget splitting the log.", "label": "neutral"}
+{"premise": "Did the child regret bursting into the room?", "hypothesis": "The child did not regret bursting into the room.", "label": "neutral"}
+{"premise": "Did the man remember upsetting the boat?", "hypothesis": "The man did not remember upsetting the boat.", "label": "neutral"}
+{"premise": "Did the boy forget reading the letter?", "hypothesis": "The boy did not forget reading the letter.", "label": "neutral"}
+{"premise": "Did the worker regret setting the dish on the table?", "hypothesis": "The worker did not regret setting the dish on the table.", "label": "neutral"}
+{"premise": "Did the worker remember reading the letter?", "hypothesis": "The worker did not remember reading the letter.", "label": "neutral"}
+{"premise": "Did the director regret casting bronze into a statue?", "hypothesis": "The director did not regret casting bronze into a statue.", "label": "neutral"}
+{"premise": "Did the worker regret splitting the log?", "hypothesis": "The worker did not regret splitting the log.", "label": "neutral"}
+{"premise": "Did the student remember letting the blinds down?", "hypothesis": "The student did not remember letting the blinds down.", "label": "neutral"}
+{"premise": "Did the athlete forget hitting the ball with the bat?", "hypothesis": "The athlete did not forget hitting the ball with the bat.", "label": "neutral"}
+{"premise": "Did the assistant remember hitting the ball with the bat?", "hypothesis": "The assistant did not remember hitting the ball with the bat.", "label": "neutral"}
+{"premise": "Did the assistant forget hitting the ball with the bat?", "hypothesis": "The assistant did not forget hitting the ball with the bat.", "label": "neutral"}
+{"premise": "Did the kid forget betting $100 on the race?", "hypothesis": "The kid did not forget betting $100 on the race.", "label": "neutral"}
+{"premise": "Did the boy forget thrusting the fork into the cake?", "hypothesis": "The boy did not forget thrusting the fork into the cake.", "label": "neutral"}
+{"premise": "Did the worker forget reading the letter?", "hypothesis": "The worker did not forget reading the letter.", "label": "neutral"}
+{"premise": "Did the manager remember thrusting the fork into the cake?", "hypothesis": "The manager did not remember thrusting the fork into the cake.", "label": "neutral"}
+{"premise": "Did the child remember bursting into the room?", "hypothesis": "The child did not remember bursting into the room.", "label": "neutral"}
+{"premise": "Did the professor regret splitting the log?", "hypothesis": "The professor did not regret splitting the log.", "label": "neutral"}
+{"premise": "Did the kid forget setting the dish on the table?", "hypothesis": "The kid did not forget setting the dish on the table.", "label": "neutral"}
+{"premise": "Did the stranger remember hitting the ball with the bat?", "hypothesis": "The stranger did not remember hitting the ball with the bat.", "label": "neutral"}
+{"premise": "Did the student regret slitting the envelope?", "hypothesis": "The student did not regret slitting the envelope.", "label": "neutral"}
+{"premise": "Did the doctor remember casting bronze into a statue?", "hypothesis": "The doctor did not remember casting bronze into a statue.", "label": "neutral"}
+{"premise": "Did the girl remember putting the book on the shelf?", "hypothesis": "The girl did not remember putting the book on the shelf.", "label": "neutral"}
+{"premise": "Did the manager regret putting the book on the shelf?", "hypothesis": "The manager did not regret putting the book on the shelf.", "label": "neutral"}
+{"premise": "Did the athlete remember putting the book on the shelf?", "hypothesis": "The athlete did not remember putting the book on the shelf.", "label": "neutral"}
+{"premise": "Did the student remember hitting the ball with the bat?", "hypothesis": "The student did not remember hitting the ball with the bat.", "label": "neutral"}
+{"premise": "Did the teacher regret casting bronze into a statue?", "hypothesis": "The teacher did not regret casting bronze into a statue.", "label": "neutral"}
+{"premise": "Did the professor regret bursting into the room?", "hypothesis": "The professor did not regret bursting into the room.", "label": "neutral"}
+{"premise": "Did the manager forget putting the book on the shelf?", "hypothesis": "The manager did not forget putting the book on the shelf.", "label": "neutral"}
+{"premise": "Did the boy forget splitting the log?", "hypothesis": "The boy did not forget splitting the log.", "label": "neutral"}
+{"premise": "Did the worker forget reading the letter?", "hypothesis": "The worker did not forget reading the letter.", "label": "neutral"}
+{"premise": "Did the professor remember reading the letter?", "hypothesis": "The professor did not remember reading the letter.", "label": "neutral"}
+{"premise": "Did the child regret spreading the rumor?", "hypothesis": "The child did not regret spreading the rumor.", "label": "neutral"}
+{"premise": "Did the kid remember bursting into the room?", "hypothesis": "The kid did not remember bursting into the room.", "label": "neutral"}
+{"premise": "Did the manager remember spreading the rumor?", "hypothesis": "The manager did not remember spreading the rumor.", "label": "neutral"}
+{"premise": "Did the child regret thrusting the fork into the cake?", "hypothesis": "The child did not regret thrusting the fork into the cake.", "label": "neutral"}
+{"premise": "Did the teacher remember shutting the door?", "hypothesis": "The teacher did not remember shutting the door.", "label": "neutral"}
+{"premise": "Did the director regret slitting the envelope?", "hypothesis": "The director did not regret slitting the envelope.", "label": "neutral"}
+{"premise": "Did the dancer remember hitting the ball with the bat?", "hypothesis": "The dancer did not remember hitting the ball with the bat.", "label": "neutral"}
+{"premise": "Did the assistant forget hitting the ball with the bat?", "hypothesis": "The assistant did not forget hitting the ball with the bat.", "label": "neutral"}
+{"premise": "Did the singer regret bursting into the room?", "hypothesis": "The singer did not regret bursting into the room.", "label": "neutral"}
+{"premise": "Did the student remember hitting the ball with the bat?", "hypothesis": "The student did not remember hitting the ball with the bat.", "label": "neutral"}
+{"premise": "Did the student forget shedding tears?", "hypothesis": "The student did not forget shedding tears.", "label": "neutral"}
+{"premise": "Did the student remember spreading the rumor?", "hypothesis": "The student did not remember spreading the rumor.", "label": "neutral"}
+{"premise": "Did the student regret bursting into the room?", "hypothesis": "The student did not regret bursting into the room.", "label": "neutral"}
+{"premise": "Did the kid remember slitting the envelope?", "hypothesis": "The kid did not remember slitting the envelope.", "label": "neutral"}
+{"premise": "Did the assistant regret bursting into the room?", "hypothesis": "The assistant did not regret bursting into the room.", "label": "neutral"}
+{"premise": "Did the woman remember setting the dish on the table?", "hypothesis": "The woman did not remember setting the dish on the table.", "label": "neutral"}
+{"premise": "Did the teacher remember slitting the envelope?", "hypothesis": "The teacher did not remember slitting the envelope.", "label": "neutral"}
+{"premise": "Did the assistant remember bursting into the room?", "hypothesis": "The assistant did not remember bursting into the room.", "label": "neutral"}
+{"premise": "Did the teacher regret putting the book on the shelf?", "hypothesis": "The teacher did not regret putting the book on the shelf.", "label": "neutral"}
+{"premise": "Did the manager forget slitting the envelope?", "hypothesis": "The manager did not forget slitting the envelope.", "label": "neutral"}
+{"premise": "Did the child remember shutting the door?", "hypothesis": "The child did not remember shutting the door.", "label": "neutral"}
+{"premise": "Did the professor forget upsetting the boat?", "hypothesis": "The professor did not forget upsetting the boat.", "label": "neutral"}
+{"premise": "Did the doctor regret slitting the envelope?", "hypothesis": "The doctor did not regret slitting the envelope.", "label": "neutral"}
+{"premise": "Did the student regret shedding tears?", "hypothesis": "The student did not regret shedding tears.", "label": "neutral"}
+{"premise": "Did the manager regret spreading the rumor?", "hypothesis": "The manager did not regret spreading the rumor.", "label": "neutral"}
+{"premise": "Did the athlete forget letting the blinds down?", "hypothesis": "The athlete did not forget letting the blinds down.", "label": "neutral"}
+{"premise": "Did the director forget casting bronze into a statue?", "hypothesis": "The director did not forget casting bronze into a statue.", "label": "neutral"}
+{"premise": "Did the child remember betting $100 on the race?", "hypothesis": "The child did not remember betting $100 on the race.", "label": "neutral"}
+{"premise": "Did the teacher forget bursting into the room?", "hypothesis": "The teacher did not forget bursting into the room.", "label": "neutral"}
+{"premise": "Did the athlete forget thrusting the fork into the cake?", "hypothesis": "The athlete did not forget thrusting the fork into the cake.", "label": "neutral"}

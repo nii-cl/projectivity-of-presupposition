@@ -1,0 +1,200 @@
+{"premise": "The manager split the log before thrusting the fork into the cake.", "hypothesis": "The manager thrust the fork into the cake.", "label": "entailment"}
+{"premise": "The doctor cast bronze into a statue before setting the dish on the table.", "hypothesis": "The doctor set the dish on the table.", "label": "entailment"}
+{"premise": "The manager let the blinds down when shutting the door.", "hypothesis": "The manager shut the door.", "label": "entailment"}
+{"premise": "The teacher burst into the room when upsetting the boat.", "hypothesis": "The teacher upset the boat.", "label": "entailment"}
+{"premise": "The student burst into the room after splitting the log.", "hypothesis": "The student split the log.", "label": "entailment"}
+{"premise": "The boy spread the rumor when bursting into the room.", "hypothesis": "The boy burst into the room.", "label": "entailment"}
+{"premise": "The woman shed tears after bursting into the room.", "hypothesis": "The woman burst into the room.", "label": "entailment"}
+{"premise": "The man hit the ball with the bat before setting the dish on the table.", "hypothesis": "The man set the dish on the table.", "label": "entailment"}
+{"premise": "The dancer hurt others while bursting into the room.", "hypothesis": "The dancer burst into the room.", "label": "entailment"}
+{"premise": "The child set the dish on the table while thrusting the fork into the cake.", "hypothesis": "The child thrust the fork into the cake.", "label": "entailment"}
+{"premise": "The assistant thrust the fork into the cake while hitting the ball with the bat.", "hypothesis": "The assistant hit the ball with the bat.", "label": "entailment"}
+{"premise": "The worker put the book on the shelf before shutting the door.", "hypothesis": "The worker shut the door.", "label": "entailment"}
+{"premise": "The man hurt others before hitting the ball with the bat.", "hypothesis": "The man hit the ball with the bat.", "label": "entailment"}
+{"premise": "The child let the blinds down before spreading the rumor.", "hypothesis": "The child spread the rumor.", "label": "entailment"}
+{"premise": "The doctor read the letter while setting the dish on the table.", "hypothesis": "The doctor set the dish on the table.", "label": "entailment"}
+{"premise": "The teacher bet $100 on the race before spreading the rumor.", "hypothesis": "The teacher spread the rumor.", "label": "entailment"}
+{"premise": "The athlete hit the ball with the bat before spreading the rumor.", "hypothesis": "The athlete spread the rumor.", "label": "entailment"}
+{"premise": "The stranger bet $100 on the race after thrusting the fork into the cake.", "hypothesis": "The stranger thrust the fork into the cake.", "label": "entailment"}
+{"premise": "The child set the dish on the table when spreading the rumor.", "hypothesis": "The child spread the rumor.", "label": "entailment"}
+{"premise": "The dancer read the letter while shedding tears.", "hypothesis": "The dancer shed tears.", "label": "entailment"}
+{"premise": "The teacher let the blinds down when hurting others.", "hypothesis": "The teacher hurt others.", "label": "entailment"}
+{"premise": "The manager slit the envelope while hurting others.", "hypothesis": "The manager hurt others.", "label": "entailment"}
+{"premise": "The professor put the book on the shelf while casting bronze into a statue.", "hypothesis": "The professor cast bronze into a statue.", "label": "entailment"}
+{"premise": "The boy split the log before spreading the rumor.", "hypothesis": "The boy spread the rumor.", "label": "entailment"}
+{"premise": "The child thrust the fork into the cake when bursting into the room.", "hypothesis": "The child burst into the room.", "label": "entailment"}
+{"premise": "The singer set the dish on the table after spreading the rumor.", "hypothesis": "The singer spread the rumor.", "label": "entailment"}
+{"premise": "The teacher cast bronze into a statue after slitting the envelope.", "hypothesis": "The teacher slit the envelope.", "label": "entailment"}
+{"premise": "The student spread the rumor before splitting the log.", "hypothesis": "The student split the log.", "label": "entailment"}
+{"premise": "The boy upset the boat after spreading the rumor.", "hypothesis": "The boy spread the rumor.", "label": "entailment"}
+{"premise": "The girl set the dish on the table after hurting others.", "hypothesis": "The girl hurt others.", "label": "entailment"}
+{"premise": "The student shed tears before spreading the rumor.", "hypothesis": "The student spread the rumor.", "label": "entailment"}
+{"premise": "The man split the log when casting bronze into a statue.", "hypothesis": "The man cast bronze into a statue.", "label": "entailment"}
+{"premise": "The professor thrust the fork into the cake after bursting into the room.", "hypothesis": "The professor burst into the room.", "label": "entailment"}
+{"premise": "The man split the log when reading the letter.", "hypothesis": "The man read the letter.", "label": "entailment"}
+{"premise": "The boy burst into the room when slitting the envelope.", "hypothesis": "The boy slit the envelope.", "label": "entailment"}
+{"premise": "The man let the blinds down when slitting the envelope.", "hypothesis": "The man slit the envelope.", "label": "entailment"}
+{"premise": "The kid slit the envelope before spreading the rumor.", "hypothesis": "The kid spread the rumor.", "label": "entailment"}
+{"premise": "The athlete let the blinds down when reading the letter.", "hypothesis": "The athlete read the letter.", "label": "entailment"}
+{"premise": "The director split the log before hitting the ball with the bat.", "hypothesis": "The director hit the ball with the bat.", "label": "entailment"}
+{"premise": "The child bet $100 on the race before bursting into the room.", "hypothesis": "The child burst into the room.", "label": "entailment"}
+{"premise": "The assistant split the log before shedding tears.", "hypothesis": "The assistant shed tears.", "label": "entailment"}
+{"premise": "The singer split the log when betting $100 on the race.", "hypothesis": "The singer bet $100 on the race.", "label": "entailment"}
+{"premise": "The student bet $100 on the race when shedding tears.", "hypothesis": "The student shed tears.", "label": "entailment"}
+{"premise": "The assistant set the dish on the table before reading the letter.", "hypothesis": "The assistant read the letter.", "label": "entailment"}
+{"premise": "The boy shed tears after bursting into the room.", "hypothesis": "The boy burst into the room.", "label": "entailment"}
+{"premise": "The athlete let the blinds down after thrusting the fork into the cake.", "hypothesis": "The athlete thrust the fork into the cake.", "label": "entailment"}
+{"premise": "The student slit the envelope while reading the letter.", "hypothesis": "The student read the letter.", "label": "entailment"}
+{"premise": "The dancer shut the door after thrusting the fork into the cake.", "hypothesis": "The dancer thrust the fork into the cake.", "label": "entailment"}
+{"premise": "The manager burst into the room after thrusting the fork into the cake.", "hypothesis": "The manager thrust the fork into the cake.", "label": "entailment"}
+{"premise": "The manager bet $100 on the race before hitting the ball with the bat.", "hypothesis": "The manager hit the ball with the bat.", "label": "entailment"}
+{"premise": "The teacher upset the boat after casting bronze into a statue.", "hypothesis": "The teacher cast bronze into a statue.", "label": "entailment"}
+{"premise": "The girl bet $100 on the race before shedding tears.", "hypothesis": "The girl shed tears.", "label": "entailment"}
+{"premise": "The athlete put the book on the shelf while betting $100 on the race.", "hypothesis": "The athlete bet $100 on the race.", "label": "entailment"}
+{"premise": "The professor shut the door after hurting others.", "hypothesis": "The professor hurt others.", "label": "entailment"}
+{"premise": "The student bet $100 on the race before spreading the rumor.", "hypothesis": "The student spread the rumor.", "label": "entailment"}
+{"premise": "The doctor thrust the fork into the cake after shutting the door.", "hypothesis": "The doctor shut the door.", "label": "entailment"}
+{"premise": "The worker put the book on the shelf when thrusting the fork into the cake.", "hypothesis": "The worker thrust the fork into the cake.", "label": "entailment"}
+{"premise": "The child burst into the room before betting $100 on the race.", "hypothesis": "The child bet $100 on the race.", "label": "entailment"}
+{"premise": "The singer bet $100 on the race before putting the book on the shelf.", "hypothesis": "The singer put the book on the shelf.", "label": "entailment"}
+{"premise": "The child bet $100 on the race after letting the blinds down.", "hypothesis": "The child let the blinds down.", "label": "entailment"}
+{"premise": "The child split the log when reading the letter.", "hypothesis": "The child read the letter.", "label": "entailment"}
+{"premise": "The kid cast bronze into a statue when shedding tears.", "hypothesis": "The kid shed tears.", "label": "entailment"}
+{"premise": "The stranger burst into the room after letting the blinds down.", "hypothesis": "The stranger let the blinds down.", "label": "entailment"}
+{"premise": "The child slit the envelope after reading the letter.", "hypothesis": "The child read the letter.", "label": "entailment"}
+{"premise": "The man hurt others before spreading the rumor.", "hypothesis": "The man spread the rumor.", "label": "entailment"}
+{"premise": "The teacher set the dish on the table while slitting the envelope.", "hypothesis": "The teacher slit the envelope.", "label": "entailment"}
+{"premise": "The kid upset the boat when slitting the envelope.", "hypothesis": "The kid slit the envelope.", "label": "entailment"}
+{"premise": "The athlete read the letter before betting $100 on the race.", "hypothesis": "The athlete bet $100 on the race.", "label": "entailment"}
+{"premise": "The manager thrust the fork into the cake while putting the book on the shelf.", "hypothesis": "The manager put the book on the shelf.", "label": "entailment"}
+{"premise": "The assistant bet $100 on the race after bursting into the room.", "hypothesis": "The assistant burst into the room.", "label": "entailment"}
+{"premise": "The professor upset the boat when shutting the door.", "hypothesis": "The professor shut the door.", "label": "entailment"}
+{"premise": "The man hurt others before thrusting the fork into the cake.", "hypothesis": "The man thrust the fork into the cake.", "label": "entailment"}
+{"premise": "The student shut the door when reading the letter.", "hypothesis": "The student read the letter.", "label": "entailment"}
+{"premise": "The woman slit the envelope after reading the letter.", "hypothesis": "The woman read the letter.", "label": "entailment"}
+{"premise": "The stranger burst into the room when hurting others.", "hypothesis": "The stranger hurt others.", "label": "entailment"}
+{"premise": "The stranger hurt others when spreading the rumor.", "hypothesis": "The stranger spread the rumor.", "label": "entailment"}
+{"premise": "The singer cast bronze into a statue while shutting the door.", "hypothesis": "The singer shut the door.", "label": "entailment"}
+{"premise": "The stranger hit the ball with the bat while hurting others.", "hypothesis": "The stranger hurt others.", "label": "entailment"}
+{"premise": "The man thrust the fork into the cake when splitting the log.", "hypothesis": "The man split the log.", "label": "entailment"}
+{"premise": "The dancer slit the envelope while casting bronze into a statue.", "hypothesis": "The dancer cast bronze into a statue.", "label": "entailment"}
+{"premise": "The assistant bet $100 on the race when putting the book on the shelf.", "hypothesis": "The assistant put the book on the shelf.", "label": "entailment"}
+{"premise": "The worker hit the ball with the bat before shutting the door.", "hypothesis": "The worker shut the door.", "label": "entailment"}
+{"premise": "The student burst into the room after letting the blinds down.", "hypothesis": "The student let the blinds down.", "label": "entailment"}
+{"premise": "The doctor split the log while hurting others.", "hypothesis": "The doctor hurt others.", "label": "entailment"}
+{"premise": "The kid put the book on the shelf while slitting the envelope.", "hypothesis": "The kid slit the envelope.", "label": "entailment"}
+{"premise": "The boy burst into the room after upsetting the boat.", "hypothesis": "The boy upset the boat.", "label": "entailment"}
+{"premise": "The worker shed tears while bursting into the room.", "hypothesis": "The worker burst into the room.", "label": "entailment"}
+{"premise": "The manager cast bronze into a statue when hitting the ball with the bat.", "hypothesis": "The manager hit the ball with the bat.", "label": "entailment"}
+{"premise": "The singer burst into the room after casting bronze into a statue.", "hypothesis": "The singer cast bronze into a statue.", "label": "entailment"}
+{"premise": "The assistant bet $100 on the race after upsetting the boat.", "hypothesis": "The assistant upset the boat.", "label": "entailment"}
+{"premise": "The assistant shut the door while casting bronze into a statue.", "hypothesis": "The assistant cast bronze into a statue.", "label": "entailment"}
+{"premise": "The stranger read the letter before spreading the rumor.", "hypothesis": "The stranger spread the rumor.", "label": "entailment"}
+{"premise": "The worker put the book on the shelf when hitting the ball with the bat.", "hypothesis": "The worker hit the ball with the bat.", "label": "entailment"}
+{"premise": "The director shut the door while bursting into the room.", "hypothesis": "The director burst into the room.", "label": "entailment"}
+{"premise": "The singer hurt others when shedding tears.", "hypothesis": "The singer shed tears.", "label": "entailment"}
+{"premise": "The student cast bronze into a statue after upsetting the boat.", "hypothesis": "The student upset the boat.", "label": "entailment"}
+{"premise": "The child cast bronze into a statue while reading the letter.", "hypothesis": "The child read the letter.", "label": "entailment"}
+{"premise": "The doctor split the log when reading the letter.", "hypothesis": "The doctor read the letter.", "label": "entailment"}
+{"premise": "The worker split the log before setting the dish on the table.", "hypothesis": "The worker set the dish on the table.", "label": "entailment"}
+{"premise": "The student hit the ball with the bat when reading the letter.", "hypothesis": "The student read the letter.", "label": "entailment"}
+{"premise": "The student hurt others after thrusting the fork into the cake.", "hypothesis": "The student did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "The athlete spread the rumor while hitting the ball with the bat.", "hypothesis": "The athlete did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "The manager bet $100 on the race while shedding tears.", "hypothesis": "The manager did not shed tears.", "label": "contradiction"}
+{"premise": "The child shut the door when reading the letter.", "hypothesis": "The child did not read the letter.", "label": "contradiction"}
+{"premise": "The dancer burst into the room while slitting the envelope.", "hypothesis": "The dancer did not slit the envelope.", "label": "contradiction"}
+{"premise": "The professor shed tears when spreading the rumor.", "hypothesis": "The professor did not spread the rumor.", "label": "contradiction"}
+{"premise": "The man spread the rumor when letting the blinds down.", "hypothesis": "The man did not let the blinds down.", "label": "contradiction"}
+{"premise": "The doctor set the dish on the table before hitting the ball with the bat.", "hypothesis": "The doctor did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "The girl hurt others while shutting the door.", "hypothesis": "The girl did not shut the door.", "label": "contradiction"}
+{"premise": "The professor hurt others when setting the dish on the table.", "hypothesis": "The professor did not set the dish on the table.", "label": "contradiction"}
+{"premise": "The kid shed tears when spreading the rumor.", "hypothesis": "The kid did not spread the rumor.", "label": "contradiction"}
+{"premise": "The worker thrust the fork into the cake before letting the blinds down.", "hypothesis": "The worker did not let the blinds down.", "label": "contradiction"}
+{"premise": "The boy spread the rumor before slitting the envelope.", "hypothesis": "The boy did not slit the envelope.", "label": "contradiction"}
+{"premise": "The assistant set the dish on the table after putting the book on the shelf.", "hypothesis": "The assistant did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "The worker thrust the fork into the cake when shutting the door.", "hypothesis": "The worker did not shut the door.", "label": "contradiction"}
+{"premise": "The dancer set the dish on the table while bursting into the room.", "hypothesis": "The dancer did not burst into the room.", "label": "contradiction"}
+{"premise": "The student slit the envelope while letting the blinds down.", "hypothesis": "The student did not let the blinds down.", "label": "contradiction"}
+{"premise": "The boy shut the door before upsetting the boat.", "hypothesis": "The boy did not upset the boat.", "label": "contradiction"}
+{"premise": "The director split the log before betting $100 on the race.", "hypothesis": "The director did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "The woman split the log before shedding tears.", "hypothesis": "The woman did not shed tears.", "label": "contradiction"}
+{"premise": "The man split the log when upsetting the boat.", "hypothesis": "The man did not upset the boat.", "label": "contradiction"}
+{"premise": "The professor split the log while slitting the envelope.", "hypothesis": "The professor did not slit the envelope.", "label": "contradiction"}
+{"premise": "The kid bet $100 on the race before shutting the door.", "hypothesis": "The kid did not shut the door.", "label": "contradiction"}
+{"premise": "The man let the blinds down while thrusting the fork into the cake.", "hypothesis": "The man did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "The girl upset the boat before thrusting the fork into the cake.", "hypothesis": "The girl did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "The worker read the letter after shutting the door.", "hypothesis": "The worker did not shut the door.", "label": "contradiction"}
+{"premise": "The stranger cast bronze into a statue after betting $100 on the race.", "hypothesis": "The stranger did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "The kid bet $100 on the race when splitting the log.", "hypothesis": "The kid did not split the log.", "label": "contradiction"}
+{"premise": "The man slit the envelope after betting $100 on the race.", "hypothesis": "The man did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "The director set the dish on the table while hurting others.", "hypothesis": "The director did not hurt others.", "label": "contradiction"}
+{"premise": "The student let the blinds down before setting the dish on the table.", "hypothesis": "The student did not set the dish on the table.", "label": "contradiction"}
+{"premise": "The professor set the dish on the table before putting the book on the shelf.", "hypothesis": "The professor did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "The student hurt others before spreading the rumor.", "hypothesis": "The student did not spread the rumor.", "label": "contradiction"}
+{"premise": "The athlete set the dish on the table before slitting the envelope.", "hypothesis": "The athlete did not slit the envelope.", "label": "contradiction"}
+{"premise": "The girl hurt others before hitting the ball with the bat.", "hypothesis": "The girl did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "The athlete let the blinds down when casting bronze into a statue.", "hypothesis": "The athlete did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "The worker hurt others before reading the letter.", "hypothesis": "The worker did not read the letter.", "label": "contradiction"}
+{"premise": "The woman shut the door while letting the blinds down.", "hypothesis": "The woman did not let the blinds down.", "label": "contradiction"}
+{"premise": "The child put the book on the shelf after setting the dish on the table.", "hypothesis": "The child did not set the dish on the table.", "label": "contradiction"}
+{"premise": "The manager shut the door while putting the book on the shelf.", "hypothesis": "The manager did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "The director shut the door while putting the book on the shelf.", "hypothesis": "The director did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "The girl let the blinds down after betting $100 on the race.", "hypothesis": "The girl did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "The stranger upset the boat before hurting others.", "hypothesis": "The stranger did not hurt others.", "label": "contradiction"}
+{"premise": "The singer bet $100 on the race before bursting into the room.", "hypothesis": "The singer did not burst into the room.", "label": "contradiction"}
+{"premise": "The woman shed tears while putting the book on the shelf.", "hypothesis": "The woman did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "The manager burst into the room before reading the letter.", "hypothesis": "The manager did not read the letter.", "label": "contradiction"}
+{"premise": "The professor split the log after hurting others.", "hypothesis": "The professor did not hurt others.", "label": "contradiction"}
+{"premise": "The assistant put the book on the shelf before upsetting the boat.", "hypothesis": "The assistant did not upset the boat.", "label": "contradiction"}
+{"premise": "The student slit the envelope before shutting the door.", "hypothesis": "The student did not shut the door.", "label": "contradiction"}
+{"premise": "The doctor hurt others before splitting the log.", "hypothesis": "The doctor did not split the log.", "label": "contradiction"}
+{"premise": "The singer burst into the room before thrusting the fork into the cake.", "hypothesis": "The singer did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "The student spread the rumor while splitting the log.", "hypothesis": "The student did not split the log.", "label": "contradiction"}
+{"premise": "The professor thrust the fork into the cake while slitting the envelope.", "hypothesis": "The professor did not slit the envelope.", "label": "contradiction"}
+{"premise": "The assistant slit the envelope while putting the book on the shelf.", "hypothesis": "The assistant did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "The man hurt others while shedding tears.", "hypothesis": "The man did not shed tears.", "label": "contradiction"}
+{"premise": "The student burst into the room after upsetting the boat.", "hypothesis": "The student did not upset the boat.", "label": "contradiction"}
+{"premise": "The student put the book on the shelf while letting the blinds down.", "hypothesis": "The student did not let the blinds down.", "label": "contradiction"}
+{"premise": "The athlete shut the door before reading the letter.", "hypothesis": "The athlete did not read the letter.", "label": "contradiction"}
+{"premise": "The assistant thrust the fork into the cake while hurting others.", "hypothesis": "The assistant did not hurt others.", "label": "contradiction"}
+{"premise": "The boy hit the ball with the bat before reading the letter.", "hypothesis": "The boy did not read the letter.", "label": "contradiction"}
+{"premise": "The director slit the envelope after bursting into the room.", "hypothesis": "The director did not burst into the room.", "label": "contradiction"}
+{"premise": "The man cast bronze into a statue before thrusting the fork into the cake.", "hypothesis": "The man did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "The director spread the rumor when hurting others.", "hypothesis": "The director did not hurt others.", "label": "contradiction"}
+{"premise": "The boy slit the envelope after letting the blinds down.", "hypothesis": "The boy did not let the blinds down.", "label": "contradiction"}
+{"premise": "The singer thrust the fork into the cake before putting the book on the shelf.", "hypothesis": "The singer did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "The kid cast bronze into a statue when hurting others.", "hypothesis": "The kid did not hurt others.", "label": "contradiction"}
+{"premise": "The student split the log while shedding tears.", "hypothesis": "The student did not shed tears.", "label": "contradiction"}
+{"premise": "The manager upset the boat before slitting the envelope.", "hypothesis": "The manager did not slit the envelope.", "label": "contradiction"}
+{"premise": "The worker bet $100 on the race before casting bronze into a statue.", "hypothesis": "The worker did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "The director shut the door after slitting the envelope.", "hypothesis": "The director did not slit the envelope.", "label": "contradiction"}
+{"premise": "The man put the book on the shelf when casting bronze into a statue.", "hypothesis": "The man did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "The singer burst into the room before letting the blinds down.", "hypothesis": "The singer did not let the blinds down.", "label": "contradiction"}
+{"premise": "The man burst into the room before putting the book on the shelf.", "hypothesis": "The man did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "The assistant slit the envelope when casting bronze into a statue.", "hypothesis": "The assistant did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "The child thrust the fork into the cake after reading the letter.", "hypothesis": "The child did not read the letter.", "label": "contradiction"}
+{"premise": "The man set the dish on the table when bursting into the room.", "hypothesis": "The man did not burst into the room.", "label": "contradiction"}
+{"premise": "The worker set the dish on the table before spreading the rumor.", "hypothesis": "The worker did not spread the rumor.", "label": "contradiction"}
+{"premise": "The stranger slit the envelope after betting $100 on the race.", "hypothesis": "The stranger did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "The singer shut the door after setting the dish on the table.", "hypothesis": "The singer did not set the dish on the table.", "label": "contradiction"}
+{"premise": "The dancer thrust the fork into the cake when putting the book on the shelf.", "hypothesis": "The dancer did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "The man hurt others while slitting the envelope.", "hypothesis": "The man did not slit the envelope.", "label": "contradiction"}
+{"premise": "The assistant hurt others after thrusting the fork into the cake.", "hypothesis": "The assistant did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "The student upset the boat before putting the book on the shelf.", "hypothesis": "The student did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "The woman put the book on the shelf before slitting the envelope.", "hypothesis": "The woman did not slit the envelope.", "label": "contradiction"}
+{"premise": "The dancer cast bronze into a statue while bursting into the room.", "hypothesis": "The dancer did not burst into the room.", "label": "contradiction"}
+{"premise": "The girl burst into the room before casting bronze into a statue.", "hypothesis": "The girl did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "The assistant split the log when upsetting the boat.", "hypothesis": "The assistant did not upset the boat.", "label": "contradiction"}
+{"premise": "The woman upset the boat while letting the blinds down.", "hypothesis": "The woman did not let the blinds down.", "label": "contradiction"}
+{"premise": "The worker split the log after letting the blinds down.", "hypothesis": "The worker did not let the blinds down.", "label": "contradiction"}
+{"premise": "The boy slit the envelope after setting the dish on the table.", "hypothesis": "The boy did not set the dish on the table.", "label": "contradiction"}
+{"premise": "The director split the log before setting the dish on the table.", "hypothesis": "The director did not set the dish on the table.", "label": "contradiction"}
+{"premise": "The girl set the dish on the table when betting $100 on the race.", "hypothesis": "The girl did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "The kid shed tears before bursting into the room.", "hypothesis": "The kid did not burst into the room.", "label": "contradiction"}
+{"premise": "The director split the log while casting bronze into a statue.", "hypothesis": "The director did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "The kid shut the door when upsetting the boat.", "hypothesis": "The kid did not upset the boat.", "label": "contradiction"}
+{"premise": "The athlete let the blinds down while putting the book on the shelf.", "hypothesis": "The athlete did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "The kid shed tears before bursting into the room.", "hypothesis": "The kid did not burst into the room.", "label": "contradiction"}
+{"premise": "The stranger split the log after setting the dish on the table.", "hypothesis": "The stranger did not set the dish on the table.", "label": "contradiction"}
+{"premise": "The child read the letter when letting the blinds down.", "hypothesis": "The child did not let the blinds down.", "label": "contradiction"}
+{"premise": "The boy upset the boat after letting the blinds down.", "hypothesis": "The boy did not let the blinds down.", "label": "contradiction"}

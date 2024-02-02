@@ -1,0 +1,200 @@
+{"premise": "The professor did not hit the ball with the bat after hurting others.", "hypothesis": "The professor hurt others.", "label": "entailment"}
+{"premise": "The doctor did not set the dish on the table while casting bronze into a statue.", "hypothesis": "The doctor cast bronze into a statue.", "label": "entailment"}
+{"premise": "The stranger did not set the dish on the table before casting bronze into a statue.", "hypothesis": "The stranger cast bronze into a statue.", "label": "entailment"}
+{"premise": "The dancer did not let the blinds down while upsetting the boat.", "hypothesis": "The dancer upset the boat.", "label": "entailment"}
+{"premise": "The teacher did not thrust the fork into the cake after shutting the door.", "hypothesis": "The teacher shut the door.", "label": "entailment"}
+{"premise": "The teacher did not upset the boat while spreading the rumor.", "hypothesis": "The teacher spread the rumor.", "label": "entailment"}
+{"premise": "The man did not thrust the fork into the cake when casting bronze into a statue.", "hypothesis": "The man cast bronze into a statue.", "label": "entailment"}
+{"premise": "The worker did not split the log after reading the letter.", "hypothesis": "The worker read the letter.", "label": "entailment"}
+{"premise": "The woman did not put the book on the shelf before shedding tears.", "hypothesis": "The woman shed tears.", "label": "entailment"}
+{"premise": "The stranger did not bet $100 on the race while shutting the door.", "hypothesis": "The stranger shut the door.", "label": "entailment"}
+{"premise": "The singer did not thrust the fork into the cake when hurting others.", "hypothesis": "The singer hurt others.", "label": "entailment"}
+{"premise": "The man did not cast bronze into a statue after reading the letter.", "hypothesis": "The man read the letter.", "label": "entailment"}
+{"premise": "The athlete did not burst into the room before hitting the ball with the bat.", "hypothesis": "The athlete hit the ball with the bat.", "label": "entailment"}
+{"premise": "The child did not shut the door while hitting the ball with the bat.", "hypothesis": "The child hit the ball with the bat.", "label": "entailment"}
+{"premise": "The boy did not put the book on the shelf while casting bronze into a statue.", "hypothesis": "The boy cast bronze into a statue.", "label": "entailment"}
+{"premise": "The assistant did not set the dish on the table before shedding tears.", "hypothesis": "The assistant shed tears.", "label": "entailment"}
+{"premise": "The girl did not hit the ball with the bat while splitting the log.", "hypothesis": "The girl split the log.", "label": "entailment"}
+{"premise": "The worker did not spread the rumor while shedding tears.", "hypothesis": "The worker shed tears.", "label": "entailment"}
+{"premise": "The stranger did not hurt others before setting the dish on the table.", "hypothesis": "The stranger set the dish on the table.", "label": "entailment"}
+{"premise": "The doctor did not put the book on the shelf after casting bronze into a statue.", "hypothesis": "The doctor cast bronze into a statue.", "label": "entailment"}
+{"premise": "The child did not slit the envelope when casting bronze into a statue.", "hypothesis": "The child cast bronze into a statue.", "label": "entailment"}
+{"premise": "The woman did not read the letter while shedding tears.", "hypothesis": "The woman shed tears.", "label": "entailment"}
+{"premise": "The director did not hurt others when letting the blinds down.", "hypothesis": "The director let the blinds down.", "label": "entailment"}
+{"premise": "The teacher did not shut the door before betting $100 on the race.", "hypothesis": "The teacher bet $100 on the race.", "label": "entailment"}
+{"premise": "The man did not cast bronze into a statue when hurting others.", "hypothesis": "The man hurt others.", "label": "entailment"}
+{"premise": "The student did not cast bronze into a statue while bursting into the room.", "hypothesis": "The student burst into the room.", "label": "entailment"}
+{"premise": "The child did not burst into the room before putting the book on the shelf.", "hypothesis": "The child put the book on the shelf.", "label": "entailment"}
+{"premise": "The man did not put the book on the shelf before letting the blinds down.", "hypothesis": "The man let the blinds down.", "label": "entailment"}
+{"premise": "The director did not bet $100 on the race after shutting the door.", "hypothesis": "The director shut the door.", "label": "entailment"}
+{"premise": "The dancer did not hit the ball with the bat while setting the dish on the table.", "hypothesis": "The dancer set the dish on the table.", "label": "entailment"}
+{"premise": "The dancer did not cast bronze into a statue when letting the blinds down.", "hypothesis": "The dancer let the blinds down.", "label": "entailment"}
+{"premise": "The singer did not burst into the room when shutting the door.", "hypothesis": "The singer shut the door.", "label": "entailment"}
+{"premise": "The stranger did not let the blinds down while casting bronze into a statue.", "hypothesis": "The stranger cast bronze into a statue.", "label": "entailment"}
+{"premise": "The teacher did not read the letter when bursting into the room.", "hypothesis": "The teacher burst into the room.", "label": "entailment"}
+{"premise": "The child did not slit the envelope while hurting others.", "hypothesis": "The child hurt others.", "label": "entailment"}
+{"premise": "The student did not hurt others after shedding tears.", "hypothesis": "The student shed tears.", "label": "entailment"}
+{"premise": "The athlete did not let the blinds down when shedding tears.", "hypothesis": "The athlete shed tears.", "label": "entailment"}
+{"premise": "The director did not hit the ball with the bat before casting bronze into a statue.", "hypothesis": "The director cast bronze into a statue.", "label": "entailment"}
+{"premise": "The teacher did not burst into the room after reading the letter.", "hypothesis": "The teacher read the letter.", "label": "entailment"}
+{"premise": "The girl did not shut the door after setting the dish on the table.", "hypothesis": "The girl set the dish on the table.", "label": "entailment"}
+{"premise": "The assistant did not read the letter while letting the blinds down.", "hypothesis": "The assistant let the blinds down.", "label": "entailment"}
+{"premise": "The doctor did not put the book on the shelf when shedding tears.", "hypothesis": "The doctor shed tears.", "label": "entailment"}
+{"premise": "The worker did not thrust the fork into the cake while spreading the rumor.", "hypothesis": "The worker spread the rumor.", "label": "entailment"}
+{"premise": "The professor did not hurt others before setting the dish on the table.", "hypothesis": "The professor set the dish on the table.", "label": "entailment"}
+{"premise": "The singer did not let the blinds down while casting bronze into a statue.", "hypothesis": "The singer cast bronze into a statue.", "label": "entailment"}
+{"premise": "The child did not bet $100 on the race when letting the blinds down.", "hypothesis": "The child let the blinds down.", "label": "entailment"}
+{"premise": "The woman did not let the blinds down after betting $100 on the race.", "hypothesis": "The woman bet $100 on the race.", "label": "entailment"}
+{"premise": "The man did not slit the envelope when setting the dish on the table.", "hypothesis": "The man set the dish on the table.", "label": "entailment"}
+{"premise": "The child did not upset the boat while thrusting the fork into the cake.", "hypothesis": "The child thrust the fork into the cake.", "label": "entailment"}
+{"premise": "The student did not cast bronze into a statue after setting the dish on the table.", "hypothesis": "The student set the dish on the table.", "label": "entailment"}
+{"premise": "The assistant did not hurt others while casting bronze into a statue.", "hypothesis": "The assistant cast bronze into a statue.", "label": "entailment"}
+{"premise": "The stranger did not shut the door before upsetting the boat.", "hypothesis": "The stranger upset the boat.", "label": "entailment"}
+{"premise": "The professor did not upset the boat when slitting the envelope.", "hypothesis": "The professor slit the envelope.", "label": "entailment"}
+{"premise": "The woman did not put the book on the shelf when shedding tears.", "hypothesis": "The woman shed tears.", "label": "entailment"}
+{"premise": "The girl did not read the letter while letting the blinds down.", "hypothesis": "The girl let the blinds down.", "label": "entailment"}
+{"premise": "The athlete did not shut the door after bursting into the room.", "hypothesis": "The athlete burst into the room.", "label": "entailment"}
+{"premise": "The athlete did not shut the door after bursting into the room.", "hypothesis": "The athlete burst into the room.", "label": "entailment"}
+{"premise": "The worker did not let the blinds down after putting the book on the shelf.", "hypothesis": "The worker put the book on the shelf.", "label": "entailment"}
+{"premise": "The director did not put the book on the shelf while bursting into the room.", "hypothesis": "The director burst into the room.", "label": "entailment"}
+{"premise": "The stranger did not thrust the fork into the cake before putting the book on the shelf.", "hypothesis": "The stranger put the book on the shelf.", "label": "entailment"}
+{"premise": "The professor did not set the dish on the table when shutting the door.", "hypothesis": "The professor shut the door.", "label": "entailment"}
+{"premise": "The boy did not read the letter before casting bronze into a statue.", "hypothesis": "The boy cast bronze into a statue.", "label": "entailment"}
+{"premise": "The stranger did not cast bronze into a statue while reading the letter.", "hypothesis": "The stranger read the letter.", "label": "entailment"}
+{"premise": "The athlete did not thrust the fork into the cake after spreading the rumor.", "hypothesis": "The athlete spread the rumor.", "label": "entailment"}
+{"premise": "The assistant did not shed tears when reading the letter.", "hypothesis": "The assistant read the letter.", "label": "entailment"}
+{"premise": "The girl did not shed tears while spreading the rumor.", "hypothesis": "The girl spread the rumor.", "label": "entailment"}
+{"premise": "The singer did not bet $100 on the race before thrusting the fork into the cake.", "hypothesis": "The singer thrust the fork into the cake.", "label": "entailment"}
+{"premise": "The singer did not bet $100 on the race while reading the letter.", "hypothesis": "The singer read the letter.", "label": "entailment"}
+{"premise": "The dancer did not cast bronze into a statue while letting the blinds down.", "hypothesis": "The dancer let the blinds down.", "label": "entailment"}
+{"premise": "The professor did not split the log when betting $100 on the race.", "hypothesis": "The professor bet $100 on the race.", "label": "entailment"}
+{"premise": "The manager did not upset the boat after spreading the rumor.", "hypothesis": "The manager spread the rumor.", "label": "entailment"}
+{"premise": "The manager did not thrust the fork into the cake after slitting the envelope.", "hypothesis": "The manager slit the envelope.", "label": "entailment"}
+{"premise": "The athlete did not cast bronze into a statue after splitting the log.", "hypothesis": "The athlete split the log.", "label": "entailment"}
+{"premise": "The kid did not shed tears after reading the letter.", "hypothesis": "The kid read the letter.", "label": "entailment"}
+{"premise": "The woman did not upset the boat while hitting the ball with the bat.", "hypothesis": "The woman hit the ball with the bat.", "label": "entailment"}
+{"premise": "The professor did not cast bronze into a statue when hitting the ball with the bat.", "hypothesis": "The professor hit the ball with the bat.", "label": "entailment"}
+{"premise": "The boy did not slit the envelope when spreading the rumor.", "hypothesis": "The boy spread the rumor.", "label": "entailment"}
+{"premise": "The girl did not upset the boat when thrusting the fork into the cake.", "hypothesis": "The girl thrust the fork into the cake.", "label": "entailment"}
+{"premise": "The girl did not split the log when putting the book on the shelf.", "hypothesis": "The girl put the book on the shelf.", "label": "entailment"}
+{"premise": "The manager did not slit the envelope before upsetting the boat.", "hypothesis": "The manager upset the boat.", "label": "entailment"}
+{"premise": "The girl did not put the book on the shelf after bursting into the room.", "hypothesis": "The girl burst into the room.", "label": "entailment"}
+{"premise": "The kid did not put the book on the shelf while bursting into the room.", "hypothesis": "The kid burst into the room.", "label": "entailment"}
+{"premise": "The kid did not shut the door after setting the dish on the table.", "hypothesis": "The kid set the dish on the table.", "label": "entailment"}
+{"premise": "The woman did not bet $100 on the race when shutting the door.", "hypothesis": "The woman shut the door.", "label": "entailment"}
+{"premise": "The athlete did not burst into the room while thrusting the fork into the cake.", "hypothesis": "The athlete thrust the fork into the cake.", "label": "entailment"}
+{"premise": "The teacher did not upset the boat before splitting the log.", "hypothesis": "The teacher split the log.", "label": "entailment"}
+{"premise": "The boy did not shed tears before letting the blinds down.", "hypothesis": "The boy let the blinds down.", "label": "entailment"}
+{"premise": "The director did not shed tears before slitting the envelope.", "hypothesis": "The director slit the envelope.", "label": "entailment"}
+{"premise": "The student did not set the dish on the table before thrusting the fork into the cake.", "hypothesis": "The student thrust the fork into the cake.", "label": "entailment"}
+{"premise": "The professor did not shed tears while setting the dish on the table.", "hypothesis": "The professor set the dish on the table.", "label": "entailment"}
+{"premise": "The assistant did not shed tears after letting the blinds down.", "hypothesis": "The assistant let the blinds down.", "label": "entailment"}
+{"premise": "The teacher did not hurt others after setting the dish on the table.", "hypothesis": "The teacher set the dish on the table.", "label": "entailment"}
+{"premise": "The assistant did not upset the boat while bursting into the room.", "hypothesis": "The assistant burst into the room.", "label": "entailment"}
+{"premise": "The child did not upset the boat while betting $100 on the race.", "hypothesis": "The child bet $100 on the race.", "label": "entailment"}
+{"premise": "The kid did not read the letter before upsetting the boat.", "hypothesis": "The kid upset the boat.", "label": "entailment"}
+{"premise": "The worker did not read the letter before shutting the door.", "hypothesis": "The worker shut the door.", "label": "entailment"}
+{"premise": "The doctor did not hit the ball with the bat after shutting the door.", "hypothesis": "The doctor shut the door.", "label": "entailment"}
+{"premise": "The doctor did not set the dish on the table when slitting the envelope.", "hypothesis": "The doctor slit the envelope.", "label": "entailment"}
+{"premise": "The child did not shed tears after splitting the log.", "hypothesis": "The child split the log.", "label": "entailment"}
+{"premise": "The stranger did not thrust the fork into the cake while shedding tears.", "hypothesis": "The stranger shed tears.", "label": "entailment"}
+{"premise": "The doctor did not let the blinds down while casting bronze into a statue.", "hypothesis": "The doctor did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "The girl did not shed tears before shutting the door.", "hypothesis": "The girl did not shut the door.", "label": "contradiction"}
+{"premise": "The manager did not split the log while thrusting the fork into the cake.", "hypothesis": "The manager did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "The singer did not burst into the room after betting $100 on the race.", "hypothesis": "The singer did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "The student did not burst into the room after casting bronze into a statue.", "hypothesis": "The student did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "The teacher did not bet $100 on the race before casting bronze into a statue.", "hypothesis": "The teacher did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "The professor did not read the letter while upsetting the boat.", "hypothesis": "The professor did not upset the boat.", "label": "contradiction"}
+{"premise": "The girl did not put the book on the shelf after casting bronze into a statue.", "hypothesis": "The girl did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "The stranger did not spread the rumor when upsetting the boat.", "hypothesis": "The stranger did not upset the boat.", "label": "contradiction"}
+{"premise": "The student did not hit the ball with the bat before shutting the door.", "hypothesis": "The student did not shut the door.", "label": "contradiction"}
+{"premise": "The doctor did not hurt others before upsetting the boat.", "hypothesis": "The doctor did not upset the boat.", "label": "contradiction"}
+{"premise": "The stranger did not bet $100 on the race while spreading the rumor.", "hypothesis": "The stranger did not spread the rumor.", "label": "contradiction"}
+{"premise": "The child did not cast bronze into a statue before thrusting the fork into the cake.", "hypothesis": "The child did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "The singer did not slit the envelope while splitting the log.", "hypothesis": "The singer did not split the log.", "label": "contradiction"}
+{"premise": "The child did not read the letter before thrusting the fork into the cake.", "hypothesis": "The child did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "The teacher did not shut the door before hurting others.", "hypothesis": "The teacher did not hurt others.", "label": "contradiction"}
+{"premise": "The man did not put the book on the shelf after bursting into the room.", "hypothesis": "The man did not burst into the room.", "label": "contradiction"}
+{"premise": "The woman did not burst into the room when shutting the door.", "hypothesis": "The woman did not shut the door.", "label": "contradiction"}
+{"premise": "The boy did not split the log while spreading the rumor.", "hypothesis": "The boy did not spread the rumor.", "label": "contradiction"}
+{"premise": "The doctor did not read the letter before betting $100 on the race.", "hypothesis": "The doctor did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "The director did not let the blinds down when setting the dish on the table.", "hypothesis": "The director did not set the dish on the table.", "label": "contradiction"}
+{"premise": "The professor did not spread the rumor while reading the letter.", "hypothesis": "The professor did not read the letter.", "label": "contradiction"}
+{"premise": "The woman did not let the blinds down after hurting others.", "hypothesis": "The woman did not hurt others.", "label": "contradiction"}
+{"premise": "The boy did not let the blinds down while putting the book on the shelf.", "hypothesis": "The boy did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "The athlete did not read the letter while putting the book on the shelf.", "hypothesis": "The athlete did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "The student did not shed tears after betting $100 on the race.", "hypothesis": "The student did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "The worker did not split the log after hitting the ball with the bat.", "hypothesis": "The worker did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "The professor did not hurt others when splitting the log.", "hypothesis": "The professor did not split the log.", "label": "contradiction"}
+{"premise": "The woman did not let the blinds down after shedding tears.", "hypothesis": "The woman did not shed tears.", "label": "contradiction"}
+{"premise": "The man did not bet $100 on the race while thrusting the fork into the cake.", "hypothesis": "The man did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "The teacher did not set the dish on the table when reading the letter.", "hypothesis": "The teacher did not read the letter.", "label": "contradiction"}
+{"premise": "The doctor did not burst into the room when thrusting the fork into the cake.", "hypothesis": "The doctor did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "The athlete did not let the blinds down when reading the letter.", "hypothesis": "The athlete did not read the letter.", "label": "contradiction"}
+{"premise": "The director did not hurt others when splitting the log.", "hypothesis": "The director did not split the log.", "label": "contradiction"}
+{"premise": "The worker did not upset the boat when hurting others.", "hypothesis": "The worker did not hurt others.", "label": "contradiction"}
+{"premise": "The worker did not slit the envelope before bursting into the room.", "hypothesis": "The worker did not burst into the room.", "label": "contradiction"}
+{"premise": "The girl did not let the blinds down after upsetting the boat.", "hypothesis": "The girl did not upset the boat.", "label": "contradiction"}
+{"premise": "The teacher did not let the blinds down before setting the dish on the table.", "hypothesis": "The teacher did not set the dish on the table.", "label": "contradiction"}
+{"premise": "The professor did not shut the door before spreading the rumor.", "hypothesis": "The professor did not spread the rumor.", "label": "contradiction"}
+{"premise": "The professor did not read the letter before putting the book on the shelf.", "hypothesis": "The professor did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "The man did not upset the boat when hurting others.", "hypothesis": "The man did not hurt others.", "label": "contradiction"}
+{"premise": "The singer did not bet $100 on the race when setting the dish on the table.", "hypothesis": "The singer did not set the dish on the table.", "label": "contradiction"}
+{"premise": "The manager did not shed tears before putting the book on the shelf.", "hypothesis": "The manager did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "The athlete did not hit the ball with the bat after shedding tears.", "hypothesis": "The athlete did not shed tears.", "label": "contradiction"}
+{"premise": "The girl did not shut the door after bursting into the room.", "hypothesis": "The girl did not burst into the room.", "label": "contradiction"}
+{"premise": "The worker did not bet $100 on the race before bursting into the room.", "hypothesis": "The worker did not burst into the room.", "label": "contradiction"}
+{"premise": "The professor did not hit the ball with the bat after betting $100 on the race.", "hypothesis": "The professor did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "The woman did not upset the boat when casting bronze into a statue.", "hypothesis": "The woman did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "The boy did not read the letter when putting the book on the shelf.", "hypothesis": "The boy did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "The kid did not split the log when shedding tears.", "hypothesis": "The kid did not shed tears.", "label": "contradiction"}
+{"premise": "The dancer did not hurt others before letting the blinds down.", "hypothesis": "The dancer did not let the blinds down.", "label": "contradiction"}
+{"premise": "The assistant did not cast bronze into a statue after putting the book on the shelf.", "hypothesis": "The assistant did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "The athlete did not hurt others while reading the letter.", "hypothesis": "The athlete did not read the letter.", "label": "contradiction"}
+{"premise": "The dancer did not shut the door before splitting the log.", "hypothesis": "The dancer did not split the log.", "label": "contradiction"}
+{"premise": "The director did not shut the door when splitting the log.", "hypothesis": "The director did not split the log.", "label": "contradiction"}
+{"premise": "The doctor did not let the blinds down while putting the book on the shelf.", "hypothesis": "The doctor did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "The kid did not set the dish on the table while hurting others.", "hypothesis": "The kid did not hurt others.", "label": "contradiction"}
+{"premise": "The woman did not set the dish on the table when hitting the ball with the bat.", "hypothesis": "The woman did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "The singer did not split the log while hurting others.", "hypothesis": "The singer did not hurt others.", "label": "contradiction"}
+{"premise": "The director did not set the dish on the table before upsetting the boat.", "hypothesis": "The director did not upset the boat.", "label": "contradiction"}
+{"premise": "The athlete did not slit the envelope after hitting the ball with the bat.", "hypothesis": "The athlete did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "The student did not put the book on the shelf before hitting the ball with the bat.", "hypothesis": "The student did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "The athlete did not upset the boat when casting bronze into a statue.", "hypothesis": "The athlete did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "The boy did not read the letter after putting the book on the shelf.", "hypothesis": "The boy did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "The girl did not split the log while betting $100 on the race.", "hypothesis": "The girl did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "The manager did not burst into the room when slitting the envelope.", "hypothesis": "The manager did not slit the envelope.", "label": "contradiction"}
+{"premise": "The professor did not shut the door before putting the book on the shelf.", "hypothesis": "The professor did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "The director did not let the blinds down after betting $100 on the race.", "hypothesis": "The director did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "The director did not thrust the fork into the cake while upsetting the boat.", "hypothesis": "The director did not upset the boat.", "label": "contradiction"}
+{"premise": "The teacher did not upset the boat when casting bronze into a statue.", "hypothesis": "The teacher did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "The director did not split the log when thrusting the fork into the cake.", "hypothesis": "The director did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "The man did not hit the ball with the bat while bursting into the room.", "hypothesis": "The man did not burst into the room.", "label": "contradiction"}
+{"premise": "The stranger did not spread the rumor after reading the letter.", "hypothesis": "The stranger did not read the letter.", "label": "contradiction"}
+{"premise": "The assistant did not shut the door while bursting into the room.", "hypothesis": "The assistant did not burst into the room.", "label": "contradiction"}
+{"premise": "The doctor did not bet $100 on the race before splitting the log.", "hypothesis": "The doctor did not split the log.", "label": "contradiction"}
+{"premise": "The woman did not hurt others after shutting the door.", "hypothesis": "The woman did not shut the door.", "label": "contradiction"}
+{"premise": "The singer did not spread the rumor when shedding tears.", "hypothesis": "The singer did not shed tears.", "label": "contradiction"}
+{"premise": "The dancer did not put the book on the shelf before bursting into the room.", "hypothesis": "The dancer did not burst into the room.", "label": "contradiction"}
+{"premise": "The director did not cast bronze into a statue when slitting the envelope.", "hypothesis": "The director did not slit the envelope.", "label": "contradiction"}
+{"premise": "The stranger did not split the log after bursting into the room.", "hypothesis": "The stranger did not burst into the room.", "label": "contradiction"}
+{"premise": "The dancer did not thrust the fork into the cake while casting bronze into a statue.", "hypothesis": "The dancer did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "The woman did not let the blinds down when bursting into the room.", "hypothesis": "The woman did not burst into the room.", "label": "contradiction"}
+{"premise": "The singer did not hurt others when betting $100 on the race.", "hypothesis": "The singer did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "The stranger did not burst into the room while letting the blinds down.", "hypothesis": "The stranger did not let the blinds down.", "label": "contradiction"}
+{"premise": "The child did not let the blinds down before spreading the rumor.", "hypothesis": "The child did not spread the rumor.", "label": "contradiction"}
+{"premise": "The assistant did not upset the boat after spreading the rumor.", "hypothesis": "The assistant did not spread the rumor.", "label": "contradiction"}
+{"premise": "The athlete did not shut the door before thrusting the fork into the cake.", "hypothesis": "The athlete did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "The worker did not set the dish on the table while spreading the rumor.", "hypothesis": "The worker did not spread the rumor.", "label": "contradiction"}
+{"premise": "The manager did not slit the envelope before upsetting the boat.", "hypothesis": "The manager did not upset the boat.", "label": "contradiction"}
+{"premise": "The woman did not cast bronze into a statue when putting the book on the shelf.", "hypothesis": "The woman did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "The stranger did not read the letter when letting the blinds down.", "hypothesis": "The stranger did not let the blinds down.", "label": "contradiction"}
+{"premise": "The student did not split the log while spreading the rumor.", "hypothesis": "The student did not spread the rumor.", "label": "contradiction"}
+{"premise": "The professor did not upset the boat after hurting others.", "hypothesis": "The professor did not hurt others.", "label": "contradiction"}
+{"premise": "The manager did not upset the boat after shedding tears.", "hypothesis": "The manager did not shed tears.", "label": "contradiction"}
+{"premise": "The woman did not thrust the fork into the cake after hitting the ball with the bat.", "hypothesis": "The woman did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "The dancer did not shed tears before upsetting the boat.", "hypothesis": "The dancer did not upset the boat.", "label": "contradiction"}
+{"premise": "The man did not spread the rumor before bursting into the room.", "hypothesis": "The man did not burst into the room.", "label": "contradiction"}
+{"premise": "The stranger did not cast bronze into a statue while slitting the envelope.", "hypothesis": "The stranger did not slit the envelope.", "label": "contradiction"}
+{"premise": "The worker did not bet $100 on the race when slitting the envelope.", "hypothesis": "The worker did not slit the envelope.", "label": "contradiction"}
+{"premise": "The girl did not hurt others before reading the letter.", "hypothesis": "The girl did not read the letter.", "label": "contradiction"}

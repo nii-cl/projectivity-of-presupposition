@@ -1,0 +1,200 @@
+{"premise": "Did the boy shed tears after slitting the envelope?", "hypothesis": "The boy slit the envelope.", "label": "entailment"}
+{"premise": "Did the stranger read the letter before hitting the ball with the bat?", "hypothesis": "The stranger hit the ball with the bat.", "label": "entailment"}
+{"premise": "Did the assistant let the blinds down after betting $100 on the race?", "hypothesis": "The assistant bet $100 on the race.", "label": "entailment"}
+{"premise": "Did the manager shed tears before hitting the ball with the bat?", "hypothesis": "The manager hit the ball with the bat.", "label": "entailment"}
+{"premise": "Did the assistant cast bronze into a statue before setting the dish on the table?", "hypothesis": "The assistant set the dish on the table.", "label": "entailment"}
+{"premise": "Did the woman hurt others while spreading the rumor?", "hypothesis": "The woman spread the rumor.", "label": "entailment"}
+{"premise": "Did the manager let the blinds down while reading the letter?", "hypothesis": "The manager read the letter.", "label": "entailment"}
+{"premise": "Did the singer upset the boat while hurting others?", "hypothesis": "The singer hurt others.", "label": "entailment"}
+{"premise": "Did the kid slit the envelope when hitting the ball with the bat?", "hypothesis": "The kid hit the ball with the bat.", "label": "entailment"}
+{"premise": "Did the doctor hurt others after slitting the envelope?", "hypothesis": "The doctor slit the envelope.", "label": "entailment"}
+{"premise": "Did the stranger hurt others while slitting the envelope?", "hypothesis": "The stranger slit the envelope.", "label": "entailment"}
+{"premise": "Did the boy slit the envelope while casting bronze into a statue?", "hypothesis": "The boy cast bronze into a statue.", "label": "entailment"}
+{"premise": "Did the teacher put the book on the shelf while betting $100 on the race?", "hypothesis": "The teacher bet $100 on the race.", "label": "entailment"}
+{"premise": "Did the stranger hurt others when casting bronze into a statue?", "hypothesis": "The stranger cast bronze into a statue.", "label": "entailment"}
+{"premise": "Did the professor slit the envelope when putting the book on the shelf?", "hypothesis": "The professor put the book on the shelf.", "label": "entailment"}
+{"premise": "Did the child read the letter before shedding tears?", "hypothesis": "The child shed tears.", "label": "entailment"}
+{"premise": "Did the director cast bronze into a statue while putting the book on the shelf?", "hypothesis": "The director put the book on the shelf.", "label": "entailment"}
+{"premise": "Did the child spread the rumor after shedding tears?", "hypothesis": "The child shed tears.", "label": "entailment"}
+{"premise": "Did the doctor hit the ball with the bat while shedding tears?", "hypothesis": "The doctor shed tears.", "label": "entailment"}
+{"premise": "Did the assistant shed tears when shutting the door?", "hypothesis": "The assistant shut the door.", "label": "entailment"}
+{"premise": "Did the director spread the rumor when setting the dish on the table?", "hypothesis": "The director set the dish on the table.", "label": "entailment"}
+{"premise": "Did the athlete burst into the room when shutting the door?", "hypothesis": "The athlete shut the door.", "label": "entailment"}
+{"premise": "Did the teacher read the letter while letting the blinds down?", "hypothesis": "The teacher let the blinds down.", "label": "entailment"}
+{"premise": "Did the doctor thrust the fork into the cake after reading the letter?", "hypothesis": "The doctor read the letter.", "label": "entailment"}
+{"premise": "Did the athlete split the log before putting the book on the shelf?", "hypothesis": "The athlete put the book on the shelf.", "label": "entailment"}
+{"premise": "Did the doctor hit the ball with the bat while shedding tears?", "hypothesis": "The doctor shed tears.", "label": "entailment"}
+{"premise": "Did the dancer split the log while hitting the ball with the bat?", "hypothesis": "The dancer hit the ball with the bat.", "label": "entailment"}
+{"premise": "Did the student put the book on the shelf when hurting others?", "hypothesis": "The student hurt others.", "label": "entailment"}
+{"premise": "Did the teacher split the log before bursting into the room?", "hypothesis": "The teacher burst into the room.", "label": "entailment"}
+{"premise": "Did the kid shed tears while betting $100 on the race?", "hypothesis": "The kid bet $100 on the race.", "label": "entailment"}
+{"premise": "Did the woman shed tears while hurting others?", "hypothesis": "The woman hurt others.", "label": "entailment"}
+{"premise": "Did the athlete cast bronze into a statue after letting the blinds down?", "hypothesis": "The athlete let the blinds down.", "label": "entailment"}
+{"premise": "Did the singer burst into the room when putting the book on the shelf?", "hypothesis": "The singer put the book on the shelf.", "label": "entailment"}
+{"premise": "Did the manager shed tears when upsetting the boat?", "hypothesis": "The manager upset the boat.", "label": "entailment"}
+{"premise": "Did the dancer shed tears while putting the book on the shelf?", "hypothesis": "The dancer put the book on the shelf.", "label": "entailment"}
+{"premise": "Did the singer shed tears while hurting others?", "hypothesis": "The singer hurt others.", "label": "entailment"}
+{"premise": "Did the assistant slit the envelope after betting $100 on the race?", "hypothesis": "The assistant bet $100 on the race.", "label": "entailment"}
+{"premise": "Did the boy hurt others while shutting the door?", "hypothesis": "The boy shut the door.", "label": "entailment"}
+{"premise": "Did the stranger cast bronze into a statue while thrusting the fork into the cake?", "hypothesis": "The stranger thrust the fork into the cake.", "label": "entailment"}
+{"premise": "Did the professor bet $100 on the race before thrusting the fork into the cake?", "hypothesis": "The professor thrust the fork into the cake.", "label": "entailment"}
+{"premise": "Did the manager spread the rumor after reading the letter?", "hypothesis": "The manager read the letter.", "label": "entailment"}
+{"premise": "Did the kid split the log when hurting others?", "hypothesis": "The kid hurt others.", "label": "entailment"}
+{"premise": "Did the stranger hit the ball with the bat before casting bronze into a statue?", "hypothesis": "The stranger cast bronze into a statue.", "label": "entailment"}
+{"premise": "Did the student put the book on the shelf before bursting into the room?", "hypothesis": "The student burst into the room.", "label": "entailment"}
+{"premise": "Did the worker thrust the fork into the cake before shutting the door?", "hypothesis": "The worker shut the door.", "label": "entailment"}
+{"premise": "Did the child let the blinds down while bursting into the room?", "hypothesis": "The child burst into the room.", "label": "entailment"}
+{"premise": "Did the student cast bronze into a statue before setting the dish on the table?", "hypothesis": "The student set the dish on the table.", "label": "entailment"}
+{"premise": "Did the singer put the book on the shelf when hurting others?", "hypothesis": "The singer hurt others.", "label": "entailment"}
+{"premise": "Did the singer hurt others before shutting the door?", "hypothesis": "The singer shut the door.", "label": "entailment"}
+{"premise": "Did the dancer thrust the fork into the cake when bursting into the room?", "hypothesis": "The dancer burst into the room.", "label": "entailment"}
+{"premise": "Did the director shed tears before thrusting the fork into the cake?", "hypothesis": "The director thrust the fork into the cake.", "label": "entailment"}
+{"premise": "Did the doctor bet $100 on the race after hitting the ball with the bat?", "hypothesis": "The doctor hit the ball with the bat.", "label": "entailment"}
+{"premise": "Did the woman put the book on the shelf before hitting the ball with the bat?", "hypothesis": "The woman hit the ball with the bat.", "label": "entailment"}
+{"premise": "Did the athlete hit the ball with the bat before spreading the rumor?", "hypothesis": "The athlete spread the rumor.", "label": "entailment"}
+{"premise": "Did the singer slit the envelope when thrusting the fork into the cake?", "hypothesis": "The singer thrust the fork into the cake.", "label": "entailment"}
+{"premise": "Did the woman read the letter after setting the dish on the table?", "hypothesis": "The woman set the dish on the table.", "label": "entailment"}
+{"premise": "Did the stranger shed tears while thrusting the fork into the cake?", "hypothesis": "The stranger thrust the fork into the cake.", "label": "entailment"}
+{"premise": "Did the man let the blinds down while betting $100 on the race?", "hypothesis": "The man bet $100 on the race.", "label": "entailment"}
+{"premise": "Did the woman read the letter while upsetting the boat?", "hypothesis": "The woman upset the boat.", "label": "entailment"}
+{"premise": "Did the manager hurt others while reading the letter?", "hypothesis": "The manager read the letter.", "label": "entailment"}
+{"premise": "Did the manager shed tears before hurting others?", "hypothesis": "The manager hurt others.", "label": "entailment"}
+{"premise": "Did the dancer burst into the room before casting bronze into a statue?", "hypothesis": "The dancer cast bronze into a statue.", "label": "entailment"}
+{"premise": "Did the teacher hit the ball with the bat before hurting others?", "hypothesis": "The teacher hurt others.", "label": "entailment"}
+{"premise": "Did the teacher spread the rumor before upsetting the boat?", "hypothesis": "The teacher upset the boat.", "label": "entailment"}
+{"premise": "Did the athlete slit the envelope after shedding tears?", "hypothesis": "The athlete shed tears.", "label": "entailment"}
+{"premise": "Did the woman split the log when slitting the envelope?", "hypothesis": "The woman slit the envelope.", "label": "entailment"}
+{"premise": "Did the girl hurt others when casting bronze into a statue?", "hypothesis": "The girl cast bronze into a statue.", "label": "entailment"}
+{"premise": "Did the manager put the book on the shelf after hitting the ball with the bat?", "hypothesis": "The manager hit the ball with the bat.", "label": "entailment"}
+{"premise": "Did the man shed tears before casting bronze into a statue?", "hypothesis": "The man cast bronze into a statue.", "label": "entailment"}
+{"premise": "Did the kid hit the ball with the bat when bursting into the room?", "hypothesis": "The kid burst into the room.", "label": "entailment"}
+{"premise": "Did the professor shut the door while putting the book on the shelf?", "hypothesis": "The professor put the book on the shelf.", "label": "entailment"}
+{"premise": "Did the student thrust the fork into the cake while putting the book on the shelf?", "hypothesis": "The student put the book on the shelf.", "label": "entailment"}
+{"premise": "Did the worker bet $100 on the race when letting the blinds down?", "hypothesis": "The worker let the blinds down.", "label": "entailment"}
+{"premise": "Did the child spread the rumor while setting the dish on the table?", "hypothesis": "The child set the dish on the table.", "label": "entailment"}
+{"premise": "Did the director hit the ball with the bat before upsetting the boat?", "hypothesis": "The director upset the boat.", "label": "entailment"}
+{"premise": "Did the singer put the book on the shelf after shutting the door?", "hypothesis": "The singer shut the door.", "label": "entailment"}
+{"premise": "Did the professor shut the door when thrusting the fork into the cake?", "hypothesis": "The professor thrust the fork into the cake.", "label": "entailment"}
+{"premise": "Did the worker spread the rumor when slitting the envelope?", "hypothesis": "The worker slit the envelope.", "label": "entailment"}
+{"premise": "Did the doctor split the log after bursting into the room?", "hypothesis": "The doctor burst into the room.", "label": "entailment"}
+{"premise": "Did the teacher put the book on the shelf when shutting the door?", "hypothesis": "The teacher shut the door.", "label": "entailment"}
+{"premise": "Did the kid upset the boat after setting the dish on the table?", "hypothesis": "The kid set the dish on the table.", "label": "entailment"}
+{"premise": "Did the singer shut the door before hurting others?", "hypothesis": "The singer hurt others.", "label": "entailment"}
+{"premise": "Did the child hit the ball with the bat while splitting the log?", "hypothesis": "The child split the log.", "label": "entailment"}
+{"premise": "Did the teacher hit the ball with the bat before splitting the log?", "hypothesis": "The teacher split the log.", "label": "entailment"}
+{"premise": "Did the stranger shut the door when reading the letter?", "hypothesis": "The stranger read the letter.", "label": "entailment"}
+{"premise": "Did the man set the dish on the table before shedding tears?", "hypothesis": "The man shed tears.", "label": "entailment"}
+{"premise": "Did the girl shed tears when spreading the rumor?", "hypothesis": "The girl spread the rumor.", "label": "entailment"}
+{"premise": "Did the athlete thrust the fork into the cake after setting the dish on the table?", "hypothesis": "The athlete set the dish on the table.", "label": "entailment"}
+{"premise": "Did the director bet $100 on the race after hurting others?", "hypothesis": "The director hurt others.", "label": "entailment"}
+{"premise": "Did the athlete slit the envelope before putting the book on the shelf?", "hypothesis": "The athlete put the book on the shelf.", "label": "entailment"}
+{"premise": "Did the teacher bet $100 on the race after hurting others?", "hypothesis": "The teacher hurt others.", "label": "entailment"}
+{"premise": "Did the kid spread the rumor after reading the letter?", "hypothesis": "The kid read the letter.", "label": "entailment"}
+{"premise": "Did the student put the book on the shelf after shedding tears?", "hypothesis": "The student shed tears.", "label": "entailment"}
+{"premise": "Did the student upset the boat when setting the dish on the table?", "hypothesis": "The student set the dish on the table.", "label": "entailment"}
+{"premise": "Did the child cast bronze into a statue while slitting the envelope?", "hypothesis": "The child slit the envelope.", "label": "entailment"}
+{"premise": "Did the manager read the letter before upsetting the boat?", "hypothesis": "The manager upset the boat.", "label": "entailment"}
+{"premise": "Did the stranger set the dish on the table after bursting into the room?", "hypothesis": "The stranger burst into the room.", "label": "entailment"}
+{"premise": "Did the professor bet $100 on the race when shutting the door?", "hypothesis": "The professor shut the door.", "label": "entailment"}
+{"premise": "Did the girl shed tears while thrusting the fork into the cake?", "hypothesis": "The girl thrust the fork into the cake.", "label": "entailment"}
+{"premise": "Did the man set the dish on the table before bursting into the room?", "hypothesis": "The man burst into the room.", "label": "entailment"}
+{"premise": "Did the kid thrust the fork into the cake while putting the book on the shelf?", "hypothesis": "The kid did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "Did the manager split the log before bursting into the room?", "hypothesis": "The manager did not burst into the room.", "label": "contradiction"}
+{"premise": "Did the stranger spread the rumor after shedding tears?", "hypothesis": "The stranger did not shed tears.", "label": "contradiction"}
+{"premise": "Did the woman split the log when upsetting the boat?", "hypothesis": "The woman did not upset the boat.", "label": "contradiction"}
+{"premise": "Did the director set the dish on the table while slitting the envelope?", "hypothesis": "The director did not slit the envelope.", "label": "contradiction"}
+{"premise": "Did the stranger thrust the fork into the cake before shutting the door?", "hypothesis": "The stranger did not shut the door.", "label": "contradiction"}
+{"premise": "Did the woman set the dish on the table before hurting others?", "hypothesis": "The woman did not hurt others.", "label": "contradiction"}
+{"premise": "Did the worker read the letter before spreading the rumor?", "hypothesis": "The worker did not spread the rumor.", "label": "contradiction"}
+{"premise": "Did the boy hit the ball with the bat while casting bronze into a statue?", "hypothesis": "The boy did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "Did the man burst into the room when splitting the log?", "hypothesis": "The man did not split the log.", "label": "contradiction"}
+{"premise": "Did the worker bet $100 on the race when hitting the ball with the bat?", "hypothesis": "The worker did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "Did the doctor shed tears before slitting the envelope?", "hypothesis": "The doctor did not slit the envelope.", "label": "contradiction"}
+{"premise": "Did the kid cast bronze into a statue before shedding tears?", "hypothesis": "The kid did not shed tears.", "label": "contradiction"}
+{"premise": "Did the athlete cast bronze into a statue after slitting the envelope?", "hypothesis": "The athlete did not slit the envelope.", "label": "contradiction"}
+{"premise": "Did the man bet $100 on the race while shedding tears?", "hypothesis": "The man did not shed tears.", "label": "contradiction"}
+{"premise": "Did the kid bet $100 on the race while shedding tears?", "hypothesis": "The kid did not shed tears.", "label": "contradiction"}
+{"premise": "Did the man thrust the fork into the cake while upsetting the boat?", "hypothesis": "The man did not upset the boat.", "label": "contradiction"}
+{"premise": "Did the professor spread the rumor before thrusting the fork into the cake?", "hypothesis": "The professor did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "Did the professor let the blinds down while setting the dish on the table?", "hypothesis": "The professor did not set the dish on the table.", "label": "contradiction"}
+{"premise": "Did the director split the log before setting the dish on the table?", "hypothesis": "The director did not set the dish on the table.", "label": "contradiction"}
+{"premise": "Did the child shut the door while hurting others?", "hypothesis": "The child did not hurt others.", "label": "contradiction"}
+{"premise": "Did the girl shut the door while letting the blinds down?", "hypothesis": "The girl did not let the blinds down.", "label": "contradiction"}
+{"premise": "Did the student upset the boat when casting bronze into a statue?", "hypothesis": "The student did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "Did the singer burst into the room when spreading the rumor?", "hypothesis": "The singer did not spread the rumor.", "label": "contradiction"}
+{"premise": "Did the boy read the letter when splitting the log?", "hypothesis": "The boy did not split the log.", "label": "contradiction"}
+{"premise": "Did the worker set the dish on the table when thrusting the fork into the cake?", "hypothesis": "The worker did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "Did the girl upset the boat while thrusting the fork into the cake?", "hypothesis": "The girl did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "Did the stranger shut the door when letting the blinds down?", "hypothesis": "The stranger did not let the blinds down.", "label": "contradiction"}
+{"premise": "Did the girl let the blinds down after splitting the log?", "hypothesis": "The girl did not split the log.", "label": "contradiction"}
+{"premise": "Did the stranger burst into the room while letting the blinds down?", "hypothesis": "The stranger did not let the blinds down.", "label": "contradiction"}
+{"premise": "Did the kid upset the boat after shutting the door?", "hypothesis": "The kid did not shut the door.", "label": "contradiction"}
+{"premise": "Did the child let the blinds down while hurting others?", "hypothesis": "The child did not hurt others.", "label": "contradiction"}
+{"premise": "Did the student put the book on the shelf after setting the dish on the table?", "hypothesis": "The student did not set the dish on the table.", "label": "contradiction"}
+{"premise": "Did the boy cast bronze into a statue before hitting the ball with the bat?", "hypothesis": "The boy did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "Did the boy hit the ball with the bat when betting $100 on the race?", "hypothesis": "The boy did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "Did the stranger burst into the room before hitting the ball with the bat?", "hypothesis": "The stranger did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "Did the singer spread the rumor after shutting the door?", "hypothesis": "The singer did not shut the door.", "label": "contradiction"}
+{"premise": "Did the singer set the dish on the table before shedding tears?", "hypothesis": "The singer did not shed tears.", "label": "contradiction"}
+{"premise": "Did the professor slit the envelope when reading the letter?", "hypothesis": "The professor did not read the letter.", "label": "contradiction"}
+{"premise": "Did the professor burst into the room after hitting the ball with the bat?", "hypothesis": "The professor did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "Did the singer set the dish on the table when thrusting the fork into the cake?", "hypothesis": "The singer did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "Did the man thrust the fork into the cake when upsetting the boat?", "hypothesis": "The man did not upset the boat.", "label": "contradiction"}
+{"premise": "Did the teacher upset the boat after splitting the log?", "hypothesis": "The teacher did not split the log.", "label": "contradiction"}
+{"premise": "Did the athlete put the book on the shelf when reading the letter?", "hypothesis": "The athlete did not read the letter.", "label": "contradiction"}
+{"premise": "Did the boy set the dish on the table before casting bronze into a statue?", "hypothesis": "The boy did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "Did the woman hurt others while shutting the door?", "hypothesis": "The woman did not shut the door.", "label": "contradiction"}
+{"premise": "Did the kid put the book on the shelf when shutting the door?", "hypothesis": "The kid did not shut the door.", "label": "contradiction"}
+{"premise": "Did the student set the dish on the table before hurting others?", "hypothesis": "The student did not hurt others.", "label": "contradiction"}
+{"premise": "Did the girl shed tears before upsetting the boat?", "hypothesis": "The girl did not upset the boat.", "label": "contradiction"}
+{"premise": "Did the manager burst into the room after casting bronze into a statue?", "hypothesis": "The manager did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "Did the singer put the book on the shelf when setting the dish on the table?", "hypothesis": "The singer did not set the dish on the table.", "label": "contradiction"}
+{"premise": "Did the stranger shut the door when slitting the envelope?", "hypothesis": "The stranger did not slit the envelope.", "label": "contradiction"}
+{"premise": "Did the professor hurt others when hitting the ball with the bat?", "hypothesis": "The professor did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "Did the athlete hurt others before hitting the ball with the bat?", "hypothesis": "The athlete did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "Did the child bet $100 on the race when bursting into the room?", "hypothesis": "The child did not burst into the room.", "label": "contradiction"}
+{"premise": "Did the dancer upset the boat while splitting the log?", "hypothesis": "The dancer did not split the log.", "label": "contradiction"}
+{"premise": "Did the worker thrust the fork into the cake before putting the book on the shelf?", "hypothesis": "The worker did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "Did the stranger hit the ball with the bat when casting bronze into a statue?", "hypothesis": "The stranger did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "Did the boy let the blinds down while betting $100 on the race?", "hypothesis": "The boy did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "Did the child let the blinds down after spreading the rumor?", "hypothesis": "The child did not spread the rumor.", "label": "contradiction"}
+{"premise": "Did the man cast bronze into a statue when thrusting the fork into the cake?", "hypothesis": "The man did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "Did the dancer thrust the fork into the cake when slitting the envelope?", "hypothesis": "The dancer did not slit the envelope.", "label": "contradiction"}
+{"premise": "Did the singer read the letter after casting bronze into a statue?", "hypothesis": "The singer did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "Did the manager hit the ball with the bat when putting the book on the shelf?", "hypothesis": "The manager did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "Did the worker spread the rumor when shedding tears?", "hypothesis": "The worker did not shed tears.", "label": "contradiction"}
+{"premise": "Did the singer set the dish on the table while slitting the envelope?", "hypothesis": "The singer did not slit the envelope.", "label": "contradiction"}
+{"premise": "Did the professor hit the ball with the bat after bursting into the room?", "hypothesis": "The professor did not burst into the room.", "label": "contradiction"}
+{"premise": "Did the child put the book on the shelf before letting the blinds down?", "hypothesis": "The child did not let the blinds down.", "label": "contradiction"}
+{"premise": "Did the professor bet $100 on the race after hurting others?", "hypothesis": "The professor did not hurt others.", "label": "contradiction"}
+{"premise": "Did the teacher split the log while thrusting the fork into the cake?", "hypothesis": "The teacher did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "Did the assistant let the blinds down before shedding tears?", "hypothesis": "The assistant did not shed tears.", "label": "contradiction"}
+{"premise": "Did the man upset the boat before casting bronze into a statue?", "hypothesis": "The man did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "Did the athlete shut the door when letting the blinds down?", "hypothesis": "The athlete did not let the blinds down.", "label": "contradiction"}
+{"premise": "Did the athlete set the dish on the table after casting bronze into a statue?", "hypothesis": "The athlete did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "Did the woman shed tears when spreading the rumor?", "hypothesis": "The woman did not spread the rumor.", "label": "contradiction"}
+{"premise": "Did the boy split the log while casting bronze into a statue?", "hypothesis": "The boy did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "Did the student read the letter while hurting others?", "hypothesis": "The student did not hurt others.", "label": "contradiction"}
+{"premise": "Did the girl thrust the fork into the cake while casting bronze into a statue?", "hypothesis": "The girl did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "Did the doctor put the book on the shelf before hitting the ball with the bat?", "hypothesis": "The doctor did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "Did the doctor let the blinds down before shedding tears?", "hypothesis": "The doctor did not shed tears.", "label": "contradiction"}
+{"premise": "Did the kid shut the door after bursting into the room?", "hypothesis": "The kid did not burst into the room.", "label": "contradiction"}
+{"premise": "Did the doctor slit the envelope before spreading the rumor?", "hypothesis": "The doctor did not spread the rumor.", "label": "contradiction"}
+{"premise": "Did the professor split the log when upsetting the boat?", "hypothesis": "The professor did not upset the boat.", "label": "contradiction"}
+{"premise": "Did the stranger set the dish on the table before splitting the log?", "hypothesis": "The stranger did not split the log.", "label": "contradiction"}
+{"premise": "Did the worker thrust the fork into the cake when spreading the rumor?", "hypothesis": "The worker did not spread the rumor.", "label": "contradiction"}
+{"premise": "Did the manager slit the envelope while thrusting the fork into the cake?", "hypothesis": "The manager did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "Did the director burst into the room when casting bronze into a statue?", "hypothesis": "The director did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "Did the doctor spread the rumor when betting $100 on the race?", "hypothesis": "The doctor did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "Did the dancer thrust the fork into the cake before splitting the log?", "hypothesis": "The dancer did not split the log.", "label": "contradiction"}
+{"premise": "Did the manager read the letter while putting the book on the shelf?", "hypothesis": "The manager did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "Did the worker put the book on the shelf when hurting others?", "hypothesis": "The worker did not hurt others.", "label": "contradiction"}
+{"premise": "Did the kid upset the boat when casting bronze into a statue?", "hypothesis": "The kid did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "Did the singer bet $100 on the race after spreading the rumor?", "hypothesis": "The singer did not spread the rumor.", "label": "contradiction"}
+{"premise": "Did the athlete hurt others when shedding tears?", "hypothesis": "The athlete did not shed tears.", "label": "contradiction"}
+{"premise": "Did the dancer cast bronze into a statue before putting the book on the shelf?", "hypothesis": "The dancer did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "Did the woman spread the rumor before setting the dish on the table?", "hypothesis": "The woman did not set the dish on the table.", "label": "contradiction"}
+{"premise": "Did the athlete upset the boat before betting $100 on the race?", "hypothesis": "The athlete did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "Did the worker shut the door after splitting the log?", "hypothesis": "The worker did not split the log.", "label": "contradiction"}
+{"premise": "Did the student shut the door while putting the book on the shelf?", "hypothesis": "The student did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "Did the teacher hurt others after shutting the door?", "hypothesis": "The teacher did not shut the door.", "label": "contradiction"}

@@ -1,0 +1,201 @@
+	sentence1	sentence2	label	heuristics	example1	example2	split
+200	The boy read the letter quietly.	 The boy read the letter.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+201	The assistant hurt others quickly.	 The assistant hurt others.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+202	The child hurt others anxiously.	 The child hurt others.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+203	The athlete let the blinds down happily.	 The athlete let the blinds down.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+204	The athlete upset the boat calmly.	 The athlete upset the boat.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+205	The professor cast bronze into a statue sadly.	 The professor cast bronze into a statue.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+206	The worker let the blinds down slowly.	 The worker let the blinds down.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+207	The kid set the dish on the table quietly.	 The kid set the dish on the table.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+208	The child read the letter slowly.	 The child read the letter.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+209	The manager hit the ball with the bat happily.	 The manager hit the ball with the bat.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+210	The doctor read the letter anxiously.	 The doctor read the letter.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+211	The child put the book on the shelf happily.	 The child put the book on the shelf.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+212	The girl set the dish on the table quietly.	 The girl set the dish on the table.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+213	The boy bet $100 on the race quickly.	 The boy bet $100 on the race.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+214	The student shut the door easily.	 The student shut the door.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+215	The child slit the envelope sadly.	 The child slit the envelope.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+216	The child thrust the fork into the cake calmly.	 The child thrust the fork into the cake.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+217	The teacher hurt others slowly.	 The teacher hurt others.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+218	The teacher set the dish on the table quickly.	 The teacher set the dish on the table.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+219	The girl put the book on the shelf anxiously.	 The girl put the book on the shelf.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+220	The dancer thrust the fork into the cake calmly.	 The dancer thrust the fork into the cake.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+221	The man hurt others sadly.	 The man hurt others.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+222	The man set the dish on the table calmly.	 The man set the dish on the table.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+223	The singer shut the door calmly.	 The singer shut the door.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+224	The manager set the dish on the table slowly.	 The manager set the dish on the table.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+225	The professor hit the ball with the bat quietly.	 The professor hit the ball with the bat.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+226	The doctor burst into the room slowly.	 The doctor burst into the room.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+227	The manager hurt others calmly.	 The manager hurt others.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+228	The singer slit the envelope happily.	 The singer slit the envelope.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+229	The director hit the ball with the bat sadly.	 The director hit the ball with the bat.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+230	The worker slit the envelope calmly.	 The worker slit the envelope.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+231	The girl let the blinds down sadly.	 The girl let the blinds down.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+232	The woman bet $100 on the race quietly.	 The woman bet $100 on the race.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+233	The doctor burst into the room sadly.	 The doctor burst into the room.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+234	The girl put the book on the shelf angrily.	 The girl put the book on the shelf.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+235	The director split the log calmly.	 The director split the log.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+236	The boy bet $100 on the race slowly.	 The boy bet $100 on the race.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+237	The singer shed tears easily.	 The singer shed tears.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+238	The worker let the blinds down sadly.	 The worker let the blinds down.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+239	The manager shut the door happily.	 The manager shut the door.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+240	The man hit the ball with the bat angrily.	 The man hit the ball with the bat.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+241	The student thrust the fork into the cake happily.	 The student thrust the fork into the cake.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+242	The professor thrust the fork into the cake quietly.	 The professor thrust the fork into the cake.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+243	The teacher upset the boat slowly.	 The teacher upset the boat.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+244	The worker hurt others slowly.	 The worker hurt others.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+245	The teacher shut the door calmly.	 The teacher shut the door.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+246	The student let the blinds down happily.	 The student let the blinds down.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+247	The athlete split the log anxiously.	 The athlete split the log.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+248	The man set the dish on the table slowly.	 The man set the dish on the table.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+249	The assistant thrust the fork into the cake anxiously.	 The assistant thrust the fork into the cake.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+250	The manager spread the rumor anxiously.	 The manager spread the rumor.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+251	The boy upset the boat sadly.	 The boy upset the boat.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	test
+252	The professor shut the door angrily.	 The professor shut the door.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+253	The teacher upset the boat calmly.	 The teacher upset the boat.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+254	The girl shut the door anxiously.	 The girl shut the door.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+255	The dancer slit the envelope sadly.	 The dancer slit the envelope.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	test
+256	The child hurt others happily.	 The child hurt others.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+257	The woman let the blinds down anxiously.	 The woman let the blinds down.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+258	The assistant split the log angrily.	 The assistant split the log.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+259	The man bet $100 on the race sadly.	 The man bet $100 on the race.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+260	The stranger hurt others happily.	 The stranger hurt others.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+261	The student hit the ball with the bat easily.	 The student hit the ball with the bat.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+262	The girl put the book on the shelf sadly.	 The girl put the book on the shelf.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+263	The boy spread the rumor slowly.	 The boy spread the rumor.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+264	The boy hit the ball with the bat angrily.	 The boy hit the ball with the bat.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+265	The stranger hit the ball with the bat quickly.	 The stranger hit the ball with the bat.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+266	The girl put the book on the shelf quietly.	 The girl put the book on the shelf.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+267	The child hit the ball with the bat easily.	 The child hit the ball with the bat.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+268	The child shut the door slowly.	 The child shut the door.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+269	The assistant put the book on the shelf quietly.	 The assistant put the book on the shelf.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	test
+270	The doctor set the dish on the table angrily.	 The doctor set the dish on the table.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+271	The kid bet $100 on the race slowly.	 The kid bet $100 on the race.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+272	The child thrust the fork into the cake sadly.	 The child thrust the fork into the cake.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+273	The boy bet $100 on the race anxiously.	 The boy bet $100 on the race.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+274	The professor let the blinds down easily.	 The professor let the blinds down.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+275	The dancer set the dish on the table calmly.	 The dancer set the dish on the table.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+276	The director read the letter quietly.	 The director read the letter.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+277	The girl hit the ball with the bat calmly.	 The girl hit the ball with the bat.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+278	The stranger spread the rumor happily.	 The stranger spread the rumor.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+279	The girl split the log quietly.	 The girl split the log.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+280	The man hurt others easily.	 The man hurt others.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+281	The teacher set the dish on the table quietly.	 The teacher set the dish on the table.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+282	The doctor bet $100 on the race slowly.	 The doctor bet $100 on the race.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	test
+283	The dancer bet $100 on the race calmly.	 The dancer bet $100 on the race.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+284	The manager put the book on the shelf quickly.	 The manager put the book on the shelf.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+285	The stranger let the blinds down calmly.	 The stranger let the blinds down.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+286	The dancer read the letter happily.	 The dancer read the letter.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+287	The dancer read the letter angrily.	 The dancer read the letter.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+288	The athlete thrust the fork into the cake quietly.	 The athlete thrust the fork into the cake.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+289	The singer set the dish on the table slowly.	 The singer set the dish on the table.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+290	The manager slit the envelope quickly.	 The manager slit the envelope.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+291	The manager read the letter happily.	 The manager read the letter.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+292	The woman hit the ball with the bat easily.	 The woman hit the ball with the bat.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+293	The doctor bet $100 on the race slowly.	 The doctor bet $100 on the race.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	test
+294	The singer set the dish on the table angrily.	 The singer set the dish on the table.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+295	The stranger shed tears calmly.	 The stranger shed tears.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+296	The worker read the letter quietly.	 The worker read the letter.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+297	The worker slit the envelope easily.	 The worker slit the envelope.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+298	The boy read the letter anxiously.	 The boy read the letter.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+299	The man put the book on the shelf quietly.	 The man put the book on the shelf.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+300	The director put the book on the shelf sadly.	 The director did not put the book on the shelf.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+301	The assistant thrust the fork into the cake anxiously.	 The assistant did not thrust the fork into the cake.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+302	The dancer spread the rumor quietly.	 The dancer did not spread the rumor.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+303	The kid hit the ball with the bat angrily.	 The kid did not hit the ball with the bat.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+304	The man thrust the fork into the cake angrily.	 The man did not thrust the fork into the cake.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+305	The woman bet $100 on the race sadly.	 The woman did not bet $100 on the race.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+306	The teacher thrust the fork into the cake quickly.	 The teacher did not thrust the fork into the cake.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+307	The dancer thrust the fork into the cake angrily.	 The dancer did not thrust the fork into the cake.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+308	The child burst into the room angrily.	 The child did not burst into the room.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+309	The doctor slit the envelope sadly.	 The doctor did not slit the envelope.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+310	The woman slit the envelope easily.	 The woman did not slit the envelope.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+311	The director hurt others quietly.	 The director did not hurt others.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+312	The singer thrust the fork into the cake quickly.	 The singer did not thrust the fork into the cake.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+313	The doctor shed tears anxiously.	 The doctor did not shed tears.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+314	The doctor upset the boat angrily.	 The doctor did not upset the boat.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+315	The dancer cast bronze into a statue angrily.	 The dancer did not cast bronze into a statue.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+316	The worker thrust the fork into the cake happily.	 The worker did not thrust the fork into the cake.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+317	The athlete spread the rumor quietly.	 The athlete did not spread the rumor.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+318	The kid shut the door calmly.	 The kid did not shut the door.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+319	The stranger put the book on the shelf easily.	 The stranger did not put the book on the shelf.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+320	The athlete split the log quietly.	 The athlete did not split the log.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+321	The doctor hit the ball with the bat sadly.	 The doctor did not hit the ball with the bat.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+322	The professor read the letter happily.	 The professor did not read the letter.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+323	The professor read the letter happily.	 The professor did not read the letter.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+324	The singer upset the boat quietly.	 The singer did not upset the boat.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+325	The student shut the door quietly.	 The student did not shut the door.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+326	The girl burst into the room slowly.	 The girl did not burst into the room.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+327	The athlete upset the boat sadly.	 The athlete did not upset the boat.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+328	The worker shed tears anxiously.	 The worker did not shed tears.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+329	The stranger burst into the room quietly.	 The stranger did not burst into the room.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+330	The doctor split the log happily.	 The doctor did not split the log.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+331	The director thrust the fork into the cake quickly.	 The director did not thrust the fork into the cake.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+332	The worker let the blinds down quickly.	 The worker did not let the blinds down.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	test
+333	The teacher spread the rumor easily.	 The teacher did not spread the rumor.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+334	The athlete set the dish on the table sadly.	 The athlete did not set the dish on the table.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+335	The boy slit the envelope quickly.	 The boy did not slit the envelope.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+336	The teacher shut the door quietly.	 The teacher did not shut the door.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+337	The worker cast bronze into a statue easily.	 The worker did not cast bronze into a statue.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+338	The singer burst into the room calmly.	 The singer did not burst into the room.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+339	The kid hurt others calmly.	 The kid did not hurt others.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+340	The director slit the envelope angrily.	 The director did not slit the envelope.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	test
+341	The student upset the boat quickly.	 The student did not upset the boat.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+342	The doctor let the blinds down anxiously.	 The doctor did not let the blinds down.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+343	The singer set the dish on the table easily.	 The singer did not set the dish on the table.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+344	The athlete hurt others easily.	 The athlete did not hurt others.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+345	The professor shut the door happily.	 The professor did not shut the door.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+346	The teacher hit the ball with the bat angrily.	 The teacher did not hit the ball with the bat.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+347	The stranger spread the rumor easily.	 The stranger did not spread the rumor.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+348	The kid hurt others calmly.	 The kid did not hurt others.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+349	The dancer slit the envelope anxiously.	 The dancer did not slit the envelope.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+350	The kid read the letter calmly.	 The kid did not read the letter.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+351	The man hit the ball with the bat angrily.	 The man did not hit the ball with the bat.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+352	The worker set the dish on the table calmly.	 The worker did not set the dish on the table.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+353	The woman upset the boat angrily.	 The woman did not upset the boat.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+354	The girl burst into the room angrily.	 The girl did not burst into the room.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+355	The dancer cast bronze into a statue sadly.	 The dancer did not cast bronze into a statue.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+356	The student read the letter quickly.	 The student did not read the letter.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+357	The doctor upset the boat quietly.	 The doctor did not upset the boat.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+358	The worker spread the rumor quickly.	 The worker did not spread the rumor.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+359	The athlete slit the envelope quickly.	 The athlete did not slit the envelope.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+360	The dancer cast bronze into a statue easily.	 The dancer did not cast bronze into a statue.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+361	The boy shed tears easily.	 The boy did not shed tears.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+362	The girl slit the envelope quickly.	 The girl did not slit the envelope.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+363	The manager hit the ball with the bat happily.	 The manager did not hit the ball with the bat.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+364	The girl hurt others calmly.	 The girl did not hurt others.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+365	The man let the blinds down quietly.	 The man did not let the blinds down.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+366	The child slit the envelope easily.	 The child did not slit the envelope.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+367	The girl read the letter happily.	 The girl did not read the letter.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+368	The stranger hit the ball with the bat angrily.	 The stranger did not hit the ball with the bat.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+369	The girl let the blinds down quickly.	 The girl did not let the blinds down.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+370	The doctor upset the boat sadly.	 The doctor did not upset the boat.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+371	The woman upset the boat slowly.	 The woman did not upset the boat.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+372	The doctor read the letter slowly.	 The doctor did not read the letter.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+373	The athlete shed tears angrily.	 The athlete did not shed tears.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+374	The student cast bronze into a statue anxiously.	 The student did not cast bronze into a statue.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+375	The woman cast bronze into a statue anxiously.	 The woman did not cast bronze into a statue.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+376	The teacher burst into the room slowly.	 The teacher did not burst into the room.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	test
+377	The child upset the boat sadly.	 The child did not upset the boat.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	test
+378	The worker split the log easily.	 The worker did not split the log.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+379	The athlete thrust the fork into the cake slowly.	 The athlete did not thrust the fork into the cake.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+380	The singer hurt others slowly.	 The singer did not hurt others.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+381	The assistant spread the rumor slowly.	 The assistant did not spread the rumor.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+382	The singer read the letter sadly.	 The singer did not read the letter.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+383	The student shed tears angrily.	 The student did not shed tears.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+384	The teacher put the book on the shelf anxiously.	 The teacher did not put the book on the shelf.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+385	The boy shed tears sadly.	 The boy did not shed tears.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+386	The director thrust the fork into the cake anxiously.	 The director did not thrust the fork into the cake.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+387	The worker bet $100 on the race anxiously.	 The worker did not bet $100 on the race.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+388	The professor split the log sadly.	 The professor did not split the log.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+389	The student read the letter anxiously.	 The student did not read the letter.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+390	The student set the dish on the table sadly.	 The student did not set the dish on the table.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+391	The worker shed tears angrily.	 The worker did not shed tears.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+392	The stranger let the blinds down sadly.	 The stranger did not let the blinds down.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+393	The worker set the dish on the table quickly.	 The worker did not set the dish on the table.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+394	The singer spread the rumor quickly.	 The singer did not spread the rumor.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+395	The dancer spread the rumor sadly.	 The dancer did not spread the rumor.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+396	The boy upset the boat anxiously.	 The boy did not upset the boat.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+397	The assistant slit the envelope slowly.	 The assistant did not slit the envelope.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+398	The kid shut the door anxiously.	 The kid did not shut the door.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	train
+399	The student slit the envelope angrily.	 The student did not slit the envelope.	contradiction	 -	 The doctor cut the tree slowly.	 The doctor did cut the tree.	test

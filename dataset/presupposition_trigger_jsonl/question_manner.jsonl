@@ -1,0 +1,200 @@
+{"premise": "Did the boy set the dish on the table calmly?", "hypothesis": "The boy set the dish on the table.", "label": "entailment"}
+{"premise": "Did the student upset the boat anxiously?", "hypothesis": "The student upset the boat.", "label": "entailment"}
+{"premise": "Did the teacher shed tears quickly?", "hypothesis": "The teacher shed tears.", "label": "entailment"}
+{"premise": "Did the stranger set the dish on the table slowly?", "hypothesis": "The stranger set the dish on the table.", "label": "entailment"}
+{"premise": "Did the stranger upset the boat slowly?", "hypothesis": "The stranger upset the boat.", "label": "entailment"}
+{"premise": "Did the athlete shut the door slowly?", "hypothesis": "The athlete shut the door.", "label": "entailment"}
+{"premise": "Did the athlete read the letter happily?", "hypothesis": "The athlete read the letter.", "label": "entailment"}
+{"premise": "Did the student slit the envelope anxiously?", "hypothesis": "The student slit the envelope.", "label": "entailment"}
+{"premise": "Did the kid put the book on the shelf slowly?", "hypothesis": "The kid put the book on the shelf.", "label": "entailment"}
+{"premise": "Did the manager bet $100 on the race easily?", "hypothesis": "The manager bet $100 on the race.", "label": "entailment"}
+{"premise": "Did the boy set the dish on the table sadly?", "hypothesis": "The boy set the dish on the table.", "label": "entailment"}
+{"premise": "Did the assistant slit the envelope quickly?", "hypothesis": "The assistant slit the envelope.", "label": "entailment"}
+{"premise": "Did the manager slit the envelope calmly?", "hypothesis": "The manager slit the envelope.", "label": "entailment"}
+{"premise": "Did the director bet $100 on the race angrily?", "hypothesis": "The director bet $100 on the race.", "label": "entailment"}
+{"premise": "Did the kid shed tears slowly?", "hypothesis": "The kid shed tears.", "label": "entailment"}
+{"premise": "Did the kid read the letter sadly?", "hypothesis": "The kid read the letter.", "label": "entailment"}
+{"premise": "Did the athlete spread the rumor quickly?", "hypothesis": "The athlete spread the rumor.", "label": "entailment"}
+{"premise": "Did the worker cast bronze into a statue happily?", "hypothesis": "The worker cast bronze into a statue.", "label": "entailment"}
+{"premise": "Did the girl shut the door quickly?", "hypothesis": "The girl shut the door.", "label": "entailment"}
+{"premise": "Did the teacher put the book on the shelf slowly?", "hypothesis": "The teacher put the book on the shelf.", "label": "entailment"}
+{"premise": "Did the teacher burst into the room easily?", "hypothesis": "The teacher burst into the room.", "label": "entailment"}
+{"premise": "Did the athlete upset the boat anxiously?", "hypothesis": "The athlete upset the boat.", "label": "entailment"}
+{"premise": "Did the man read the letter anxiously?", "hypothesis": "The man read the letter.", "label": "entailment"}
+{"premise": "Did the director split the log happily?", "hypothesis": "The director split the log.", "label": "entailment"}
+{"premise": "Did the worker thrust the fork into the cake easily?", "hypothesis": "The worker thrust the fork into the cake.", "label": "entailment"}
+{"premise": "Did the boy shed tears easily?", "hypothesis": "The boy shed tears.", "label": "entailment"}
+{"premise": "Did the manager shed tears quietly?", "hypothesis": "The manager shed tears.", "label": "entailment"}
+{"premise": "Did the doctor slit the envelope slowly?", "hypothesis": "The doctor slit the envelope.", "label": "entailment"}
+{"premise": "Did the doctor cast bronze into a statue sadly?", "hypothesis": "The doctor cast bronze into a statue.", "label": "entailment"}
+{"premise": "Did the man split the log easily?", "hypothesis": "The man split the log.", "label": "entailment"}
+{"premise": "Did the director let the blinds down calmly?", "hypothesis": "The director let the blinds down.", "label": "entailment"}
+{"premise": "Did the child spread the rumor calmly?", "hypothesis": "The child spread the rumor.", "label": "entailment"}
+{"premise": "Did the director burst into the room calmly?", "hypothesis": "The director burst into the room.", "label": "entailment"}
+{"premise": "Did the athlete slit the envelope happily?", "hypothesis": "The athlete slit the envelope.", "label": "entailment"}
+{"premise": "Did the doctor hit the ball with the bat angrily?", "hypothesis": "The doctor hit the ball with the bat.", "label": "entailment"}
+{"premise": "Did the stranger upset the boat sadly?", "hypothesis": "The stranger upset the boat.", "label": "entailment"}
+{"premise": "Did the boy hurt others anxiously?", "hypothesis": "The boy hurt others.", "label": "entailment"}
+{"premise": "Did the professor cast bronze into a statue anxiously?", "hypothesis": "The professor cast bronze into a statue.", "label": "entailment"}
+{"premise": "Did the stranger slit the envelope anxiously?", "hypothesis": "The stranger slit the envelope.", "label": "entailment"}
+{"premise": "Did the singer put the book on the shelf easily?", "hypothesis": "The singer put the book on the shelf.", "label": "entailment"}
+{"premise": "Did the boy cast bronze into a statue sadly?", "hypothesis": "The boy cast bronze into a statue.", "label": "entailment"}
+{"premise": "Did the boy set the dish on the table quietly?", "hypothesis": "The boy set the dish on the table.", "label": "entailment"}
+{"premise": "Did the student upset the boat sadly?", "hypothesis": "The student upset the boat.", "label": "entailment"}
+{"premise": "Did the woman upset the boat easily?", "hypothesis": "The woman upset the boat.", "label": "entailment"}
+{"premise": "Did the doctor thrust the fork into the cake easily?", "hypothesis": "The doctor thrust the fork into the cake.", "label": "entailment"}
+{"premise": "Did the woman put the book on the shelf easily?", "hypothesis": "The woman put the book on the shelf.", "label": "entailment"}
+{"premise": "Did the stranger shed tears anxiously?", "hypothesis": "The stranger shed tears.", "label": "entailment"}
+{"premise": "Did the manager spread the rumor slowly?", "hypothesis": "The manager spread the rumor.", "label": "entailment"}
+{"premise": "Did the teacher upset the boat angrily?", "hypothesis": "The teacher upset the boat.", "label": "entailment"}
+{"premise": "Did the manager split the log anxiously?", "hypothesis": "The manager split the log.", "label": "entailment"}
+{"premise": "Did the assistant thrust the fork into the cake quietly?", "hypothesis": "The assistant thrust the fork into the cake.", "label": "entailment"}
+{"premise": "Did the assistant cast bronze into a statue easily?", "hypothesis": "The assistant cast bronze into a statue.", "label": "entailment"}
+{"premise": "Did the boy thrust the fork into the cake angrily?", "hypothesis": "The boy thrust the fork into the cake.", "label": "entailment"}
+{"premise": "Did the girl split the log slowly?", "hypothesis": "The girl split the log.", "label": "entailment"}
+{"premise": "Did the child hurt others anxiously?", "hypothesis": "The child hurt others.", "label": "entailment"}
+{"premise": "Did the woman hurt others calmly?", "hypothesis": "The woman hurt others.", "label": "entailment"}
+{"premise": "Did the professor put the book on the shelf angrily?", "hypothesis": "The professor put the book on the shelf.", "label": "entailment"}
+{"premise": "Did the student hit the ball with the bat angrily?", "hypothesis": "The student hit the ball with the bat.", "label": "entailment"}
+{"premise": "Did the manager read the letter quickly?", "hypothesis": "The manager read the letter.", "label": "entailment"}
+{"premise": "Did the student set the dish on the table easily?", "hypothesis": "The student set the dish on the table.", "label": "entailment"}
+{"premise": "Did the dancer set the dish on the table happily?", "hypothesis": "The dancer set the dish on the table.", "label": "entailment"}
+{"premise": "Did the worker thrust the fork into the cake anxiously?", "hypothesis": "The worker thrust the fork into the cake.", "label": "entailment"}
+{"premise": "Did the boy read the letter easily?", "hypothesis": "The boy read the letter.", "label": "entailment"}
+{"premise": "Did the stranger hit the ball with the bat anxiously?", "hypothesis": "The stranger hit the ball with the bat.", "label": "entailment"}
+{"premise": "Did the man cast bronze into a statue slowly?", "hypothesis": "The man cast bronze into a statue.", "label": "entailment"}
+{"premise": "Did the assistant hurt others quietly?", "hypothesis": "The assistant hurt others.", "label": "entailment"}
+{"premise": "Did the director shed tears quietly?", "hypothesis": "The director shed tears.", "label": "entailment"}
+{"premise": "Did the man let the blinds down sadly?", "hypothesis": "The man let the blinds down.", "label": "entailment"}
+{"premise": "Did the athlete slit the envelope calmly?", "hypothesis": "The athlete slit the envelope.", "label": "entailment"}
+{"premise": "Did the assistant read the letter slowly?", "hypothesis": "The assistant read the letter.", "label": "entailment"}
+{"premise": "Did the man set the dish on the table easily?", "hypothesis": "The man set the dish on the table.", "label": "entailment"}
+{"premise": "Did the stranger shed tears sadly?", "hypothesis": "The stranger shed tears.", "label": "entailment"}
+{"premise": "Did the girl split the log sadly?", "hypothesis": "The girl split the log.", "label": "entailment"}
+{"premise": "Did the doctor shut the door quickly?", "hypothesis": "The doctor shut the door.", "label": "entailment"}
+{"premise": "Did the athlete hurt others slowly?", "hypothesis": "The athlete hurt others.", "label": "entailment"}
+{"premise": "Did the child shut the door easily?", "hypothesis": "The child shut the door.", "label": "entailment"}
+{"premise": "Did the stranger hurt others happily?", "hypothesis": "The stranger hurt others.", "label": "entailment"}
+{"premise": "Did the child cast bronze into a statue quietly?", "hypothesis": "The child cast bronze into a statue.", "label": "entailment"}
+{"premise": "Did the manager slit the envelope happily?", "hypothesis": "The manager slit the envelope.", "label": "entailment"}
+{"premise": "Did the boy cast bronze into a statue angrily?", "hypothesis": "The boy cast bronze into a statue.", "label": "entailment"}
+{"premise": "Did the man shut the door calmly?", "hypothesis": "The man shut the door.", "label": "entailment"}
+{"premise": "Did the girl shut the door sadly?", "hypothesis": "The girl shut the door.", "label": "entailment"}
+{"premise": "Did the student upset the boat happily?", "hypothesis": "The student upset the boat.", "label": "entailment"}
+{"premise": "Did the professor cast bronze into a statue anxiously?", "hypothesis": "The professor cast bronze into a statue.", "label": "entailment"}
+{"premise": "Did the boy shed tears happily?", "hypothesis": "The boy shed tears.", "label": "entailment"}
+{"premise": "Did the athlete split the log anxiously?", "hypothesis": "The athlete split the log.", "label": "entailment"}
+{"premise": "Did the man shut the door easily?", "hypothesis": "The man shut the door.", "label": "entailment"}
+{"premise": "Did the child slit the envelope easily?", "hypothesis": "The child slit the envelope.", "label": "entailment"}
+{"premise": "Did the singer cast bronze into a statue anxiously?", "hypothesis": "The singer cast bronze into a statue.", "label": "entailment"}
+{"premise": "Did the manager upset the boat quickly?", "hypothesis": "The manager upset the boat.", "label": "entailment"}
+{"premise": "Did the boy cast bronze into a statue anxiously?", "hypothesis": "The boy cast bronze into a statue.", "label": "entailment"}
+{"premise": "Did the manager thrust the fork into the cake anxiously?", "hypothesis": "The manager thrust the fork into the cake.", "label": "entailment"}
+{"premise": "Did the director read the letter angrily?", "hypothesis": "The director read the letter.", "label": "entailment"}
+{"premise": "Did the professor thrust the fork into the cake sadly?", "hypothesis": "The professor thrust the fork into the cake.", "label": "entailment"}
+{"premise": "Did the man hit the ball with the bat easily?", "hypothesis": "The man hit the ball with the bat.", "label": "entailment"}
+{"premise": "Did the assistant shut the door angrily?", "hypothesis": "The assistant shut the door.", "label": "entailment"}
+{"premise": "Did the worker upset the boat quietly?", "hypothesis": "The worker upset the boat.", "label": "entailment"}
+{"premise": "Did the child put the book on the shelf calmly?", "hypothesis": "The child put the book on the shelf.", "label": "entailment"}
+{"premise": "Did the doctor slit the envelope happily?", "hypothesis": "The doctor slit the envelope.", "label": "entailment"}
+{"premise": "Did the singer spread the rumor slowly?", "hypothesis": "The singer spread the rumor.", "label": "entailment"}
+{"premise": "Did the singer read the letter sadly?", "hypothesis": "The singer did not read the letter.", "label": "contradiction"}
+{"premise": "Did the stranger burst into the room angrily?", "hypothesis": "The stranger did not burst into the room.", "label": "contradiction"}
+{"premise": "Did the dancer shed tears calmly?", "hypothesis": "The dancer did not shed tears.", "label": "contradiction"}
+{"premise": "Did the man put the book on the shelf sadly?", "hypothesis": "The man did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "Did the woman cast bronze into a statue quickly?", "hypothesis": "The woman did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "Did the kid shut the door easily?", "hypothesis": "The kid did not shut the door.", "label": "contradiction"}
+{"premise": "Did the professor slit the envelope slowly?", "hypothesis": "The professor did not slit the envelope.", "label": "contradiction"}
+{"premise": "Did the director cast bronze into a statue anxiously?", "hypothesis": "The director did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "Did the kid hurt others easily?", "hypothesis": "The kid did not hurt others.", "label": "contradiction"}
+{"premise": "Did the assistant hurt others anxiously?", "hypothesis": "The assistant did not hurt others.", "label": "contradiction"}
+{"premise": "Did the worker shut the door easily?", "hypothesis": "The worker did not shut the door.", "label": "contradiction"}
+{"premise": "Did the worker let the blinds down anxiously?", "hypothesis": "The worker did not let the blinds down.", "label": "contradiction"}
+{"premise": "Did the boy slit the envelope easily?", "hypothesis": "The boy did not slit the envelope.", "label": "contradiction"}
+{"premise": "Did the stranger shed tears quickly?", "hypothesis": "The stranger did not shed tears.", "label": "contradiction"}
+{"premise": "Did the child burst into the room anxiously?", "hypothesis": "The child did not burst into the room.", "label": "contradiction"}
+{"premise": "Did the worker split the log sadly?", "hypothesis": "The worker did not split the log.", "label": "contradiction"}
+{"premise": "Did the director shed tears happily?", "hypothesis": "The director did not shed tears.", "label": "contradiction"}
+{"premise": "Did the director split the log anxiously?", "hypothesis": "The director did not split the log.", "label": "contradiction"}
+{"premise": "Did the dancer thrust the fork into the cake sadly?", "hypothesis": "The dancer did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "Did the professor upset the boat quickly?", "hypothesis": "The professor did not upset the boat.", "label": "contradiction"}
+{"premise": "Did the doctor slit the envelope angrily?", "hypothesis": "The doctor did not slit the envelope.", "label": "contradiction"}
+{"premise": "Did the assistant cast bronze into a statue anxiously?", "hypothesis": "The assistant did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "Did the boy hurt others quietly?", "hypothesis": "The boy did not hurt others.", "label": "contradiction"}
+{"premise": "Did the man put the book on the shelf happily?", "hypothesis": "The man did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "Did the worker thrust the fork into the cake quietly?", "hypothesis": "The worker did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "Did the manager cast bronze into a statue calmly?", "hypothesis": "The manager did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "Did the kid shed tears happily?", "hypothesis": "The kid did not shed tears.", "label": "contradiction"}
+{"premise": "Did the student shed tears happily?", "hypothesis": "The student did not shed tears.", "label": "contradiction"}
+{"premise": "Did the girl put the book on the shelf slowly?", "hypothesis": "The girl did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "Did the director shed tears calmly?", "hypothesis": "The director did not shed tears.", "label": "contradiction"}
+{"premise": "Did the assistant bet $100 on the race anxiously?", "hypothesis": "The assistant did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "Did the boy upset the boat calmly?", "hypothesis": "The boy did not upset the boat.", "label": "contradiction"}
+{"premise": "Did the professor slit the envelope quietly?", "hypothesis": "The professor did not slit the envelope.", "label": "contradiction"}
+{"premise": "Did the child shed tears easily?", "hypothesis": "The child did not shed tears.", "label": "contradiction"}
+{"premise": "Did the teacher bet $100 on the race anxiously?", "hypothesis": "The teacher did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "Did the doctor split the log quickly?", "hypothesis": "The doctor did not split the log.", "label": "contradiction"}
+{"premise": "Did the student read the letter angrily?", "hypothesis": "The student did not read the letter.", "label": "contradiction"}
+{"premise": "Did the boy shed tears quietly?", "hypothesis": "The boy did not shed tears.", "label": "contradiction"}
+{"premise": "Did the stranger let the blinds down slowly?", "hypothesis": "The stranger did not let the blinds down.", "label": "contradiction"}
+{"premise": "Did the athlete let the blinds down anxiously?", "hypothesis": "The athlete did not let the blinds down.", "label": "contradiction"}
+{"premise": "Did the professor slit the envelope sadly?", "hypothesis": "The professor did not slit the envelope.", "label": "contradiction"}
+{"premise": "Did the manager hit the ball with the bat anxiously?", "hypothesis": "The manager did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "Did the stranger burst into the room quickly?", "hypothesis": "The stranger did not burst into the room.", "label": "contradiction"}
+{"premise": "Did the kid spread the rumor calmly?", "hypothesis": "The kid did not spread the rumor.", "label": "contradiction"}
+{"premise": "Did the athlete shut the door angrily?", "hypothesis": "The athlete did not shut the door.", "label": "contradiction"}
+{"premise": "Did the teacher set the dish on the table quietly?", "hypothesis": "The teacher did not set the dish on the table.", "label": "contradiction"}
+{"premise": "Did the professor shut the door happily?", "hypothesis": "The professor did not shut the door.", "label": "contradiction"}
+{"premise": "Did the manager burst into the room quietly?", "hypothesis": "The manager did not burst into the room.", "label": "contradiction"}
+{"premise": "Did the man cast bronze into a statue slowly?", "hypothesis": "The man did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "Did the manager cast bronze into a statue angrily?", "hypothesis": "The manager did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "Did the woman shut the door quietly?", "hypothesis": "The woman did not shut the door.", "label": "contradiction"}
+{"premise": "Did the boy shut the door calmly?", "hypothesis": "The boy did not shut the door.", "label": "contradiction"}
+{"premise": "Did the boy read the letter sadly?", "hypothesis": "The boy did not read the letter.", "label": "contradiction"}
+{"premise": "Did the student bet $100 on the race angrily?", "hypothesis": "The student did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "Did the director shut the door angrily?", "hypothesis": "The director did not shut the door.", "label": "contradiction"}
+{"premise": "Did the kid put the book on the shelf easily?", "hypothesis": "The kid did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "Did the girl shed tears calmly?", "hypothesis": "The girl did not shed tears.", "label": "contradiction"}
+{"premise": "Did the singer slit the envelope slowly?", "hypothesis": "The singer did not slit the envelope.", "label": "contradiction"}
+{"premise": "Did the woman upset the boat calmly?", "hypothesis": "The woman did not upset the boat.", "label": "contradiction"}
+{"premise": "Did the director hurt others calmly?", "hypothesis": "The director did not hurt others.", "label": "contradiction"}
+{"premise": "Did the athlete let the blinds down happily?", "hypothesis": "The athlete did not let the blinds down.", "label": "contradiction"}
+{"premise": "Did the professor bet $100 on the race happily?", "hypothesis": "The professor did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "Did the kid cast bronze into a statue quickly?", "hypothesis": "The kid did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "Did the doctor hurt others happily?", "hypothesis": "The doctor did not hurt others.", "label": "contradiction"}
+{"premise": "Did the singer let the blinds down calmly?", "hypothesis": "The singer did not let the blinds down.", "label": "contradiction"}
+{"premise": "Did the singer put the book on the shelf calmly?", "hypothesis": "The singer did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "Did the kid shed tears calmly?", "hypothesis": "The kid did not shed tears.", "label": "contradiction"}
+{"premise": "Did the kid cast bronze into a statue quietly?", "hypothesis": "The kid did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "Did the manager hit the ball with the bat calmly?", "hypothesis": "The manager did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "Did the doctor let the blinds down slowly?", "hypothesis": "The doctor did not let the blinds down.", "label": "contradiction"}
+{"premise": "Did the singer hurt others sadly?", "hypothesis": "The singer did not hurt others.", "label": "contradiction"}
+{"premise": "Did the man bet $100 on the race angrily?", "hypothesis": "The man did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "Did the director read the letter sadly?", "hypothesis": "The director did not read the letter.", "label": "contradiction"}
+{"premise": "Did the professor set the dish on the table sadly?", "hypothesis": "The professor did not set the dish on the table.", "label": "contradiction"}
+{"premise": "Did the singer set the dish on the table quietly?", "hypothesis": "The singer did not set the dish on the table.", "label": "contradiction"}
+{"premise": "Did the doctor cast bronze into a statue quickly?", "hypothesis": "The doctor did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "Did the singer burst into the room slowly?", "hypothesis": "The singer did not burst into the room.", "label": "contradiction"}
+{"premise": "Did the girl let the blinds down calmly?", "hypothesis": "The girl did not let the blinds down.", "label": "contradiction"}
+{"premise": "Did the woman read the letter anxiously?", "hypothesis": "The woman did not read the letter.", "label": "contradiction"}
+{"premise": "Did the athlete spread the rumor calmly?", "hypothesis": "The athlete did not spread the rumor.", "label": "contradiction"}
+{"premise": "Did the student set the dish on the table sadly?", "hypothesis": "The student did not set the dish on the table.", "label": "contradiction"}
+{"premise": "Did the professor let the blinds down calmly?", "hypothesis": "The professor did not let the blinds down.", "label": "contradiction"}
+{"premise": "Did the woman slit the envelope sadly?", "hypothesis": "The woman did not slit the envelope.", "label": "contradiction"}
+{"premise": "Did the teacher slit the envelope anxiously?", "hypothesis": "The teacher did not slit the envelope.", "label": "contradiction"}
+{"premise": "Did the girl shut the door easily?", "hypothesis": "The girl did not shut the door.", "label": "contradiction"}
+{"premise": "Did the kid shut the door anxiously?", "hypothesis": "The kid did not shut the door.", "label": "contradiction"}
+{"premise": "Did the child set the dish on the table easily?", "hypothesis": "The child did not set the dish on the table.", "label": "contradiction"}
+{"premise": "Did the professor split the log easily?", "hypothesis": "The professor did not split the log.", "label": "contradiction"}
+{"premise": "Did the worker slit the envelope quickly?", "hypothesis": "The worker did not slit the envelope.", "label": "contradiction"}
+{"premise": "Did the boy cast bronze into a statue calmly?", "hypothesis": "The boy did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "Did the student split the log happily?", "hypothesis": "The student did not split the log.", "label": "contradiction"}
+{"premise": "Did the girl read the letter easily?", "hypothesis": "The girl did not read the letter.", "label": "contradiction"}
+{"premise": "Did the stranger bet $100 on the race anxiously?", "hypothesis": "The stranger did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "Did the doctor upset the boat easily?", "hypothesis": "The doctor did not upset the boat.", "label": "contradiction"}
+{"premise": "Did the man burst into the room sadly?", "hypothesis": "The man did not burst into the room.", "label": "contradiction"}
+{"premise": "Did the woman spread the rumor angrily?", "hypothesis": "The woman did not spread the rumor.", "label": "contradiction"}
+{"premise": "Did the worker split the log happily?", "hypothesis": "The worker did not split the log.", "label": "contradiction"}
+{"premise": "Did the assistant let the blinds down sadly?", "hypothesis": "The assistant did not let the blinds down.", "label": "contradiction"}
+{"premise": "Did the man hurt others happily?", "hypothesis": "The man did not hurt others.", "label": "contradiction"}
+{"premise": "Did the singer spread the rumor calmly?", "hypothesis": "The singer did not spread the rumor.", "label": "contradiction"}

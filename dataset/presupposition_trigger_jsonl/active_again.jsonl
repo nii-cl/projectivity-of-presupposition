@@ -1,0 +1,200 @@
+{"premise": "The athlete thrust the fork into the cake again.", "hypothesis": "The athlete had thrust the fork into the cake before.", "label": "entailment"}
+{"premise": "The kid split the log again.", "hypothesis": "The kid had split the log before.", "label": "entailment"}
+{"premise": "The doctor shut the door again.", "hypothesis": "The doctor had shut the door before.", "label": "entailment"}
+{"premise": "The student shut the door again.", "hypothesis": "The student had shut the door before.", "label": "entailment"}
+{"premise": "The stranger set the dish on the table again.", "hypothesis": "The stranger had set the dish on the table before.", "label": "entailment"}
+{"premise": "The dancer thrust the fork into the cake again.", "hypothesis": "The dancer had thrust the fork into the cake before.", "label": "entailment"}
+{"premise": "The boy hurt others again.", "hypothesis": "The boy had hurt others before.", "label": "entailment"}
+{"premise": "The doctor let the blinds down again.", "hypothesis": "The doctor had let the blinds down before.", "label": "entailment"}
+{"premise": "The man cast bronze into a statue again.", "hypothesis": "The man had cast bronze into a statue before.", "label": "entailment"}
+{"premise": "The student slit the envelope again.", "hypothesis": "The student had slit the envelope before.", "label": "entailment"}
+{"premise": "The student let the blinds down again.", "hypothesis": "The student had let the blinds down before.", "label": "entailment"}
+{"premise": "The boy hit the ball with the bat again.", "hypothesis": "The boy had hit the ball with the bat before.", "label": "entailment"}
+{"premise": "The singer put the book on the shelf again.", "hypothesis": "The singer had put the book on the shelf before.", "label": "entailment"}
+{"premise": "The boy hit the ball with the bat again.", "hypothesis": "The boy had hit the ball with the bat before.", "label": "entailment"}
+{"premise": "The doctor burst into the room again.", "hypothesis": "The doctor had burst into the room before.", "label": "entailment"}
+{"premise": "The worker hit the ball with the bat again.", "hypothesis": "The worker had hit the ball with the bat before.", "label": "entailment"}
+{"premise": "The manager cast bronze into a statue again.", "hypothesis": "The manager had cast bronze into a statue before.", "label": "entailment"}
+{"premise": "The director thrust the fork into the cake again.", "hypothesis": "The director had thrust the fork into the cake before.", "label": "entailment"}
+{"premise": "The kid let the blinds down again.", "hypothesis": "The kid had let the blinds down before.", "label": "entailment"}
+{"premise": "The student thrust the fork into the cake again.", "hypothesis": "The student had thrust the fork into the cake before.", "label": "entailment"}
+{"premise": "The worker let the blinds down again.", "hypothesis": "The worker had let the blinds down before.", "label": "entailment"}
+{"premise": "The professor hit the ball with the bat again.", "hypothesis": "The professor had hit the ball with the bat before.", "label": "entailment"}
+{"premise": "The child slit the envelope again.", "hypothesis": "The child had slit the envelope before.", "label": "entailment"}
+{"premise": "The kid bet $100 on the race again.", "hypothesis": "The kid had bet $100 on the race before.", "label": "entailment"}
+{"premise": "The professor bet $100 on the race again.", "hypothesis": "The professor had bet $100 on the race before.", "label": "entailment"}
+{"premise": "The manager set the dish on the table again.", "hypothesis": "The manager had set the dish on the table before.", "label": "entailment"}
+{"premise": "The child set the dish on the table again.", "hypothesis": "The child had set the dish on the table before.", "label": "entailment"}
+{"premise": "The assistant let the blinds down again.", "hypothesis": "The assistant had let the blinds down before.", "label": "entailment"}
+{"premise": "The kid upset the boat again.", "hypothesis": "The kid had upset the boat before.", "label": "entailment"}
+{"premise": "The stranger shed tears again.", "hypothesis": "The stranger had shed tears before.", "label": "entailment"}
+{"premise": "The boy set the dish on the table again.", "hypothesis": "The boy had set the dish on the table before.", "label": "entailment"}
+{"premise": "The girl shed tears again.", "hypothesis": "The girl had shed tears before.", "label": "entailment"}
+{"premise": "The worker hit the ball with the bat again.", "hypothesis": "The worker had hit the ball with the bat before.", "label": "entailment"}
+{"premise": "The woman spread the rumor again.", "hypothesis": "The woman had spread the rumor before.", "label": "entailment"}
+{"premise": "The dancer shed tears again.", "hypothesis": "The dancer had shed tears before.", "label": "entailment"}
+{"premise": "The dancer spread the rumor again.", "hypothesis": "The dancer had spread the rumor before.", "label": "entailment"}
+{"premise": "The kid put the book on the shelf again.", "hypothesis": "The kid had put the book on the shelf before.", "label": "entailment"}
+{"premise": "The kid shed tears again.", "hypothesis": "The kid had shed tears before.", "label": "entailment"}
+{"premise": "The athlete slit the envelope again.", "hypothesis": "The athlete had slit the envelope before.", "label": "entailment"}
+{"premise": "The child hit the ball with the bat again.", "hypothesis": "The child had hit the ball with the bat before.", "label": "entailment"}
+{"premise": "The student hurt others again.", "hypothesis": "The student had hurt others before.", "label": "entailment"}
+{"premise": "The child put the book on the shelf again.", "hypothesis": "The child had put the book on the shelf before.", "label": "entailment"}
+{"premise": "The doctor let the blinds down again.", "hypothesis": "The doctor had let the blinds down before.", "label": "entailment"}
+{"premise": "The worker split the log again.", "hypothesis": "The worker had split the log before.", "label": "entailment"}
+{"premise": "The boy spread the rumor again.", "hypothesis": "The boy had spread the rumor before.", "label": "entailment"}
+{"premise": "The kid spread the rumor again.", "hypothesis": "The kid had spread the rumor before.", "label": "entailment"}
+{"premise": "The child set the dish on the table again.", "hypothesis": "The child had set the dish on the table before.", "label": "entailment"}
+{"premise": "The director read the letter again.", "hypothesis": "The director had read the letter before.", "label": "entailment"}
+{"premise": "The assistant put the book on the shelf again.", "hypothesis": "The assistant had put the book on the shelf before.", "label": "entailment"}
+{"premise": "The boy read the letter again.", "hypothesis": "The boy had read the letter before.", "label": "entailment"}
+{"premise": "The stranger burst into the room again.", "hypothesis": "The stranger had burst into the room before.", "label": "entailment"}
+{"premise": "The man shed tears again.", "hypothesis": "The man had shed tears before.", "label": "entailment"}
+{"premise": "The manager bet $100 on the race again.", "hypothesis": "The manager had bet $100 on the race before.", "label": "entailment"}
+{"premise": "The stranger cast bronze into a statue again.", "hypothesis": "The stranger had cast bronze into a statue before.", "label": "entailment"}
+{"premise": "The manager slit the envelope again.", "hypothesis": "The manager had slit the envelope before.", "label": "entailment"}
+{"premise": "The man set the dish on the table again.", "hypothesis": "The man had set the dish on the table before.", "label": "entailment"}
+{"premise": "The woman burst into the room again.", "hypothesis": "The woman had burst into the room before.", "label": "entailment"}
+{"premise": "The athlete hit the ball with the bat again.", "hypothesis": "The athlete had hit the ball with the bat before.", "label": "entailment"}
+{"premise": "The doctor put the book on the shelf again.", "hypothesis": "The doctor had put the book on the shelf before.", "label": "entailment"}
+{"premise": "The manager hit the ball with the bat again.", "hypothesis": "The manager had hit the ball with the bat before.", "label": "entailment"}
+{"premise": "The athlete spread the rumor again.", "hypothesis": "The athlete had spread the rumor before.", "label": "entailment"}
+{"premise": "The doctor hurt others again.", "hypothesis": "The doctor had hurt others before.", "label": "entailment"}
+{"premise": "The student hurt others again.", "hypothesis": "The student had hurt others before.", "label": "entailment"}
+{"premise": "The manager burst into the room again.", "hypothesis": "The manager had burst into the room before.", "label": "entailment"}
+{"premise": "The dancer slit the envelope again.", "hypothesis": "The dancer had slit the envelope before.", "label": "entailment"}
+{"premise": "The director thrust the fork into the cake again.", "hypothesis": "The director had thrust the fork into the cake before.", "label": "entailment"}
+{"premise": "The doctor hurt others again.", "hypothesis": "The doctor had hurt others before.", "label": "entailment"}
+{"premise": "The athlete set the dish on the table again.", "hypothesis": "The athlete had set the dish on the table before.", "label": "entailment"}
+{"premise": "The manager split the log again.", "hypothesis": "The manager had split the log before.", "label": "entailment"}
+{"premise": "The assistant read the letter again.", "hypothesis": "The assistant had read the letter before.", "label": "entailment"}
+{"premise": "The dancer hit the ball with the bat again.", "hypothesis": "The dancer had hit the ball with the bat before.", "label": "entailment"}
+{"premise": "The woman split the log again.", "hypothesis": "The woman had split the log before.", "label": "entailment"}
+{"premise": "The kid spread the rumor again.", "hypothesis": "The kid had spread the rumor before.", "label": "entailment"}
+{"premise": "The teacher spread the rumor again.", "hypothesis": "The teacher had spread the rumor before.", "label": "entailment"}
+{"premise": "The child upset the boat again.", "hypothesis": "The child had upset the boat before.", "label": "entailment"}
+{"premise": "The athlete split the log again.", "hypothesis": "The athlete had split the log before.", "label": "entailment"}
+{"premise": "The girl shut the door again.", "hypothesis": "The girl had shut the door before.", "label": "entailment"}
+{"premise": "The assistant shut the door again.", "hypothesis": "The assistant had shut the door before.", "label": "entailment"}
+{"premise": "The dancer shut the door again.", "hypothesis": "The dancer had shut the door before.", "label": "entailment"}
+{"premise": "The student read the letter again.", "hypothesis": "The student had read the letter before.", "label": "entailment"}
+{"premise": "The athlete let the blinds down again.", "hypothesis": "The athlete had let the blinds down before.", "label": "entailment"}
+{"premise": "The director hurt others again.", "hypothesis": "The director had hurt others before.", "label": "entailment"}
+{"premise": "The singer bet $100 on the race again.", "hypothesis": "The singer had bet $100 on the race before.", "label": "entailment"}
+{"premise": "The director put the book on the shelf again.", "hypothesis": "The director had put the book on the shelf before.", "label": "entailment"}
+{"premise": "The man burst into the room again.", "hypothesis": "The man had burst into the room before.", "label": "entailment"}
+{"premise": "The worker set the dish on the table again.", "hypothesis": "The worker had set the dish on the table before.", "label": "entailment"}
+{"premise": "The assistant burst into the room again.", "hypothesis": "The assistant had burst into the room before.", "label": "entailment"}
+{"premise": "The child cast bronze into a statue again.", "hypothesis": "The child had cast bronze into a statue before.", "label": "entailment"}
+{"premise": "The teacher shut the door again.", "hypothesis": "The teacher had shut the door before.", "label": "entailment"}
+{"premise": "The athlete upset the boat again.", "hypothesis": "The athlete had upset the boat before.", "label": "entailment"}
+{"premise": "The student shed tears again.", "hypothesis": "The student had shed tears before.", "label": "entailment"}
+{"premise": "The assistant bet $100 on the race again.", "hypothesis": "The assistant had bet $100 on the race before.", "label": "entailment"}
+{"premise": "The manager upset the boat again.", "hypothesis": "The manager had upset the boat before.", "label": "entailment"}
+{"premise": "The dancer read the letter again.", "hypothesis": "The dancer had read the letter before.", "label": "entailment"}
+{"premise": "The student burst into the room again.", "hypothesis": "The student had burst into the room before.", "label": "entailment"}
+{"premise": "The man set the dish on the table again.", "hypothesis": "The man had set the dish on the table before.", "label": "entailment"}
+{"premise": "The athlete shut the door again.", "hypothesis": "The athlete had shut the door before.", "label": "entailment"}
+{"premise": "The singer let the blinds down again.", "hypothesis": "The singer had let the blinds down before.", "label": "entailment"}
+{"premise": "The man spread the rumor again.", "hypothesis": "The man had spread the rumor before.", "label": "entailment"}
+{"premise": "The kid hurt others again.", "hypothesis": "The kid had hurt others before.", "label": "entailment"}
+{"premise": "The boy put the book on the shelf again.", "hypothesis": "The boy had not put the book on the shelf before.", "label": "contradiction"}
+{"premise": "The manager burst into the room again.", "hypothesis": "The manager had not burst into the room before.", "label": "contradiction"}
+{"premise": "The worker upset the boat again.", "hypothesis": "The worker had not upset the boat before.", "label": "contradiction"}
+{"premise": "The man shed tears again.", "hypothesis": "The man had not shed tears before.", "label": "contradiction"}
+{"premise": "The stranger burst into the room again.", "hypothesis": "The stranger had not burst into the room before.", "label": "contradiction"}
+{"premise": "The student let the blinds down again.", "hypothesis": "The student had not let the blinds down before.", "label": "contradiction"}
+{"premise": "The dancer upset the boat again.", "hypothesis": "The dancer had not upset the boat before.", "label": "contradiction"}
+{"premise": "The professor let the blinds down again.", "hypothesis": "The professor had not let the blinds down before.", "label": "contradiction"}
+{"premise": "The assistant shed tears again.", "hypothesis": "The assistant had not shed tears before.", "label": "contradiction"}
+{"premise": "The assistant burst into the room again.", "hypothesis": "The assistant had not burst into the room before.", "label": "contradiction"}
+{"premise": "The child slit the envelope again.", "hypothesis": "The child had not slit the envelope before.", "label": "contradiction"}
+{"premise": "The dancer spread the rumor again.", "hypothesis": "The dancer had not spread the rumor before.", "label": "contradiction"}
+{"premise": "The kid hit the ball with the bat again.", "hypothesis": "The kid had not hit the ball with the bat before.", "label": "contradiction"}
+{"premise": "The assistant bet $100 on the race again.", "hypothesis": "The assistant had not bet $100 on the race before.", "label": "contradiction"}
+{"premise": "The stranger spread the rumor again.", "hypothesis": "The stranger had not spread the rumor before.", "label": "contradiction"}
+{"premise": "The dancer hurt others again.", "hypothesis": "The dancer had not hurt others before.", "label": "contradiction"}
+{"premise": "The manager set the dish on the table again.", "hypothesis": "The manager had not set the dish on the table before.", "label": "contradiction"}
+{"premise": "The athlete hurt others again.", "hypothesis": "The athlete had not hurt others before.", "label": "contradiction"}
+{"premise": "The director slit the envelope again.", "hypothesis": "The director had not slit the envelope before.", "label": "contradiction"}
+{"premise": "The stranger put the book on the shelf again.", "hypothesis": "The stranger had not put the book on the shelf before.", "label": "contradiction"}
+{"premise": "The doctor slit the envelope again.", "hypothesis": "The doctor had not slit the envelope before.", "label": "contradiction"}
+{"premise": "The stranger spread the rumor again.", "hypothesis": "The stranger had not spread the rumor before.", "label": "contradiction"}
+{"premise": "The doctor burst into the room again.", "hypothesis": "The doctor had not burst into the room before.", "label": "contradiction"}
+{"premise": "The dancer hit the ball with the bat again.", "hypothesis": "The dancer had not hit the ball with the bat before.", "label": "contradiction"}
+{"premise": "The worker put the book on the shelf again.", "hypothesis": "The worker had not put the book on the shelf before.", "label": "contradiction"}
+{"premise": "The kid bet $100 on the race again.", "hypothesis": "The kid had not bet $100 on the race before.", "label": "contradiction"}
+{"premise": "The doctor hit the ball with the bat again.", "hypothesis": "The doctor had not hit the ball with the bat before.", "label": "contradiction"}
+{"premise": "The doctor let the blinds down again.", "hypothesis": "The doctor had not let the blinds down before.", "label": "contradiction"}
+{"premise": "The kid spread the rumor again.", "hypothesis": "The kid had not spread the rumor before.", "label": "contradiction"}
+{"premise": "The assistant shut the door again.", "hypothesis": "The assistant had not shut the door before.", "label": "contradiction"}
+{"premise": "The girl thrust the fork into the cake again.", "hypothesis": "The girl had not thrust the fork into the cake before.", "label": "contradiction"}
+{"premise": "The assistant cast bronze into a statue again.", "hypothesis": "The assistant had not cast bronze into a statue before.", "label": "contradiction"}
+{"premise": "The doctor bet $100 on the race again.", "hypothesis": "The doctor had not bet $100 on the race before.", "label": "contradiction"}
+{"premise": "The man shed tears again.", "hypothesis": "The man had not shed tears before.", "label": "contradiction"}
+{"premise": "The man split the log again.", "hypothesis": "The man had not split the log before.", "label": "contradiction"}
+{"premise": "The stranger shed tears again.", "hypothesis": "The stranger had not shed tears before.", "label": "contradiction"}
+{"premise": "The stranger cast bronze into a statue again.", "hypothesis": "The stranger had not cast bronze into a statue before.", "label": "contradiction"}
+{"premise": "The boy bet $100 on the race again.", "hypothesis": "The boy had not bet $100 on the race before.", "label": "contradiction"}
+{"premise": "The teacher thrust the fork into the cake again.", "hypothesis": "The teacher had not thrust the fork into the cake before.", "label": "contradiction"}
+{"premise": "The girl burst into the room again.", "hypothesis": "The girl had not burst into the room before.", "label": "contradiction"}
+{"premise": "The professor let the blinds down again.", "hypothesis": "The professor had not let the blinds down before.", "label": "contradiction"}
+{"premise": "The girl bet $100 on the race again.", "hypothesis": "The girl had not bet $100 on the race before.", "label": "contradiction"}
+{"premise": "The assistant split the log again.", "hypothesis": "The assistant had not split the log before.", "label": "contradiction"}
+{"premise": "The doctor set the dish on the table again.", "hypothesis": "The doctor had not set the dish on the table before.", "label": "contradiction"}
+{"premise": "The worker hurt others again.", "hypothesis": "The worker had not hurt others before.", "label": "contradiction"}
+{"premise": "The child hurt others again.", "hypothesis": "The child had not hurt others before.", "label": "contradiction"}
+{"premise": "The girl upset the boat again.", "hypothesis": "The girl had not upset the boat before.", "label": "contradiction"}
+{"premise": "The man slit the envelope again.", "hypothesis": "The man had not slit the envelope before.", "label": "contradiction"}
+{"premise": "The worker put the book on the shelf again.", "hypothesis": "The worker had not put the book on the shelf before.", "label": "contradiction"}
+{"premise": "The girl read the letter again.", "hypothesis": "The girl had not read the letter before.", "label": "contradiction"}
+{"premise": "The woman put the book on the shelf again.", "hypothesis": "The woman had not put the book on the shelf before.", "label": "contradiction"}
+{"premise": "The kid shed tears again.", "hypothesis": "The kid had not shed tears before.", "label": "contradiction"}
+{"premise": "The singer burst into the room again.", "hypothesis": "The singer had not burst into the room before.", "label": "contradiction"}
+{"premise": "The student spread the rumor again.", "hypothesis": "The student had not spread the rumor before.", "label": "contradiction"}
+{"premise": "The woman upset the boat again.", "hypothesis": "The woman had not upset the boat before.", "label": "contradiction"}
+{"premise": "The girl hurt others again.", "hypothesis": "The girl had not hurt others before.", "label": "contradiction"}
+{"premise": "The professor shed tears again.", "hypothesis": "The professor had not shed tears before.", "label": "contradiction"}
+{"premise": "The child split the log again.", "hypothesis": "The child had not split the log before.", "label": "contradiction"}
+{"premise": "The singer burst into the room again.", "hypothesis": "The singer had not burst into the room before.", "label": "contradiction"}
+{"premise": "The stranger let the blinds down again.", "hypothesis": "The stranger had not let the blinds down before.", "label": "contradiction"}
+{"premise": "The doctor bet $100 on the race again.", "hypothesis": "The doctor had not bet $100 on the race before.", "label": "contradiction"}
+{"premise": "The child set the dish on the table again.", "hypothesis": "The child had not set the dish on the table before.", "label": "contradiction"}
+{"premise": "The boy split the log again.", "hypothesis": "The boy had not split the log before.", "label": "contradiction"}
+{"premise": "The stranger put the book on the shelf again.", "hypothesis": "The stranger had not put the book on the shelf before.", "label": "contradiction"}
+{"premise": "The dancer split the log again.", "hypothesis": "The dancer had not split the log before.", "label": "contradiction"}
+{"premise": "The boy split the log again.", "hypothesis": "The boy had not split the log before.", "label": "contradiction"}
+{"premise": "The singer spread the rumor again.", "hypothesis": "The singer had not spread the rumor before.", "label": "contradiction"}
+{"premise": "The professor hurt others again.", "hypothesis": "The professor had not hurt others before.", "label": "contradiction"}
+{"premise": "The worker spread the rumor again.", "hypothesis": "The worker had not spread the rumor before.", "label": "contradiction"}
+{"premise": "The athlete hit the ball with the bat again.", "hypothesis": "The athlete had not hit the ball with the bat before.", "label": "contradiction"}
+{"premise": "The kid thrust the fork into the cake again.", "hypothesis": "The kid had not thrust the fork into the cake before.", "label": "contradiction"}
+{"premise": "The boy set the dish on the table again.", "hypothesis": "The boy had not set the dish on the table before.", "label": "contradiction"}
+{"premise": "The assistant upset the boat again.", "hypothesis": "The assistant had not upset the boat before.", "label": "contradiction"}
+{"premise": "The dancer shed tears again.", "hypothesis": "The dancer had not shed tears before.", "label": "contradiction"}
+{"premise": "The woman cast bronze into a statue again.", "hypothesis": "The woman had not cast bronze into a statue before.", "label": "contradiction"}
+{"premise": "The athlete split the log again.", "hypothesis": "The athlete had not split the log before.", "label": "contradiction"}
+{"premise": "The doctor spread the rumor again.", "hypothesis": "The doctor had not spread the rumor before.", "label": "contradiction"}
+{"premise": "The professor spread the rumor again.", "hypothesis": "The professor had not spread the rumor before.", "label": "contradiction"}
+{"premise": "The assistant bet $100 on the race again.", "hypothesis": "The assistant had not bet $100 on the race before.", "label": "contradiction"}
+{"premise": "The child hit the ball with the bat again.", "hypothesis": "The child had not hit the ball with the bat before.", "label": "contradiction"}
+{"premise": "The professor let the blinds down again.", "hypothesis": "The professor had not let the blinds down before.", "label": "contradiction"}
+{"premise": "The kid split the log again.", "hypothesis": "The kid had not split the log before.", "label": "contradiction"}
+{"premise": "The athlete bet $100 on the race again.", "hypothesis": "The athlete had not bet $100 on the race before.", "label": "contradiction"}
+{"premise": "The man cast bronze into a statue again.", "hypothesis": "The man had not cast bronze into a statue before.", "label": "contradiction"}
+{"premise": "The stranger let the blinds down again.", "hypothesis": "The stranger had not let the blinds down before.", "label": "contradiction"}
+{"premise": "The woman spread the rumor again.", "hypothesis": "The woman had not spread the rumor before.", "label": "contradiction"}
+{"premise": "The singer slit the envelope again.", "hypothesis": "The singer had not slit the envelope before.", "label": "contradiction"}
+{"premise": "The teacher hurt others again.", "hypothesis": "The teacher had not hurt others before.", "label": "contradiction"}
+{"premise": "The kid burst into the room again.", "hypothesis": "The kid had not burst into the room before.", "label": "contradiction"}
+{"premise": "The child split the log again.", "hypothesis": "The child had not split the log before.", "label": "contradiction"}
+{"premise": "The stranger hit the ball with the bat again.", "hypothesis": "The stranger had not hit the ball with the bat before.", "label": "contradiction"}
+{"premise": "The stranger hurt others again.", "hypothesis": "The stranger had not hurt others before.", "label": "contradiction"}
+{"premise": "The worker slit the envelope again.", "hypothesis": "The worker had not slit the envelope before.", "label": "contradiction"}
+{"premise": "The director put the book on the shelf again.", "hypothesis": "The director had not put the book on the shelf before.", "label": "contradiction"}
+{"premise": "The girl shed tears again.", "hypothesis": "The girl had not shed tears before.", "label": "contradiction"}
+{"premise": "The boy spread the rumor again.", "hypothesis": "The boy had not spread the rumor before.", "label": "contradiction"}
+{"premise": "The doctor split the log again.", "hypothesis": "The doctor had not split the log before.", "label": "contradiction"}
+{"premise": "The dancer read the letter again.", "hypothesis": "The dancer had not read the letter before.", "label": "contradiction"}
+{"premise": "The doctor put the book on the shelf again.", "hypothesis": "The doctor had not put the book on the shelf before.", "label": "contradiction"}
+{"premise": "The teacher set the dish on the table again.", "hypothesis": "The teacher had not set the dish on the table before.", "label": "contradiction"}

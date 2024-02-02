@@ -1,0 +1,200 @@
+{"premise": "Did the teacher forget hurting others?", "hypothesis": "The teacher hurt others.", "label": "entailment"}
+{"premise": "Did the assistant remember putting the book on the shelf?", "hypothesis": "The assistant put the book on the shelf.", "label": "entailment"}
+{"premise": "Did the athlete forget setting the dish on the table?", "hypothesis": "The athlete set the dish on the table.", "label": "entailment"}
+{"premise": "Did the assistant remember bursting into the room?", "hypothesis": "The assistant burst into the room.", "label": "entailment"}
+{"premise": "Did the singer remember putting the book on the shelf?", "hypothesis": "The singer put the book on the shelf.", "label": "entailment"}
+{"premise": "Did the kid forget letting the blinds down?", "hypothesis": "The kid let the blinds down.", "label": "entailment"}
+{"premise": "Did the woman remember thrusting the fork into the cake?", "hypothesis": "The woman thrust the fork into the cake.", "label": "entailment"}
+{"premise": "Did the stranger remember slitting the envelope?", "hypothesis": "The stranger slit the envelope.", "label": "entailment"}
+{"premise": "Did the worker regret casting bronze into a statue?", "hypothesis": "The worker cast bronze into a statue.", "label": "entailment"}
+{"premise": "Did the singer regret bursting into the room?", "hypothesis": "The singer burst into the room.", "label": "entailment"}
+{"premise": "Did the boy regret slitting the envelope?", "hypothesis": "The boy slit the envelope.", "label": "entailment"}
+{"premise": "Did the doctor remember thrusting the fork into the cake?", "hypothesis": "The doctor thrust the fork into the cake.", "label": "entailment"}
+{"premise": "Did the kid forget setting the dish on the table?", "hypothesis": "The kid set the dish on the table.", "label": "entailment"}
+{"premise": "Did the dancer remember shutting the door?", "hypothesis": "The dancer shut the door.", "label": "entailment"}
+{"premise": "Did the singer forget slitting the envelope?", "hypothesis": "The singer slit the envelope.", "label": "entailment"}
+{"premise": "Did the athlete forget hurting others?", "hypothesis": "The athlete hurt others.", "label": "entailment"}
+{"premise": "Did the assistant remember shedding tears?", "hypothesis": "The assistant shed tears.", "label": "entailment"}
+{"premise": "Did the manager remember hurting others?", "hypothesis": "The manager hurt others.", "label": "entailment"}
+{"premise": "Did the stranger regret reading the letter?", "hypothesis": "The stranger read the letter.", "label": "entailment"}
+{"premise": "Did the director forget bursting into the room?", "hypothesis": "The director burst into the room.", "label": "entailment"}
+{"premise": "Did the doctor regret letting the blinds down?", "hypothesis": "The doctor let the blinds down.", "label": "entailment"}
+{"premise": "Did the student regret bursting into the room?", "hypothesis": "The student burst into the room.", "label": "entailment"}
+{"premise": "Did the boy remember slitting the envelope?", "hypothesis": "The boy slit the envelope.", "label": "entailment"}
+{"premise": "Did the manager regret spreading the rumor?", "hypothesis": "The manager spread the rumor.", "label": "entailment"}
+{"premise": "Did the man regret putting the book on the shelf?", "hypothesis": "The man put the book on the shelf.", "label": "entailment"}
+{"premise": "Did the assistant remember hitting the ball with the bat?", "hypothesis": "The assistant hit the ball with the bat.", "label": "entailment"}
+{"premise": "Did the worker regret upsetting the boat?", "hypothesis": "The worker upset the boat.", "label": "entailment"}
+{"premise": "Did the man regret shutting the door?", "hypothesis": "The man shut the door.", "label": "entailment"}
+{"premise": "Did the girl regret spreading the rumor?", "hypothesis": "The girl spread the rumor.", "label": "entailment"}
+{"premise": "Did the assistant regret casting bronze into a statue?", "hypothesis": "The assistant cast bronze into a statue.", "label": "entailment"}
+{"premise": "Did the manager regret slitting the envelope?", "hypothesis": "The manager slit the envelope.", "label": "entailment"}
+{"premise": "Did the teacher forget spreading the rumor?", "hypothesis": "The teacher spread the rumor.", "label": "entailment"}
+{"premise": "Did the athlete regret casting bronze into a statue?", "hypothesis": "The athlete cast bronze into a statue.", "label": "entailment"}
+{"premise": "Did the student remember betting $100 on the race?", "hypothesis": "The student bet $100 on the race.", "label": "entailment"}
+{"premise": "Did the assistant forget setting the dish on the table?", "hypothesis": "The assistant set the dish on the table.", "label": "entailment"}
+{"premise": "Did the dancer forget bursting into the room?", "hypothesis": "The dancer burst into the room.", "label": "entailment"}
+{"premise": "Did the man remember bursting into the room?", "hypothesis": "The man burst into the room.", "label": "entailment"}
+{"premise": "Did the student forget thrusting the fork into the cake?", "hypothesis": "The student thrust the fork into the cake.", "label": "entailment"}
+{"premise": "Did the student remember reading the letter?", "hypothesis": "The student read the letter.", "label": "entailment"}
+{"premise": "Did the dancer regret thrusting the fork into the cake?", "hypothesis": "The dancer thrust the fork into the cake.", "label": "entailment"}
+{"premise": "Did the boy forget hurting others?", "hypothesis": "The boy hurt others.", "label": "entailment"}
+{"premise": "Did the athlete remember putting the book on the shelf?", "hypothesis": "The athlete put the book on the shelf.", "label": "entailment"}
+{"premise": "Did the worker forget thrusting the fork into the cake?", "hypothesis": "The worker thrust the fork into the cake.", "label": "entailment"}
+{"premise": "Did the boy remember betting $100 on the race?", "hypothesis": "The boy bet $100 on the race.", "label": "entailment"}
+{"premise": "Did the assistant remember hitting the ball with the bat?", "hypothesis": "The assistant hit the ball with the bat.", "label": "entailment"}
+{"premise": "Did the boy regret casting bronze into a statue?", "hypothesis": "The boy cast bronze into a statue.", "label": "entailment"}
+{"premise": "Did the doctor forget casting bronze into a statue?", "hypothesis": "The doctor cast bronze into a statue.", "label": "entailment"}
+{"premise": "Did the girl forget setting the dish on the table?", "hypothesis": "The girl set the dish on the table.", "label": "entailment"}
+{"premise": "Did the man forget betting $100 on the race?", "hypothesis": "The man bet $100 on the race.", "label": "entailment"}
+{"premise": "Did the teacher forget thrusting the fork into the cake?", "hypothesis": "The teacher thrust the fork into the cake.", "label": "entailment"}
+{"premise": "Did the doctor forget reading the letter?", "hypothesis": "The doctor read the letter.", "label": "entailment"}
+{"premise": "Did the boy forget shutting the door?", "hypothesis": "The boy shut the door.", "label": "entailment"}
+{"premise": "Did the athlete forget shutting the door?", "hypothesis": "The athlete shut the door.", "label": "entailment"}
+{"premise": "Did the stranger forget spreading the rumor?", "hypothesis": "The stranger spread the rumor.", "label": "entailment"}
+{"premise": "Did the singer remember letting the blinds down?", "hypothesis": "The singer let the blinds down.", "label": "entailment"}
+{"premise": "Did the stranger forget shutting the door?", "hypothesis": "The stranger shut the door.", "label": "entailment"}
+{"premise": "Did the assistant regret splitting the log?", "hypothesis": "The assistant split the log.", "label": "entailment"}
+{"premise": "Did the girl forget slitting the envelope?", "hypothesis": "The girl slit the envelope.", "label": "entailment"}
+{"premise": "Did the dancer regret spreading the rumor?", "hypothesis": "The dancer spread the rumor.", "label": "entailment"}
+{"premise": "Did the kid remember betting $100 on the race?", "hypothesis": "The kid bet $100 on the race.", "label": "entailment"}
+{"premise": "Did the kid remember setting the dish on the table?", "hypothesis": "The kid set the dish on the table.", "label": "entailment"}
+{"premise": "Did the stranger forget thrusting the fork into the cake?", "hypothesis": "The stranger thrust the fork into the cake.", "label": "entailment"}
+{"premise": "Did the woman regret shutting the door?", "hypothesis": "The woman shut the door.", "label": "entailment"}
+{"premise": "Did the stranger regret letting the blinds down?", "hypothesis": "The stranger let the blinds down.", "label": "entailment"}
+{"premise": "Did the worker remember casting bronze into a statue?", "hypothesis": "The worker cast bronze into a statue.", "label": "entailment"}
+{"premise": "Did the stranger remember betting $100 on the race?", "hypothesis": "The stranger bet $100 on the race.", "label": "entailment"}
+{"premise": "Did the boy remember shedding tears?", "hypothesis": "The boy shed tears.", "label": "entailment"}
+{"premise": "Did the dancer remember hitting the ball with the bat?", "hypothesis": "The dancer hit the ball with the bat.", "label": "entailment"}
+{"premise": "Did the director forget thrusting the fork into the cake?", "hypothesis": "The director thrust the fork into the cake.", "label": "entailment"}
+{"premise": "Did the man forget betting $100 on the race?", "hypothesis": "The man bet $100 on the race.", "label": "entailment"}
+{"premise": "Did the woman forget shedding tears?", "hypothesis": "The woman shed tears.", "label": "entailment"}
+{"premise": "Did the manager forget betting $100 on the race?", "hypothesis": "The manager bet $100 on the race.", "label": "entailment"}
+{"premise": "Did the woman forget shedding tears?", "hypothesis": "The woman shed tears.", "label": "entailment"}
+{"premise": "Did the athlete remember bursting into the room?", "hypothesis": "The athlete burst into the room.", "label": "entailment"}
+{"premise": "Did the girl remember betting $100 on the race?", "hypothesis": "The girl bet $100 on the race.", "label": "entailment"}
+{"premise": "Did the teacher regret putting the book on the shelf?", "hypothesis": "The teacher put the book on the shelf.", "label": "entailment"}
+{"premise": "Did the woman regret bursting into the room?", "hypothesis": "The woman burst into the room.", "label": "entailment"}
+{"premise": "Did the child regret betting $100 on the race?", "hypothesis": "The child bet $100 on the race.", "label": "entailment"}
+{"premise": "Did the kid remember thrusting the fork into the cake?", "hypothesis": "The kid thrust the fork into the cake.", "label": "entailment"}
+{"premise": "Did the director regret setting the dish on the table?", "hypothesis": "The director set the dish on the table.", "label": "entailment"}
+{"premise": "Did the stranger forget setting the dish on the table?", "hypothesis": "The stranger set the dish on the table.", "label": "entailment"}
+{"premise": "Did the boy forget hitting the ball with the bat?", "hypothesis": "The boy hit the ball with the bat.", "label": "entailment"}
+{"premise": "Did the doctor remember setting the dish on the table?", "hypothesis": "The doctor set the dish on the table.", "label": "entailment"}
+{"premise": "Did the doctor regret hurting others?", "hypothesis": "The doctor hurt others.", "label": "entailment"}
+{"premise": "Did the director remember bursting into the room?", "hypothesis": "The director burst into the room.", "label": "entailment"}
+{"premise": "Did the manager forget slitting the envelope?", "hypothesis": "The manager slit the envelope.", "label": "entailment"}
+{"premise": "Did the woman forget reading the letter?", "hypothesis": "The woman read the letter.", "label": "entailment"}
+{"premise": "Did the student regret hurting others?", "hypothesis": "The student hurt others.", "label": "entailment"}
+{"premise": "Did the child remember setting the dish on the table?", "hypothesis": "The child set the dish on the table.", "label": "entailment"}
+{"premise": "Did the singer remember setting the dish on the table?", "hypothesis": "The singer set the dish on the table.", "label": "entailment"}
+{"premise": "Did the kid forget hurting others?", "hypothesis": "The kid hurt others.", "label": "entailment"}
+{"premise": "Did the man forget splitting the log?", "hypothesis": "The man split the log.", "label": "entailment"}
+{"premise": "Did the child remember casting bronze into a statue?", "hypothesis": "The child cast bronze into a statue.", "label": "entailment"}
+{"premise": "Did the child regret hurting others?", "hypothesis": "The child hurt others.", "label": "entailment"}
+{"premise": "Did the doctor forget slitting the envelope?", "hypothesis": "The doctor slit the envelope.", "label": "entailment"}
+{"premise": "Did the singer remember slitting the envelope?", "hypothesis": "The singer slit the envelope.", "label": "entailment"}
+{"premise": "Did the dancer forget betting $100 on the race?", "hypothesis": "The dancer bet $100 on the race.", "label": "entailment"}
+{"premise": "Did the singer forget upsetting the boat?", "hypothesis": "The singer upset the boat.", "label": "entailment"}
+{"premise": "Did the singer regret letting the blinds down?", "hypothesis": "The singer let the blinds down.", "label": "entailment"}
+{"premise": "Did the dancer regret casting bronze into a statue?", "hypothesis": "The dancer cast bronze into a statue.", "label": "entailment"}
+{"premise": "Did the dancer regret hitting the ball with the bat?", "hypothesis": "The dancer did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "Did the girl remember splitting the log?", "hypothesis": "The girl did not split the log.", "label": "contradiction"}
+{"premise": "Did the manager regret letting the blinds down?", "hypothesis": "The manager did not let the blinds down.", "label": "contradiction"}
+{"premise": "Did the teacher regret spreading the rumor?", "hypothesis": "The teacher did not spread the rumor.", "label": "contradiction"}
+{"premise": "Did the singer remember putting the book on the shelf?", "hypothesis": "The singer did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "Did the athlete forget thrusting the fork into the cake?", "hypothesis": "The athlete did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "Did the worker remember hitting the ball with the bat?", "hypothesis": "The worker did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "Did the girl forget upsetting the boat?", "hypothesis": "The girl did not upset the boat.", "label": "contradiction"}
+{"premise": "Did the woman forget shutting the door?", "hypothesis": "The woman did not shut the door.", "label": "contradiction"}
+{"premise": "Did the man regret betting $100 on the race?", "hypothesis": "The man did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "Did the kid remember thrusting the fork into the cake?", "hypothesis": "The kid did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "Did the professor regret reading the letter?", "hypothesis": "The professor did not read the letter.", "label": "contradiction"}
+{"premise": "Did the man forget betting $100 on the race?", "hypothesis": "The man did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "Did the assistant forget casting bronze into a statue?", "hypothesis": "The assistant did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "Did the director remember setting the dish on the table?", "hypothesis": "The director did not set the dish on the table.", "label": "contradiction"}
+{"premise": "Did the dancer regret casting bronze into a statue?", "hypothesis": "The dancer did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "Did the manager regret slitting the envelope?", "hypothesis": "The manager did not slit the envelope.", "label": "contradiction"}
+{"premise": "Did the doctor forget slitting the envelope?", "hypothesis": "The doctor did not slit the envelope.", "label": "contradiction"}
+{"premise": "Did the director forget reading the letter?", "hypothesis": "The director did not read the letter.", "label": "contradiction"}
+{"premise": "Did the girl forget putting the book on the shelf?", "hypothesis": "The girl did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "Did the child forget upsetting the boat?", "hypothesis": "The child did not upset the boat.", "label": "contradiction"}
+{"premise": "Did the boy regret slitting the envelope?", "hypothesis": "The boy did not slit the envelope.", "label": "contradiction"}
+{"premise": "Did the director regret hurting others?", "hypothesis": "The director did not hurt others.", "label": "contradiction"}
+{"premise": "Did the girl forget shutting the door?", "hypothesis": "The girl did not shut the door.", "label": "contradiction"}
+{"premise": "Did the stranger remember bursting into the room?", "hypothesis": "The stranger did not burst into the room.", "label": "contradiction"}
+{"premise": "Did the student forget casting bronze into a statue?", "hypothesis": "The student did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "Did the student regret reading the letter?", "hypothesis": "The student did not read the letter.", "label": "contradiction"}
+{"premise": "Did the kid remember hitting the ball with the bat?", "hypothesis": "The kid did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "Did the stranger remember spreading the rumor?", "hypothesis": "The stranger did not spread the rumor.", "label": "contradiction"}
+{"premise": "Did the worker remember casting bronze into a statue?", "hypothesis": "The worker did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "Did the girl forget setting the dish on the table?", "hypothesis": "The girl did not set the dish on the table.", "label": "contradiction"}
+{"premise": "Did the professor remember hurting others?", "hypothesis": "The professor did not hurt others.", "label": "contradiction"}
+{"premise": "Did the man remember spreading the rumor?", "hypothesis": "The man did not spread the rumor.", "label": "contradiction"}
+{"premise": "Did the kid forget splitting the log?", "hypothesis": "The kid did not split the log.", "label": "contradiction"}
+{"premise": "Did the assistant forget splitting the log?", "hypothesis": "The assistant did not split the log.", "label": "contradiction"}
+{"premise": "Did the professor forget bursting into the room?", "hypothesis": "The professor did not burst into the room.", "label": "contradiction"}
+{"premise": "Did the professor remember thrusting the fork into the cake?", "hypothesis": "The professor did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "Did the teacher forget hurting others?", "hypothesis": "The teacher did not hurt others.", "label": "contradiction"}
+{"premise": "Did the man regret spreading the rumor?", "hypothesis": "The man did not spread the rumor.", "label": "contradiction"}
+{"premise": "Did the doctor forget thrusting the fork into the cake?", "hypothesis": "The doctor did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "Did the assistant remember hitting the ball with the bat?", "hypothesis": "The assistant did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "Did the dancer remember casting bronze into a statue?", "hypothesis": "The dancer did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "Did the dancer regret letting the blinds down?", "hypothesis": "The dancer did not let the blinds down.", "label": "contradiction"}
+{"premise": "Did the doctor forget shedding tears?", "hypothesis": "The doctor did not shed tears.", "label": "contradiction"}
+{"premise": "Did the student forget splitting the log?", "hypothesis": "The student did not split the log.", "label": "contradiction"}
+{"premise": "Did the dancer remember spreading the rumor?", "hypothesis": "The dancer did not spread the rumor.", "label": "contradiction"}
+{"premise": "Did the student regret setting the dish on the table?", "hypothesis": "The student did not set the dish on the table.", "label": "contradiction"}
+{"premise": "Did the singer remember hitting the ball with the bat?", "hypothesis": "The singer did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "Did the kid regret thrusting the fork into the cake?", "hypothesis": "The kid did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "Did the child remember reading the letter?", "hypothesis": "The child did not read the letter.", "label": "contradiction"}
+{"premise": "Did the student regret setting the dish on the table?", "hypothesis": "The student did not set the dish on the table.", "label": "contradiction"}
+{"premise": "Did the boy forget setting the dish on the table?", "hypothesis": "The boy did not set the dish on the table.", "label": "contradiction"}
+{"premise": "Did the boy remember spreading the rumor?", "hypothesis": "The boy did not spread the rumor.", "label": "contradiction"}
+{"premise": "Did the worker regret spreading the rumor?", "hypothesis": "The worker did not spread the rumor.", "label": "contradiction"}
+{"premise": "Did the child remember slitting the envelope?", "hypothesis": "The child did not slit the envelope.", "label": "contradiction"}
+{"premise": "Did the singer regret thrusting the fork into the cake?", "hypothesis": "The singer did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "Did the girl forget upsetting the boat?", "hypothesis": "The girl did not upset the boat.", "label": "contradiction"}
+{"premise": "Did the boy forget hitting the ball with the bat?", "hypothesis": "The boy did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "Did the kid remember letting the blinds down?", "hypothesis": "The kid did not let the blinds down.", "label": "contradiction"}
+{"premise": "Did the stranger forget upsetting the boat?", "hypothesis": "The stranger did not upset the boat.", "label": "contradiction"}
+{"premise": "Did the assistant remember letting the blinds down?", "hypothesis": "The assistant did not let the blinds down.", "label": "contradiction"}
+{"premise": "Did the assistant remember letting the blinds down?", "hypothesis": "The assistant did not let the blinds down.", "label": "contradiction"}
+{"premise": "Did the girl remember betting $100 on the race?", "hypothesis": "The girl did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "Did the doctor forget thrusting the fork into the cake?", "hypothesis": "The doctor did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "Did the child regret casting bronze into a statue?", "hypothesis": "The child did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "Did the girl regret letting the blinds down?", "hypothesis": "The girl did not let the blinds down.", "label": "contradiction"}
+{"premise": "Did the professor remember shutting the door?", "hypothesis": "The professor did not shut the door.", "label": "contradiction"}
+{"premise": "Did the assistant forget casting bronze into a statue?", "hypothesis": "The assistant did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "Did the manager regret upsetting the boat?", "hypothesis": "The manager did not upset the boat.", "label": "contradiction"}
+{"premise": "Did the girl forget reading the letter?", "hypothesis": "The girl did not read the letter.", "label": "contradiction"}
+{"premise": "Did the professor forget putting the book on the shelf?", "hypothesis": "The professor did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "Did the stranger remember putting the book on the shelf?", "hypothesis": "The stranger did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "Did the singer forget reading the letter?", "hypothesis": "The singer did not read the letter.", "label": "contradiction"}
+{"premise": "Did the kid remember thrusting the fork into the cake?", "hypothesis": "The kid did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "Did the professor forget hurting others?", "hypothesis": "The professor did not hurt others.", "label": "contradiction"}
+{"premise": "Did the singer remember bursting into the room?", "hypothesis": "The singer did not burst into the room.", "label": "contradiction"}
+{"premise": "Did the kid regret putting the book on the shelf?", "hypothesis": "The kid did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "Did the kid regret hitting the ball with the bat?", "hypothesis": "The kid did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "Did the doctor remember spreading the rumor?", "hypothesis": "The doctor did not spread the rumor.", "label": "contradiction"}
+{"premise": "Did the director remember shutting the door?", "hypothesis": "The director did not shut the door.", "label": "contradiction"}
+{"premise": "Did the athlete remember letting the blinds down?", "hypothesis": "The athlete did not let the blinds down.", "label": "contradiction"}
+{"premise": "Did the teacher regret splitting the log?", "hypothesis": "The teacher did not split the log.", "label": "contradiction"}
+{"premise": "Did the boy forget letting the blinds down?", "hypothesis": "The boy did not let the blinds down.", "label": "contradiction"}
+{"premise": "Did the manager remember hitting the ball with the bat?", "hypothesis": "The manager did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "Did the stranger remember spreading the rumor?", "hypothesis": "The stranger did not spread the rumor.", "label": "contradiction"}
+{"premise": "Did the doctor remember reading the letter?", "hypothesis": "The doctor did not read the letter.", "label": "contradiction"}
+{"premise": "Did the man remember spreading the rumor?", "hypothesis": "The man did not spread the rumor.", "label": "contradiction"}
+{"premise": "Did the child regret casting bronze into a statue?", "hypothesis": "The child did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "Did the director regret betting $100 on the race?", "hypothesis": "The director did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "Did the child regret reading the letter?", "hypothesis": "The child did not read the letter.", "label": "contradiction"}
+{"premise": "Did the dancer forget setting the dish on the table?", "hypothesis": "The dancer did not set the dish on the table.", "label": "contradiction"}
+{"premise": "Did the student remember reading the letter?", "hypothesis": "The student did not read the letter.", "label": "contradiction"}
+{"premise": "Did the singer remember casting bronze into a statue?", "hypothesis": "The singer did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "Did the assistant regret hitting the ball with the bat?", "hypothesis": "The assistant did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "Did the stranger regret shedding tears?", "hypothesis": "The stranger did not shed tears.", "label": "contradiction"}
+{"premise": "Did the child regret thrusting the fork into the cake?", "hypothesis": "The child did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "Did the child remember bursting into the room?", "hypothesis": "The child did not burst into the room.", "label": "contradiction"}
+{"premise": "Did the woman forget upsetting the boat?", "hypothesis": "The woman did not upset the boat.", "label": "contradiction"}
+{"premise": "Did the woman forget shedding tears?", "hypothesis": "The woman did not shed tears.", "label": "contradiction"}
+{"premise": "Did the child forget shutting the door?", "hypothesis": "The child did not shut the door.", "label": "contradiction"}

@@ -1,0 +1,201 @@
+	sentence1	sentence2	label	heuristics	example1	example2	split
+1200	Jenny did not comfort the assistant, who slit the envelope.	 The assistant slit the envelope.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1201	Jim did not deceive the athlete, who put the book on the shelf.	 The athlete put the book on the shelf.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1202	Jim did not find the teacher, who read the letter.	 The teacher read the letter.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1203	Jenny did not find the singer, who spread the rumor.	 The singer spread the rumor.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1204	Steven did not deceive the athlete, who burst into the room.	 The athlete burst into the room.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1205	Kyle did not deceive the director, who upset the boat.	 The director upset the boat.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1206	Tom did not deceive the manager, who split the log.	 The manager split the log.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1207	Kyle did not see the manager, who shut the door.	 The manager shut the door.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1208	Jack did not comfort the kid, who shut the door.	 The kid shut the door.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1209	John did not avoid the woman, who set the dish on the table.	 The woman set the dish on the table.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1210	Jack did not find the worker, who upset the boat.	 The worker upset the boat.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1211	Jim did not avoid the student, who shed tears.	 The student shed tears.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1212	Mary did not find the kid, who set the dish on the table.	 The kid set the dish on the table.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1213	Tom did not see the stranger, who upset the boat.	 The stranger upset the boat.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1214	Katy did not meet the woman, who upset the boat.	 The woman upset the boat.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1215	Jim did not see the singer, who set the dish on the table.	 The singer set the dish on the table.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1216	Tom did not find the athlete, who read the letter.	 The athlete read the letter.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1217	Steven did not love the boy, who burst into the room.	 The boy burst into the room.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1218	Ben did not kick the manager, who split the log.	 The manager split the log.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1219	Tom did not chase the girl, who split the log.	 The girl split the log.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1220	Jim did not love the stranger, who cast bronze into a statue.	 The stranger cast bronze into a statue.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1221	Bob did not meet the student, who put the book on the shelf.	 The student put the book on the shelf.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	test
+1222	Katy did not kick the worker, who read the letter.	 The worker read the letter.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1223	Jason did not deceive the man, who hurt others.	 The man hurt others.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1224	Ben did not kick the worker, who bet $100 on the race.	 The worker bet $100 on the race.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1225	Ben did not see the kid, who upset the boat.	 The kid upset the boat.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1226	Jim did not meet the dancer, who shed tears.	 The dancer shed tears.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1227	Mary did not beat the worker, who spread the rumor.	 The worker spread the rumor.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1228	Mary did not comfort the athlete, who hit the ball with the bat.	 The athlete hit the ball with the bat.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1229	Ben did not beat the dancer, who upset the boat.	 The dancer upset the boat.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1230	Tom did not deceive the professor, who hurt others.	 The professor hurt others.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1231	Jason did not beat the woman, who slit the envelope.	 The woman slit the envelope.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1232	Bob did not respect the student, who cast bronze into a statue.	 The student cast bronze into a statue.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1233	Jason did not comfort the woman, who hurt others.	 The woman hurt others.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1234	Jim did not kick the manager, who let the blinds down.	 The manager let the blinds down.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1235	Ben did not see the manager, who set the dish on the table.	 The manager set the dish on the table.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1236	Katy did not find the kid, who let the blinds down.	 The kid let the blinds down.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1237	John did not chase the boy, who hit the ball with the bat.	 The boy hit the ball with the bat.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1238	Kyle did not see the man, who shed tears.	 The man shed tears.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1239	Ben did not see the professor, who put the book on the shelf.	 The professor put the book on the shelf.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1240	Jenny did not find the boy, who hit the ball with the bat.	 The boy hit the ball with the bat.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1241	Katy did not love the manager, who shed tears.	 The manager shed tears.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1242	Steven did not kick the manager, who burst into the room.	 The manager burst into the room.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1243	John did not meet the assistant, who burst into the room.	 The assistant burst into the room.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1244	Jason did not love the singer, who hurt others.	 The singer hurt others.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1245	Steven did not kick the professor, who read the letter.	 The professor read the letter.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1246	Jim did not beat the girl, who hurt others.	 The girl hurt others.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1247	Jack did not meet the director, who let the blinds down.	 The director let the blinds down.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1248	Ben did not see the assistant, who set the dish on the table.	 The assistant set the dish on the table.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1249	Jason did not love the singer, who thrust the fork into the cake.	 The singer thrust the fork into the cake.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1250	Mary did not kick the athlete, who put the book on the shelf.	 The athlete put the book on the shelf.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1251	Kyle did not respect the boy, who burst into the room.	 The boy burst into the room.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1252	Steven did not chase the boy, who thrust the fork into the cake.	 The boy thrust the fork into the cake.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1253	Katy did not kick the student, who slit the envelope.	 The student slit the envelope.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1254	Steven did not chase the student, who spread the rumor.	 The student spread the rumor.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1255	Jenny did not meet the stranger, who set the dish on the table.	 The stranger set the dish on the table.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	test
+1256	Mary did not kick the student, who spread the rumor.	 The student spread the rumor.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1257	Mary did not see the teacher, who cast bronze into a statue.	 The teacher cast bronze into a statue.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1258	Steven did not meet the boy, who bet $100 on the race.	 The boy bet $100 on the race.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1259	Katy did not meet the assistant, who bet $100 on the race.	 The assistant bet $100 on the race.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1260	Tom did not find the athlete, who hurt others.	 The athlete hurt others.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1261	Jim did not meet the athlete, who upset the boat.	 The athlete upset the boat.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1262	Jason did not meet the woman, who let the blinds down.	 The woman let the blinds down.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1263	Ben did not kick the child, who shed tears.	 The child shed tears.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1264	Tom did not love the child, who read the letter.	 The child read the letter.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1265	Kyle did not meet the stranger, who bet $100 on the race.	 The stranger bet $100 on the race.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1266	Jack did not deceive the girl, who slit the envelope.	 The girl slit the envelope.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1267	Tom did not find the woman, who upset the boat.	 The woman upset the boat.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1268	Bob did not see the boy, who spread the rumor.	 The boy spread the rumor.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1269	Ben did not meet the boy, who cast bronze into a statue.	 The boy cast bronze into a statue.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1270	John did not chase the manager, who shut the door.	 The manager shut the door.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1271	John did not avoid the man, who cast bronze into a statue.	 The man cast bronze into a statue.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1272	Katy did not avoid the athlete, who let the blinds down.	 The athlete let the blinds down.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1273	Tom did not deceive the girl, who let the blinds down.	 The girl let the blinds down.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1274	Bob did not kick the kid, who burst into the room.	 The kid burst into the room.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1275	Jim did not kick the worker, who bet $100 on the race.	 The worker bet $100 on the race.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1276	Tom did not beat the boy, who shed tears.	 The boy shed tears.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1277	Jenny did not beat the doctor, who upset the boat.	 The doctor upset the boat.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	test
+1278	Jim did not avoid the assistant, who set the dish on the table.	 The assistant set the dish on the table.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1279	Jason did not comfort the man, who shed tears.	 The man shed tears.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1280	Ben did not beat the student, who read the letter.	 The student read the letter.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1281	Jason did not see the assistant, who thrust the fork into the cake.	 The assistant thrust the fork into the cake.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1282	John did not chase the kid, who slit the envelope.	 The kid slit the envelope.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1283	Jack did not see the singer, who shed tears.	 The singer shed tears.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1284	Tom did not find the doctor, who spread the rumor.	 The doctor spread the rumor.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1285	John did not meet the worker, who shut the door.	 The worker shut the door.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1286	Jenny did not kick the kid, who set the dish on the table.	 The kid set the dish on the table.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1287	Ben did not love the man, who burst into the room.	 The man burst into the room.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	test
+1288	Jack did not comfort the boy, who shut the door.	 The boy shut the door.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1289	Jim did not deceive the assistant, who thrust the fork into the cake.	 The assistant thrust the fork into the cake.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1290	Jason did not comfort the assistant, who split the log.	 The assistant split the log.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1291	Bob did not chase the stranger, who cast bronze into a statue.	 The stranger cast bronze into a statue.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1292	Bob did not respect the athlete, who spread the rumor.	 The athlete spread the rumor.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1293	John did not respect the athlete, who let the blinds down.	 The athlete let the blinds down.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1294	Jenny did not meet the manager, who slit the envelope.	 The manager slit the envelope.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1295	Katy did not avoid the student, who cast bronze into a statue.	 The student cast bronze into a statue.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1296	Jenny did not deceive the dancer, who put the book on the shelf.	 The dancer put the book on the shelf.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1297	Jenny did not avoid the student, who hit the ball with the bat.	 The student hit the ball with the bat.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1298	Mary did not love the man, who split the log.	 The man split the log.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1299	Jason did not beat the woman, who bet $100 on the race.	 The woman bet $100 on the race.	entailment	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	test
+1300	Katy did not respect the athlete, who upset the boat.	 The athlete did not upset the boat.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1301	Katy did not respect the director, who let the blinds down.	 The director did not let the blinds down.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1302	John did not love the stranger, who thrust the fork into the cake.	 The stranger did not thrust the fork into the cake.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1303	Mary did not kick the assistant, who cast bronze into a statue.	 The assistant did not cast bronze into a statue.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1304	Jim did not chase the manager, who cast bronze into a statue.	 The manager did not cast bronze into a statue.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1305	Mary did not find the director, who cast bronze into a statue.	 The director did not cast bronze into a statue.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1306	Jack did not comfort the director, who cast bronze into a statue.	 The director did not cast bronze into a statue.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1307	Tom did not see the professor, who hit the ball with the bat.	 The professor did not hit the ball with the bat.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1308	Jenny did not find the manager, who let the blinds down.	 The manager did not let the blinds down.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1309	Tom did not see the stranger, who set the dish on the table.	 The stranger did not set the dish on the table.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1310	Mary did not chase the manager, who split the log.	 The manager did not split the log.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1311	Jason did not kick the man, who shed tears.	 The man did not shed tears.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1312	Tom did not kick the singer, who shut the door.	 The singer did not shut the door.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1313	Katy did not love the boy, who set the dish on the table.	 The boy did not set the dish on the table.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1314	Jack did not deceive the singer, who spread the rumor.	 The singer did not spread the rumor.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1315	Steven did not love the student, who upset the boat.	 The student did not upset the boat.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1316	Steven did not avoid the teacher, who shed tears.	 The teacher did not shed tears.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1317	John did not love the student, who thrust the fork into the cake.	 The student did not thrust the fork into the cake.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	test
+1318	Jack did not meet the child, who put the book on the shelf.	 The child did not put the book on the shelf.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1319	Katy did not see the boy, who bet $100 on the race.	 The boy did not bet $100 on the race.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1320	Katy did not meet the worker, who upset the boat.	 The worker did not upset the boat.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1321	Jason did not see the doctor, who cast bronze into a statue.	 The doctor did not cast bronze into a statue.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1322	Mary did not respect the kid, who thrust the fork into the cake.	 The kid did not thrust the fork into the cake.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1323	Steven did not meet the boy, who thrust the fork into the cake.	 The boy did not thrust the fork into the cake.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1324	Bob did not find the dancer, who burst into the room.	 The dancer did not burst into the room.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1325	Jack did not chase the singer, who hurt others.	 The singer did not hurt others.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1326	Ben did not see the child, who cast bronze into a statue.	 The child did not cast bronze into a statue.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1327	Katy did not respect the assistant, who put the book on the shelf.	 The assistant did not put the book on the shelf.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1328	Mary did not love the singer, who upset the boat.	 The singer did not upset the boat.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1329	Ben did not respect the stranger, who cast bronze into a statue.	 The stranger did not cast bronze into a statue.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1330	Kyle did not love the athlete, who put the book on the shelf.	 The athlete did not put the book on the shelf.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1331	Tom did not comfort the dancer, who shed tears.	 The dancer did not shed tears.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1332	Steven did not meet the assistant, who burst into the room.	 The assistant did not burst into the room.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1333	Tom did not deceive the teacher, who hit the ball with the bat.	 The teacher did not hit the ball with the bat.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1334	Katy did not love the kid, who burst into the room.	 The kid did not burst into the room.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1335	John did not beat the athlete, who slit the envelope.	 The athlete did not slit the envelope.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1336	Jenny did not respect the kid, who cast bronze into a statue.	 The kid did not cast bronze into a statue.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1337	Mary did not avoid the teacher, who split the log.	 The teacher did not split the log.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1338	Steven did not avoid the manager, who spread the rumor.	 The manager did not spread the rumor.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1339	Jack did not find the child, who shut the door.	 The child did not shut the door.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1340	Tom did not find the man, who hurt others.	 The man did not hurt others.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1341	John did not chase the boy, who hurt others.	 The boy did not hurt others.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1342	Ben did not chase the doctor, who spread the rumor.	 The doctor did not spread the rumor.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1343	Jason did not comfort the stranger, who burst into the room.	 The stranger did not burst into the room.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1344	Jenny did not meet the assistant, who bet $100 on the race.	 The assistant did not bet $100 on the race.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1345	Tom did not see the girl, who thrust the fork into the cake.	 The girl did not thrust the fork into the cake.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1346	Jenny did not find the woman, who shed tears.	 The woman did not shed tears.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	test
+1347	Jim did not find the doctor, who bet $100 on the race.	 The doctor did not bet $100 on the race.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1348	Steven did not respect the doctor, who hit the ball with the bat.	 The doctor did not hit the ball with the bat.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1349	Jack did not comfort the assistant, who cast bronze into a statue.	 The assistant did not cast bronze into a statue.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1350	Jason did not chase the director, who slit the envelope.	 The director did not slit the envelope.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1351	Jack did not beat the director, who cast bronze into a statue.	 The director did not cast bronze into a statue.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1352	Jason did not respect the child, who shed tears.	 The child did not shed tears.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1353	John did not find the teacher, who hit the ball with the bat.	 The teacher did not hit the ball with the bat.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1354	Jason did not chase the woman, who hurt others.	 The woman did not hurt others.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1355	Bob did not kick the director, who hurt others.	 The director did not hurt others.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1356	Mary did not see the assistant, who hit the ball with the bat.	 The assistant did not hit the ball with the bat.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1357	Katy did not find the assistant, who shed tears.	 The assistant did not shed tears.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1358	Jenny did not find the boy, who read the letter.	 The boy did not read the letter.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1359	Jenny did not comfort the student, who thrust the fork into the cake.	 The student did not thrust the fork into the cake.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1360	Jim did not comfort the teacher, who put the book on the shelf.	 The teacher did not put the book on the shelf.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1361	Jack did not comfort the professor, who bet $100 on the race.	 The professor did not bet $100 on the race.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1362	Mary did not love the stranger, who spread the rumor.	 The stranger did not spread the rumor.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1363	Ben did not chase the child, who hit the ball with the bat.	 The child did not hit the ball with the bat.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1364	Mary did not meet the kid, who burst into the room.	 The kid did not burst into the room.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1365	John did not love the doctor, who shed tears.	 The doctor did not shed tears.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1366	Steven did not chase the dancer, who spread the rumor.	 The dancer did not spread the rumor.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1367	Jack did not meet the athlete, who cast bronze into a statue.	 The athlete did not cast bronze into a statue.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1368	Steven did not chase the manager, who set the dish on the table.	 The manager did not set the dish on the table.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1369	Jack did not chase the man, who shed tears.	 The man did not shed tears.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1370	John did not find the student, who slit the envelope.	 The student did not slit the envelope.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1371	Kyle did not meet the girl, who shed tears.	 The girl did not shed tears.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1372	Jack did not love the girl, who burst into the room.	 The girl did not burst into the room.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1373	Jenny did not meet the teacher, who upset the boat.	 The teacher did not upset the boat.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1374	Katy did not comfort the woman, who spread the rumor.	 The woman did not spread the rumor.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1375	Jenny did not chase the doctor, who bet $100 on the race.	 The doctor did not bet $100 on the race.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1376	Katy did not beat the singer, who burst into the room.	 The singer did not burst into the room.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1377	Jim did not comfort the child, who hurt others.	 The child did not hurt others.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1378	Jack did not find the director, who read the letter.	 The director did not read the letter.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	test
+1379	Jenny did not beat the student, who thrust the fork into the cake.	 The student did not thrust the fork into the cake.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1380	Jason did not comfort the manager, who let the blinds down.	 The manager did not let the blinds down.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1381	Jack did not chase the student, who upset the boat.	 The student did not upset the boat.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1382	Mary did not see the teacher, who shed tears.	 The teacher did not shed tears.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1383	Bob did not deceive the dancer, who thrust the fork into the cake.	 The dancer did not thrust the fork into the cake.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1384	Kyle did not avoid the manager, who thrust the fork into the cake.	 The manager did not thrust the fork into the cake.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1385	Steven did not kick the teacher, who hurt others.	 The teacher did not hurt others.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	test
+1386	Kyle did not meet the athlete, who shut the door.	 The athlete did not shut the door.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1387	Jason did not kick the student, who slit the envelope.	 The student did not slit the envelope.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1388	John did not love the man, who hurt others.	 The man did not hurt others.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1389	Steven did not avoid the boy, who shut the door.	 The boy did not shut the door.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1390	Jason did not respect the child, who put the book on the shelf.	 The child did not put the book on the shelf.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1391	Jenny did not respect the director, who burst into the room.	 The director did not burst into the room.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1392	Katy did not find the athlete, who slit the envelope.	 The athlete did not slit the envelope.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1393	Steven did not kick the boy, who read the letter.	 The boy did not read the letter.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1394	Ben did not love the teacher, who cast bronze into a statue.	 The teacher did not cast bronze into a statue.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1395	Kyle did not meet the man, who let the blinds down.	 The man did not let the blinds down.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1396	John did not beat the child, who bet $100 on the race.	 The child did not bet $100 on the race.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1397	Kyle did not comfort the stranger, who let the blinds down.	 The stranger did not let the blinds down.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1398	Mary did not beat the athlete, who upset the boat.	 The athlete did not upset the boat.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	train
+1399	Steven did not beat the child, who hit the ball with the bat.	 The child did not hit the ball with the bat.	contradiction	 -	 John did not meet the doctor comma who cut the tree.	 The doctor cut the tree.	test

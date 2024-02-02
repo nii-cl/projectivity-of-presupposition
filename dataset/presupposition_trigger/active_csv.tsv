@@ -1,0 +1,201 @@
+	sentence1	sentence2	label	heuristics	example1	example2	split
+800	The teacher continued shedding tears.	 The teacher had been shedding tears.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+801	The worker ceased hurting others.	 The worker had been hurting others.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+802	The stranger kept setting the dish on the table.	 The stranger had been setting the dish on the table.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+803	The worker continued thrusting the fork into the cake.	 The worker had been thrusting the fork into the cake.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+804	The stranger continued splitting the log.	 The stranger had been splitting the log.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+805	The athlete kept shedding tears.	 The athlete had been shedding tears.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+806	The athlete stopped thrusting the fork into the cake.	 The athlete had been thrusting the fork into the cake.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+807	The assistant quit hurting others.	 The assistant had been hurting others.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+808	The dancer continued splitting the log.	 The dancer had been splitting the log.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+809	The worker finished putting the book on the shelf.	 The worker had been putting the book on the shelf.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+810	The dancer ceased spreading the rumor.	 The dancer had been spreading the rumor.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+811	The teacher stopped spreading the rumor.	 The teacher had been spreading the rumor.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+812	The boy kept bursting into the room.	 The boy had been bursting into the room.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+813	The man kept spreading the rumor.	 The man had been spreading the rumor.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+814	The man continued upsetting the boat.	 The man had been upsetting the boat.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+815	The singer continued betting $100 on the race.	 The singer had been betting $100 on the race.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+816	The stranger ceased casting bronze into a statue.	 The stranger had been casting bronze into a statue.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+817	The man finished shedding tears.	 The man had been shedding tears.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+818	The assistant kept betting $100 on the race.	 The assistant had been betting $100 on the race.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+819	The doctor ceased spreading the rumor.	 The doctor had been spreading the rumor.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+820	The athlete ceased hurting others.	 The athlete had been hurting others.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+821	The stranger continued slitting the envelope.	 The stranger had been slitting the envelope.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	test
+822	The athlete continued bursting into the room.	 The athlete had been bursting into the room.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+823	The assistant ceased betting $100 on the race.	 The assistant had been betting $100 on the race.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+824	The teacher continued setting the dish on the table.	 The teacher had been setting the dish on the table.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+825	The assistant stopped splitting the log.	 The assistant had been splitting the log.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+826	The director quit bursting into the room.	 The director had been bursting into the room.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+827	The kid kept bursting into the room.	 The kid had been bursting into the room.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	test
+828	The dancer kept letting the blinds down.	 The dancer had been letting the blinds down.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+829	The teacher ceased hitting the ball with the bat.	 The teacher had been hitting the ball with the bat.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+830	The professor ceased thrusting the fork into the cake.	 The professor had been thrusting the fork into the cake.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+831	The stranger gave up spreading the rumor.	 The stranger had been spreading the rumor.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+832	The student continued bursting into the room.	 The student had been bursting into the room.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+833	The boy finished shedding tears.	 The boy had been shedding tears.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+834	The girl ceased putting the book on the shelf.	 The girl had been putting the book on the shelf.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+835	The athlete quit hurting others.	 The athlete had been hurting others.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+836	The worker quit reading the letter.	 The worker had been reading the letter.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+837	The manager gave up upsetting the boat.	 The manager had been upsetting the boat.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+838	The girl quit thrusting the fork into the cake.	 The girl had been thrusting the fork into the cake.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+839	The doctor quit bursting into the room.	 The doctor had been bursting into the room.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+840	The worker stopped betting $100 on the race.	 The worker had been betting $100 on the race.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+841	The athlete kept casting bronze into a statue.	 The athlete had been casting bronze into a statue.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+842	The professor continued splitting the log.	 The professor had been splitting the log.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+843	The girl continued letting the blinds down.	 The girl had been letting the blinds down.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+844	The kid finished letting the blinds down.	 The kid had been letting the blinds down.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+845	The student kept betting $100 on the race.	 The student had been betting $100 on the race.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+846	The woman quit bursting into the room.	 The woman had been bursting into the room.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+847	The boy gave up hurting others.	 The boy had been hurting others.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+848	The manager gave up hurting others.	 The manager had been hurting others.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+849	The girl ceased splitting the log.	 The girl had been splitting the log.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+850	The girl stopped shedding tears.	 The girl had been shedding tears.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+851	The kid stopped reading the letter.	 The kid had been reading the letter.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+852	The doctor quit bursting into the room.	 The doctor had been bursting into the room.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+853	The teacher gave up betting $100 on the race.	 The teacher had been betting $100 on the race.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+854	The dancer stopped slitting the envelope.	 The dancer had been slitting the envelope.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+855	The stranger continued setting the dish on the table.	 The stranger had been setting the dish on the table.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+856	The kid gave up shutting the door.	 The kid had been shutting the door.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+857	The child continued putting the book on the shelf.	 The child had been putting the book on the shelf.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+858	The girl ceased hitting the ball with the bat.	 The girl had been hitting the ball with the bat.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+859	The professor continued letting the blinds down.	 The professor had been letting the blinds down.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+860	The child quit shedding tears.	 The child had been shedding tears.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+861	The girl stopped spreading the rumor.	 The girl had been spreading the rumor.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+862	The professor finished upsetting the boat.	 The professor had been upsetting the boat.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+863	The assistant gave up putting the book on the shelf.	 The assistant had been putting the book on the shelf.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+864	The athlete finished putting the book on the shelf.	 The athlete had been putting the book on the shelf.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+865	The singer kept reading the letter.	 The singer had been reading the letter.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+866	The teacher ceased setting the dish on the table.	 The teacher had been setting the dish on the table.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+867	The assistant gave up shedding tears.	 The assistant had been shedding tears.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+868	The teacher gave up splitting the log.	 The teacher had been splitting the log.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+869	The singer gave up casting bronze into a statue.	 The singer had been casting bronze into a statue.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	test
+870	The doctor continued betting $100 on the race.	 The doctor had been betting $100 on the race.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+871	The girl finished letting the blinds down.	 The girl had been letting the blinds down.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+872	The woman ceased putting the book on the shelf.	 The woman had been putting the book on the shelf.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+873	The man finished bursting into the room.	 The man had been bursting into the room.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+874	The child kept hitting the ball with the bat.	 The child had been hitting the ball with the bat.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+875	The doctor finished hitting the ball with the bat.	 The doctor had been hitting the ball with the bat.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+876	The dancer continued thrusting the fork into the cake.	 The dancer had been thrusting the fork into the cake.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+877	The boy gave up casting bronze into a statue.	 The boy had been casting bronze into a statue.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+878	The singer ceased thrusting the fork into the cake.	 The singer had been thrusting the fork into the cake.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+879	The doctor gave up letting the blinds down.	 The doctor had been letting the blinds down.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+880	The kid kept reading the letter.	 The kid had been reading the letter.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+881	The boy ceased setting the dish on the table.	 The boy had been setting the dish on the table.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+882	The professor stopped reading the letter.	 The professor had been reading the letter.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+883	The student quit setting the dish on the table.	 The student had been setting the dish on the table.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+884	The teacher continued putting the book on the shelf.	 The teacher had been putting the book on the shelf.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+885	The worker continued hurting others.	 The worker had been hurting others.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+886	The child quit bursting into the room.	 The child had been bursting into the room.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+887	The teacher gave up shutting the door.	 The teacher had been shutting the door.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+888	The singer ceased slitting the envelope.	 The singer had been slitting the envelope.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+889	The stranger kept letting the blinds down.	 The stranger had been letting the blinds down.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	test
+890	The singer continued upsetting the boat.	 The singer had been upsetting the boat.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+891	The athlete quit shutting the door.	 The athlete had been shutting the door.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+892	The child gave up shutting the door.	 The child had been shutting the door.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+893	The stranger continued hitting the ball with the bat.	 The stranger had been hitting the ball with the bat.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+894	The teacher finished casting bronze into a statue.	 The teacher had been casting bronze into a statue.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+895	The teacher stopped putting the book on the shelf.	 The teacher had been putting the book on the shelf.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+896	The director kept letting the blinds down.	 The director had been letting the blinds down.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+897	The child finished slitting the envelope.	 The child had been slitting the envelope.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	test
+898	The manager ceased bursting into the room.	 The manager had been bursting into the room.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+899	The child quit thrusting the fork into the cake.	 The child had been thrusting the fork into the cake.	entailment	 -	 The doctor stopped cutting the tree.	 The doctor had been cutting the tree.	train
+900	The professor quit bursting into the room.	 The professor had not been bursting into the room.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+901	The teacher finished hitting the ball with the bat.	 The teacher had not been hitting the ball with the bat.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+902	The professor stopped splitting the log.	 The professor had not been splitting the log.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+903	The dancer kept splitting the log.	 The dancer had not been splitting the log.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+904	The professor stopped reading the letter.	 The professor had not been reading the letter.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+905	The professor quit casting bronze into a statue.	 The professor had not been casting bronze into a statue.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+906	The woman gave up reading the letter.	 The woman had not been reading the letter.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+907	The professor continued shedding tears.	 The professor had not been shedding tears.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+908	The manager ceased letting the blinds down.	 The manager had not been letting the blinds down.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+909	The manager kept letting the blinds down.	 The manager had not been letting the blinds down.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+910	The worker continued splitting the log.	 The worker had not been splitting the log.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+911	The doctor stopped spreading the rumor.	 The doctor had not been spreading the rumor.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+912	The athlete quit spreading the rumor.	 The athlete had not been spreading the rumor.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+913	The manager finished putting the book on the shelf.	 The manager had not been putting the book on the shelf.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+914	The director finished shedding tears.	 The director had not been shedding tears.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+915	The manager gave up reading the letter.	 The manager had not been reading the letter.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+916	The teacher quit putting the book on the shelf.	 The teacher had not been putting the book on the shelf.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+917	The singer finished slitting the envelope.	 The singer had not been slitting the envelope.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+918	The singer continued splitting the log.	 The singer had not been splitting the log.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+919	The professor gave up setting the dish on the table.	 The professor had not been setting the dish on the table.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+920	The stranger continued reading the letter.	 The stranger had not been reading the letter.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+921	The stranger stopped shedding tears.	 The stranger had not been shedding tears.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+922	The dancer quit bursting into the room.	 The dancer had not been bursting into the room.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+923	The professor kept betting $100 on the race.	 The professor had not been betting $100 on the race.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+924	The professor quit spreading the rumor.	 The professor had not been spreading the rumor.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+925	The man kept splitting the log.	 The man had not been splitting the log.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+926	The student continued slitting the envelope.	 The student had not been slitting the envelope.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	test
+927	The boy ceased hitting the ball with the bat.	 The boy had not been hitting the ball with the bat.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+928	The athlete continued bursting into the room.	 The athlete had not been bursting into the room.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+929	The dancer stopped putting the book on the shelf.	 The dancer had not been putting the book on the shelf.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+930	The kid finished hitting the ball with the bat.	 The kid had not been hitting the ball with the bat.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+931	The dancer kept letting the blinds down.	 The dancer had not been letting the blinds down.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+932	The manager kept bursting into the room.	 The manager had not been bursting into the room.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+933	The dancer finished thrusting the fork into the cake.	 The dancer had not been thrusting the fork into the cake.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+934	The girl kept upsetting the boat.	 The girl had not been upsetting the boat.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+935	The worker quit hurting others.	 The worker had not been hurting others.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+936	The dancer ceased setting the dish on the table.	 The dancer had not been setting the dish on the table.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+937	The professor finished spreading the rumor.	 The professor had not been spreading the rumor.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+938	The man quit hurting others.	 The man had not been hurting others.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+939	The girl quit bursting into the room.	 The girl had not been bursting into the room.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+940	The boy finished putting the book on the shelf.	 The boy had not been putting the book on the shelf.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+941	The student stopped hurting others.	 The student had not been hurting others.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+942	The teacher quit shedding tears.	 The teacher had not been shedding tears.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+943	The singer continued slitting the envelope.	 The singer had not been slitting the envelope.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+944	The kid ceased hitting the ball with the bat.	 The kid had not been hitting the ball with the bat.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+945	The doctor gave up setting the dish on the table.	 The doctor had not been setting the dish on the table.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	test
+946	The dancer finished slitting the envelope.	 The dancer had not been slitting the envelope.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+947	The stranger stopped shedding tears.	 The stranger had not been shedding tears.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	test
+948	The director quit casting bronze into a statue.	 The director had not been casting bronze into a statue.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+949	The child kept shedding tears.	 The child had not been shedding tears.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+950	The woman continued thrusting the fork into the cake.	 The woman had not been thrusting the fork into the cake.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+951	The director ceased slitting the envelope.	 The director had not been slitting the envelope.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+952	The child continued upsetting the boat.	 The child had not been upsetting the boat.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+953	The director stopped putting the book on the shelf.	 The director had not been putting the book on the shelf.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+954	The worker stopped thrusting the fork into the cake.	 The worker had not been thrusting the fork into the cake.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+955	The child finished hurting others.	 The child had not been hurting others.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+956	The man ceased slitting the envelope.	 The man had not been slitting the envelope.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+957	The assistant quit shutting the door.	 The assistant had not been shutting the door.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+958	The singer ceased bursting into the room.	 The singer had not been bursting into the room.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+959	The worker quit putting the book on the shelf.	 The worker had not been putting the book on the shelf.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+960	The athlete quit casting bronze into a statue.	 The athlete had not been casting bronze into a statue.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	test
+961	The girl stopped hurting others.	 The girl had not been hurting others.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+962	The girl quit putting the book on the shelf.	 The girl had not been putting the book on the shelf.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+963	The woman finished shedding tears.	 The woman had not been shedding tears.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+964	The student continued putting the book on the shelf.	 The student had not been putting the book on the shelf.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+965	The athlete quit upsetting the boat.	 The athlete had not been upsetting the boat.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+966	The manager continued spreading the rumor.	 The manager had not been spreading the rumor.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+967	The stranger continued letting the blinds down.	 The stranger had not been letting the blinds down.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+968	The manager stopped slitting the envelope.	 The manager had not been slitting the envelope.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+969	The teacher stopped spreading the rumor.	 The teacher had not been spreading the rumor.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+970	The child quit shutting the door.	 The child had not been shutting the door.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+971	The boy kept hitting the ball with the bat.	 The boy had not been hitting the ball with the bat.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+972	The student quit shedding tears.	 The student had not been shedding tears.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+973	The woman ceased thrusting the fork into the cake.	 The woman had not been thrusting the fork into the cake.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+974	The man ceased hitting the ball with the bat.	 The man had not been hitting the ball with the bat.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+975	The teacher continued putting the book on the shelf.	 The teacher had not been putting the book on the shelf.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+976	The girl ceased slitting the envelope.	 The girl had not been slitting the envelope.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+977	The manager kept thrusting the fork into the cake.	 The manager had not been thrusting the fork into the cake.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+978	The assistant stopped upsetting the boat.	 The assistant had not been upsetting the boat.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+979	The student gave up spreading the rumor.	 The student had not been spreading the rumor.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+980	The stranger stopped splitting the log.	 The stranger had not been splitting the log.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+981	The boy stopped shutting the door.	 The boy had not been shutting the door.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+982	The woman quit thrusting the fork into the cake.	 The woman had not been thrusting the fork into the cake.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+983	The manager stopped upsetting the boat.	 The manager had not been upsetting the boat.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+984	The boy finished shutting the door.	 The boy had not been shutting the door.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+985	The kid quit spreading the rumor.	 The kid had not been spreading the rumor.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+986	The man ceased betting $100 on the race.	 The man had not been betting $100 on the race.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+987	The director kept spreading the rumor.	 The director had not been spreading the rumor.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	test
+988	The dancer finished upsetting the boat.	 The dancer had not been upsetting the boat.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+989	The student ceased thrusting the fork into the cake.	 The student had not been thrusting the fork into the cake.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+990	The stranger stopped shutting the door.	 The stranger had not been shutting the door.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+991	The athlete kept hitting the ball with the bat.	 The athlete had not been hitting the ball with the bat.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+992	The worker ceased shutting the door.	 The worker had not been shutting the door.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+993	The worker finished casting bronze into a statue.	 The worker had not been casting bronze into a statue.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+994	The student continued bursting into the room.	 The student had not been bursting into the room.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+995	The athlete ceased hurting others.	 The athlete had not been hurting others.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+996	The worker ceased reading the letter.	 The worker had not been reading the letter.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+997	The man gave up putting the book on the shelf.	 The man had not been putting the book on the shelf.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+998	The man quit spreading the rumor.	 The man had not been spreading the rumor.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train
+999	The dancer finished setting the dish on the table.	 The dancer had not been setting the dish on the table.	contradiction	 -	 The doctor stopped cutting the tree.	 The doctor had not been cutting the tree	train

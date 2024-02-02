@@ -1,0 +1,200 @@
+{"premise": "The boy read the letter quietly.", "hypothesis": "The boy read the letter.", "label": "entailment"}
+{"premise": "The assistant hurt others quickly.", "hypothesis": "The assistant hurt others.", "label": "entailment"}
+{"premise": "The child hurt others anxiously.", "hypothesis": "The child hurt others.", "label": "entailment"}
+{"premise": "The athlete let the blinds down happily.", "hypothesis": "The athlete let the blinds down.", "label": "entailment"}
+{"premise": "The athlete upset the boat calmly.", "hypothesis": "The athlete upset the boat.", "label": "entailment"}
+{"premise": "The professor cast bronze into a statue sadly.", "hypothesis": "The professor cast bronze into a statue.", "label": "entailment"}
+{"premise": "The worker let the blinds down slowly.", "hypothesis": "The worker let the blinds down.", "label": "entailment"}
+{"premise": "The kid set the dish on the table quietly.", "hypothesis": "The kid set the dish on the table.", "label": "entailment"}
+{"premise": "The child read the letter slowly.", "hypothesis": "The child read the letter.", "label": "entailment"}
+{"premise": "The manager hit the ball with the bat happily.", "hypothesis": "The manager hit the ball with the bat.", "label": "entailment"}
+{"premise": "The doctor read the letter anxiously.", "hypothesis": "The doctor read the letter.", "label": "entailment"}
+{"premise": "The child put the book on the shelf happily.", "hypothesis": "The child put the book on the shelf.", "label": "entailment"}
+{"premise": "The girl set the dish on the table quietly.", "hypothesis": "The girl set the dish on the table.", "label": "entailment"}
+{"premise": "The boy bet $100 on the race quickly.", "hypothesis": "The boy bet $100 on the race.", "label": "entailment"}
+{"premise": "The student shut the door easily.", "hypothesis": "The student shut the door.", "label": "entailment"}
+{"premise": "The child slit the envelope sadly.", "hypothesis": "The child slit the envelope.", "label": "entailment"}
+{"premise": "The child thrust the fork into the cake calmly.", "hypothesis": "The child thrust the fork into the cake.", "label": "entailment"}
+{"premise": "The teacher hurt others slowly.", "hypothesis": "The teacher hurt others.", "label": "entailment"}
+{"premise": "The teacher set the dish on the table quickly.", "hypothesis": "The teacher set the dish on the table.", "label": "entailment"}
+{"premise": "The girl put the book on the shelf anxiously.", "hypothesis": "The girl put the book on the shelf.", "label": "entailment"}
+{"premise": "The dancer thrust the fork into the cake calmly.", "hypothesis": "The dancer thrust the fork into the cake.", "label": "entailment"}
+{"premise": "The man hurt others sadly.", "hypothesis": "The man hurt others.", "label": "entailment"}
+{"premise": "The man set the dish on the table calmly.", "hypothesis": "The man set the dish on the table.", "label": "entailment"}
+{"premise": "The singer shut the door calmly.", "hypothesis": "The singer shut the door.", "label": "entailment"}
+{"premise": "The manager set the dish on the table slowly.", "hypothesis": "The manager set the dish on the table.", "label": "entailment"}
+{"premise": "The professor hit the ball with the bat quietly.", "hypothesis": "The professor hit the ball with the bat.", "label": "entailment"}
+{"premise": "The doctor burst into the room slowly.", "hypothesis": "The doctor burst into the room.", "label": "entailment"}
+{"premise": "The manager hurt others calmly.", "hypothesis": "The manager hurt others.", "label": "entailment"}
+{"premise": "The singer slit the envelope happily.", "hypothesis": "The singer slit the envelope.", "label": "entailment"}
+{"premise": "The director hit the ball with the bat sadly.", "hypothesis": "The director hit the ball with the bat.", "label": "entailment"}
+{"premise": "The worker slit the envelope calmly.", "hypothesis": "The worker slit the envelope.", "label": "entailment"}
+{"premise": "The girl let the blinds down sadly.", "hypothesis": "The girl let the blinds down.", "label": "entailment"}
+{"premise": "The woman bet $100 on the race quietly.", "hypothesis": "The woman bet $100 on the race.", "label": "entailment"}
+{"premise": "The doctor burst into the room sadly.", "hypothesis": "The doctor burst into the room.", "label": "entailment"}
+{"premise": "The girl put the book on the shelf angrily.", "hypothesis": "The girl put the book on the shelf.", "label": "entailment"}
+{"premise": "The director split the log calmly.", "hypothesis": "The director split the log.", "label": "entailment"}
+{"premise": "The boy bet $100 on the race slowly.", "hypothesis": "The boy bet $100 on the race.", "label": "entailment"}
+{"premise": "The singer shed tears easily.", "hypothesis": "The singer shed tears.", "label": "entailment"}
+{"premise": "The worker let the blinds down sadly.", "hypothesis": "The worker let the blinds down.", "label": "entailment"}
+{"premise": "The manager shut the door happily.", "hypothesis": "The manager shut the door.", "label": "entailment"}
+{"premise": "The man hit the ball with the bat angrily.", "hypothesis": "The man hit the ball with the bat.", "label": "entailment"}
+{"premise": "The student thrust the fork into the cake happily.", "hypothesis": "The student thrust the fork into the cake.", "label": "entailment"}
+{"premise": "The professor thrust the fork into the cake quietly.", "hypothesis": "The professor thrust the fork into the cake.", "label": "entailment"}
+{"premise": "The teacher upset the boat slowly.", "hypothesis": "The teacher upset the boat.", "label": "entailment"}
+{"premise": "The worker hurt others slowly.", "hypothesis": "The worker hurt others.", "label": "entailment"}
+{"premise": "The teacher shut the door calmly.", "hypothesis": "The teacher shut the door.", "label": "entailment"}
+{"premise": "The student let the blinds down happily.", "hypothesis": "The student let the blinds down.", "label": "entailment"}
+{"premise": "The athlete split the log anxiously.", "hypothesis": "The athlete split the log.", "label": "entailment"}
+{"premise": "The man set the dish on the table slowly.", "hypothesis": "The man set the dish on the table.", "label": "entailment"}
+{"premise": "The assistant thrust the fork into the cake anxiously.", "hypothesis": "The assistant thrust the fork into the cake.", "label": "entailment"}
+{"premise": "The manager spread the rumor anxiously.", "hypothesis": "The manager spread the rumor.", "label": "entailment"}
+{"premise": "The boy upset the boat sadly.", "hypothesis": "The boy upset the boat.", "label": "entailment"}
+{"premise": "The professor shut the door angrily.", "hypothesis": "The professor shut the door.", "label": "entailment"}
+{"premise": "The teacher upset the boat calmly.", "hypothesis": "The teacher upset the boat.", "label": "entailment"}
+{"premise": "The girl shut the door anxiously.", "hypothesis": "The girl shut the door.", "label": "entailment"}
+{"premise": "The dancer slit the envelope sadly.", "hypothesis": "The dancer slit the envelope.", "label": "entailment"}
+{"premise": "The child hurt others happily.", "hypothesis": "The child hurt others.", "label": "entailment"}
+{"premise": "The woman let the blinds down anxiously.", "hypothesis": "The woman let the blinds down.", "label": "entailment"}
+{"premise": "The assistant split the log angrily.", "hypothesis": "The assistant split the log.", "label": "entailment"}
+{"premise": "The man bet $100 on the race sadly.", "hypothesis": "The man bet $100 on the race.", "label": "entailment"}
+{"premise": "The stranger hurt others happily.", "hypothesis": "The stranger hurt others.", "label": "entailment"}
+{"premise": "The student hit the ball with the bat easily.", "hypothesis": "The student hit the ball with the bat.", "label": "entailment"}
+{"premise": "The girl put the book on the shelf sadly.", "hypothesis": "The girl put the book on the shelf.", "label": "entailment"}
+{"premise": "The boy spread the rumor slowly.", "hypothesis": "The boy spread the rumor.", "label": "entailment"}
+{"premise": "The boy hit the ball with the bat angrily.", "hypothesis": "The boy hit the ball with the bat.", "label": "entailment"}
+{"premise": "The stranger hit the ball with the bat quickly.", "hypothesis": "The stranger hit the ball with the bat.", "label": "entailment"}
+{"premise": "The girl put the book on the shelf quietly.", "hypothesis": "The girl put the book on the shelf.", "label": "entailment"}
+{"premise": "The child hit the ball with the bat easily.", "hypothesis": "The child hit the ball with the bat.", "label": "entailment"}
+{"premise": "The child shut the door slowly.", "hypothesis": "The child shut the door.", "label": "entailment"}
+{"premise": "The assistant put the book on the shelf quietly.", "hypothesis": "The assistant put the book on the shelf.", "label": "entailment"}
+{"premise": "The doctor set the dish on the table angrily.", "hypothesis": "The doctor set the dish on the table.", "label": "entailment"}
+{"premise": "The kid bet $100 on the race slowly.", "hypothesis": "The kid bet $100 on the race.", "label": "entailment"}
+{"premise": "The child thrust the fork into the cake sadly.", "hypothesis": "The child thrust the fork into the cake.", "label": "entailment"}
+{"premise": "The boy bet $100 on the race anxiously.", "hypothesis": "The boy bet $100 on the race.", "label": "entailment"}
+{"premise": "The professor let the blinds down easily.", "hypothesis": "The professor let the blinds down.", "label": "entailment"}
+{"premise": "The dancer set the dish on the table calmly.", "hypothesis": "The dancer set the dish on the table.", "label": "entailment"}
+{"premise": "The director read the letter quietly.", "hypothesis": "The director read the letter.", "label": "entailment"}
+{"premise": "The girl hit the ball with the bat calmly.", "hypothesis": "The girl hit the ball with the bat.", "label": "entailment"}
+{"premise": "The stranger spread the rumor happily.", "hypothesis": "The stranger spread the rumor.", "label": "entailment"}
+{"premise": "The girl split the log quietly.", "hypothesis": "The girl split the log.", "label": "entailment"}
+{"premise": "The man hurt others easily.", "hypothesis": "The man hurt others.", "label": "entailment"}
+{"premise": "The teacher set the dish on the table quietly.", "hypothesis": "The teacher set the dish on the table.", "label": "entailment"}
+{"premise": "The doctor bet $100 on the race slowly.", "hypothesis": "The doctor bet $100 on the race.", "label": "entailment"}
+{"premise": "The dancer bet $100 on the race calmly.", "hypothesis": "The dancer bet $100 on the race.", "label": "entailment"}
+{"premise": "The manager put the book on the shelf quickly.", "hypothesis": "The manager put the book on the shelf.", "label": "entailment"}
+{"premise": "The stranger let the blinds down calmly.", "hypothesis": "The stranger let the blinds down.", "label": "entailment"}
+{"premise": "The dancer read the letter happily.", "hypothesis": "The dancer read the letter.", "label": "entailment"}
+{"premise": "The dancer read the letter angrily.", "hypothesis": "The dancer read the letter.", "label": "entailment"}
+{"premise": "The athlete thrust the fork into the cake quietly.", "hypothesis": "The athlete thrust the fork into the cake.", "label": "entailment"}
+{"premise": "The singer set the dish on the table slowly.", "hypothesis": "The singer set the dish on the table.", "label": "entailment"}
+{"premise": "The manager slit the envelope quickly.", "hypothesis": "The manager slit the envelope.", "label": "entailment"}
+{"premise": "The manager read the letter happily.", "hypothesis": "The manager read the letter.", "label": "entailment"}
+{"premise": "The woman hit the ball with the bat easily.", "hypothesis": "The woman hit the ball with the bat.", "label": "entailment"}
+{"premise": "The doctor bet $100 on the race slowly.", "hypothesis": "The doctor bet $100 on the race.", "label": "entailment"}
+{"premise": "The singer set the dish on the table angrily.", "hypothesis": "The singer set the dish on the table.", "label": "entailment"}
+{"premise": "The stranger shed tears calmly.", "hypothesis": "The stranger shed tears.", "label": "entailment"}
+{"premise": "The worker read the letter quietly.", "hypothesis": "The worker read the letter.", "label": "entailment"}
+{"premise": "The worker slit the envelope easily.", "hypothesis": "The worker slit the envelope.", "label": "entailment"}
+{"premise": "The boy read the letter anxiously.", "hypothesis": "The boy read the letter.", "label": "entailment"}
+{"premise": "The man put the book on the shelf quietly.", "hypothesis": "The man put the book on the shelf.", "label": "entailment"}
+{"premise": "The director put the book on the shelf sadly.", "hypothesis": "The director did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "The assistant thrust the fork into the cake anxiously.", "hypothesis": "The assistant did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "The dancer spread the rumor quietly.", "hypothesis": "The dancer did not spread the rumor.", "label": "contradiction"}
+{"premise": "The kid hit the ball with the bat angrily.", "hypothesis": "The kid did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "The man thrust the fork into the cake angrily.", "hypothesis": "The man did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "The woman bet $100 on the race sadly.", "hypothesis": "The woman did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "The teacher thrust the fork into the cake quickly.", "hypothesis": "The teacher did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "The dancer thrust the fork into the cake angrily.", "hypothesis": "The dancer did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "The child burst into the room angrily.", "hypothesis": "The child did not burst into the room.", "label": "contradiction"}
+{"premise": "The doctor slit the envelope sadly.", "hypothesis": "The doctor did not slit the envelope.", "label": "contradiction"}
+{"premise": "The woman slit the envelope easily.", "hypothesis": "The woman did not slit the envelope.", "label": "contradiction"}
+{"premise": "The director hurt others quietly.", "hypothesis": "The director did not hurt others.", "label": "contradiction"}
+{"premise": "The singer thrust the fork into the cake quickly.", "hypothesis": "The singer did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "The doctor shed tears anxiously.", "hypothesis": "The doctor did not shed tears.", "label": "contradiction"}
+{"premise": "The doctor upset the boat angrily.", "hypothesis": "The doctor did not upset the boat.", "label": "contradiction"}
+{"premise": "The dancer cast bronze into a statue angrily.", "hypothesis": "The dancer did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "The worker thrust the fork into the cake happily.", "hypothesis": "The worker did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "The athlete spread the rumor quietly.", "hypothesis": "The athlete did not spread the rumor.", "label": "contradiction"}
+{"premise": "The kid shut the door calmly.", "hypothesis": "The kid did not shut the door.", "label": "contradiction"}
+{"premise": "The stranger put the book on the shelf easily.", "hypothesis": "The stranger did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "The athlete split the log quietly.", "hypothesis": "The athlete did not split the log.", "label": "contradiction"}
+{"premise": "The doctor hit the ball with the bat sadly.", "hypothesis": "The doctor did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "The professor read the letter happily.", "hypothesis": "The professor did not read the letter.", "label": "contradiction"}
+{"premise": "The professor read the letter happily.", "hypothesis": "The professor did not read the letter.", "label": "contradiction"}
+{"premise": "The singer upset the boat quietly.", "hypothesis": "The singer did not upset the boat.", "label": "contradiction"}
+{"premise": "The student shut the door quietly.", "hypothesis": "The student did not shut the door.", "label": "contradiction"}
+{"premise": "The girl burst into the room slowly.", "hypothesis": "The girl did not burst into the room.", "label": "contradiction"}
+{"premise": "The athlete upset the boat sadly.", "hypothesis": "The athlete did not upset the boat.", "label": "contradiction"}
+{"premise": "The worker shed tears anxiously.", "hypothesis": "The worker did not shed tears.", "label": "contradiction"}
+{"premise": "The stranger burst into the room quietly.", "hypothesis": "The stranger did not burst into the room.", "label": "contradiction"}
+{"premise": "The doctor split the log happily.", "hypothesis": "The doctor did not split the log.", "label": "contradiction"}
+{"premise": "The director thrust the fork into the cake quickly.", "hypothesis": "The director did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "The worker let the blinds down quickly.", "hypothesis": "The worker did not let the blinds down.", "label": "contradiction"}
+{"premise": "The teacher spread the rumor easily.", "hypothesis": "The teacher did not spread the rumor.", "label": "contradiction"}
+{"premise": "The athlete set the dish on the table sadly.", "hypothesis": "The athlete did not set the dish on the table.", "label": "contradiction"}
+{"premise": "The boy slit the envelope quickly.", "hypothesis": "The boy did not slit the envelope.", "label": "contradiction"}
+{"premise": "The teacher shut the door quietly.", "hypothesis": "The teacher did not shut the door.", "label": "contradiction"}
+{"premise": "The worker cast bronze into a statue easily.", "hypothesis": "The worker did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "The singer burst into the room calmly.", "hypothesis": "The singer did not burst into the room.", "label": "contradiction"}
+{"premise": "The kid hurt others calmly.", "hypothesis": "The kid did not hurt others.", "label": "contradiction"}
+{"premise": "The director slit the envelope angrily.", "hypothesis": "The director did not slit the envelope.", "label": "contradiction"}
+{"premise": "The student upset the boat quickly.", "hypothesis": "The student did not upset the boat.", "label": "contradiction"}
+{"premise": "The doctor let the blinds down anxiously.", "hypothesis": "The doctor did not let the blinds down.", "label": "contradiction"}
+{"premise": "The singer set the dish on the table easily.", "hypothesis": "The singer did not set the dish on the table.", "label": "contradiction"}
+{"premise": "The athlete hurt others easily.", "hypothesis": "The athlete did not hurt others.", "label": "contradiction"}
+{"premise": "The professor shut the door happily.", "hypothesis": "The professor did not shut the door.", "label": "contradiction"}
+{"premise": "The teacher hit the ball with the bat angrily.", "hypothesis": "The teacher did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "The stranger spread the rumor easily.", "hypothesis": "The stranger did not spread the rumor.", "label": "contradiction"}
+{"premise": "The kid hurt others calmly.", "hypothesis": "The kid did not hurt others.", "label": "contradiction"}
+{"premise": "The dancer slit the envelope anxiously.", "hypothesis": "The dancer did not slit the envelope.", "label": "contradiction"}
+{"premise": "The kid read the letter calmly.", "hypothesis": "The kid did not read the letter.", "label": "contradiction"}
+{"premise": "The man hit the ball with the bat angrily.", "hypothesis": "The man did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "The worker set the dish on the table calmly.", "hypothesis": "The worker did not set the dish on the table.", "label": "contradiction"}
+{"premise": "The woman upset the boat angrily.", "hypothesis": "The woman did not upset the boat.", "label": "contradiction"}
+{"premise": "The girl burst into the room angrily.", "hypothesis": "The girl did not burst into the room.", "label": "contradiction"}
+{"premise": "The dancer cast bronze into a statue sadly.", "hypothesis": "The dancer did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "The student read the letter quickly.", "hypothesis": "The student did not read the letter.", "label": "contradiction"}
+{"premise": "The doctor upset the boat quietly.", "hypothesis": "The doctor did not upset the boat.", "label": "contradiction"}
+{"premise": "The worker spread the rumor quickly.", "hypothesis": "The worker did not spread the rumor.", "label": "contradiction"}
+{"premise": "The athlete slit the envelope quickly.", "hypothesis": "The athlete did not slit the envelope.", "label": "contradiction"}
+{"premise": "The dancer cast bronze into a statue easily.", "hypothesis": "The dancer did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "The boy shed tears easily.", "hypothesis": "The boy did not shed tears.", "label": "contradiction"}
+{"premise": "The girl slit the envelope quickly.", "hypothesis": "The girl did not slit the envelope.", "label": "contradiction"}
+{"premise": "The manager hit the ball with the bat happily.", "hypothesis": "The manager did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "The girl hurt others calmly.", "hypothesis": "The girl did not hurt others.", "label": "contradiction"}
+{"premise": "The man let the blinds down quietly.", "hypothesis": "The man did not let the blinds down.", "label": "contradiction"}
+{"premise": "The child slit the envelope easily.", "hypothesis": "The child did not slit the envelope.", "label": "contradiction"}
+{"premise": "The girl read the letter happily.", "hypothesis": "The girl did not read the letter.", "label": "contradiction"}
+{"premise": "The stranger hit the ball with the bat angrily.", "hypothesis": "The stranger did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "The girl let the blinds down quickly.", "hypothesis": "The girl did not let the blinds down.", "label": "contradiction"}
+{"premise": "The doctor upset the boat sadly.", "hypothesis": "The doctor did not upset the boat.", "label": "contradiction"}
+{"premise": "The woman upset the boat slowly.", "hypothesis": "The woman did not upset the boat.", "label": "contradiction"}
+{"premise": "The doctor read the letter slowly.", "hypothesis": "The doctor did not read the letter.", "label": "contradiction"}
+{"premise": "The athlete shed tears angrily.", "hypothesis": "The athlete did not shed tears.", "label": "contradiction"}
+{"premise": "The student cast bronze into a statue anxiously.", "hypothesis": "The student did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "The woman cast bronze into a statue anxiously.", "hypothesis": "The woman did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "The teacher burst into the room slowly.", "hypothesis": "The teacher did not burst into the room.", "label": "contradiction"}
+{"premise": "The child upset the boat sadly.", "hypothesis": "The child did not upset the boat.", "label": "contradiction"}
+{"premise": "The worker split the log easily.", "hypothesis": "The worker did not split the log.", "label": "contradiction"}
+{"premise": "The athlete thrust the fork into the cake slowly.", "hypothesis": "The athlete did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "The singer hurt others slowly.", "hypothesis": "The singer did not hurt others.", "label": "contradiction"}
+{"premise": "The assistant spread the rumor slowly.", "hypothesis": "The assistant did not spread the rumor.", "label": "contradiction"}
+{"premise": "The singer read the letter sadly.", "hypothesis": "The singer did not read the letter.", "label": "contradiction"}
+{"premise": "The student shed tears angrily.", "hypothesis": "The student did not shed tears.", "label": "contradiction"}
+{"premise": "The teacher put the book on the shelf anxiously.", "hypothesis": "The teacher did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "The boy shed tears sadly.", "hypothesis": "The boy did not shed tears.", "label": "contradiction"}
+{"premise": "The director thrust the fork into the cake anxiously.", "hypothesis": "The director did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "The worker bet $100 on the race anxiously.", "hypothesis": "The worker did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "The professor split the log sadly.", "hypothesis": "The professor did not split the log.", "label": "contradiction"}
+{"premise": "The student read the letter anxiously.", "hypothesis": "The student did not read the letter.", "label": "contradiction"}
+{"premise": "The student set the dish on the table sadly.", "hypothesis": "The student did not set the dish on the table.", "label": "contradiction"}
+{"premise": "The worker shed tears angrily.", "hypothesis": "The worker did not shed tears.", "label": "contradiction"}
+{"premise": "The stranger let the blinds down sadly.", "hypothesis": "The stranger did not let the blinds down.", "label": "contradiction"}
+{"premise": "The worker set the dish on the table quickly.", "hypothesis": "The worker did not set the dish on the table.", "label": "contradiction"}
+{"premise": "The singer spread the rumor quickly.", "hypothesis": "The singer did not spread the rumor.", "label": "contradiction"}
+{"premise": "The dancer spread the rumor sadly.", "hypothesis": "The dancer did not spread the rumor.", "label": "contradiction"}
+{"premise": "The boy upset the boat anxiously.", "hypothesis": "The boy did not upset the boat.", "label": "contradiction"}
+{"premise": "The assistant slit the envelope slowly.", "hypothesis": "The assistant did not slit the envelope.", "label": "contradiction"}
+{"premise": "The kid shut the door anxiously.", "hypothesis": "The kid did not shut the door.", "label": "contradiction"}
+{"premise": "The student slit the envelope angrily.", "hypothesis": "The student did not slit the envelope.", "label": "contradiction"}

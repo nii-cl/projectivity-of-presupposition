@@ -1,0 +1,200 @@
+{"premise": "The professor did not shed tears more seriously than the athlete.", "hypothesis": "The professor shed tears.", "label": "entailment"}
+{"premise": "The worker did not thrust the fork into the cake better than the girl.", "hypothesis": "The worker thrust the fork into the cake.", "label": "entailment"}
+{"premise": "The woman did not spread the rumor better than the athlete.", "hypothesis": "The woman spread the rumor.", "label": "entailment"}
+{"premise": "The singer did not slit the envelope better than the manager.", "hypothesis": "The singer slit the envelope.", "label": "entailment"}
+{"premise": "The girl did not burst into the room better than the professor.", "hypothesis": "The girl burst into the room.", "label": "entailment"}
+{"premise": "The athlete did not thrust the fork into the cake worse than the man.", "hypothesis": "The athlete thrust the fork into the cake.", "label": "entailment"}
+{"premise": "The kid did not shut the door more seriously than the girl.", "hypothesis": "The kid shut the door.", "label": "entailment"}
+{"premise": "The woman did not shed tears earlier than the manager.", "hypothesis": "The woman shed tears.", "label": "entailment"}
+{"premise": "The dancer did not hit the ball with the bat earlier than the girl.", "hypothesis": "The dancer hit the ball with the bat.", "label": "entailment"}
+{"premise": "The teacher did not read the letter better than the director.", "hypothesis": "The teacher read the letter.", "label": "entailment"}
+{"premise": "The professor did not upset the boat worse than the woman.", "hypothesis": "The professor upset the boat.", "label": "entailment"}
+{"premise": "The child did not hit the ball with the bat better than the kid.", "hypothesis": "The child hit the ball with the bat.", "label": "entailment"}
+{"premise": "The dancer did not bet $100 on the race earlier than the doctor.", "hypothesis": "The dancer bet $100 on the race.", "label": "entailment"}
+{"premise": "The student did not put the book on the shelf better than the athlete.", "hypothesis": "The student put the book on the shelf.", "label": "entailment"}
+{"premise": "The athlete did not burst into the room better than the boy.", "hypothesis": "The athlete burst into the room.", "label": "entailment"}
+{"premise": "The manager did not hurt others worse than the singer.", "hypothesis": "The manager hurt others.", "label": "entailment"}
+{"premise": "The boy did not bet $100 on the race worse than the woman.", "hypothesis": "The boy bet $100 on the race.", "label": "entailment"}
+{"premise": "The child did not hurt others more seriously than the dancer.", "hypothesis": "The child hurt others.", "label": "entailment"}
+{"premise": "The kid did not burst into the room worse than the assistant.", "hypothesis": "The kid burst into the room.", "label": "entailment"}
+{"premise": "The dancer did not let the blinds down earlier than the teacher.", "hypothesis": "The dancer let the blinds down.", "label": "entailment"}
+{"premise": "The athlete did not set the dish on the table worse than the manager.", "hypothesis": "The athlete set the dish on the table.", "label": "entailment"}
+{"premise": "The kid did not set the dish on the table worse than the boy.", "hypothesis": "The kid set the dish on the table.", "label": "entailment"}
+{"premise": "The stranger did not cast bronze into a statue more seriously than the assistant.", "hypothesis": "The stranger cast bronze into a statue.", "label": "entailment"}
+{"premise": "The teacher did not shed tears better than the boy.", "hypothesis": "The teacher shed tears.", "label": "entailment"}
+{"premise": "The student did not slit the envelope better than the director.", "hypothesis": "The student slit the envelope.", "label": "entailment"}
+{"premise": "The student did not put the book on the shelf more seriously than the boy.", "hypothesis": "The student put the book on the shelf.", "label": "entailment"}
+{"premise": "The worker did not set the dish on the table worse than the girl.", "hypothesis": "The worker set the dish on the table.", "label": "entailment"}
+{"premise": "The boy did not set the dish on the table earlier than the stranger.", "hypothesis": "The boy set the dish on the table.", "label": "entailment"}
+{"premise": "The woman did not bet $100 on the race earlier than the student.", "hypothesis": "The woman bet $100 on the race.", "label": "entailment"}
+{"premise": "The student did not upset the boat earlier than the athlete.", "hypothesis": "The student upset the boat.", "label": "entailment"}
+{"premise": "The assistant did not hurt others more seriously than the athlete.", "hypothesis": "The assistant hurt others.", "label": "entailment"}
+{"premise": "The dancer did not slit the envelope more seriously than the director.", "hypothesis": "The dancer slit the envelope.", "label": "entailment"}
+{"premise": "The kid did not spread the rumor better than the student.", "hypothesis": "The kid spread the rumor.", "label": "entailment"}
+{"premise": "The manager did not thrust the fork into the cake earlier than the man.", "hypothesis": "The manager thrust the fork into the cake.", "label": "entailment"}
+{"premise": "The manager did not shed tears better than the man.", "hypothesis": "The manager shed tears.", "label": "entailment"}
+{"premise": "The worker did not let the blinds down better than the singer.", "hypothesis": "The worker let the blinds down.", "label": "entailment"}
+{"premise": "The girl did not set the dish on the table earlier than the professor.", "hypothesis": "The girl set the dish on the table.", "label": "entailment"}
+{"premise": "The kid did not hit the ball with the bat earlier than the dancer.", "hypothesis": "The kid hit the ball with the bat.", "label": "entailment"}
+{"premise": "The boy did not read the letter more seriously than the student.", "hypothesis": "The boy read the letter.", "label": "entailment"}
+{"premise": "The girl did not let the blinds down better than the woman.", "hypothesis": "The girl let the blinds down.", "label": "entailment"}
+{"premise": "The athlete did not burst into the room earlier than the man.", "hypothesis": "The athlete burst into the room.", "label": "entailment"}
+{"premise": "The singer did not put the book on the shelf earlier than the dancer.", "hypothesis": "The singer put the book on the shelf.", "label": "entailment"}
+{"premise": "The dancer did not hurt others more seriously than the worker.", "hypothesis": "The dancer hurt others.", "label": "entailment"}
+{"premise": "The girl did not split the log earlier than the singer.", "hypothesis": "The girl split the log.", "label": "entailment"}
+{"premise": "The woman did not bet $100 on the race more seriously than the boy.", "hypothesis": "The woman bet $100 on the race.", "label": "entailment"}
+{"premise": "The boy did not set the dish on the table worse than the worker.", "hypothesis": "The boy set the dish on the table.", "label": "entailment"}
+{"premise": "The teacher did not shed tears worse than the singer.", "hypothesis": "The teacher shed tears.", "label": "entailment"}
+{"premise": "The kid did not put the book on the shelf better than the woman.", "hypothesis": "The kid put the book on the shelf.", "label": "entailment"}
+{"premise": "The doctor did not hurt others earlier than the boy.", "hypothesis": "The doctor hurt others.", "label": "entailment"}
+{"premise": "The director did not split the log worse than the child.", "hypothesis": "The director split the log.", "label": "entailment"}
+{"premise": "The assistant did not spread the rumor better than the man.", "hypothesis": "The assistant spread the rumor.", "label": "entailment"}
+{"premise": "The student did not hit the ball with the bat earlier than the kid.", "hypothesis": "The student hit the ball with the bat.", "label": "entailment"}
+{"premise": "The manager did not shed tears earlier than the student.", "hypothesis": "The manager shed tears.", "label": "entailment"}
+{"premise": "The boy did not cast bronze into a statue more seriously than the stranger.", "hypothesis": "The boy cast bronze into a statue.", "label": "entailment"}
+{"premise": "The teacher did not hit the ball with the bat earlier than the athlete.", "hypothesis": "The teacher hit the ball with the bat.", "label": "entailment"}
+{"premise": "The man did not thrust the fork into the cake worse than the doctor.", "hypothesis": "The man thrust the fork into the cake.", "label": "entailment"}
+{"premise": "The assistant did not split the log more seriously than the child.", "hypothesis": "The assistant split the log.", "label": "entailment"}
+{"premise": "The director did not burst into the room better than the man.", "hypothesis": "The director burst into the room.", "label": "entailment"}
+{"premise": "The singer did not read the letter better than the boy.", "hypothesis": "The singer read the letter.", "label": "entailment"}
+{"premise": "The man did not split the log earlier than the athlete.", "hypothesis": "The man split the log.", "label": "entailment"}
+{"premise": "The singer did not cast bronze into a statue earlier than the man.", "hypothesis": "The singer cast bronze into a statue.", "label": "entailment"}
+{"premise": "The athlete did not cast bronze into a statue worse than the director.", "hypothesis": "The athlete cast bronze into a statue.", "label": "entailment"}
+{"premise": "The professor did not hurt others earlier than the stranger.", "hypothesis": "The professor hurt others.", "label": "entailment"}
+{"premise": "The worker did not burst into the room earlier than the man.", "hypothesis": "The worker burst into the room.", "label": "entailment"}
+{"premise": "The girl did not set the dish on the table worse than the director.", "hypothesis": "The girl set the dish on the table.", "label": "entailment"}
+{"premise": "The teacher did not spread the rumor better than the director.", "hypothesis": "The teacher spread the rumor.", "label": "entailment"}
+{"premise": "The stranger did not shut the door more seriously than the manager.", "hypothesis": "The stranger shut the door.", "label": "entailment"}
+{"premise": "The kid did not hit the ball with the bat more seriously than the stranger.", "hypothesis": "The kid hit the ball with the bat.", "label": "entailment"}
+{"premise": "The worker did not burst into the room more seriously than the athlete.", "hypothesis": "The worker burst into the room.", "label": "entailment"}
+{"premise": "The dancer did not bet $100 on the race better than the worker.", "hypothesis": "The dancer bet $100 on the race.", "label": "entailment"}
+{"premise": "The director did not burst into the room earlier than the boy.", "hypothesis": "The director burst into the room.", "label": "entailment"}
+{"premise": "The assistant did not put the book on the shelf better than the girl.", "hypothesis": "The assistant put the book on the shelf.", "label": "entailment"}
+{"premise": "The boy did not thrust the fork into the cake more seriously than the stranger.", "hypothesis": "The boy thrust the fork into the cake.", "label": "entailment"}
+{"premise": "The manager did not hurt others more seriously than the boy.", "hypothesis": "The manager hurt others.", "label": "entailment"}
+{"premise": "The man did not split the log better than the assistant.", "hypothesis": "The man split the log.", "label": "entailment"}
+{"premise": "The child did not burst into the room better than the woman.", "hypothesis": "The child burst into the room.", "label": "entailment"}
+{"premise": "The doctor did not set the dish on the table earlier than the director.", "hypothesis": "The doctor set the dish on the table.", "label": "entailment"}
+{"premise": "The singer did not shut the door worse than the worker.", "hypothesis": "The singer shut the door.", "label": "entailment"}
+{"premise": "The boy did not put the book on the shelf earlier than the teacher.", "hypothesis": "The boy put the book on the shelf.", "label": "entailment"}
+{"premise": "The girl did not hurt others earlier than the kid.", "hypothesis": "The girl hurt others.", "label": "entailment"}
+{"premise": "The athlete did not upset the boat better than the professor.", "hypothesis": "The athlete upset the boat.", "label": "entailment"}
+{"premise": "The worker did not cast bronze into a statue worse than the athlete.", "hypothesis": "The worker cast bronze into a statue.", "label": "entailment"}
+{"premise": "The athlete did not set the dish on the table worse than the girl.", "hypothesis": "The athlete set the dish on the table.", "label": "entailment"}
+{"premise": "The student did not shed tears earlier than the kid.", "hypothesis": "The student shed tears.", "label": "entailment"}
+{"premise": "The singer did not read the letter earlier than the teacher.", "hypothesis": "The singer read the letter.", "label": "entailment"}
+{"premise": "The singer did not put the book on the shelf more seriously than the doctor.", "hypothesis": "The singer put the book on the shelf.", "label": "entailment"}
+{"premise": "The dancer did not thrust the fork into the cake worse than the stranger.", "hypothesis": "The dancer thrust the fork into the cake.", "label": "entailment"}
+{"premise": "The stranger did not hit the ball with the bat more seriously than the professor.", "hypothesis": "The stranger hit the ball with the bat.", "label": "entailment"}
+{"premise": "The girl did not set the dish on the table earlier than the kid.", "hypothesis": "The girl set the dish on the table.", "label": "entailment"}
+{"premise": "The man did not hurt others earlier than the assistant.", "hypothesis": "The man hurt others.", "label": "entailment"}
+{"premise": "The director did not let the blinds down worse than the boy.", "hypothesis": "The director let the blinds down.", "label": "entailment"}
+{"premise": "The stranger did not hit the ball with the bat more seriously than the singer.", "hypothesis": "The stranger hit the ball with the bat.", "label": "entailment"}
+{"premise": "The teacher did not hurt others worse than the man.", "hypothesis": "The teacher hurt others.", "label": "entailment"}
+{"premise": "The boy did not put the book on the shelf better than the professor.", "hypothesis": "The boy put the book on the shelf.", "label": "entailment"}
+{"premise": "The kid did not shed tears earlier than the student.", "hypothesis": "The kid shed tears.", "label": "entailment"}
+{"premise": "The child did not slit the envelope worse than the director.", "hypothesis": "The child slit the envelope.", "label": "entailment"}
+{"premise": "The worker did not cast bronze into a statue earlier than the professor.", "hypothesis": "The worker cast bronze into a statue.", "label": "entailment"}
+{"premise": "The student did not spread the rumor more seriously than the woman.", "hypothesis": "The student spread the rumor.", "label": "entailment"}
+{"premise": "The stranger did not shed tears worse than the man.", "hypothesis": "The stranger shed tears.", "label": "entailment"}
+{"premise": "The stranger did not split the log worse than the singer.", "hypothesis": "The stranger split the log.", "label": "entailment"}
+{"premise": "The assistant did not cast bronze into a statue earlier than the manager.", "hypothesis": "The assistant did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "The assistant did not hurt others better than the student.", "hypothesis": "The assistant did not hurt others.", "label": "contradiction"}
+{"premise": "The professor did not read the letter worse than the teacher.", "hypothesis": "The professor did not read the letter.", "label": "contradiction"}
+{"premise": "The boy did not split the log worse than the teacher.", "hypothesis": "The boy did not split the log.", "label": "contradiction"}
+{"premise": "The boy did not put the book on the shelf worse than the woman.", "hypothesis": "The boy did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "The child did not bet $100 on the race better than the worker.", "hypothesis": "The child did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "The teacher did not split the log earlier than the dancer.", "hypothesis": "The teacher did not split the log.", "label": "contradiction"}
+{"premise": "The kid did not let the blinds down earlier than the assistant.", "hypothesis": "The kid did not let the blinds down.", "label": "contradiction"}
+{"premise": "The doctor did not read the letter more seriously than the stranger.", "hypothesis": "The doctor did not read the letter.", "label": "contradiction"}
+{"premise": "The girl did not hit the ball with the bat earlier than the worker.", "hypothesis": "The girl did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "The dancer did not shed tears more seriously than the teacher.", "hypothesis": "The dancer did not shed tears.", "label": "contradiction"}
+{"premise": "The worker did not hurt others worse than the child.", "hypothesis": "The worker did not hurt others.", "label": "contradiction"}
+{"premise": "The worker did not read the letter more seriously than the teacher.", "hypothesis": "The worker did not read the letter.", "label": "contradiction"}
+{"premise": "The boy did not let the blinds down more seriously than the teacher.", "hypothesis": "The boy did not let the blinds down.", "label": "contradiction"}
+{"premise": "The kid did not set the dish on the table worse than the dancer.", "hypothesis": "The kid did not set the dish on the table.", "label": "contradiction"}
+{"premise": "The worker did not upset the boat more seriously than the teacher.", "hypothesis": "The worker did not upset the boat.", "label": "contradiction"}
+{"premise": "The boy did not let the blinds down earlier than the singer.", "hypothesis": "The boy did not let the blinds down.", "label": "contradiction"}
+{"premise": "The singer did not upset the boat earlier than the child.", "hypothesis": "The singer did not upset the boat.", "label": "contradiction"}
+{"premise": "The singer did not hurt others more seriously than the assistant.", "hypothesis": "The singer did not hurt others.", "label": "contradiction"}
+{"premise": "The assistant did not upset the boat better than the woman.", "hypothesis": "The assistant did not upset the boat.", "label": "contradiction"}
+{"premise": "The worker did not put the book on the shelf worse than the director.", "hypothesis": "The worker did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "The doctor did not shut the door more seriously than the boy.", "hypothesis": "The doctor did not shut the door.", "label": "contradiction"}
+{"premise": "The stranger did not cast bronze into a statue better than the student.", "hypothesis": "The stranger did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "The child did not cast bronze into a statue better than the assistant.", "hypothesis": "The child did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "The teacher did not upset the boat better than the worker.", "hypothesis": "The teacher did not upset the boat.", "label": "contradiction"}
+{"premise": "The doctor did not split the log more seriously than the kid.", "hypothesis": "The doctor did not split the log.", "label": "contradiction"}
+{"premise": "The child did not hurt others earlier than the girl.", "hypothesis": "The child did not hurt others.", "label": "contradiction"}
+{"premise": "The athlete did not let the blinds down earlier than the teacher.", "hypothesis": "The athlete did not let the blinds down.", "label": "contradiction"}
+{"premise": "The singer did not shut the door worse than the manager.", "hypothesis": "The singer did not shut the door.", "label": "contradiction"}
+{"premise": "The child did not put the book on the shelf better than the manager.", "hypothesis": "The child did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "The boy did not burst into the room worse than the singer.", "hypothesis": "The boy did not burst into the room.", "label": "contradiction"}
+{"premise": "The manager did not shed tears earlier than the singer.", "hypothesis": "The manager did not shed tears.", "label": "contradiction"}
+{"premise": "The singer did not cast bronze into a statue worse than the teacher.", "hypothesis": "The singer did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "The kid did not upset the boat better than the boy.", "hypothesis": "The kid did not upset the boat.", "label": "contradiction"}
+{"premise": "The girl did not spread the rumor more seriously than the worker.", "hypothesis": "The girl did not spread the rumor.", "label": "contradiction"}
+{"premise": "The professor did not thrust the fork into the cake better than the doctor.", "hypothesis": "The professor did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "The singer did not put the book on the shelf earlier than the student.", "hypothesis": "The singer did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "The manager did not hurt others more seriously than the kid.", "hypothesis": "The manager did not hurt others.", "label": "contradiction"}
+{"premise": "The dancer did not spread the rumor worse than the woman.", "hypothesis": "The dancer did not spread the rumor.", "label": "contradiction"}
+{"premise": "The girl did not bet $100 on the race more seriously than the worker.", "hypothesis": "The girl did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "The kid did not shut the door earlier than the child.", "hypothesis": "The kid did not shut the door.", "label": "contradiction"}
+{"premise": "The girl did not upset the boat worse than the assistant.", "hypothesis": "The girl did not upset the boat.", "label": "contradiction"}
+{"premise": "The man did not shed tears better than the assistant.", "hypothesis": "The man did not shed tears.", "label": "contradiction"}
+{"premise": "The woman did not put the book on the shelf better than the singer.", "hypothesis": "The woman did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "The assistant did not thrust the fork into the cake more seriously than the girl.", "hypothesis": "The assistant did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "The kid did not hurt others earlier than the assistant.", "hypothesis": "The kid did not hurt others.", "label": "contradiction"}
+{"premise": "The doctor did not shut the door earlier than the stranger.", "hypothesis": "The doctor did not shut the door.", "label": "contradiction"}
+{"premise": "The manager did not split the log earlier than the doctor.", "hypothesis": "The manager did not split the log.", "label": "contradiction"}
+{"premise": "The teacher did not upset the boat better than the athlete.", "hypothesis": "The teacher did not upset the boat.", "label": "contradiction"}
+{"premise": "The child did not cast bronze into a statue earlier than the manager.", "hypothesis": "The child did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "The manager did not bet $100 on the race earlier than the director.", "hypothesis": "The manager did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "The kid did not let the blinds down worse than the singer.", "hypothesis": "The kid did not let the blinds down.", "label": "contradiction"}
+{"premise": "The director did not thrust the fork into the cake worse than the man.", "hypothesis": "The director did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "The athlete did not put the book on the shelf better than the director.", "hypothesis": "The athlete did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "The child did not cast bronze into a statue earlier than the manager.", "hypothesis": "The child did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "The manager did not upset the boat earlier than the worker.", "hypothesis": "The manager did not upset the boat.", "label": "contradiction"}
+{"premise": "The singer did not hurt others earlier than the director.", "hypothesis": "The singer did not hurt others.", "label": "contradiction"}
+{"premise": "The worker did not set the dish on the table more seriously than the stranger.", "hypothesis": "The worker did not set the dish on the table.", "label": "contradiction"}
+{"premise": "The boy did not put the book on the shelf more seriously than the athlete.", "hypothesis": "The boy did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "The boy did not hurt others better than the teacher.", "hypothesis": "The boy did not hurt others.", "label": "contradiction"}
+{"premise": "The assistant did not burst into the room worse than the boy.", "hypothesis": "The assistant did not burst into the room.", "label": "contradiction"}
+{"premise": "The worker did not burst into the room worse than the teacher.", "hypothesis": "The worker did not burst into the room.", "label": "contradiction"}
+{"premise": "The assistant did not spread the rumor more seriously than the woman.", "hypothesis": "The assistant did not spread the rumor.", "label": "contradiction"}
+{"premise": "The manager did not slit the envelope earlier than the dancer.", "hypothesis": "The manager did not slit the envelope.", "label": "contradiction"}
+{"premise": "The student did not burst into the room earlier than the manager.", "hypothesis": "The student did not burst into the room.", "label": "contradiction"}
+{"premise": "The kid did not hit the ball with the bat better than the teacher.", "hypothesis": "The kid did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "The student did not put the book on the shelf more seriously than the woman.", "hypothesis": "The student did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "The woman did not thrust the fork into the cake worse than the girl.", "hypothesis": "The woman did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "The boy did not shed tears more seriously than the director.", "hypothesis": "The boy did not shed tears.", "label": "contradiction"}
+{"premise": "The director did not slit the envelope earlier than the woman.", "hypothesis": "The director did not slit the envelope.", "label": "contradiction"}
+{"premise": "The athlete did not hit the ball with the bat more seriously than the child.", "hypothesis": "The athlete did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "The boy did not thrust the fork into the cake earlier than the girl.", "hypothesis": "The boy did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "The assistant did not slit the envelope worse than the boy.", "hypothesis": "The assistant did not slit the envelope.", "label": "contradiction"}
+{"premise": "The man did not let the blinds down earlier than the worker.", "hypothesis": "The man did not let the blinds down.", "label": "contradiction"}
+{"premise": "The kid did not shed tears earlier than the athlete.", "hypothesis": "The kid did not shed tears.", "label": "contradiction"}
+{"premise": "The girl did not cast bronze into a statue earlier than the student.", "hypothesis": "The girl did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "The teacher did not burst into the room better than the director.", "hypothesis": "The teacher did not burst into the room.", "label": "contradiction"}
+{"premise": "The child did not upset the boat worse than the student.", "hypothesis": "The child did not upset the boat.", "label": "contradiction"}
+{"premise": "The stranger did not set the dish on the table earlier than the student.", "hypothesis": "The stranger did not set the dish on the table.", "label": "contradiction"}
+{"premise": "The woman did not thrust the fork into the cake worse than the stranger.", "hypothesis": "The woman did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "The singer did not upset the boat worse than the boy.", "hypothesis": "The singer did not upset the boat.", "label": "contradiction"}
+{"premise": "The woman did not slit the envelope worse than the director.", "hypothesis": "The woman did not slit the envelope.", "label": "contradiction"}
+{"premise": "The director did not bet $100 on the race worse than the girl.", "hypothesis": "The director did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "The manager did not thrust the fork into the cake better than the singer.", "hypothesis": "The manager did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "The dancer did not hurt others worse than the boy.", "hypothesis": "The dancer did not hurt others.", "label": "contradiction"}
+{"premise": "The assistant did not thrust the fork into the cake better than the boy.", "hypothesis": "The assistant did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "The woman did not shed tears more seriously than the assistant.", "hypothesis": "The woman did not shed tears.", "label": "contradiction"}
+{"premise": "The child did not read the letter more seriously than the girl.", "hypothesis": "The child did not read the letter.", "label": "contradiction"}
+{"premise": "The student did not hurt others worse than the manager.", "hypothesis": "The student did not hurt others.", "label": "contradiction"}
+{"premise": "The kid did not put the book on the shelf earlier than the boy.", "hypothesis": "The kid did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "The manager did not slit the envelope worse than the teacher.", "hypothesis": "The manager did not slit the envelope.", "label": "contradiction"}
+{"premise": "The singer did not upset the boat earlier than the manager.", "hypothesis": "The singer did not upset the boat.", "label": "contradiction"}
+{"premise": "The manager did not cast bronze into a statue better than the athlete.", "hypothesis": "The manager did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "The woman did not burst into the room worse than the teacher.", "hypothesis": "The woman did not burst into the room.", "label": "contradiction"}
+{"premise": "The kid did not bet $100 on the race worse than the student.", "hypothesis": "The kid did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "The stranger did not thrust the fork into the cake worse than the student.", "hypothesis": "The stranger did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "The athlete did not shut the door earlier than the kid.", "hypothesis": "The athlete did not shut the door.", "label": "contradiction"}
+{"premise": "The boy did not split the log more seriously than the woman.", "hypothesis": "The boy did not split the log.", "label": "contradiction"}
+{"premise": "The kid did not shut the door worse than the director.", "hypothesis": "The kid did not shut the door.", "label": "contradiction"}
+{"premise": "The man did not put the book on the shelf worse than the worker.", "hypothesis": "The man did not put the book on the shelf.", "label": "contradiction"}

@@ -1,0 +1,201 @@
+	sentence1	sentence2	label	heuristics	example1	example2	split
+200	Did the boy set the dish on the table calmly?	 The boy set the dish on the table.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+201	Did the student upset the boat anxiously?	 The student upset the boat.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+202	Did the teacher shed tears quickly?	 The teacher shed tears.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+203	Did the stranger set the dish on the table slowly?	 The stranger set the dish on the table.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+204	Did the stranger upset the boat slowly?	 The stranger upset the boat.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+205	Did the athlete shut the door slowly?	 The athlete shut the door.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+206	Did the athlete read the letter happily?	 The athlete read the letter.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+207	Did the student slit the envelope anxiously?	 The student slit the envelope.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+208	Did the kid put the book on the shelf slowly?	 The kid put the book on the shelf.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+209	Did the manager bet $100 on the race easily?	 The manager bet $100 on the race.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+210	Did the boy set the dish on the table sadly?	 The boy set the dish on the table.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+211	Did the assistant slit the envelope quickly?	 The assistant slit the envelope.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+212	Did the manager slit the envelope calmly?	 The manager slit the envelope.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+213	Did the director bet $100 on the race angrily?	 The director bet $100 on the race.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+214	Did the kid shed tears slowly?	 The kid shed tears.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+215	Did the kid read the letter sadly?	 The kid read the letter.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+216	Did the athlete spread the rumor quickly?	 The athlete spread the rumor.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+217	Did the worker cast bronze into a statue happily?	 The worker cast bronze into a statue.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+218	Did the girl shut the door quickly?	 The girl shut the door.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+219	Did the teacher put the book on the shelf slowly?	 The teacher put the book on the shelf.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+220	Did the teacher burst into the room easily?	 The teacher burst into the room.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+221	Did the athlete upset the boat anxiously?	 The athlete upset the boat.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+222	Did the man read the letter anxiously?	 The man read the letter.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+223	Did the director split the log happily?	 The director split the log.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+224	Did the worker thrust the fork into the cake easily?	 The worker thrust the fork into the cake.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	test
+225	Did the boy shed tears easily?	 The boy shed tears.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+226	Did the manager shed tears quietly?	 The manager shed tears.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+227	Did the doctor slit the envelope slowly?	 The doctor slit the envelope.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+228	Did the doctor cast bronze into a statue sadly?	 The doctor cast bronze into a statue.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+229	Did the man split the log easily?	 The man split the log.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+230	Did the director let the blinds down calmly?	 The director let the blinds down.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+231	Did the child spread the rumor calmly?	 The child spread the rumor.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+232	Did the director burst into the room calmly?	 The director burst into the room.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+233	Did the athlete slit the envelope happily?	 The athlete slit the envelope.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	test
+234	Did the doctor hit the ball with the bat angrily?	 The doctor hit the ball with the bat.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+235	Did the stranger upset the boat sadly?	 The stranger upset the boat.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+236	Did the boy hurt others anxiously?	 The boy hurt others.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+237	Did the professor cast bronze into a statue anxiously?	 The professor cast bronze into a statue.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+238	Did the stranger slit the envelope anxiously?	 The stranger slit the envelope.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+239	Did the singer put the book on the shelf easily?	 The singer put the book on the shelf.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+240	Did the boy cast bronze into a statue sadly?	 The boy cast bronze into a statue.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+241	Did the boy set the dish on the table quietly?	 The boy set the dish on the table.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+242	Did the student upset the boat sadly?	 The student upset the boat.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+243	Did the woman upset the boat easily?	 The woman upset the boat.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+244	Did the doctor thrust the fork into the cake easily?	 The doctor thrust the fork into the cake.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+245	Did the woman put the book on the shelf easily?	 The woman put the book on the shelf.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+246	Did the stranger shed tears anxiously?	 The stranger shed tears.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+247	Did the manager spread the rumor slowly?	 The manager spread the rumor.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+248	Did the teacher upset the boat angrily?	 The teacher upset the boat.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+249	Did the manager split the log anxiously?	 The manager split the log.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+250	Did the assistant thrust the fork into the cake quietly?	 The assistant thrust the fork into the cake.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+251	Did the assistant cast bronze into a statue easily?	 The assistant cast bronze into a statue.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	test
+252	Did the boy thrust the fork into the cake angrily?	 The boy thrust the fork into the cake.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+253	Did the girl split the log slowly?	 The girl split the log.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+254	Did the child hurt others anxiously?	 The child hurt others.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+255	Did the woman hurt others calmly?	 The woman hurt others.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+256	Did the professor put the book on the shelf angrily?	 The professor put the book on the shelf.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+257	Did the student hit the ball with the bat angrily?	 The student hit the ball with the bat.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+258	Did the manager read the letter quickly?	 The manager read the letter.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+259	Did the student set the dish on the table easily?	 The student set the dish on the table.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+260	Did the dancer set the dish on the table happily?	 The dancer set the dish on the table.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+261	Did the worker thrust the fork into the cake anxiously?	 The worker thrust the fork into the cake.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+262	Did the boy read the letter easily?	 The boy read the letter.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+263	Did the stranger hit the ball with the bat anxiously?	 The stranger hit the ball with the bat.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+264	Did the man cast bronze into a statue slowly?	 The man cast bronze into a statue.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+265	Did the assistant hurt others quietly?	 The assistant hurt others.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+266	Did the director shed tears quietly?	 The director shed tears.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	test
+267	Did the man let the blinds down sadly?	 The man let the blinds down.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+268	Did the athlete slit the envelope calmly?	 The athlete slit the envelope.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+269	Did the assistant read the letter slowly?	 The assistant read the letter.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+270	Did the man set the dish on the table easily?	 The man set the dish on the table.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+271	Did the stranger shed tears sadly?	 The stranger shed tears.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+272	Did the girl split the log sadly?	 The girl split the log.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+273	Did the doctor shut the door quickly?	 The doctor shut the door.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	test
+274	Did the athlete hurt others slowly?	 The athlete hurt others.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+275	Did the child shut the door easily?	 The child shut the door.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+276	Did the stranger hurt others happily?	 The stranger hurt others.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+277	Did the child cast bronze into a statue quietly?	 The child cast bronze into a statue.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+278	Did the manager slit the envelope happily?	 The manager slit the envelope.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+279	Did the boy cast bronze into a statue angrily?	 The boy cast bronze into a statue.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+280	Did the man shut the door calmly?	 The man shut the door.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+281	Did the girl shut the door sadly?	 The girl shut the door.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+282	Did the student upset the boat happily?	 The student upset the boat.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+283	Did the professor cast bronze into a statue anxiously?	 The professor cast bronze into a statue.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+284	Did the boy shed tears happily?	 The boy shed tears.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+285	Did the athlete split the log anxiously?	 The athlete split the log.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+286	Did the man shut the door easily?	 The man shut the door.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+287	Did the child slit the envelope easily?	 The child slit the envelope.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+288	Did the singer cast bronze into a statue anxiously?	 The singer cast bronze into a statue.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+289	Did the manager upset the boat quickly?	 The manager upset the boat.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+290	Did the boy cast bronze into a statue anxiously?	 The boy cast bronze into a statue.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+291	Did the manager thrust the fork into the cake anxiously?	 The manager thrust the fork into the cake.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+292	Did the director read the letter angrily?	 The director read the letter.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+293	Did the professor thrust the fork into the cake sadly?	 The professor thrust the fork into the cake.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+294	Did the man hit the ball with the bat easily?	 The man hit the ball with the bat.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+295	Did the assistant shut the door angrily?	 The assistant shut the door.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+296	Did the worker upset the boat quietly?	 The worker upset the boat.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+297	Did the child put the book on the shelf calmly?	 The child put the book on the shelf.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+298	Did the doctor slit the envelope happily?	 The doctor slit the envelope.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+299	Did the singer spread the rumor slowly?	 The singer spread the rumor.	entailment	 -	 Did the doctor cut the tree slowly?	 The doctor cut the tree.	train
+300	Did the singer read the letter sadly?	 The singer did not read the letter.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+301	Did the stranger burst into the room angrily?	 The stranger did not burst into the room.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+302	Did the dancer shed tears calmly?	 The dancer did not shed tears.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+303	Did the man put the book on the shelf sadly?	 The man did not put the book on the shelf.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+304	Did the woman cast bronze into a statue quickly?	 The woman did not cast bronze into a statue.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+305	Did the kid shut the door easily?	 The kid did not shut the door.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+306	Did the professor slit the envelope slowly?	 The professor did not slit the envelope.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+307	Did the director cast bronze into a statue anxiously?	 The director did not cast bronze into a statue.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+308	Did the kid hurt others easily?	 The kid did not hurt others.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+309	Did the assistant hurt others anxiously?	 The assistant did not hurt others.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+310	Did the worker shut the door easily?	 The worker did not shut the door.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+311	Did the worker let the blinds down anxiously?	 The worker did not let the blinds down.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+312	Did the boy slit the envelope easily?	 The boy did not slit the envelope.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+313	Did the stranger shed tears quickly?	 The stranger did not shed tears.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+314	Did the child burst into the room anxiously?	 The child did not burst into the room.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+315	Did the worker split the log sadly?	 The worker did not split the log.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+316	Did the director shed tears happily?	 The director did not shed tears.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	test
+317	Did the director split the log anxiously?	 The director did not split the log.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+318	Did the dancer thrust the fork into the cake sadly?	 The dancer did not thrust the fork into the cake.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+319	Did the professor upset the boat quickly?	 The professor did not upset the boat.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+320	Did the doctor slit the envelope angrily?	 The doctor did not slit the envelope.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+321	Did the assistant cast bronze into a statue anxiously?	 The assistant did not cast bronze into a statue.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+322	Did the boy hurt others quietly?	 The boy did not hurt others.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+323	Did the man put the book on the shelf happily?	 The man did not put the book on the shelf.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+324	Did the worker thrust the fork into the cake quietly?	 The worker did not thrust the fork into the cake.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+325	Did the manager cast bronze into a statue calmly?	 The manager did not cast bronze into a statue.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+326	Did the kid shed tears happily?	 The kid did not shed tears.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+327	Did the student shed tears happily?	 The student did not shed tears.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+328	Did the girl put the book on the shelf slowly?	 The girl did not put the book on the shelf.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+329	Did the director shed tears calmly?	 The director did not shed tears.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+330	Did the assistant bet $100 on the race anxiously?	 The assistant did not bet $100 on the race.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+331	Did the boy upset the boat calmly?	 The boy did not upset the boat.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+332	Did the professor slit the envelope quietly?	 The professor did not slit the envelope.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+333	Did the child shed tears easily?	 The child did not shed tears.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+334	Did the teacher bet $100 on the race anxiously?	 The teacher did not bet $100 on the race.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+335	Did the doctor split the log quickly?	 The doctor did not split the log.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+336	Did the student read the letter angrily?	 The student did not read the letter.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+337	Did the boy shed tears quietly?	 The boy did not shed tears.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+338	Did the stranger let the blinds down slowly?	 The stranger did not let the blinds down.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+339	Did the athlete let the blinds down anxiously?	 The athlete did not let the blinds down.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+340	Did the professor slit the envelope sadly?	 The professor did not slit the envelope.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	test
+341	Did the manager hit the ball with the bat anxiously?	 The manager did not hit the ball with the bat.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+342	Did the stranger burst into the room quickly?	 The stranger did not burst into the room.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+343	Did the kid spread the rumor calmly?	 The kid did not spread the rumor.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+344	Did the athlete shut the door angrily?	 The athlete did not shut the door.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+345	Did the teacher set the dish on the table quietly?	 The teacher did not set the dish on the table.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+346	Did the professor shut the door happily?	 The professor did not shut the door.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+347	Did the manager burst into the room quietly?	 The manager did not burst into the room.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+348	Did the man cast bronze into a statue slowly?	 The man did not cast bronze into a statue.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+349	Did the manager cast bronze into a statue angrily?	 The manager did not cast bronze into a statue.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+350	Did the woman shut the door quietly?	 The woman did not shut the door.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	test
+351	Did the boy shut the door calmly?	 The boy did not shut the door.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+352	Did the boy read the letter sadly?	 The boy did not read the letter.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+353	Did the student bet $100 on the race angrily?	 The student did not bet $100 on the race.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+354	Did the director shut the door angrily?	 The director did not shut the door.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+355	Did the kid put the book on the shelf easily?	 The kid did not put the book on the shelf.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+356	Did the girl shed tears calmly?	 The girl did not shed tears.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+357	Did the singer slit the envelope slowly?	 The singer did not slit the envelope.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+358	Did the woman upset the boat calmly?	 The woman did not upset the boat.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+359	Did the director hurt others calmly?	 The director did not hurt others.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+360	Did the athlete let the blinds down happily?	 The athlete did not let the blinds down.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+361	Did the professor bet $100 on the race happily?	 The professor did not bet $100 on the race.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+362	Did the kid cast bronze into a statue quickly?	 The kid did not cast bronze into a statue.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+363	Did the doctor hurt others happily?	 The doctor did not hurt others.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+364	Did the singer let the blinds down calmly?	 The singer did not let the blinds down.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+365	Did the singer put the book on the shelf calmly?	 The singer did not put the book on the shelf.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+366	Did the kid shed tears calmly?	 The kid did not shed tears.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+367	Did the kid cast bronze into a statue quietly?	 The kid did not cast bronze into a statue.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+368	Did the manager hit the ball with the bat calmly?	 The manager did not hit the ball with the bat.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+369	Did the doctor let the blinds down slowly?	 The doctor did not let the blinds down.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+370	Did the singer hurt others sadly?	 The singer did not hurt others.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+371	Did the man bet $100 on the race angrily?	 The man did not bet $100 on the race.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+372	Did the director read the letter sadly?	 The director did not read the letter.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+373	Did the professor set the dish on the table sadly?	 The professor did not set the dish on the table.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+374	Did the singer set the dish on the table quietly?	 The singer did not set the dish on the table.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+375	Did the doctor cast bronze into a statue quickly?	 The doctor did not cast bronze into a statue.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+376	Did the singer burst into the room slowly?	 The singer did not burst into the room.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+377	Did the girl let the blinds down calmly?	 The girl did not let the blinds down.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+378	Did the woman read the letter anxiously?	 The woman did not read the letter.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+379	Did the athlete spread the rumor calmly?	 The athlete did not spread the rumor.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+380	Did the student set the dish on the table sadly?	 The student did not set the dish on the table.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+381	Did the professor let the blinds down calmly?	 The professor did not let the blinds down.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+382	Did the woman slit the envelope sadly?	 The woman did not slit the envelope.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+383	Did the teacher slit the envelope anxiously?	 The teacher did not slit the envelope.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+384	Did the girl shut the door easily?	 The girl did not shut the door.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	test
+385	Did the kid shut the door anxiously?	 The kid did not shut the door.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+386	Did the child set the dish on the table easily?	 The child did not set the dish on the table.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+387	Did the professor split the log easily?	 The professor did not split the log.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	test
+388	Did the worker slit the envelope quickly?	 The worker did not slit the envelope.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+389	Did the boy cast bronze into a statue calmly?	 The boy did not cast bronze into a statue.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+390	Did the student split the log happily?	 The student did not split the log.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+391	Did the girl read the letter easily?	 The girl did not read the letter.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+392	Did the stranger bet $100 on the race anxiously?	 The stranger did not bet $100 on the race.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+393	Did the doctor upset the boat easily?	 The doctor did not upset the boat.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+394	Did the man burst into the room sadly?	 The man did not burst into the room.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+395	Did the woman spread the rumor angrily?	 The woman did not spread the rumor.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+396	Did the worker split the log happily?	 The worker did not split the log.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+397	Did the assistant let the blinds down sadly?	 The assistant did not let the blinds down.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+398	Did the man hurt others happily?	 The man did not hurt others.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train
+399	Did the singer spread the rumor calmly?	 The singer did not spread the rumor.	contradiction	 -	 Did the doctor cut the tree slowly?	 The doctor did not cut the tree.	train

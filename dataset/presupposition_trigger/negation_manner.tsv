@@ -1,0 +1,201 @@
+	sentence1	sentence2	label	heuristics	example1	example2	split
+200	The dancer did not spread the rumor sadly.	 The dancer spread the rumor.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+201	The kid did not bet $100 on the race quickly.	 The kid bet $100 on the race.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+202	The singer did not read the letter quietly.	 The singer read the letter.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+203	The woman did not put the book on the shelf happily.	 The woman put the book on the shelf.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+204	The professor did not set the dish on the table quietly.	 The professor set the dish on the table.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+205	The student did not spread the rumor happily.	 The student spread the rumor.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	test
+206	The athlete did not slit the envelope calmly.	 The athlete slit the envelope.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+207	The boy did not let the blinds down sadly.	 The boy let the blinds down.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+208	The athlete did not slit the envelope easily.	 The athlete slit the envelope.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+209	The child did not thrust the fork into the cake easily.	 The child thrust the fork into the cake.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+210	The manager did not put the book on the shelf sadly.	 The manager put the book on the shelf.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+211	The director did not spread the rumor calmly.	 The director spread the rumor.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+212	The girl did not shed tears quietly.	 The girl shed tears.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+213	The professor did not cast bronze into a statue angrily.	 The professor cast bronze into a statue.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+214	The professor did not hurt others anxiously.	 The professor hurt others.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+215	The dancer did not burst into the room slowly.	 The dancer burst into the room.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+216	The manager did not split the log quietly.	 The manager split the log.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+217	The teacher did not cast bronze into a statue slowly.	 The teacher cast bronze into a statue.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+218	The kid did not thrust the fork into the cake slowly.	 The kid thrust the fork into the cake.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+219	The teacher did not split the log calmly.	 The teacher split the log.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+220	The singer did not let the blinds down easily.	 The singer let the blinds down.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+221	The child did not put the book on the shelf easily.	 The child put the book on the shelf.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+222	The professor did not split the log angrily.	 The professor split the log.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+223	The girl did not thrust the fork into the cake calmly.	 The girl thrust the fork into the cake.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+224	The doctor did not spread the rumor happily.	 The doctor spread the rumor.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+225	The director did not slit the envelope angrily.	 The director slit the envelope.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+226	The worker did not hit the ball with the bat easily.	 The worker hit the ball with the bat.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+227	The boy did not put the book on the shelf happily.	 The boy put the book on the shelf.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+228	The director did not spread the rumor slowly.	 The director spread the rumor.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+229	The assistant did not slit the envelope anxiously.	 The assistant slit the envelope.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+230	The teacher did not burst into the room easily.	 The teacher burst into the room.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+231	The student did not read the letter quickly.	 The student read the letter.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+232	The boy did not hit the ball with the bat sadly.	 The boy hit the ball with the bat.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+233	The child did not cast bronze into a statue easily.	 The child cast bronze into a statue.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+234	The teacher did not slit the envelope quietly.	 The teacher slit the envelope.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	test
+235	The teacher did not burst into the room slowly.	 The teacher burst into the room.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+236	The boy did not let the blinds down quietly.	 The boy let the blinds down.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+237	The assistant did not thrust the fork into the cake calmly.	 The assistant thrust the fork into the cake.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+238	The singer did not shed tears quietly.	 The singer shed tears.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+239	The dancer did not bet $100 on the race calmly.	 The dancer bet $100 on the race.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+240	The kid did not bet $100 on the race angrily.	 The kid bet $100 on the race.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	test
+241	The man did not thrust the fork into the cake easily.	 The man thrust the fork into the cake.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+242	The manager did not thrust the fork into the cake anxiously.	 The manager thrust the fork into the cake.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+243	The dancer did not cast bronze into a statue happily.	 The dancer cast bronze into a statue.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+244	The assistant did not read the letter easily.	 The assistant read the letter.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+245	The worker did not let the blinds down sadly.	 The worker let the blinds down.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+246	The girl did not split the log easily.	 The girl split the log.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+247	The teacher did not set the dish on the table sadly.	 The teacher set the dish on the table.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+248	The man did not shed tears quietly.	 The man shed tears.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+249	The director did not cast bronze into a statue slowly.	 The director cast bronze into a statue.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+250	The teacher did not thrust the fork into the cake quietly.	 The teacher thrust the fork into the cake.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+251	The man did not split the log angrily.	 The man split the log.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+252	The boy did not upset the boat quietly.	 The boy upset the boat.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+253	The teacher did not slit the envelope sadly.	 The teacher slit the envelope.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+254	The kid did not let the blinds down sadly.	 The kid let the blinds down.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+255	The kid did not hit the ball with the bat quietly.	 The kid hit the ball with the bat.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+256	The kid did not burst into the room slowly.	 The kid burst into the room.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+257	The assistant did not cast bronze into a statue quickly.	 The assistant cast bronze into a statue.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+258	The stranger did not upset the boat happily.	 The stranger upset the boat.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+259	The stranger did not burst into the room quietly.	 The stranger burst into the room.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+260	The doctor did not shut the door anxiously.	 The doctor shut the door.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+261	The manager did not cast bronze into a statue happily.	 The manager cast bronze into a statue.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+262	The student did not burst into the room sadly.	 The student burst into the room.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+263	The singer did not hurt others calmly.	 The singer hurt others.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	test
+264	The girl did not bet $100 on the race anxiously.	 The girl bet $100 on the race.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+265	The athlete did not hurt others anxiously.	 The athlete hurt others.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+266	The teacher did not spread the rumor calmly.	 The teacher spread the rumor.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+267	The dancer did not bet $100 on the race anxiously.	 The dancer bet $100 on the race.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+268	The man did not thrust the fork into the cake easily.	 The man thrust the fork into the cake.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+269	The stranger did not thrust the fork into the cake calmly.	 The stranger thrust the fork into the cake.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+270	The worker did not upset the boat happily.	 The worker upset the boat.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+271	The doctor did not shed tears sadly.	 The doctor shed tears.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+272	The assistant did not hit the ball with the bat slowly.	 The assistant hit the ball with the bat.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+273	The student did not put the book on the shelf quietly.	 The student put the book on the shelf.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+274	The child did not shut the door quickly.	 The child shut the door.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+275	The kid did not shed tears quietly.	 The kid shed tears.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+276	The singer did not slit the envelope anxiously.	 The singer slit the envelope.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+277	The doctor did not hit the ball with the bat angrily.	 The doctor hit the ball with the bat.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+278	The girl did not shed tears angrily.	 The girl shed tears.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+279	The singer did not upset the boat quickly.	 The singer upset the boat.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+280	The student did not set the dish on the table angrily.	 The student set the dish on the table.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+281	The kid did not cast bronze into a statue quickly.	 The kid cast bronze into a statue.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	test
+282	The athlete did not set the dish on the table angrily.	 The athlete set the dish on the table.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+283	The dancer did not hurt others easily.	 The dancer hurt others.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+284	The director did not split the log angrily.	 The director split the log.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+285	The teacher did not set the dish on the table sadly.	 The teacher set the dish on the table.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+286	The child did not cast bronze into a statue sadly.	 The child cast bronze into a statue.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+287	The worker did not set the dish on the table sadly.	 The worker set the dish on the table.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+288	The singer did not burst into the room quickly.	 The singer burst into the room.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+289	The girl did not shed tears sadly.	 The girl shed tears.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+290	The boy did not read the letter happily.	 The boy read the letter.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+291	The athlete did not upset the boat angrily.	 The athlete upset the boat.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+292	The teacher did not burst into the room easily.	 The teacher burst into the room.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+293	The dancer did not split the log happily.	 The dancer split the log.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+294	The dancer did not hurt others calmly.	 The dancer hurt others.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+295	The man did not let the blinds down easily.	 The man let the blinds down.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+296	The teacher did not split the log sadly.	 The teacher split the log.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+297	The dancer did not upset the boat quietly.	 The dancer upset the boat.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+298	The kid did not thrust the fork into the cake happily.	 The kid thrust the fork into the cake.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+299	The director did not thrust the fork into the cake quietly.	 The director thrust the fork into the cake.	entailment	 -	 The doctor did not cut the tree slowly.	 The doctor cut the tree.	train
+300	The woman did not shut the door slowly.	 The woman did not shut the door.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+301	The athlete did not hurt others angrily.	 The athlete did not hurt others.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+302	The worker did not hurt others happily.	 The worker did not hurt others.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+303	The assistant did not split the log quickly.	 The assistant did not split the log.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+304	The manager did not shut the door slowly.	 The manager did not shut the door.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+305	The child did not split the log angrily.	 The child did not split the log.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+306	The dancer did not read the letter happily.	 The dancer did not read the letter.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	test
+307	The professor did not put the book on the shelf slowly.	 The professor did not put the book on the shelf.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+308	The student did not shed tears quietly.	 The student did not shed tears.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+309	The teacher did not upset the boat calmly.	 The teacher did not upset the boat.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+310	The boy did not bet $100 on the race easily.	 The boy did not bet $100 on the race.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+311	The student did not set the dish on the table happily.	 The student did not set the dish on the table.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+312	The director did not slit the envelope anxiously.	 The director did not slit the envelope.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+313	The professor did not shut the door slowly.	 The professor did not shut the door.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+314	The man did not burst into the room quietly.	 The man did not burst into the room.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+315	The woman did not read the letter anxiously.	 The woman did not read the letter.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+316	The singer did not spread the rumor sadly.	 The singer did not spread the rumor.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+317	The worker did not shed tears angrily.	 The worker did not shed tears.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+318	The doctor did not upset the boat happily.	 The doctor did not upset the boat.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+319	The boy did not hit the ball with the bat anxiously.	 The boy did not hit the ball with the bat.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+320	The stranger did not let the blinds down happily.	 The stranger did not let the blinds down.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+321	The worker did not split the log calmly.	 The worker did not split the log.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+322	The assistant did not upset the boat happily.	 The assistant did not upset the boat.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+323	The man did not split the log anxiously.	 The man did not split the log.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+324	The boy did not let the blinds down easily.	 The boy did not let the blinds down.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+325	The athlete did not set the dish on the table easily.	 The athlete did not set the dish on the table.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+326	The student did not upset the boat sadly.	 The student did not upset the boat.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+327	The teacher did not put the book on the shelf calmly.	 The teacher did not put the book on the shelf.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+328	The man did not burst into the room slowly.	 The man did not burst into the room.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+329	The child did not hurt others sadly.	 The child did not hurt others.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+330	The worker did not shed tears slowly.	 The worker did not shed tears.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+331	The man did not set the dish on the table calmly.	 The man did not set the dish on the table.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+332	The man did not set the dish on the table quickly.	 The man did not set the dish on the table.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+333	The kid did not thrust the fork into the cake sadly.	 The kid did not thrust the fork into the cake.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+334	The dancer did not spread the rumor sadly.	 The dancer did not spread the rumor.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+335	The stranger did not split the log angrily.	 The stranger did not split the log.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+336	The athlete did not hit the ball with the bat slowly.	 The athlete did not hit the ball with the bat.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+337	The man did not cast bronze into a statue anxiously.	 The man did not cast bronze into a statue.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+338	The director did not hit the ball with the bat angrily.	 The director did not hit the ball with the bat.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+339	The girl did not hurt others slowly.	 The girl did not hurt others.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+340	The man did not shut the door easily.	 The man did not shut the door.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+341	The doctor did not read the letter calmly.	 The doctor did not read the letter.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+342	The director did not read the letter quietly.	 The director did not read the letter.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+343	The kid did not shut the door easily.	 The kid did not shut the door.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+344	The stranger did not shed tears sadly.	 The stranger did not shed tears.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+345	The manager did not hurt others calmly.	 The manager did not hurt others.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	test
+346	The dancer did not shut the door happily.	 The dancer did not shut the door.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+347	The man did not read the letter slowly.	 The man did not read the letter.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+348	The singer did not slit the envelope angrily.	 The singer did not slit the envelope.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+349	The singer did not hit the ball with the bat anxiously.	 The singer did not hit the ball with the bat.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+350	The man did not split the log quietly.	 The man did not split the log.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+351	The student did not hurt others happily.	 The student did not hurt others.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+352	The kid did not put the book on the shelf easily.	 The kid did not put the book on the shelf.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+353	The woman did not thrust the fork into the cake happily.	 The woman did not thrust the fork into the cake.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+354	The kid did not shut the door calmly.	 The kid did not shut the door.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+355	The singer did not cast bronze into a statue quickly.	 The singer did not cast bronze into a statue.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+356	The worker did not hit the ball with the bat quietly.	 The worker did not hit the ball with the bat.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+357	The child did not bet $100 on the race happily.	 The child did not bet $100 on the race.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+358	The professor did not shed tears happily.	 The professor did not shed tears.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+359	The director did not hit the ball with the bat easily.	 The director did not hit the ball with the bat.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+360	The worker did not slit the envelope quietly.	 The worker did not slit the envelope.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+361	The director did not slit the envelope slowly.	 The director did not slit the envelope.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+362	The doctor did not thrust the fork into the cake happily.	 The doctor did not thrust the fork into the cake.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+363	The worker did not set the dish on the table quickly.	 The worker did not set the dish on the table.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+364	The child did not put the book on the shelf angrily.	 The child did not put the book on the shelf.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+365	The doctor did not split the log easily.	 The doctor did not split the log.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+366	The student did not cast bronze into a statue quickly.	 The student did not cast bronze into a statue.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+367	The dancer did not hit the ball with the bat quickly.	 The dancer did not hit the ball with the bat.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+368	The kid did not bet $100 on the race quietly.	 The kid did not bet $100 on the race.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+369	The singer did not set the dish on the table slowly.	 The singer did not set the dish on the table.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+370	The child did not upset the boat angrily.	 The child did not upset the boat.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+371	The athlete did not spread the rumor angrily.	 The athlete did not spread the rumor.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+372	The singer did not read the letter calmly.	 The singer did not read the letter.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+373	The woman did not set the dish on the table happily.	 The woman did not set the dish on the table.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+374	The woman did not shut the door calmly.	 The woman did not shut the door.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+375	The teacher did not cast bronze into a statue quickly.	 The teacher did not cast bronze into a statue.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+376	The teacher did not shut the door calmly.	 The teacher did not shut the door.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+377	The child did not shed tears happily.	 The child did not shed tears.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+378	The director did not slit the envelope happily.	 The director did not slit the envelope.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	test
+379	The boy did not upset the boat slowly.	 The boy did not upset the boat.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+380	The assistant did not burst into the room quickly.	 The assistant did not burst into the room.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+381	The singer did not set the dish on the table angrily.	 The singer did not set the dish on the table.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+382	The doctor did not hit the ball with the bat quietly.	 The doctor did not hit the ball with the bat.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+383	The singer did not slit the envelope quickly.	 The singer did not slit the envelope.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+384	The teacher did not bet $100 on the race anxiously.	 The teacher did not bet $100 on the race.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+385	The man did not bet $100 on the race slowly.	 The man did not bet $100 on the race.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+386	The student did not hurt others angrily.	 The student did not hurt others.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	test
+387	The man did not set the dish on the table quietly.	 The man did not set the dish on the table.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+388	The athlete did not shut the door quietly.	 The athlete did not shut the door.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+389	The doctor did not put the book on the shelf quickly.	 The doctor did not put the book on the shelf.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+390	The doctor did not thrust the fork into the cake easily.	 The doctor did not thrust the fork into the cake.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+391	The kid did not thrust the fork into the cake happily.	 The kid did not thrust the fork into the cake.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+392	The athlete did not set the dish on the table anxiously.	 The athlete did not set the dish on the table.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+393	The director did not hurt others quickly.	 The director did not hurt others.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+394	The stranger did not split the log calmly.	 The stranger did not split the log.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+395	The assistant did not set the dish on the table happily.	 The assistant did not set the dish on the table.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+396	The boy did not let the blinds down calmly.	 The boy did not let the blinds down.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+397	The singer did not spread the rumor quickly.	 The singer did not spread the rumor.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+398	The assistant did not hurt others calmly.	 The assistant did not hurt others.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	train
+399	The stranger did not hurt others happily.	 The stranger did not hurt others.	contradiction	 -	 The doctor did not cut the tree slowly.	 The doctor did not cut the tree.	test

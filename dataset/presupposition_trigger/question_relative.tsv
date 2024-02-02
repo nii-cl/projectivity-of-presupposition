@@ -1,0 +1,201 @@
+	sentence1	sentence2	label	heuristics	example1	example2	split
+1200	Did John beat the singer, who spread the rumor?	 The singer spread the rumor.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	test
+1201	Did Bob comfort the girl, who put the book on the shelf?	 The girl put the book on the shelf.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1202	Did Jim chase the manager, who bet $100 on the race?	 The manager bet $100 on the race.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1203	Did Katy deceive the dancer, who read the letter?	 The dancer read the letter.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1204	Did Ben find the athlete, who cast bronze into a statue?	 The athlete cast bronze into a statue.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1205	Did Jenny respect the stranger, who hurt others?	 The stranger hurt others.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1206	Did Jack kick the professor, who put the book on the shelf?	 The professor put the book on the shelf.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1207	Did Kyle respect the professor, who split the log?	 The professor split the log.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1208	Did Steven comfort the teacher, who read the letter?	 The teacher read the letter.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1209	Did Ben chase the girl, who hurt others?	 The girl hurt others.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1210	Did Jack chase the assistant, who shut the door?	 The assistant shut the door.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1211	Did Jim meet the assistant, who bet $100 on the race?	 The assistant bet $100 on the race.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1212	Did John beat the child, who slit the envelope?	 The child slit the envelope.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1213	Did Steven kick the manager, who burst into the room?	 The manager burst into the room.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	test
+1214	Did John respect the assistant, who let the blinds down?	 The assistant let the blinds down.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1215	Did Jim see the student, who spread the rumor?	 The student spread the rumor.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	test
+1216	Did Kyle love the man, who set the dish on the table?	 The man set the dish on the table.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1217	Did Jim comfort the kid, who bet $100 on the race?	 The kid bet $100 on the race.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1218	Did Jenny avoid the girl, who hurt others?	 The girl hurt others.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1219	Did Steven see the athlete, who slit the envelope?	 The athlete slit the envelope.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1220	Did Mary beat the student, who spread the rumor?	 The student spread the rumor.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	test
+1221	Did Jim see the stranger, who cast bronze into a statue?	 The stranger cast bronze into a statue.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1222	Did Bob chase the student, who shut the door?	 The student shut the door.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1223	Did Jason respect the worker, who read the letter?	 The worker read the letter.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1224	Did Jim deceive the stranger, who read the letter?	 The stranger read the letter.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1225	Did Kyle love the worker, who upset the boat?	 The worker upset the boat.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1226	Did Jack see the worker, who upset the boat?	 The worker upset the boat.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1227	Did John respect the director, who thrust the fork into the cake?	 The director thrust the fork into the cake.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1228	Did Tom kick the woman, who read the letter?	 The woman read the letter.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1229	Did Kyle deceive the singer, who spread the rumor?	 The singer spread the rumor.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1230	Did Steven chase the doctor, who put the book on the shelf?	 The doctor put the book on the shelf.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1231	Did Jim comfort the athlete, who let the blinds down?	 The athlete let the blinds down.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1232	Did Bob love the boy, who burst into the room?	 The boy burst into the room.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1233	Did Ben see the assistant, who upset the boat?	 The assistant upset the boat.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1234	Did Kyle kick the assistant, who split the log?	 The assistant split the log.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1235	Did Jason deceive the student, who split the log?	 The student split the log.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1236	Did Tom avoid the teacher, who spread the rumor?	 The teacher spread the rumor.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1237	Did Mary chase the dancer, who let the blinds down?	 The dancer let the blinds down.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1238	Did Bob avoid the student, who let the blinds down?	 The student let the blinds down.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1239	Did Mary kick the professor, who cast bronze into a statue?	 The professor cast bronze into a statue.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1240	Did Steven love the woman, who hit the ball with the bat?	 The woman hit the ball with the bat.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1241	Did Jim avoid the athlete, who hit the ball with the bat?	 The athlete hit the ball with the bat.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1242	Did Jenny find the teacher, who shed tears?	 The teacher shed tears.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1243	Did Jim meet the boy, who read the letter?	 The boy read the letter.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1244	Did Katy meet the teacher, who split the log?	 The teacher split the log.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1245	Did Ben respect the student, who slit the envelope?	 The student slit the envelope.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1246	Did Steven comfort the kid, who bet $100 on the race?	 The kid bet $100 on the race.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1247	Did Tom find the girl, who split the log?	 The girl split the log.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1248	Did Ben find the singer, who shut the door?	 The singer shut the door.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1249	Did Ben beat the stranger, who bet $100 on the race?	 The stranger bet $100 on the race.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1250	Did Katy find the singer, who upset the boat?	 The singer upset the boat.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1251	Did Ben beat the girl, who thrust the fork into the cake?	 The girl thrust the fork into the cake.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1252	Did Kyle avoid the dancer, who spread the rumor?	 The dancer spread the rumor.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1253	Did John chase the teacher, who let the blinds down?	 The teacher let the blinds down.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1254	Did Kyle respect the athlete, who slit the envelope?	 The athlete slit the envelope.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	test
+1255	Did Jim deceive the doctor, who hit the ball with the bat?	 The doctor hit the ball with the bat.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1256	Did Katy kick the doctor, who hit the ball with the bat?	 The doctor hit the ball with the bat.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1257	Did John comfort the stranger, who put the book on the shelf?	 The stranger put the book on the shelf.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1258	Did Kyle meet the stranger, who shed tears?	 The stranger shed tears.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1259	Did Bob avoid the teacher, who slit the envelope?	 The teacher slit the envelope.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1260	Did Steven chase the teacher, who set the dish on the table?	 The teacher set the dish on the table.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1261	Did Mary find the singer, who shed tears?	 The singer shed tears.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1262	Did Mary beat the kid, who slit the envelope?	 The kid slit the envelope.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1263	Did John meet the woman, who slit the envelope?	 The woman slit the envelope.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1264	Did Jason find the child, who put the book on the shelf?	 The child put the book on the shelf.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1265	Did Jason love the boy, who put the book on the shelf?	 The boy put the book on the shelf.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1266	Did Jason kick the woman, who slit the envelope?	 The woman slit the envelope.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1267	Did Jim chase the teacher, who let the blinds down?	 The teacher let the blinds down.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1268	Did Mary avoid the stranger, who hit the ball with the bat?	 The stranger hit the ball with the bat.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1269	Did Jason comfort the manager, who shed tears?	 The manager shed tears.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1270	Did Tom find the stranger, who bet $100 on the race?	 The stranger bet $100 on the race.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1271	Did Steven beat the singer, who read the letter?	 The singer read the letter.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1272	Did Jason meet the director, who thrust the fork into the cake?	 The director thrust the fork into the cake.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1273	Did Jenny meet the athlete, who read the letter?	 The athlete read the letter.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1274	Did Ben see the kid, who spread the rumor?	 The kid spread the rumor.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1275	Did John chase the professor, who bet $100 on the race?	 The professor bet $100 on the race.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1276	Did Jason kick the doctor, who slit the envelope?	 The doctor slit the envelope.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1277	Did John love the dancer, who thrust the fork into the cake?	 The dancer thrust the fork into the cake.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1278	Did Kyle find the child, who let the blinds down?	 The child let the blinds down.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1279	Did Jim love the athlete, who put the book on the shelf?	 The athlete put the book on the shelf.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1280	Did Katy deceive the girl, who spread the rumor?	 The girl spread the rumor.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1281	Did Mary meet the dancer, who set the dish on the table?	 The dancer set the dish on the table.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1282	Did Kyle meet the teacher, who shut the door?	 The teacher shut the door.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1283	Did John avoid the worker, who spread the rumor?	 The worker spread the rumor.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1284	Did John find the boy, who burst into the room?	 The boy burst into the room.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1285	Did Steven beat the stranger, who shut the door?	 The stranger shut the door.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1286	Did Steven kick the girl, who let the blinds down?	 The girl let the blinds down.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1287	Did Bob deceive the teacher, who let the blinds down?	 The teacher let the blinds down.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1288	Did Ben chase the student, who shed tears?	 The student shed tears.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1289	Did Ben comfort the athlete, who shed tears?	 The athlete shed tears.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1290	Did Tom deceive the man, who burst into the room?	 The man burst into the room.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1291	Did Steven chase the woman, who let the blinds down?	 The woman let the blinds down.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1292	Did Jason find the woman, who hit the ball with the bat?	 The woman hit the ball with the bat.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1293	Did Katy chase the child, who read the letter?	 The child read the letter.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1294	Did Ben comfort the professor, who put the book on the shelf?	 The professor put the book on the shelf.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1295	Did Katy deceive the manager, who shed tears?	 The manager shed tears.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1296	Did Bob kick the girl, who cast bronze into a statue?	 The girl cast bronze into a statue.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1297	Did Kyle chase the singer, who thrust the fork into the cake?	 The singer thrust the fork into the cake.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1298	Did Kyle meet the man, who burst into the room?	 The man burst into the room.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1299	Did Tom chase the man, who upset the boat?	 The man upset the boat.	entailment	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1300	Did Steven kick the stranger, who slit the envelope?	 The stranger did not slit the envelope.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1301	Did Bob find the man, who read the letter?	 The man did not read the letter.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1302	Did Kyle chase the man, who upset the boat?	 The man did not upset the boat.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1303	Did Katy beat the professor, who read the letter?	 The professor did not read the letter.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1304	Did Steven avoid the doctor, who set the dish on the table?	 The doctor did not set the dish on the table.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1305	Did Jenny chase the assistant, who spread the rumor?	 The assistant did not spread the rumor.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1306	Did Steven avoid the manager, who set the dish on the table?	 The manager did not set the dish on the table.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1307	Did Jenny see the woman, who bet $100 on the race?	 The woman did not bet $100 on the race.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1308	Did John beat the singer, who spread the rumor?	 The singer did not spread the rumor.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1309	Did Jenny kick the assistant, who hit the ball with the bat?	 The assistant did not hit the ball with the bat.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1310	Did Katy love the child, who bet $100 on the race?	 The child did not bet $100 on the race.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1311	Did Tom deceive the doctor, who slit the envelope?	 The doctor did not slit the envelope.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1312	Did Mary comfort the manager, who upset the boat?	 The manager did not upset the boat.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1313	Did Katy chase the student, who burst into the room?	 The student did not burst into the room.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1314	Did Jack chase the manager, who let the blinds down?	 The manager did not let the blinds down.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1315	Did Jason chase the doctor, who read the letter?	 The doctor did not read the letter.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	test
+1316	Did Jim chase the kid, who slit the envelope?	 The kid did not slit the envelope.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1317	Did John beat the worker, who split the log?	 The worker did not split the log.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1318	Did Tom see the doctor, who hurt others?	 The doctor did not hurt others.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	test
+1319	Did Kyle see the boy, who put the book on the shelf?	 The boy did not put the book on the shelf.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1320	Did Ben meet the assistant, who cast bronze into a statue?	 The assistant did not cast bronze into a statue.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1321	Did Mary love the boy, who thrust the fork into the cake?	 The boy did not thrust the fork into the cake.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1322	Did John comfort the manager, who burst into the room?	 The manager did not burst into the room.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1323	Did John meet the director, who bet $100 on the race?	 The director did not bet $100 on the race.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1324	Did John meet the girl, who upset the boat?	 The girl did not upset the boat.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1325	Did Mary respect the boy, who slit the envelope?	 The boy did not slit the envelope.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1326	Did Bob see the worker, who cast bronze into a statue?	 The worker did not cast bronze into a statue.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1327	Did John meet the athlete, who split the log?	 The athlete did not split the log.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1328	Did Steven deceive the worker, who thrust the fork into the cake?	 The worker did not thrust the fork into the cake.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1329	Did Kyle kick the boy, who hurt others?	 The boy did not hurt others.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1330	Did Steven deceive the dancer, who hit the ball with the bat?	 The dancer did not hit the ball with the bat.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1331	Did Mary find the woman, who burst into the room?	 The woman did not burst into the room.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1332	Did Jenny avoid the teacher, who let the blinds down?	 The teacher did not let the blinds down.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1333	Did Mary respect the kid, who bet $100 on the race?	 The kid did not bet $100 on the race.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1334	Did Tom avoid the student, who upset the boat?	 The student did not upset the boat.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1335	Did Jenny deceive the student, who shut the door?	 The student did not shut the door.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1336	Did John kick the manager, who hit the ball with the bat?	 The manager did not hit the ball with the bat.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1337	Did Jack love the manager, who put the book on the shelf?	 The manager did not put the book on the shelf.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1338	Did Jim meet the singer, who read the letter?	 The singer did not read the letter.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1339	Did Jim chase the teacher, who shed tears?	 The teacher did not shed tears.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1340	Did Jack beat the student, who slit the envelope?	 The student did not slit the envelope.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1341	Did Kyle see the stranger, who let the blinds down?	 The stranger did not let the blinds down.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1342	Did Bob respect the manager, who hit the ball with the bat?	 The manager did not hit the ball with the bat.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1343	Did Jim respect the professor, who set the dish on the table?	 The professor did not set the dish on the table.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1344	Did Steven comfort the director, who read the letter?	 The director did not read the letter.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1345	Did Kyle chase the worker, who set the dish on the table?	 The worker did not set the dish on the table.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1346	Did Steven respect the kid, who slit the envelope?	 The kid did not slit the envelope.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1347	Did Jenny see the man, who spread the rumor?	 The man did not spread the rumor.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1348	Did Steven meet the woman, who cast bronze into a statue?	 The woman did not cast bronze into a statue.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1349	Did Bob respect the woman, who slit the envelope?	 The woman did not slit the envelope.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1350	Did Kyle chase the boy, who shed tears?	 The boy did not shed tears.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1351	Did Tom respect the assistant, who slit the envelope?	 The assistant did not slit the envelope.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1352	Did Bob find the assistant, who let the blinds down?	 The assistant did not let the blinds down.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1353	Did Kyle love the kid, who hurt others?	 The kid did not hurt others.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1354	Did Kyle beat the athlete, who upset the boat?	 The athlete did not upset the boat.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1355	Did Kyle kick the girl, who spread the rumor?	 The girl did not spread the rumor.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	test
+1356	Did John beat the professor, who shed tears?	 The professor did not shed tears.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1357	Did John love the worker, who shut the door?	 The worker did not shut the door.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1358	Did Kyle avoid the worker, who spread the rumor?	 The worker did not spread the rumor.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1359	Did Jack deceive the student, who put the book on the shelf?	 The student did not put the book on the shelf.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1360	Did Steven meet the director, who slit the envelope?	 The director did not slit the envelope.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1361	Did Tom comfort the teacher, who upset the boat?	 The teacher did not upset the boat.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1362	Did Jack kick the girl, who cast bronze into a statue?	 The girl did not cast bronze into a statue.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1363	Did Katy kick the doctor, who let the blinds down?	 The doctor did not let the blinds down.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1364	Did Ben see the student, who put the book on the shelf?	 The student did not put the book on the shelf.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1365	Did Mary love the kid, who burst into the room?	 The kid did not burst into the room.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1366	Did John comfort the man, who let the blinds down?	 The man did not let the blinds down.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1367	Did Jim deceive the doctor, who slit the envelope?	 The doctor did not slit the envelope.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1368	Did John meet the woman, who cast bronze into a statue?	 The woman did not cast bronze into a statue.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1369	Did Jason chase the director, who hit the ball with the bat?	 The director did not hit the ball with the bat.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1370	Did Jim kick the athlete, who burst into the room?	 The athlete did not burst into the room.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1371	Did Jim respect the child, who shut the door?	 The child did not shut the door.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1372	Did Ben meet the boy, who burst into the room?	 The boy did not burst into the room.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1373	Did Ben respect the girl, who upset the boat?	 The girl did not upset the boat.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1374	Did Mary love the girl, who put the book on the shelf?	 The girl did not put the book on the shelf.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1375	Did Ben beat the student, who bet $100 on the race?	 The student did not bet $100 on the race.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1376	Did Ben respect the worker, who cast bronze into a statue?	 The worker did not cast bronze into a statue.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1377	Did Jim beat the teacher, who upset the boat?	 The teacher did not upset the boat.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1378	Did Tom see the director, who put the book on the shelf?	 The director did not put the book on the shelf.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1379	Did Jim beat the manager, who hit the ball with the bat?	 The manager did not hit the ball with the bat.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1380	Did Tom kick the girl, who upset the boat?	 The girl did not upset the boat.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1381	Did Jenny comfort the assistant, who slit the envelope?	 The assistant did not slit the envelope.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1382	Did Mary find the worker, who spread the rumor?	 The worker did not spread the rumor.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1383	Did Bob kick the manager, who cast bronze into a statue?	 The manager did not cast bronze into a statue.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	test
+1384	Did Bob comfort the dancer, who shut the door?	 The dancer did not shut the door.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1385	Did Katy avoid the kid, who upset the boat?	 The kid did not upset the boat.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1386	Did Bob meet the child, who spread the rumor?	 The child did not spread the rumor.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1387	Did Jenny love the kid, who let the blinds down?	 The kid did not let the blinds down.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1388	Did Ben see the kid, who cast bronze into a statue?	 The kid did not cast bronze into a statue.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	test
+1389	Did Jack avoid the teacher, who hurt others?	 The teacher did not hurt others.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1390	Did Jim meet the assistant, who thrust the fork into the cake?	 The assistant did not thrust the fork into the cake.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1391	Did Katy see the stranger, who slit the envelope?	 The stranger did not slit the envelope.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1392	Did Steven comfort the stranger, who hit the ball with the bat?	 The stranger did not hit the ball with the bat.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1393	Did Kyle see the child, who put the book on the shelf?	 The child did not put the book on the shelf.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1394	Did Jenny love the child, who hit the ball with the bat?	 The child did not hit the ball with the bat.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1395	Did Jason love the director, who set the dish on the table?	 The director did not set the dish on the table.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1396	Did Bob respect the worker, who hit the ball with the bat?	 The worker did not hit the ball with the bat.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1397	Did Ben see the man, who shut the door?	 The man did not shut the door.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1398	Did Jason avoid the woman, who put the book on the shelf?	 The woman did not put the book on the shelf.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train
+1399	Did Tom respect the manager, who put the book on the shelf?	 The manager did not put the book on the shelf.	contradiction	 -	 Did John meet the doctor comma who cut the tree?	 The doctor cut the tree.	train

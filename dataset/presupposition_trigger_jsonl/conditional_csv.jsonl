@@ -1,0 +1,200 @@
+{"premise": "If the student had kept reading the letter, the manager could have shed tears.", "hypothesis": "The student had been reading the letter.", "label": "entailment"}
+{"premise": "If the worker had finished hitting the ball with the bat, the manager would have upset the boat.", "hypothesis": "The worker had been hitting the ball with the bat.", "label": "entailment"}
+{"premise": "If the girl had ceased letting the blinds down, the dancer would have upset the boat.", "hypothesis": "The girl had been letting the blinds down.", "label": "entailment"}
+{"premise": "If the doctor had kept setting the dish on the table, the professor could have spread the rumor.", "hypothesis": "The doctor had been setting the dish on the table.", "label": "entailment"}
+{"premise": "If the teacher had continued shedding tears, the assistant could have read the letter.", "hypothesis": "The teacher had been shedding tears.", "label": "entailment"}
+{"premise": "If the stranger had continued bursting into the room, the assistant would have spread the rumor.", "hypothesis": "The stranger had been bursting into the room.", "label": "entailment"}
+{"premise": "If the kid had kept upsetting the boat, the teacher could have spread the rumor.", "hypothesis": "The kid had been upsetting the boat.", "label": "entailment"}
+{"premise": "If the athlete had ceased betting $100 on the race, the professor could have burst into the room.", "hypothesis": "The athlete had been betting $100 on the race.", "label": "entailment"}
+{"premise": "If the dancer had stopped betting $100 on the race, the child could have thrust the fork into the cake.", "hypothesis": "The dancer had been betting $100 on the race.", "label": "entailment"}
+{"premise": "If the student had ceased casting bronze into a statue, the teacher would have set the dish on the table.", "hypothesis": "The student had been casting bronze into a statue.", "label": "entailment"}
+{"premise": "If the athlete had quit putting the book on the shelf, the manager would have slit the envelope.", "hypothesis": "The athlete had been putting the book on the shelf.", "label": "entailment"}
+{"premise": "If the manager had finished betting $100 on the race, the child could have thrust the fork into the cake.", "hypothesis": "The manager had been betting $100 on the race.", "label": "entailment"}
+{"premise": "If the girl had finished hitting the ball with the bat, the stranger would have upset the boat.", "hypothesis": "The girl had been hitting the ball with the bat.", "label": "entailment"}
+{"premise": "If the student had stopped shedding tears, the teacher would have spread the rumor.", "hypothesis": "The student had been shedding tears.", "label": "entailment"}
+{"premise": "If the woman had quit putting the book on the shelf, the doctor would have split the log.", "hypothesis": "The woman had been putting the book on the shelf.", "label": "entailment"}
+{"premise": "If the teacher had finished upsetting the boat, the professor would have shed tears.", "hypothesis": "The teacher had been upsetting the boat.", "label": "entailment"}
+{"premise": "If the worker had finished thrusting the fork into the cake, the teacher would have let the blinds down.", "hypothesis": "The worker had been thrusting the fork into the cake.", "label": "entailment"}
+{"premise": "If the girl had finished shedding tears, the professor could have split the log.", "hypothesis": "The girl had been shedding tears.", "label": "entailment"}
+{"premise": "If the singer had gave up putting the book on the shelf, the director would have shut the door.", "hypothesis": "The singer had been putting the book on the shelf.", "label": "entailment"}
+{"premise": "If the child had gave up letting the blinds down, the woman could have read the letter.", "hypothesis": "The child had been letting the blinds down.", "label": "entailment"}
+{"premise": "If the doctor had ceased bursting into the room, the girl could have upset the boat.", "hypothesis": "The doctor had been bursting into the room.", "label": "entailment"}
+{"premise": "If the dancer had stopped bursting into the room, the boy would have shut the door.", "hypothesis": "The dancer had been bursting into the room.", "label": "entailment"}
+{"premise": "If the professor had finished bursting into the room, the teacher would have thrust the fork into the cake.", "hypothesis": "The professor had been bursting into the room.", "label": "entailment"}
+{"premise": "If the assistant had stopped hurting others, the man could have cast bronze into a statue.", "hypothesis": "The assistant had been hurting others.", "label": "entailment"}
+{"premise": "If the athlete had finished upsetting the boat, the director could have hit the ball with the bat.", "hypothesis": "The athlete had been upsetting the boat.", "label": "entailment"}
+{"premise": "If the man had continued spreading the rumor, the boy could have thrust the fork into the cake.", "hypothesis": "The man had been spreading the rumor.", "label": "entailment"}
+{"premise": "If the child had gave up upsetting the boat, the athlete would have set the dish on the table.", "hypothesis": "The child had been upsetting the boat.", "label": "entailment"}
+{"premise": "If the dancer had stopped shutting the door, the stranger would have burst into the room.", "hypothesis": "The dancer had been shutting the door.", "label": "entailment"}
+{"premise": "If the man had finished shedding tears, the doctor would have cast bronze into a statue.", "hypothesis": "The man had been shedding tears.", "label": "entailment"}
+{"premise": "If the woman had stopped hitting the ball with the bat, the teacher would have bet $100 on the race.", "hypothesis": "The woman had been hitting the ball with the bat.", "label": "entailment"}
+{"premise": "If the athlete had ceased reading the letter, the woman would have hit the ball with the bat.", "hypothesis": "The athlete had been reading the letter.", "label": "entailment"}
+{"premise": "If the kid had quit splitting the log, the professor could have bet $100 on the race.", "hypothesis": "The kid had been splitting the log.", "label": "entailment"}
+{"premise": "If the worker had continued betting $100 on the race, the kid would have shut the door.", "hypothesis": "The worker had been betting $100 on the race.", "label": "entailment"}
+{"premise": "If the manager had gave up putting the book on the shelf, the professor would have set the dish on the table.", "hypothesis": "The manager had been putting the book on the shelf.", "label": "entailment"}
+{"premise": "If the man had stopped betting $100 on the race, the boy could have split the log.", "hypothesis": "The man had been betting $100 on the race.", "label": "entailment"}
+{"premise": "If the stranger had finished casting bronze into a statue, the teacher would have slit the envelope.", "hypothesis": "The stranger had been casting bronze into a statue.", "label": "entailment"}
+{"premise": "If the boy had ceased hurting others, the singer would have read the letter.", "hypothesis": "The boy had been hurting others.", "label": "entailment"}
+{"premise": "If the worker had quit casting bronze into a statue, the child could have read the letter.", "hypothesis": "The worker had been casting bronze into a statue.", "label": "entailment"}
+{"premise": "If the manager had quit hurting others, the teacher could have let the blinds down.", "hypothesis": "The manager had been hurting others.", "label": "entailment"}
+{"premise": "If the dancer had finished slitting the envelope, the stranger would have shut the door.", "hypothesis": "The dancer had been slitting the envelope.", "label": "entailment"}
+{"premise": "If the girl had quit putting the book on the shelf, the boy would have read the letter.", "hypothesis": "The girl had been putting the book on the shelf.", "label": "entailment"}
+{"premise": "If the worker had finished casting bronze into a statue, the athlete could have upset the boat.", "hypothesis": "The worker had been casting bronze into a statue.", "label": "entailment"}
+{"premise": "If the doctor had ceased bursting into the room, the girl would have slit the envelope.", "hypothesis": "The doctor had been bursting into the room.", "label": "entailment"}
+{"premise": "If the director had ceased thrusting the fork into the cake, the assistant would have slit the envelope.", "hypothesis": "The director had been thrusting the fork into the cake.", "label": "entailment"}
+{"premise": "If the professor had gave up bursting into the room, the singer would have spread the rumor.", "hypothesis": "The professor had been bursting into the room.", "label": "entailment"}
+{"premise": "If the professor had ceased bursting into the room, the director could have set the dish on the table.", "hypothesis": "The professor had been bursting into the room.", "label": "entailment"}
+{"premise": "If the man had continued putting the book on the shelf, the woman would have upset the boat.", "hypothesis": "The man had been putting the book on the shelf.", "label": "entailment"}
+{"premise": "If the man had ceased shedding tears, the worker would have cast bronze into a statue.", "hypothesis": "The man had been shedding tears.", "label": "entailment"}
+{"premise": "If the singer had quit spreading the rumor, the child would have set the dish on the table.", "hypothesis": "The singer had been spreading the rumor.", "label": "entailment"}
+{"premise": "If the girl had finished thrusting the fork into the cake, the professor could have let the blinds down.", "hypothesis": "The girl had been thrusting the fork into the cake.", "label": "entailment"}
+{"premise": "If the girl had quit putting the book on the shelf, the man could have shed tears.", "hypothesis": "The girl had been putting the book on the shelf.", "label": "entailment"}
+{"premise": "If the man had ceased hitting the ball with the bat, the student could have burst into the room.", "hypothesis": "The man had been hitting the ball with the bat.", "label": "entailment"}
+{"premise": "If the doctor had ceased shedding tears, the stranger would have hurt others.", "hypothesis": "The doctor had been shedding tears.", "label": "entailment"}
+{"premise": "If the doctor had finished upsetting the boat, the child could have put the book on the shelf.", "hypothesis": "The doctor had been upsetting the boat.", "label": "entailment"}
+{"premise": "If the kid had ceased shedding tears, the doctor would have let the blinds down.", "hypothesis": "The kid had been shedding tears.", "label": "entailment"}
+{"premise": "If the stranger had kept spreading the rumor, the worker would have shut the door.", "hypothesis": "The stranger had been spreading the rumor.", "label": "entailment"}
+{"premise": "If the professor had stopped splitting the log, the kid would have put the book on the shelf.", "hypothesis": "The professor had been splitting the log.", "label": "entailment"}
+{"premise": "If the doctor had finished reading the letter, the athlete would have slit the envelope.", "hypothesis": "The doctor had been reading the letter.", "label": "entailment"}
+{"premise": "If the stranger had continued setting the dish on the table, the singer could have hit the ball with the bat.", "hypothesis": "The stranger had been setting the dish on the table.", "label": "entailment"}
+{"premise": "If the child had continued putting the book on the shelf, the director could have cast bronze into a statue.", "hypothesis": "The child had been putting the book on the shelf.", "label": "entailment"}
+{"premise": "If the kid had kept shedding tears, the professor could have spread the rumor.", "hypothesis": "The kid had been shedding tears.", "label": "entailment"}
+{"premise": "If the dancer had kept casting bronze into a statue, the woman could have burst into the room.", "hypothesis": "The dancer had been casting bronze into a statue.", "label": "entailment"}
+{"premise": "If the singer had stopped spreading the rumor, the boy could have cast bronze into a statue.", "hypothesis": "The singer had been spreading the rumor.", "label": "entailment"}
+{"premise": "If the teacher had quit slitting the envelope, the stranger would have set the dish on the table.", "hypothesis": "The teacher had been slitting the envelope.", "label": "entailment"}
+{"premise": "If the worker had kept bursting into the room, the teacher could have spread the rumor.", "hypothesis": "The worker had been bursting into the room.", "label": "entailment"}
+{"premise": "If the worker had kept betting $100 on the race, the dancer could have split the log.", "hypothesis": "The worker had been betting $100 on the race.", "label": "entailment"}
+{"premise": "If the teacher had quit shedding tears, the kid could have cast bronze into a statue.", "hypothesis": "The teacher had been shedding tears.", "label": "entailment"}
+{"premise": "If the boy had stopped shedding tears, the girl would have split the log.", "hypothesis": "The boy had been shedding tears.", "label": "entailment"}
+{"premise": "If the doctor had quit thrusting the fork into the cake, the kid could have cast bronze into a statue.", "hypothesis": "The doctor had been thrusting the fork into the cake.", "label": "entailment"}
+{"premise": "If the director had finished splitting the log, the dancer could have cast bronze into a statue.", "hypothesis": "The director had been splitting the log.", "label": "entailment"}
+{"premise": "If the teacher had gave up bursting into the room, the woman could have upset the boat.", "hypothesis": "The teacher had been bursting into the room.", "label": "entailment"}
+{"premise": "If the boy had quit upsetting the boat, the dancer could have thrust the fork into the cake.", "hypothesis": "The boy had been upsetting the boat.", "label": "entailment"}
+{"premise": "If the girl had continued thrusting the fork into the cake, the director could have slit the envelope.", "hypothesis": "The girl had been thrusting the fork into the cake.", "label": "entailment"}
+{"premise": "If the dancer had continued hurting others, the manager could have split the log.", "hypothesis": "The dancer had been hurting others.", "label": "entailment"}
+{"premise": "If the professor had quit upsetting the boat, the director would have cast bronze into a statue.", "hypothesis": "The professor had been upsetting the boat.", "label": "entailment"}
+{"premise": "If the athlete had gave up upsetting the boat, the teacher would have let the blinds down.", "hypothesis": "The athlete had been upsetting the boat.", "label": "entailment"}
+{"premise": "If the woman had stopped letting the blinds down, the dancer could have put the book on the shelf.", "hypothesis": "The woman had been letting the blinds down.", "label": "entailment"}
+{"premise": "If the manager had kept casting bronze into a statue, the woman could have shut the door.", "hypothesis": "The manager had been casting bronze into a statue.", "label": "entailment"}
+{"premise": "If the manager had continued spreading the rumor, the boy could have hurt others.", "hypothesis": "The manager had been spreading the rumor.", "label": "entailment"}
+{"premise": "If the girl had gave up shutting the door, the doctor would have bet $100 on the race.", "hypothesis": "The girl had been shutting the door.", "label": "entailment"}
+{"premise": "If the manager had gave up reading the letter, the child could have split the log.", "hypothesis": "The manager had been reading the letter.", "label": "entailment"}
+{"premise": "If the woman had quit hitting the ball with the bat, the teacher could have read the letter.", "hypothesis": "The woman had been hitting the ball with the bat.", "label": "entailment"}
+{"premise": "If the stranger had continued letting the blinds down, the worker could have split the log.", "hypothesis": "The stranger had been letting the blinds down.", "label": "entailment"}
+{"premise": "If the professor had stopped casting bronze into a statue, the manager could have hit the ball with the bat.", "hypothesis": "The professor had been casting bronze into a statue.", "label": "entailment"}
+{"premise": "If the girl had finished shedding tears, the singer would have thrust the fork into the cake.", "hypothesis": "The girl had been shedding tears.", "label": "entailment"}
+{"premise": "If the singer had kept shedding tears, the stranger would have hit the ball with the bat.", "hypothesis": "The singer had been shedding tears.", "label": "entailment"}
+{"premise": "If the student had stopped thrusting the fork into the cake, the woman would have bet $100 on the race.", "hypothesis": "The student had been thrusting the fork into the cake.", "label": "entailment"}
+{"premise": "If the manager had kept hurting others, the stranger would have hit the ball with the bat.", "hypothesis": "The manager had been hurting others.", "label": "entailment"}
+{"premise": "If the manager had quit casting bronze into a statue, the kid could have let the blinds down.", "hypothesis": "The manager had been casting bronze into a statue.", "label": "entailment"}
+{"premise": "If the manager had gave up casting bronze into a statue, the worker could have put the book on the shelf.", "hypothesis": "The manager had been casting bronze into a statue.", "label": "entailment"}
+{"premise": "If the child had continued letting the blinds down, the man would have bet $100 on the race.", "hypothesis": "The child had been letting the blinds down.", "label": "entailment"}
+{"premise": "If the singer had gave up hurting others, the kid could have shed tears.", "hypothesis": "The singer had been hurting others.", "label": "entailment"}
+{"premise": "If the worker had stopped letting the blinds down, the student could have shed tears.", "hypothesis": "The worker had been letting the blinds down.", "label": "entailment"}
+{"premise": "If the dancer had kept casting bronze into a statue, the manager would have hit the ball with the bat.", "hypothesis": "The dancer had been casting bronze into a statue.", "label": "entailment"}
+{"premise": "If the kid had gave up reading the letter, the dancer could have hurt others.", "hypothesis": "The kid had been reading the letter.", "label": "entailment"}
+{"premise": "If the girl had stopped thrusting the fork into the cake, the worker would have put the book on the shelf.", "hypothesis": "The girl had been thrusting the fork into the cake.", "label": "entailment"}
+{"premise": "If the doctor had stopped upsetting the boat, the stranger could have spread the rumor.", "hypothesis": "The doctor had been upsetting the boat.", "label": "entailment"}
+{"premise": "If the worker had ceased betting $100 on the race, the girl would have shut the door.", "hypothesis": "The worker had been betting $100 on the race.", "label": "entailment"}
+{"premise": "If the director had stopped casting bronze into a statue, the singer could have hit the ball with the bat.", "hypothesis": "The director had been casting bronze into a statue.", "label": "entailment"}
+{"premise": "If the athlete had kept shedding tears, the teacher could have put the book on the shelf.", "hypothesis": "The athlete had been shedding tears.", "label": "entailment"}
+{"premise": "If the woman had kept hurting others, the teacher could have split the log.", "hypothesis": "The woman had not been hurting others.", "label": "contradiction"}
+{"premise": "If the worker had finished splitting the log, the kid would have set the dish on the table.", "hypothesis": "The worker had not been splitting the log.", "label": "contradiction"}
+{"premise": "If the manager had continued splitting the log, the dancer would have upset the boat.", "hypothesis": "The manager had not been splitting the log.", "label": "contradiction"}
+{"premise": "If the child had quit putting the book on the shelf, the singer could have upset the boat.", "hypothesis": "The child had not been putting the book on the shelf.", "label": "contradiction"}
+{"premise": "If the worker had gave up hitting the ball with the bat, the manager could have spread the rumor.", "hypothesis": "The worker had not been hitting the ball with the bat.", "label": "contradiction"}
+{"premise": "If the woman had quit shedding tears, the student could have bet $100 on the race.", "hypothesis": "The woman had not been shedding tears.", "label": "contradiction"}
+{"premise": "If the dancer had gave up bursting into the room, the kid would have upset the boat.", "hypothesis": "The dancer had not been bursting into the room.", "label": "contradiction"}
+{"premise": "If the girl had stopped putting the book on the shelf, the child would have split the log.", "hypothesis": "The girl had not been putting the book on the shelf.", "label": "contradiction"}
+{"premise": "If the student had stopped hurting others, the dancer could have shed tears.", "hypothesis": "The student had not been hurting others.", "label": "contradiction"}
+{"premise": "If the child had kept shedding tears, the doctor could have burst into the room.", "hypothesis": "The child had not been shedding tears.", "label": "contradiction"}
+{"premise": "If the doctor had quit bursting into the room, the dancer would have cast bronze into a statue.", "hypothesis": "The doctor had not been bursting into the room.", "label": "contradiction"}
+{"premise": "If the professor had kept hitting the ball with the bat, the boy could have cast bronze into a statue.", "hypothesis": "The professor had not been hitting the ball with the bat.", "label": "contradiction"}
+{"premise": "If the teacher had finished setting the dish on the table, the manager would have slit the envelope.", "hypothesis": "The teacher had not been setting the dish on the table.", "label": "contradiction"}
+{"premise": "If the dancer had continued thrusting the fork into the cake, the athlete could have cast bronze into a statue.", "hypothesis": "The dancer had not been thrusting the fork into the cake.", "label": "contradiction"}
+{"premise": "If the teacher had ceased reading the letter, the boy would have hurt others.", "hypothesis": "The teacher had not been reading the letter.", "label": "contradiction"}
+{"premise": "If the doctor had stopped shutting the door, the dancer would have shed tears.", "hypothesis": "The doctor had not been shutting the door.", "label": "contradiction"}
+{"premise": "If the student had quit splitting the log, the assistant would have burst into the room.", "hypothesis": "The student had not been splitting the log.", "label": "contradiction"}
+{"premise": "If the manager had kept spreading the rumor, the student would have cast bronze into a statue.", "hypothesis": "The manager had not been spreading the rumor.", "label": "contradiction"}
+{"premise": "If the woman had finished shedding tears, the dancer could have burst into the room.", "hypothesis": "The woman had not been shedding tears.", "label": "contradiction"}
+{"premise": "If the stranger had continued betting $100 on the race, the worker would have slit the envelope.", "hypothesis": "The stranger had not been betting $100 on the race.", "label": "contradiction"}
+{"premise": "If the director had quit thrusting the fork into the cake, the singer would have put the book on the shelf.", "hypothesis": "The director had not been thrusting the fork into the cake.", "label": "contradiction"}
+{"premise": "If the assistant had ceased setting the dish on the table, the man would have shed tears.", "hypothesis": "The assistant had not been setting the dish on the table.", "label": "contradiction"}
+{"premise": "If the stranger had gave up spreading the rumor, the singer would have upset the boat.", "hypothesis": "The stranger had not been spreading the rumor.", "label": "contradiction"}
+{"premise": "If the man had finished casting bronze into a statue, the professor would have hit the ball with the bat.", "hypothesis": "The man had not been casting bronze into a statue.", "label": "contradiction"}
+{"premise": "If the man had stopped thrusting the fork into the cake, the director could have bet $100 on the race.", "hypothesis": "The man had not been thrusting the fork into the cake.", "label": "contradiction"}
+{"premise": "If the kid had stopped slitting the envelope, the boy would have burst into the room.", "hypothesis": "The kid had not been slitting the envelope.", "label": "contradiction"}
+{"premise": "If the child had continued casting bronze into a statue, the teacher would have let the blinds down.", "hypothesis": "The child had not been casting bronze into a statue.", "label": "contradiction"}
+{"premise": "If the boy had kept betting $100 on the race, the professor would have spread the rumor.", "hypothesis": "The boy had not been betting $100 on the race.", "label": "contradiction"}
+{"premise": "If the stranger had kept thrusting the fork into the cake, the man would have set the dish on the table.", "hypothesis": "The stranger had not been thrusting the fork into the cake.", "label": "contradiction"}
+{"premise": "If the man had kept putting the book on the shelf, the boy could have split the log.", "hypothesis": "The man had not been putting the book on the shelf.", "label": "contradiction"}
+{"premise": "If the athlete had finished betting $100 on the race, the manager could have cast bronze into a statue.", "hypothesis": "The athlete had not been betting $100 on the race.", "label": "contradiction"}
+{"premise": "If the boy had gave up shedding tears, the dancer could have burst into the room.", "hypothesis": "The boy had not been shedding tears.", "label": "contradiction"}
+{"premise": "If the woman had finished bursting into the room, the boy would have hit the ball with the bat.", "hypothesis": "The woman had not been bursting into the room.", "label": "contradiction"}
+{"premise": "If the man had stopped putting the book on the shelf, the dancer could have read the letter.", "hypothesis": "The man had not been putting the book on the shelf.", "label": "contradiction"}
+{"premise": "If the director had ceased thrusting the fork into the cake, the child would have cast bronze into a statue.", "hypothesis": "The director had not been thrusting the fork into the cake.", "label": "contradiction"}
+{"premise": "If the dancer had continued hitting the ball with the bat, the worker would have thrust the fork into the cake.", "hypothesis": "The dancer had not been hitting the ball with the bat.", "label": "contradiction"}
+{"premise": "If the woman had kept reading the letter, the manager could have let the blinds down.", "hypothesis": "The woman had not been reading the letter.", "label": "contradiction"}
+{"premise": "If the worker had finished betting $100 on the race, the dancer could have let the blinds down.", "hypothesis": "The worker had not been betting $100 on the race.", "label": "contradiction"}
+{"premise": "If the singer had quit splitting the log, the girl would have bet $100 on the race.", "hypothesis": "The singer had not been splitting the log.", "label": "contradiction"}
+{"premise": "If the dancer had quit bursting into the room, the athlete could have thrust the fork into the cake.", "hypothesis": "The dancer had not been bursting into the room.", "label": "contradiction"}
+{"premise": "If the child had gave up shedding tears, the manager could have split the log.", "hypothesis": "The child had not been shedding tears.", "label": "contradiction"}
+{"premise": "If the singer had kept putting the book on the shelf, the worker would have upset the boat.", "hypothesis": "The singer had not been putting the book on the shelf.", "label": "contradiction"}
+{"premise": "If the kid had finished thrusting the fork into the cake, the woman would have let the blinds down.", "hypothesis": "The kid had not been thrusting the fork into the cake.", "label": "contradiction"}
+{"premise": "If the student had finished putting the book on the shelf, the teacher would have burst into the room.", "hypothesis": "The student had not been putting the book on the shelf.", "label": "contradiction"}
+{"premise": "If the girl had gave up thrusting the fork into the cake, the woman could have set the dish on the table.", "hypothesis": "The girl had not been thrusting the fork into the cake.", "label": "contradiction"}
+{"premise": "If the student had quit bursting into the room, the professor could have bet $100 on the race.", "hypothesis": "The student had not been bursting into the room.", "label": "contradiction"}
+{"premise": "If the stranger had quit splitting the log, the athlete could have read the letter.", "hypothesis": "The stranger had not been splitting the log.", "label": "contradiction"}
+{"premise": "If the worker had continued putting the book on the shelf, the woman would have spread the rumor.", "hypothesis": "The worker had not been putting the book on the shelf.", "label": "contradiction"}
+{"premise": "If the athlete had finished setting the dish on the table, the assistant could have upset the boat.", "hypothesis": "The athlete had not been setting the dish on the table.", "label": "contradiction"}
+{"premise": "If the woman had quit hitting the ball with the bat, the boy would have slit the envelope.", "hypothesis": "The woman had not been hitting the ball with the bat.", "label": "contradiction"}
+{"premise": "If the student had quit bursting into the room, the manager could have put the book on the shelf.", "hypothesis": "The student had not been bursting into the room.", "label": "contradiction"}
+{"premise": "If the doctor had kept reading the letter, the kid could have put the book on the shelf.", "hypothesis": "The doctor had not been reading the letter.", "label": "contradiction"}
+{"premise": "If the professor had finished hitting the ball with the bat, the manager could have upset the boat.", "hypothesis": "The professor had not been hitting the ball with the bat.", "label": "contradiction"}
+{"premise": "If the kid had stopped shutting the door, the manager would have bet $100 on the race.", "hypothesis": "The kid had not been shutting the door.", "label": "contradiction"}
+{"premise": "If the stranger had ceased setting the dish on the table, the director could have hit the ball with the bat.", "hypothesis": "The stranger had not been setting the dish on the table.", "label": "contradiction"}
+{"premise": "If the worker had finished reading the letter, the stranger would have cast bronze into a statue.", "hypothesis": "The worker had not been reading the letter.", "label": "contradiction"}
+{"premise": "If the athlete had kept casting bronze into a statue, the professor would have upset the boat.", "hypothesis": "The athlete had not been casting bronze into a statue.", "label": "contradiction"}
+{"premise": "If the doctor had finished spreading the rumor, the man could have bet $100 on the race.", "hypothesis": "The doctor had not been spreading the rumor.", "label": "contradiction"}
+{"premise": "If the assistant had gave up setting the dish on the table, the manager would have spread the rumor.", "hypothesis": "The assistant had not been setting the dish on the table.", "label": "contradiction"}
+{"premise": "If the student had stopped casting bronze into a statue, the doctor could have shed tears.", "hypothesis": "The student had not been casting bronze into a statue.", "label": "contradiction"}
+{"premise": "If the man had ceased shedding tears, the worker would have read the letter.", "hypothesis": "The man had not been shedding tears.", "label": "contradiction"}
+{"premise": "If the boy had finished slitting the envelope, the professor would have let the blinds down.", "hypothesis": "The boy had not been slitting the envelope.", "label": "contradiction"}
+{"premise": "If the child had ceased letting the blinds down, the athlete could have shut the door.", "hypothesis": "The child had not been letting the blinds down.", "label": "contradiction"}
+{"premise": "If the dancer had quit shedding tears, the professor would have cast bronze into a statue.", "hypothesis": "The dancer had not been shedding tears.", "label": "contradiction"}
+{"premise": "If the athlete had quit shedding tears, the stranger would have put the book on the shelf.", "hypothesis": "The athlete had not been shedding tears.", "label": "contradiction"}
+{"premise": "If the girl had ceased hurting others, the singer could have upset the boat.", "hypothesis": "The girl had not been hurting others.", "label": "contradiction"}
+{"premise": "If the kid had ceased shedding tears, the worker would have put the book on the shelf.", "hypothesis": "The kid had not been shedding tears.", "label": "contradiction"}
+{"premise": "If the director had stopped upsetting the boat, the man could have burst into the room.", "hypothesis": "The director had not been upsetting the boat.", "label": "contradiction"}
+{"premise": "If the assistant had kept hitting the ball with the bat, the boy could have bet $100 on the race.", "hypothesis": "The assistant had not been hitting the ball with the bat.", "label": "contradiction"}
+{"premise": "If the boy had finished setting the dish on the table, the dancer could have shed tears.", "hypothesis": "The boy had not been setting the dish on the table.", "label": "contradiction"}
+{"premise": "If the worker had gave up shedding tears, the girl would have put the book on the shelf.", "hypothesis": "The worker had not been shedding tears.", "label": "contradiction"}
+{"premise": "If the girl had stopped upsetting the boat, the assistant could have hit the ball with the bat.", "hypothesis": "The girl had not been upsetting the boat.", "label": "contradiction"}
+{"premise": "If the girl had ceased splitting the log, the professor could have hurt others.", "hypothesis": "The girl had not been splitting the log.", "label": "contradiction"}
+{"premise": "If the kid had gave up thrusting the fork into the cake, the assistant could have upset the boat.", "hypothesis": "The kid had not been thrusting the fork into the cake.", "label": "contradiction"}
+{"premise": "If the dancer had finished slitting the envelope, the doctor could have hit the ball with the bat.", "hypothesis": "The dancer had not been slitting the envelope.", "label": "contradiction"}
+{"premise": "If the kid had finished spreading the rumor, the athlete could have upset the boat.", "hypothesis": "The kid had not been spreading the rumor.", "label": "contradiction"}
+{"premise": "If the student had gave up shedding tears, the child would have bet $100 on the race.", "hypothesis": "The student had not been shedding tears.", "label": "contradiction"}
+{"premise": "If the man had quit reading the letter, the doctor could have shed tears.", "hypothesis": "The man had not been reading the letter.", "label": "contradiction"}
+{"premise": "If the dancer had stopped betting $100 on the race, the singer could have let the blinds down.", "hypothesis": "The dancer had not been betting $100 on the race.", "label": "contradiction"}
+{"premise": "If the singer had quit shedding tears, the director would have shut the door.", "hypothesis": "The singer had not been shedding tears.", "label": "contradiction"}
+{"premise": "If the student had quit thrusting the fork into the cake, the doctor could have bet $100 on the race.", "hypothesis": "The student had not been thrusting the fork into the cake.", "label": "contradiction"}
+{"premise": "If the athlete had kept hurting others, the director could have put the book on the shelf.", "hypothesis": "The athlete had not been hurting others.", "label": "contradiction"}
+{"premise": "If the woman had kept putting the book on the shelf, the athlete would have spread the rumor.", "hypothesis": "The woman had not been putting the book on the shelf.", "label": "contradiction"}
+{"premise": "If the child had stopped reading the letter, the woman would have slit the envelope.", "hypothesis": "The child had not been reading the letter.", "label": "contradiction"}
+{"premise": "If the manager had finished reading the letter, the child would have shed tears.", "hypothesis": "The manager had not been reading the letter.", "label": "contradiction"}
+{"premise": "If the manager had finished betting $100 on the race, the kid would have burst into the room.", "hypothesis": "The manager had not been betting $100 on the race.", "label": "contradiction"}
+{"premise": "If the athlete had quit bursting into the room, the child would have split the log.", "hypothesis": "The athlete had not been bursting into the room.", "label": "contradiction"}
+{"premise": "If the boy had gave up putting the book on the shelf, the manager could have slit the envelope.", "hypothesis": "The boy had not been putting the book on the shelf.", "label": "contradiction"}
+{"premise": "If the man had gave up casting bronze into a statue, the student could have slit the envelope.", "hypothesis": "The man had not been casting bronze into a statue.", "label": "contradiction"}
+{"premise": "If the boy had gave up casting bronze into a statue, the director could have hit the ball with the bat.", "hypothesis": "The boy had not been casting bronze into a statue.", "label": "contradiction"}
+{"premise": "If the kid had stopped betting $100 on the race, the student could have set the dish on the table.", "hypothesis": "The kid had not been betting $100 on the race.", "label": "contradiction"}
+{"premise": "If the boy had gave up putting the book on the shelf, the teacher could have hurt others.", "hypothesis": "The boy had not been putting the book on the shelf.", "label": "contradiction"}
+{"premise": "If the professor had continued spreading the rumor, the man could have hit the ball with the bat.", "hypothesis": "The professor had not been spreading the rumor.", "label": "contradiction"}
+{"premise": "If the dancer had kept thrusting the fork into the cake, the singer would have read the letter.", "hypothesis": "The dancer had not been thrusting the fork into the cake.", "label": "contradiction"}
+{"premise": "If the manager had continued letting the blinds down, the dancer would have hit the ball with the bat.", "hypothesis": "The manager had not been letting the blinds down.", "label": "contradiction"}
+{"premise": "If the dancer had quit upsetting the boat, the woman would have slit the envelope.", "hypothesis": "The dancer had not been upsetting the boat.", "label": "contradiction"}
+{"premise": "If the woman had kept putting the book on the shelf, the student would have shed tears.", "hypothesis": "The woman had not been putting the book on the shelf.", "label": "contradiction"}
+{"premise": "If the director had continued thrusting the fork into the cake, the stranger would have spread the rumor.", "hypothesis": "The director had not been thrusting the fork into the cake.", "label": "contradiction"}
+{"premise": "If the woman had continued setting the dish on the table, the child could have slit the envelope.", "hypothesis": "The woman had not been setting the dish on the table.", "label": "contradiction"}
+{"premise": "If the kid had stopped hitting the ball with the bat, the athlete would have thrust the fork into the cake.", "hypothesis": "The kid had not been hitting the ball with the bat.", "label": "contradiction"}

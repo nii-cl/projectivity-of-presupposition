@@ -1,0 +1,201 @@
+	sentence1	sentence2	label	heuristics	example1	example2	split
+600	The child spread the rumor better than the doctor.	 The child spread the rumor.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+601	The director set the dish on the table more seriously than the worker.	 The director set the dish on the table.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+602	The student hit the ball with the bat worse than the worker.	 The student hit the ball with the bat.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+603	The dancer thrust the fork into the cake better than the professor.	 The dancer thrust the fork into the cake.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+604	The director thrust the fork into the cake better than the man.	 The director thrust the fork into the cake.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+605	The director slit the envelope worse than the woman.	 The director slit the envelope.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+606	The woman burst into the room better than the dancer.	 The woman burst into the room.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+607	The child bet $100 on the race better than the doctor.	 The child bet $100 on the race.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+608	The girl read the letter worse than the manager.	 The girl read the letter.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+609	The director set the dish on the table worse than the athlete.	 The director set the dish on the table.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+610	The boy let the blinds down more seriously than the doctor.	 The boy let the blinds down.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+611	The man cast bronze into a statue better than the assistant.	 The man cast bronze into a statue.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+612	The stranger shed tears more seriously than the kid.	 The stranger shed tears.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+613	The singer set the dish on the table earlier than the professor.	 The singer set the dish on the table.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+614	The professor burst into the room more seriously than the stranger.	 The professor burst into the room.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+615	The assistant shed tears better than the professor.	 The assistant shed tears.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+616	The singer shed tears better than the girl.	 The singer shed tears.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+617	The boy bet $100 on the race more seriously than the kid.	 The boy bet $100 on the race.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+618	The stranger let the blinds down more seriously than the man.	 The stranger let the blinds down.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+619	The girl upset the boat better than the student.	 The girl upset the boat.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+620	The professor shut the door earlier than the stranger.	 The professor shut the door.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+621	The manager set the dish on the table earlier than the singer.	 The manager set the dish on the table.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+622	The girl split the log worse than the director.	 The girl split the log.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+623	The man shut the door earlier than the worker.	 The man shut the door.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+624	The worker cast bronze into a statue better than the professor.	 The worker cast bronze into a statue.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	test
+625	The athlete let the blinds down worse than the worker.	 The athlete let the blinds down.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+626	The singer upset the boat more seriously than the manager.	 The singer upset the boat.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+627	The man let the blinds down more seriously than the dancer.	 The man let the blinds down.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+628	The singer bet $100 on the race better than the girl.	 The singer bet $100 on the race.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+629	The man burst into the room better than the woman.	 The man burst into the room.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+630	The man shed tears more seriously than the professor.	 The man shed tears.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+631	The boy cast bronze into a statue better than the teacher.	 The boy cast bronze into a statue.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+632	The stranger bet $100 on the race worse than the director.	 The stranger bet $100 on the race.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	test
+633	The athlete burst into the room better than the dancer.	 The athlete burst into the room.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+634	The girl hurt others earlier than the woman.	 The girl hurt others.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	test
+635	The woman shed tears more seriously than the worker.	 The woman shed tears.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+636	The worker cast bronze into a statue more seriously than the teacher.	 The worker cast bronze into a statue.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+637	The singer burst into the room worse than the director.	 The singer burst into the room.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+638	The teacher split the log better than the man.	 The teacher split the log.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+639	The teacher let the blinds down worse than the stranger.	 The teacher let the blinds down.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+640	The worker shed tears better than the child.	 The worker shed tears.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+641	The dancer read the letter worse than the teacher.	 The dancer read the letter.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+642	The athlete set the dish on the table earlier than the woman.	 The athlete set the dish on the table.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+643	The doctor hurt others earlier than the professor.	 The doctor hurt others.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+644	The kid thrust the fork into the cake better than the stranger.	 The kid thrust the fork into the cake.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+645	The assistant bet $100 on the race earlier than the stranger.	 The assistant bet $100 on the race.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+646	The manager read the letter more seriously than the doctor.	 The manager read the letter.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	test
+647	The stranger burst into the room better than the assistant.	 The stranger burst into the room.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+648	The worker bet $100 on the race earlier than the athlete.	 The worker bet $100 on the race.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+649	The worker thrust the fork into the cake more seriously than the child.	 The worker thrust the fork into the cake.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+650	The girl put the book on the shelf more seriously than the athlete.	 The girl put the book on the shelf.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+651	The man burst into the room worse than the girl.	 The man burst into the room.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+652	The student spread the rumor better than the dancer.	 The student spread the rumor.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+653	The woman let the blinds down worse than the professor.	 The woman let the blinds down.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+654	The assistant thrust the fork into the cake better than the woman.	 The assistant thrust the fork into the cake.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+655	The professor shut the door better than the teacher.	 The professor shut the door.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+656	The man hit the ball with the bat more seriously than the child.	 The man hit the ball with the bat.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+657	The dancer read the letter better than the doctor.	 The dancer read the letter.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+658	The woman read the letter more seriously than the girl.	 The woman read the letter.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+659	The kid shed tears earlier than the manager.	 The kid shed tears.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+660	The manager let the blinds down earlier than the assistant.	 The manager let the blinds down.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+661	The athlete upset the boat better than the man.	 The athlete upset the boat.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+662	The doctor set the dish on the table worse than the girl.	 The doctor set the dish on the table.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+663	The kid hit the ball with the bat worse than the worker.	 The kid hit the ball with the bat.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+664	The doctor upset the boat worse than the worker.	 The doctor upset the boat.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+665	The boy cast bronze into a statue worse than the doctor.	 The boy cast bronze into a statue.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+666	The kid hurt others worse than the man.	 The kid hurt others.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+667	The stranger burst into the room worse than the doctor.	 The stranger burst into the room.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+668	The director let the blinds down better than the teacher.	 The director let the blinds down.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+669	The teacher spread the rumor worse than the professor.	 The teacher spread the rumor.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+670	The doctor read the letter better than the worker.	 The doctor read the letter.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+671	The woman hit the ball with the bat more seriously than the dancer.	 The woman hit the ball with the bat.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+672	The dancer upset the boat better than the kid.	 The dancer upset the boat.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+673	The woman hit the ball with the bat more seriously than the professor.	 The woman hit the ball with the bat.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+674	The boy spread the rumor earlier than the student.	 The boy spread the rumor.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+675	The assistant bet $100 on the race better than the stranger.	 The assistant bet $100 on the race.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+676	The boy cast bronze into a statue more seriously than the girl.	 The boy cast bronze into a statue.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+677	The student set the dish on the table earlier than the man.	 The student set the dish on the table.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+678	The kid split the log worse than the stranger.	 The kid split the log.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+679	The professor put the book on the shelf more seriously than the child.	 The professor put the book on the shelf.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+680	The assistant thrust the fork into the cake earlier than the worker.	 The assistant thrust the fork into the cake.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+681	The director let the blinds down worse than the girl.	 The director let the blinds down.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+682	The singer hurt others worse than the manager.	 The singer hurt others.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+683	The stranger let the blinds down better than the athlete.	 The stranger let the blinds down.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+684	The stranger burst into the room better than the girl.	 The stranger burst into the room.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+685	The girl split the log earlier than the dancer.	 The girl split the log.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+686	The director hurt others earlier than the doctor.	 The director hurt others.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+687	The boy let the blinds down earlier than the dancer.	 The boy let the blinds down.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+688	The kid upset the boat better than the doctor.	 The kid upset the boat.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+689	The doctor thrust the fork into the cake earlier than the professor.	 The doctor thrust the fork into the cake.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+690	The singer spread the rumor more seriously than the dancer.	 The singer spread the rumor.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+691	The kid hit the ball with the bat better than the boy.	 The kid hit the ball with the bat.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+692	The director set the dish on the table more seriously than the teacher.	 The director set the dish on the table.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+693	The man put the book on the shelf more seriously than the kid.	 The man put the book on the shelf.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+694	The boy thrust the fork into the cake better than the girl.	 The boy thrust the fork into the cake.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+695	The athlete burst into the room better than the teacher.	 The athlete burst into the room.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+696	The professor thrust the fork into the cake earlier than the woman.	 The professor thrust the fork into the cake.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+697	The boy hurt others more seriously than the doctor.	 The boy hurt others.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+698	The assistant bet $100 on the race more seriously than the director.	 The assistant bet $100 on the race.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	test
+699	The professor spread the rumor more seriously than the woman.	 The professor spread the rumor.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+700	The stranger shut the door worse than the professor.	 The stranger did not shut the door.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+701	The teacher hit the ball with the bat better than the stranger.	 The teacher did not hit the ball with the bat.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+702	The professor cast bronze into a statue more seriously than the girl.	 The professor did not cast bronze into a statue.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+703	The student slit the envelope more seriously than the man.	 The student did not slit the envelope.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+704	The woman thrust the fork into the cake worse than the assistant.	 The woman did not thrust the fork into the cake.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+705	The woman put the book on the shelf earlier than the teacher.	 The woman did not put the book on the shelf.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+706	The director upset the boat earlier than the stranger.	 The director did not upset the boat.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+707	The teacher hurt others more seriously than the manager.	 The teacher did not hurt others.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+708	The boy let the blinds down worse than the singer.	 The boy did not let the blinds down.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+709	The director put the book on the shelf better than the woman.	 The director did not put the book on the shelf.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+710	The woman put the book on the shelf worse than the athlete.	 The woman did not put the book on the shelf.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+711	The stranger shed tears more seriously than the girl.	 The stranger did not shed tears.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+712	The teacher burst into the room better than the doctor.	 The teacher did not burst into the room.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+713	The director burst into the room more seriously than the worker.	 The director did not burst into the room.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+714	The student hurt others earlier than the manager.	 The student did not hurt others.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+715	The doctor split the log worse than the worker.	 The doctor did not split the log.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+716	The dancer spread the rumor better than the child.	 The dancer did not spread the rumor.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+717	The athlete read the letter more seriously than the girl.	 The athlete did not read the letter.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+718	The boy shed tears more seriously than the worker.	 The boy did not shed tears.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+719	The woman thrust the fork into the cake more seriously than the director.	 The woman did not thrust the fork into the cake.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+720	The professor thrust the fork into the cake more seriously than the worker.	 The professor did not thrust the fork into the cake.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+721	The kid read the letter worse than the girl.	 The kid did not read the letter.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+722	The manager upset the boat worse than the singer.	 The manager did not upset the boat.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+723	The stranger upset the boat worse than the assistant.	 The stranger did not upset the boat.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+724	The singer hurt others more seriously than the worker.	 The singer did not hurt others.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+725	The woman cast bronze into a statue earlier than the kid.	 The woman did not cast bronze into a statue.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	test
+726	The teacher bet $100 on the race worse than the kid.	 The teacher did not bet $100 on the race.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+727	The professor thrust the fork into the cake worse than the man.	 The professor did not thrust the fork into the cake.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+728	The girl slit the envelope more seriously than the boy.	 The girl did not slit the envelope.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+729	The athlete set the dish on the table earlier than the dancer.	 The athlete did not set the dish on the table.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+730	The manager shut the door worse than the assistant.	 The manager did not shut the door.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+731	The assistant spread the rumor better than the worker.	 The assistant did not spread the rumor.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+732	The assistant hit the ball with the bat earlier than the man.	 The assistant did not hit the ball with the bat.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+733	The man thrust the fork into the cake more seriously than the assistant.	 The man did not thrust the fork into the cake.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+734	The stranger put the book on the shelf worse than the child.	 The stranger did not put the book on the shelf.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+735	The dancer bet $100 on the race worse than the singer.	 The dancer did not bet $100 on the race.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+736	The kid slit the envelope better than the stranger.	 The kid did not slit the envelope.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+737	The director shut the door better than the woman.	 The director did not shut the door.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+738	The kid burst into the room worse than the woman.	 The kid did not burst into the room.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+739	The kid let the blinds down earlier than the teacher.	 The kid did not let the blinds down.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+740	The manager shut the door better than the worker.	 The manager did not shut the door.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+741	The manager hit the ball with the bat earlier than the man.	 The manager did not hit the ball with the bat.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+742	The man shed tears worse than the director.	 The man did not shed tears.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	test
+743	The student split the log earlier than the dancer.	 The student did not split the log.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+744	The athlete put the book on the shelf earlier than the man.	 The athlete did not put the book on the shelf.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+745	The professor set the dish on the table better than the teacher.	 The professor did not set the dish on the table.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+746	The teacher slit the envelope worse than the stranger.	 The teacher did not slit the envelope.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+747	The woman cast bronze into a statue earlier than the teacher.	 The woman did not cast bronze into a statue.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+748	The professor shed tears more seriously than the dancer.	 The professor did not shed tears.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+749	The doctor hurt others more seriously than the woman.	 The doctor did not hurt others.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+750	The worker cast bronze into a statue more seriously than the manager.	 The worker did not cast bronze into a statue.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+751	The boy split the log earlier than the woman.	 The boy did not split the log.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	test
+752	The stranger shut the door worse than the dancer.	 The stranger did not shut the door.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+753	The worker split the log better than the girl.	 The worker did not split the log.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+754	The athlete cast bronze into a statue earlier than the professor.	 The athlete did not cast bronze into a statue.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+755	The assistant bet $100 on the race more seriously than the athlete.	 The assistant did not bet $100 on the race.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+756	The doctor upset the boat earlier than the assistant.	 The doctor did not upset the boat.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+757	The boy split the log more seriously than the teacher.	 The boy did not split the log.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+758	The woman hit the ball with the bat earlier than the kid.	 The woman did not hit the ball with the bat.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+759	The worker let the blinds down more seriously than the dancer.	 The worker did not let the blinds down.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+760	The assistant slit the envelope better than the worker.	 The assistant did not slit the envelope.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+761	The student hit the ball with the bat better than the teacher.	 The student did not hit the ball with the bat.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+762	The dancer thrust the fork into the cake better than the singer.	 The dancer did not thrust the fork into the cake.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	test
+763	The man put the book on the shelf earlier than the girl.	 The man did not put the book on the shelf.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+764	The teacher thrust the fork into the cake more seriously than the girl.	 The teacher did not thrust the fork into the cake.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+765	The student thrust the fork into the cake worse than the child.	 The student did not thrust the fork into the cake.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+766	The dancer spread the rumor earlier than the girl.	 The dancer did not spread the rumor.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+767	The worker cast bronze into a statue earlier than the manager.	 The worker did not cast bronze into a statue.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+768	The worker burst into the room earlier than the teacher.	 The worker did not burst into the room.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+769	The doctor thrust the fork into the cake earlier than the professor.	 The doctor did not thrust the fork into the cake.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+770	The boy thrust the fork into the cake earlier than the girl.	 The boy did not thrust the fork into the cake.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+771	The singer thrust the fork into the cake worse than the man.	 The singer did not thrust the fork into the cake.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+772	The doctor hit the ball with the bat more seriously than the dancer.	 The doctor did not hit the ball with the bat.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+773	The athlete split the log better than the director.	 The athlete did not split the log.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+774	The student shut the door earlier than the child.	 The student did not shut the door.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+775	The doctor cast bronze into a statue better than the assistant.	 The doctor did not cast bronze into a statue.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+776	The assistant set the dish on the table more seriously than the athlete.	 The assistant did not set the dish on the table.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+777	The director set the dish on the table worse than the athlete.	 The director did not set the dish on the table.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+778	The singer split the log more seriously than the athlete.	 The singer did not split the log.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+779	The professor upset the boat more seriously than the student.	 The professor did not upset the boat.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+780	The director read the letter earlier than the dancer.	 The director did not read the letter.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+781	The man spread the rumor more seriously than the stranger.	 The man did not spread the rumor.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+782	The worker read the letter better than the girl.	 The worker did not read the letter.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+783	The girl shed tears worse than the man.	 The girl did not shed tears.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+784	The professor upset the boat more seriously than the kid.	 The professor did not upset the boat.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+785	The director read the letter worse than the worker.	 The director did not read the letter.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+786	The director burst into the room more seriously than the professor.	 The director did not burst into the room.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+787	The stranger upset the boat more seriously than the teacher.	 The stranger did not upset the boat.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+788	The girl put the book on the shelf worse than the professor.	 The girl did not put the book on the shelf.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+789	The man spread the rumor earlier than the student.	 The man did not spread the rumor.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+790	The worker read the letter earlier than the teacher.	 The worker did not read the letter.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+791	The woman spread the rumor more seriously than the boy.	 The woman did not spread the rumor.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+792	The singer hurt others earlier than the kid.	 The singer did not hurt others.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+793	The kid spread the rumor worse than the teacher.	 The kid did not spread the rumor.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+794	The child slit the envelope more seriously than the woman.	 The child did not slit the envelope.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+795	The child put the book on the shelf more seriously than the kid.	 The child did not put the book on the shelf.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+796	The child cast bronze into a statue more seriously than the manager.	 The child did not cast bronze into a statue.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+797	The worker hurt others worse than the director.	 The worker did not hurt others.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+798	The singer hit the ball with the bat more seriously than the child.	 The singer did not hit the ball with the bat.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	train
+799	The stranger hurt others earlier than the athlete.	 The stranger did not hurt others.	contradiction	 -	 The doctor cut the tree better than the singer.	 The doctor did not cut the tree	test

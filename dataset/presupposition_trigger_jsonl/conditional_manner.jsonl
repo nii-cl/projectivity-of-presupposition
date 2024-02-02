@@ -1,0 +1,200 @@
+{"premise": "If the woman had shed tears calmly, the child could have hurt others.", "hypothesis": "The woman shed tears.", "label": "entailment"}
+{"premise": "If the doctor had set the dish on the table anxiously, the athlete could have let the blinds down.", "hypothesis": "The doctor set the dish on the table.", "label": "entailment"}
+{"premise": "If the singer had spread the rumor quickly, the worker could have hit the ball with the bat.", "hypothesis": "The singer spread the rumor.", "label": "entailment"}
+{"premise": "If the teacher had shed tears easily, the worker would have upset the boat.", "hypothesis": "The teacher shed tears.", "label": "entailment"}
+{"premise": "If the doctor had spread the rumor easily, the worker could have read the letter.", "hypothesis": "The doctor spread the rumor.", "label": "entailment"}
+{"premise": "If the girl had cast bronze into a statue quickly, the teacher would have let the blinds down.", "hypothesis": "The girl cast bronze into a statue.", "label": "entailment"}
+{"premise": "If the man had hit the ball with the bat happily, the assistant would have set the dish on the table.", "hypothesis": "The man hit the ball with the bat.", "label": "entailment"}
+{"premise": "If the girl had bet $100 on the race slowly, the woman could have upset the boat.", "hypothesis": "The girl bet $100 on the race.", "label": "entailment"}
+{"premise": "If the worker had upset the boat calmly, the boy could have spread the rumor.", "hypothesis": "The worker upset the boat.", "label": "entailment"}
+{"premise": "If the manager had put the book on the shelf anxiously, the dancer could have cast bronze into a statue.", "hypothesis": "The manager put the book on the shelf.", "label": "entailment"}
+{"premise": "If the kid had slit the envelope slowly, the singer could have shut the door.", "hypothesis": "The kid slit the envelope.", "label": "entailment"}
+{"premise": "If the man had cast bronze into a statue slowly, the doctor would have read the letter.", "hypothesis": "The man cast bronze into a statue.", "label": "entailment"}
+{"premise": "If the girl had burst into the room anxiously, the athlete would have upset the boat.", "hypothesis": "The girl burst into the room.", "label": "entailment"}
+{"premise": "If the doctor had split the log happily, the professor would have hurt others.", "hypothesis": "The doctor split the log.", "label": "entailment"}
+{"premise": "If the worker had read the letter sadly, the girl could have hurt others.", "hypothesis": "The worker read the letter.", "label": "entailment"}
+{"premise": "If the girl had upset the boat happily, the worker would have read the letter.", "hypothesis": "The girl upset the boat.", "label": "entailment"}
+{"premise": "If the dancer had burst into the room happily, the manager would have shut the door.", "hypothesis": "The dancer burst into the room.", "label": "entailment"}
+{"premise": "If the stranger had spread the rumor calmly, the dancer could have burst into the room.", "hypothesis": "The stranger spread the rumor.", "label": "entailment"}
+{"premise": "If the boy had shut the door quietly, the director could have thrust the fork into the cake.", "hypothesis": "The boy shut the door.", "label": "entailment"}
+{"premise": "If the singer had shut the door easily, the boy would have put the book on the shelf.", "hypothesis": "The singer shut the door.", "label": "entailment"}
+{"premise": "If the dancer had burst into the room happily, the assistant could have let the blinds down.", "hypothesis": "The dancer burst into the room.", "label": "entailment"}
+{"premise": "If the man had put the book on the shelf anxiously, the dancer could have thrust the fork into the cake.", "hypothesis": "The man put the book on the shelf.", "label": "entailment"}
+{"premise": "If the child had shed tears calmly, the boy would have put the book on the shelf.", "hypothesis": "The child shed tears.", "label": "entailment"}
+{"premise": "If the director had spread the rumor easily, the professor would have shed tears.", "hypothesis": "The director spread the rumor.", "label": "entailment"}
+{"premise": "If the dancer had upset the boat calmly, the stranger could have cast bronze into a statue.", "hypothesis": "The dancer upset the boat.", "label": "entailment"}
+{"premise": "If the professor had slit the envelope quickly, the student could have spread the rumor.", "hypothesis": "The professor slit the envelope.", "label": "entailment"}
+{"premise": "If the boy had burst into the room easily, the stranger would have set the dish on the table.", "hypothesis": "The boy burst into the room.", "label": "entailment"}
+{"premise": "If the boy had let the blinds down angrily, the assistant would have shut the door.", "hypothesis": "The boy let the blinds down.", "label": "entailment"}
+{"premise": "If the girl had hurt others quietly, the director could have thrust the fork into the cake.", "hypothesis": "The girl hurt others.", "label": "entailment"}
+{"premise": "If the teacher had upset the boat angrily, the student would have spread the rumor.", "hypothesis": "The teacher upset the boat.", "label": "entailment"}
+{"premise": "If the assistant had spread the rumor anxiously, the doctor could have bet $100 on the race.", "hypothesis": "The assistant spread the rumor.", "label": "entailment"}
+{"premise": "If the stranger had hit the ball with the bat anxiously, the athlete would have let the blinds down.", "hypothesis": "The stranger hit the ball with the bat.", "label": "entailment"}
+{"premise": "If the dancer had thrust the fork into the cake calmly, the child could have burst into the room.", "hypothesis": "The dancer thrust the fork into the cake.", "label": "entailment"}
+{"premise": "If the kid had cast bronze into a statue anxiously, the boy could have read the letter.", "hypothesis": "The kid cast bronze into a statue.", "label": "entailment"}
+{"premise": "If the director had bet $100 on the race anxiously, the man would have hit the ball with the bat.", "hypothesis": "The director bet $100 on the race.", "label": "entailment"}
+{"premise": "If the doctor had upset the boat easily, the girl would have split the log.", "hypothesis": "The doctor upset the boat.", "label": "entailment"}
+{"premise": "If the doctor had read the letter calmly, the woman could have put the book on the shelf.", "hypothesis": "The doctor read the letter.", "label": "entailment"}
+{"premise": "If the teacher had set the dish on the table angrily, the doctor would have spread the rumor.", "hypothesis": "The teacher set the dish on the table.", "label": "entailment"}
+{"premise": "If the doctor had burst into the room happily, the singer could have slit the envelope.", "hypothesis": "The doctor burst into the room.", "label": "entailment"}
+{"premise": "If the woman had hit the ball with the bat easily, the manager would have shed tears.", "hypothesis": "The woman hit the ball with the bat.", "label": "entailment"}
+{"premise": "If the girl had shut the door calmly, the stranger could have spread the rumor.", "hypothesis": "The girl shut the door.", "label": "entailment"}
+{"premise": "If the dancer had hit the ball with the bat slowly, the director would have put the book on the shelf.", "hypothesis": "The dancer hit the ball with the bat.", "label": "entailment"}
+{"premise": "If the athlete had put the book on the shelf anxiously, the boy would have hurt others.", "hypothesis": "The athlete put the book on the shelf.", "label": "entailment"}
+{"premise": "If the teacher had thrust the fork into the cake anxiously, the assistant would have burst into the room.", "hypothesis": "The teacher thrust the fork into the cake.", "label": "entailment"}
+{"premise": "If the worker had slit the envelope sadly, the professor would have split the log.", "hypothesis": "The worker slit the envelope.", "label": "entailment"}
+{"premise": "If the dancer had bet $100 on the race quickly, the doctor would have upset the boat.", "hypothesis": "The dancer bet $100 on the race.", "label": "entailment"}
+{"premise": "If the dancer had burst into the room angrily, the singer would have thrust the fork into the cake.", "hypothesis": "The dancer burst into the room.", "label": "entailment"}
+{"premise": "If the assistant had put the book on the shelf calmly, the manager would have shed tears.", "hypothesis": "The assistant put the book on the shelf.", "label": "entailment"}
+{"premise": "If the doctor had hit the ball with the bat calmly, the kid would have thrust the fork into the cake.", "hypothesis": "The doctor hit the ball with the bat.", "label": "entailment"}
+{"premise": "If the girl had slit the envelope anxiously, the singer could have upset the boat.", "hypothesis": "The girl slit the envelope.", "label": "entailment"}
+{"premise": "If the athlete had shut the door quickly, the worker would have burst into the room.", "hypothesis": "The athlete shut the door.", "label": "entailment"}
+{"premise": "If the woman had bet $100 on the race happily, the kid could have set the dish on the table.", "hypothesis": "The woman bet $100 on the race.", "label": "entailment"}
+{"premise": "If the girl had let the blinds down happily, the teacher would have put the book on the shelf.", "hypothesis": "The girl let the blinds down.", "label": "entailment"}
+{"premise": "If the teacher had put the book on the shelf easily, the athlete could have let the blinds down.", "hypothesis": "The teacher put the book on the shelf.", "label": "entailment"}
+{"premise": "If the manager had burst into the room happily, the assistant could have hit the ball with the bat.", "hypothesis": "The manager burst into the room.", "label": "entailment"}
+{"premise": "If the stranger had spread the rumor quietly, the man could have thrust the fork into the cake.", "hypothesis": "The stranger spread the rumor.", "label": "entailment"}
+{"premise": "If the child had hit the ball with the bat sadly, the professor would have slit the envelope.", "hypothesis": "The child hit the ball with the bat.", "label": "entailment"}
+{"premise": "If the doctor had spread the rumor angrily, the teacher would have put the book on the shelf.", "hypothesis": "The doctor spread the rumor.", "label": "entailment"}
+{"premise": "If the professor had hurt others quickly, the director would have let the blinds down.", "hypothesis": "The professor hurt others.", "label": "entailment"}
+{"premise": "If the teacher had shed tears quickly, the doctor could have shut the door.", "hypothesis": "The teacher shed tears.", "label": "entailment"}
+{"premise": "If the doctor had let the blinds down slowly, the child could have set the dish on the table.", "hypothesis": "The doctor let the blinds down.", "label": "entailment"}
+{"premise": "If the dancer had let the blinds down sadly, the woman could have hit the ball with the bat.", "hypothesis": "The dancer let the blinds down.", "label": "entailment"}
+{"premise": "If the kid had upset the boat anxiously, the teacher would have hit the ball with the bat.", "hypothesis": "The kid upset the boat.", "label": "entailment"}
+{"premise": "If the child had read the letter slowly, the teacher could have shut the door.", "hypothesis": "The child read the letter.", "label": "entailment"}
+{"premise": "If the boy had shut the door quickly, the man would have hurt others.", "hypothesis": "The boy shut the door.", "label": "entailment"}
+{"premise": "If the teacher had set the dish on the table easily, the assistant could have read the letter.", "hypothesis": "The teacher set the dish on the table.", "label": "entailment"}
+{"premise": "If the girl had set the dish on the table anxiously, the singer would have put the book on the shelf.", "hypothesis": "The girl set the dish on the table.", "label": "entailment"}
+{"premise": "If the teacher had let the blinds down slowly, the singer could have cast bronze into a statue.", "hypothesis": "The teacher let the blinds down.", "label": "entailment"}
+{"premise": "If the doctor had bet $100 on the race easily, the professor would have cast bronze into a statue.", "hypothesis": "The doctor bet $100 on the race.", "label": "entailment"}
+{"premise": "If the manager had let the blinds down easily, the athlete could have read the letter.", "hypothesis": "The manager let the blinds down.", "label": "entailment"}
+{"premise": "If the athlete had split the log calmly, the singer would have bet $100 on the race.", "hypothesis": "The athlete split the log.", "label": "entailment"}
+{"premise": "If the boy had put the book on the shelf sadly, the girl could have hurt others.", "hypothesis": "The boy put the book on the shelf.", "label": "entailment"}
+{"premise": "If the singer had burst into the room slowly, the manager could have read the letter.", "hypothesis": "The singer burst into the room.", "label": "entailment"}
+{"premise": "If the girl had shed tears happily, the singer would have hurt others.", "hypothesis": "The girl shed tears.", "label": "entailment"}
+{"premise": "If the dancer had split the log quietly, the professor would have let the blinds down.", "hypothesis": "The dancer split the log.", "label": "entailment"}
+{"premise": "If the professor had put the book on the shelf anxiously, the athlete would have slit the envelope.", "hypothesis": "The professor put the book on the shelf.", "label": "entailment"}
+{"premise": "If the woman had hurt others sadly, the professor could have burst into the room.", "hypothesis": "The woman hurt others.", "label": "entailment"}
+{"premise": "If the teacher had spread the rumor easily, the director would have shut the door.", "hypothesis": "The teacher spread the rumor.", "label": "entailment"}
+{"premise": "If the stranger had spread the rumor angrily, the athlete could have split the log.", "hypothesis": "The stranger spread the rumor.", "label": "entailment"}
+{"premise": "If the man had hurt others slowly, the professor could have hit the ball with the bat.", "hypothesis": "The man hurt others.", "label": "entailment"}
+{"premise": "If the teacher had burst into the room sadly, the man could have shut the door.", "hypothesis": "The teacher burst into the room.", "label": "entailment"}
+{"premise": "If the student had split the log sadly, the doctor would have hurt others.", "hypothesis": "The student split the log.", "label": "entailment"}
+{"premise": "If the boy had set the dish on the table quickly, the worker could have put the book on the shelf.", "hypothesis": "The boy set the dish on the table.", "label": "entailment"}
+{"premise": "If the dancer had hit the ball with the bat quickly, the worker would have set the dish on the table.", "hypothesis": "The dancer hit the ball with the bat.", "label": "entailment"}
+{"premise": "If the singer had bet $100 on the race quickly, the professor could have hit the ball with the bat.", "hypothesis": "The singer bet $100 on the race.", "label": "entailment"}
+{"premise": "If the man had thrust the fork into the cake angrily, the professor would have hurt others.", "hypothesis": "The man thrust the fork into the cake.", "label": "entailment"}
+{"premise": "If the dancer had let the blinds down quickly, the man would have burst into the room.", "hypothesis": "The dancer let the blinds down.", "label": "entailment"}
+{"premise": "If the assistant had thrust the fork into the cake sadly, the woman would have upset the boat.", "hypothesis": "The assistant thrust the fork into the cake.", "label": "entailment"}
+{"premise": "If the teacher had burst into the room anxiously, the manager could have put the book on the shelf.", "hypothesis": "The teacher burst into the room.", "label": "entailment"}
+{"premise": "If the boy had burst into the room anxiously, the teacher would have cast bronze into a statue.", "hypothesis": "The boy burst into the room.", "label": "entailment"}
+{"premise": "If the student had shut the door anxiously, the teacher could have read the letter.", "hypothesis": "The student shut the door.", "label": "entailment"}
+{"premise": "If the manager had shut the door angrily, the woman could have slit the envelope.", "hypothesis": "The manager shut the door.", "label": "entailment"}
+{"premise": "If the man had let the blinds down calmly, the dancer could have shut the door.", "hypothesis": "The man let the blinds down.", "label": "entailment"}
+{"premise": "If the worker had thrust the fork into the cake quickly, the director would have upset the boat.", "hypothesis": "The worker thrust the fork into the cake.", "label": "entailment"}
+{"premise": "If the teacher had set the dish on the table slowly, the kid would have hit the ball with the bat.", "hypothesis": "The teacher set the dish on the table.", "label": "entailment"}
+{"premise": "If the girl had set the dish on the table easily, the student would have burst into the room.", "hypothesis": "The girl set the dish on the table.", "label": "entailment"}
+{"premise": "If the singer had shed tears anxiously, the man would have burst into the room.", "hypothesis": "The singer shed tears.", "label": "entailment"}
+{"premise": "If the child had hit the ball with the bat quickly, the worker could have upset the boat.", "hypothesis": "The child hit the ball with the bat.", "label": "entailment"}
+{"premise": "If the assistant had put the book on the shelf quietly, the doctor could have hit the ball with the bat.", "hypothesis": "The assistant put the book on the shelf.", "label": "entailment"}
+{"premise": "If the boy had shed tears anxiously, the dancer would have upset the boat.", "hypothesis": "The boy shed tears.", "label": "entailment"}
+{"premise": "If the dancer had cast bronze into a statue quickly, the stranger could have hurt others.", "hypothesis": "The dancer did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "If the woman had slit the envelope easily, the director would have upset the boat.", "hypothesis": "The woman did not slit the envelope.", "label": "contradiction"}
+{"premise": "If the girl had hurt others slowly, the woman could have hit the ball with the bat.", "hypothesis": "The girl did not hurt others.", "label": "contradiction"}
+{"premise": "If the dancer had read the letter calmly, the doctor would have cast bronze into a statue.", "hypothesis": "The dancer did not read the letter.", "label": "contradiction"}
+{"premise": "If the professor had shed tears angrily, the athlete could have split the log.", "hypothesis": "The professor did not shed tears.", "label": "contradiction"}
+{"premise": "If the singer had hurt others anxiously, the manager would have shed tears.", "hypothesis": "The singer did not hurt others.", "label": "contradiction"}
+{"premise": "If the student had upset the boat sadly, the professor would have read the letter.", "hypothesis": "The student did not upset the boat.", "label": "contradiction"}
+{"premise": "If the worker had hurt others quickly, the singer could have spread the rumor.", "hypothesis": "The worker did not hurt others.", "label": "contradiction"}
+{"premise": "If the child had put the book on the shelf sadly, the director could have bet $100 on the race.", "hypothesis": "The child did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "If the athlete had put the book on the shelf sadly, the boy could have read the letter.", "hypothesis": "The athlete did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "If the manager had shut the door happily, the athlete would have spread the rumor.", "hypothesis": "The manager did not shut the door.", "label": "contradiction"}
+{"premise": "If the student had put the book on the shelf slowly, the kid could have split the log.", "hypothesis": "The student did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "If the student had bet $100 on the race quietly, the man could have let the blinds down.", "hypothesis": "The student did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "If the singer had burst into the room quietly, the assistant could have spread the rumor.", "hypothesis": "The singer did not burst into the room.", "label": "contradiction"}
+{"premise": "If the man had let the blinds down anxiously, the dancer could have slit the envelope.", "hypothesis": "The man did not let the blinds down.", "label": "contradiction"}
+{"premise": "If the kid had hurt others anxiously, the girl would have slit the envelope.", "hypothesis": "The kid did not hurt others.", "label": "contradiction"}
+{"premise": "If the girl had let the blinds down easily, the child would have cast bronze into a statue.", "hypothesis": "The girl did not let the blinds down.", "label": "contradiction"}
+{"premise": "If the athlete had read the letter easily, the singer would have shed tears.", "hypothesis": "The athlete did not read the letter.", "label": "contradiction"}
+{"premise": "If the boy had put the book on the shelf happily, the child could have let the blinds down.", "hypothesis": "The boy did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "If the singer had shed tears quickly, the kid would have let the blinds down.", "hypothesis": "The singer did not shed tears.", "label": "contradiction"}
+{"premise": "If the child had cast bronze into a statue quietly, the doctor could have shed tears.", "hypothesis": "The child did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "If the woman had hurt others slowly, the doctor would have let the blinds down.", "hypothesis": "The woman did not hurt others.", "label": "contradiction"}
+{"premise": "If the worker had spread the rumor anxiously, the kid could have shut the door.", "hypothesis": "The worker did not spread the rumor.", "label": "contradiction"}
+{"premise": "If the professor had spread the rumor sadly, the kid would have shut the door.", "hypothesis": "The professor did not spread the rumor.", "label": "contradiction"}
+{"premise": "If the stranger had shed tears easily, the doctor could have spread the rumor.", "hypothesis": "The stranger did not shed tears.", "label": "contradiction"}
+{"premise": "If the stranger had read the letter happily, the kid could have shut the door.", "hypothesis": "The stranger did not read the letter.", "label": "contradiction"}
+{"premise": "If the kid had slit the envelope calmly, the athlete would have hit the ball with the bat.", "hypothesis": "The kid did not slit the envelope.", "label": "contradiction"}
+{"premise": "If the doctor had hit the ball with the bat slowly, the kid could have set the dish on the table.", "hypothesis": "The doctor did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "If the worker had shed tears sadly, the kid could have hurt others.", "hypothesis": "The worker did not shed tears.", "label": "contradiction"}
+{"premise": "If the manager had thrust the fork into the cake anxiously, the teacher would have bet $100 on the race.", "hypothesis": "The manager did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "If the doctor had set the dish on the table slowly, the director would have put the book on the shelf.", "hypothesis": "The doctor did not set the dish on the table.", "label": "contradiction"}
+{"premise": "If the athlete had spread the rumor slowly, the man would have shut the door.", "hypothesis": "The athlete did not spread the rumor.", "label": "contradiction"}
+{"premise": "If the professor had spread the rumor quietly, the boy could have shut the door.", "hypothesis": "The professor did not spread the rumor.", "label": "contradiction"}
+{"premise": "If the professor had shed tears quickly, the man could have bet $100 on the race.", "hypothesis": "The professor did not shed tears.", "label": "contradiction"}
+{"premise": "If the woman had spread the rumor happily, the manager would have set the dish on the table.", "hypothesis": "The woman did not spread the rumor.", "label": "contradiction"}
+{"premise": "If the athlete had shed tears sadly, the doctor would have hit the ball with the bat.", "hypothesis": "The athlete did not shed tears.", "label": "contradiction"}
+{"premise": "If the manager had let the blinds down slowly, the singer would have upset the boat.", "hypothesis": "The manager did not let the blinds down.", "label": "contradiction"}
+{"premise": "If the kid had shed tears anxiously, the director could have upset the boat.", "hypothesis": "The kid did not shed tears.", "label": "contradiction"}
+{"premise": "If the stranger had bet $100 on the race quickly, the man could have put the book on the shelf.", "hypothesis": "The stranger did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "If the doctor had shed tears slowly, the man could have read the letter.", "hypothesis": "The doctor did not shed tears.", "label": "contradiction"}
+{"premise": "If the child had set the dish on the table slowly, the man would have slit the envelope.", "hypothesis": "The child did not set the dish on the table.", "label": "contradiction"}
+{"premise": "If the athlete had burst into the room easily, the assistant could have spread the rumor.", "hypothesis": "The athlete did not burst into the room.", "label": "contradiction"}
+{"premise": "If the assistant had hit the ball with the bat anxiously, the worker would have shut the door.", "hypothesis": "The assistant did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "If the director had let the blinds down anxiously, the student would have read the letter.", "hypothesis": "The director did not let the blinds down.", "label": "contradiction"}
+{"premise": "If the child had hit the ball with the bat quietly, the athlete could have let the blinds down.", "hypothesis": "The child did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "If the student had read the letter happily, the manager would have upset the boat.", "hypothesis": "The student did not read the letter.", "label": "contradiction"}
+{"premise": "If the stranger had hurt others happily, the child would have put the book on the shelf.", "hypothesis": "The stranger did not hurt others.", "label": "contradiction"}
+{"premise": "If the student had shed tears slowly, the stranger could have thrust the fork into the cake.", "hypothesis": "The student did not shed tears.", "label": "contradiction"}
+{"premise": "If the student had burst into the room easily, the girl could have split the log.", "hypothesis": "The student did not burst into the room.", "label": "contradiction"}
+{"premise": "If the athlete had let the blinds down easily, the kid would have set the dish on the table.", "hypothesis": "The athlete did not let the blinds down.", "label": "contradiction"}
+{"premise": "If the man had upset the boat quickly, the child could have cast bronze into a statue.", "hypothesis": "The man did not upset the boat.", "label": "contradiction"}
+{"premise": "If the athlete had bet $100 on the race calmly, the student could have set the dish on the table.", "hypothesis": "The athlete did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "If the woman had cast bronze into a statue slowly, the child would have let the blinds down.", "hypothesis": "The woman did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "If the singer had split the log quickly, the boy would have shed tears.", "hypothesis": "The singer did not split the log.", "label": "contradiction"}
+{"premise": "If the worker had let the blinds down sadly, the boy could have bet $100 on the race.", "hypothesis": "The worker did not let the blinds down.", "label": "contradiction"}
+{"premise": "If the kid had bet $100 on the race calmly, the man could have hit the ball with the bat.", "hypothesis": "The kid did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "If the boy had bet $100 on the race happily, the girl could have cast bronze into a statue.", "hypothesis": "The boy did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "If the doctor had put the book on the shelf easily, the worker could have split the log.", "hypothesis": "The doctor did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "If the man had hit the ball with the bat sadly, the assistant could have split the log.", "hypothesis": "The man did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "If the manager had cast bronze into a statue anxiously, the assistant would have slit the envelope.", "hypothesis": "The manager did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "If the dancer had burst into the room anxiously, the worker would have cast bronze into a statue.", "hypothesis": "The dancer did not burst into the room.", "label": "contradiction"}
+{"premise": "If the woman had shed tears quietly, the boy would have thrust the fork into the cake.", "hypothesis": "The woman did not shed tears.", "label": "contradiction"}
+{"premise": "If the girl had burst into the room happily, the worker could have read the letter.", "hypothesis": "The girl did not burst into the room.", "label": "contradiction"}
+{"premise": "If the man had cast bronze into a statue anxiously, the director would have shed tears.", "hypothesis": "The man did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "If the doctor had shed tears quickly, the stranger could have hurt others.", "hypothesis": "The doctor did not shed tears.", "label": "contradiction"}
+{"premise": "If the teacher had read the letter angrily, the manager would have hurt others.", "hypothesis": "The teacher did not read the letter.", "label": "contradiction"}
+{"premise": "If the child had thrust the fork into the cake angrily, the teacher would have let the blinds down.", "hypothesis": "The child did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "If the teacher had read the letter angrily, the athlete could have burst into the room.", "hypothesis": "The teacher did not read the letter.", "label": "contradiction"}
+{"premise": "If the athlete had thrust the fork into the cake quickly, the worker could have hurt others.", "hypothesis": "The athlete did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "If the woman had thrust the fork into the cake happily, the worker would have split the log.", "hypothesis": "The woman did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "If the kid had let the blinds down quickly, the girl would have cast bronze into a statue.", "hypothesis": "The kid did not let the blinds down.", "label": "contradiction"}
+{"premise": "If the assistant had read the letter quickly, the man could have hurt others.", "hypothesis": "The assistant did not read the letter.", "label": "contradiction"}
+{"premise": "If the doctor had cast bronze into a statue anxiously, the professor would have hit the ball with the bat.", "hypothesis": "The doctor did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "If the worker had thrust the fork into the cake happily, the director could have let the blinds down.", "hypothesis": "The worker did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "If the teacher had let the blinds down happily, the kid could have burst into the room.", "hypothesis": "The teacher did not let the blinds down.", "label": "contradiction"}
+{"premise": "If the athlete had cast bronze into a statue calmly, the assistant would have bet $100 on the race.", "hypothesis": "The athlete did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "If the teacher had shut the door angrily, the assistant could have shed tears.", "hypothesis": "The teacher did not shut the door.", "label": "contradiction"}
+{"premise": "If the stranger had bet $100 on the race happily, the woman would have upset the boat.", "hypothesis": "The stranger did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "If the singer had cast bronze into a statue quickly, the woman would have set the dish on the table.", "hypothesis": "The singer did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "If the girl had shed tears sadly, the woman could have put the book on the shelf.", "hypothesis": "The girl did not shed tears.", "label": "contradiction"}
+{"premise": "If the assistant had put the book on the shelf calmly, the singer could have upset the boat.", "hypothesis": "The assistant did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "If the kid had slit the envelope calmly, the girl could have put the book on the shelf.", "hypothesis": "The kid did not slit the envelope.", "label": "contradiction"}
+{"premise": "If the man had shut the door quickly, the assistant could have shed tears.", "hypothesis": "The man did not shut the door.", "label": "contradiction"}
+{"premise": "If the worker had burst into the room anxiously, the child would have thrust the fork into the cake.", "hypothesis": "The worker did not burst into the room.", "label": "contradiction"}
+{"premise": "If the boy had cast bronze into a statue calmly, the girl could have shut the door.", "hypothesis": "The boy did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "If the man had slit the envelope slowly, the kid would have hurt others.", "hypothesis": "The man did not slit the envelope.", "label": "contradiction"}
+{"premise": "If the singer had let the blinds down quietly, the worker would have thrust the fork into the cake.", "hypothesis": "The singer did not let the blinds down.", "label": "contradiction"}
+{"premise": "If the professor had let the blinds down anxiously, the assistant could have set the dish on the table.", "hypothesis": "The professor did not let the blinds down.", "label": "contradiction"}
+{"premise": "If the student had hurt others quietly, the professor would have set the dish on the table.", "hypothesis": "The student did not hurt others.", "label": "contradiction"}
+{"premise": "If the director had burst into the room calmly, the woman would have slit the envelope.", "hypothesis": "The director did not burst into the room.", "label": "contradiction"}
+{"premise": "If the director had slit the envelope angrily, the kid would have shut the door.", "hypothesis": "The director did not slit the envelope.", "label": "contradiction"}
+{"premise": "If the kid had put the book on the shelf anxiously, the student would have upset the boat.", "hypothesis": "The kid did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "If the woman had hurt others easily, the director would have upset the boat.", "hypothesis": "The woman did not hurt others.", "label": "contradiction"}
+{"premise": "If the girl had set the dish on the table sadly, the singer could have shed tears.", "hypothesis": "The girl did not set the dish on the table.", "label": "contradiction"}
+{"premise": "If the kid had read the letter quietly, the assistant could have let the blinds down.", "hypothesis": "The kid did not read the letter.", "label": "contradiction"}
+{"premise": "If the professor had bet $100 on the race sadly, the boy could have spread the rumor.", "hypothesis": "The professor did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "If the boy had split the log easily, the stranger could have read the letter.", "hypothesis": "The boy did not split the log.", "label": "contradiction"}
+{"premise": "If the student had cast bronze into a statue anxiously, the doctor would have shed tears.", "hypothesis": "The student did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "If the manager had shut the door slowly, the stranger would have cast bronze into a statue.", "hypothesis": "The manager did not shut the door.", "label": "contradiction"}
+{"premise": "If the worker had put the book on the shelf sadly, the kid would have burst into the room.", "hypothesis": "The worker did not put the book on the shelf.", "label": "contradiction"}

@@ -1,0 +1,201 @@
+	sentence1	sentence2	label	heuristics	example1	example2	split
+0	The athlete thrust the fork into the cake again.	 The athlete had thrust the fork into the cake before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+1	The kid split the log again.	 The kid had split the log before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+2	The doctor shut the door again.	 The doctor had shut the door before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+3	The student shut the door again.	 The student had shut the door before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+4	The stranger set the dish on the table again.	 The stranger had set the dish on the table before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+5	The dancer thrust the fork into the cake again.	 The dancer had thrust the fork into the cake before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+6	The boy hurt others again.	 The boy had hurt others before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+7	The doctor let the blinds down again.	 The doctor had let the blinds down before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+8	The man cast bronze into a statue again.	 The man had cast bronze into a statue before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+9	The student slit the envelope again.	 The student had slit the envelope before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+10	The student let the blinds down again.	 The student had let the blinds down before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+11	The boy hit the ball with the bat again.	 The boy had hit the ball with the bat before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+12	The singer put the book on the shelf again.	 The singer had put the book on the shelf before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+13	The boy hit the ball with the bat again.	 The boy had hit the ball with the bat before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+14	The doctor burst into the room again.	 The doctor had burst into the room before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+15	The worker hit the ball with the bat again.	 The worker had hit the ball with the bat before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+16	The manager cast bronze into a statue again.	 The manager had cast bronze into a statue before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+17	The director thrust the fork into the cake again.	 The director had thrust the fork into the cake before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+18	The kid let the blinds down again.	 The kid had let the blinds down before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+19	The student thrust the fork into the cake again.	 The student had thrust the fork into the cake before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+20	The worker let the blinds down again.	 The worker had let the blinds down before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+21	The professor hit the ball with the bat again.	 The professor had hit the ball with the bat before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+22	The child slit the envelope again.	 The child had slit the envelope before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+23	The kid bet $100 on the race again.	 The kid had bet $100 on the race before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+24	The professor bet $100 on the race again.	 The professor had bet $100 on the race before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+25	The manager set the dish on the table again.	 The manager had set the dish on the table before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+26	The child set the dish on the table again.	 The child had set the dish on the table before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+27	The assistant let the blinds down again.	 The assistant had let the blinds down before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+28	The kid upset the boat again.	 The kid had upset the boat before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+29	The stranger shed tears again.	 The stranger had shed tears before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	test
+30	The boy set the dish on the table again.	 The boy had set the dish on the table before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+31	The girl shed tears again.	 The girl had shed tears before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+32	The worker hit the ball with the bat again.	 The worker had hit the ball with the bat before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+33	The woman spread the rumor again.	 The woman had spread the rumor before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+34	The dancer shed tears again.	 The dancer had shed tears before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+35	The dancer spread the rumor again.	 The dancer had spread the rumor before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+36	The kid put the book on the shelf again.	 The kid had put the book on the shelf before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+37	The kid shed tears again.	 The kid had shed tears before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+38	The athlete slit the envelope again.	 The athlete had slit the envelope before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+39	The child hit the ball with the bat again.	 The child had hit the ball with the bat before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+40	The student hurt others again.	 The student had hurt others before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+41	The child put the book on the shelf again.	 The child had put the book on the shelf before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+42	The doctor let the blinds down again.	 The doctor had let the blinds down before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	test
+43	The worker split the log again.	 The worker had split the log before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+44	The boy spread the rumor again.	 The boy had spread the rumor before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+45	The kid spread the rumor again.	 The kid had spread the rumor before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+46	The child set the dish on the table again.	 The child had set the dish on the table before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+47	The director read the letter again.	 The director had read the letter before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+48	The assistant put the book on the shelf again.	 The assistant had put the book on the shelf before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+49	The boy read the letter again.	 The boy had read the letter before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+50	The stranger burst into the room again.	 The stranger had burst into the room before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+51	The man shed tears again.	 The man had shed tears before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+52	The manager bet $100 on the race again.	 The manager had bet $100 on the race before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+53	The stranger cast bronze into a statue again.	 The stranger had cast bronze into a statue before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	test
+54	The manager slit the envelope again.	 The manager had slit the envelope before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+55	The man set the dish on the table again.	 The man had set the dish on the table before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+56	The woman burst into the room again.	 The woman had burst into the room before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+57	The athlete hit the ball with the bat again.	 The athlete had hit the ball with the bat before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+58	The doctor put the book on the shelf again.	 The doctor had put the book on the shelf before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+59	The manager hit the ball with the bat again.	 The manager had hit the ball with the bat before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+60	The athlete spread the rumor again.	 The athlete had spread the rumor before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+61	The doctor hurt others again.	 The doctor had hurt others before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+62	The student hurt others again.	 The student had hurt others before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+63	The manager burst into the room again.	 The manager had burst into the room before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+64	The dancer slit the envelope again.	 The dancer had slit the envelope before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+65	The director thrust the fork into the cake again.	 The director had thrust the fork into the cake before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+66	The doctor hurt others again.	 The doctor had hurt others before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+67	The athlete set the dish on the table again.	 The athlete had set the dish on the table before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+68	The manager split the log again.	 The manager had split the log before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+69	The assistant read the letter again.	 The assistant had read the letter before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+70	The dancer hit the ball with the bat again.	 The dancer had hit the ball with the bat before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+71	The woman split the log again.	 The woman had split the log before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+72	The kid spread the rumor again.	 The kid had spread the rumor before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+73	The teacher spread the rumor again.	 The teacher had spread the rumor before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+74	The child upset the boat again.	 The child had upset the boat before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+75	The athlete split the log again.	 The athlete had split the log before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+76	The girl shut the door again.	 The girl had shut the door before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+77	The assistant shut the door again.	 The assistant had shut the door before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+78	The dancer shut the door again.	 The dancer had shut the door before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+79	The student read the letter again.	 The student had read the letter before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	test
+80	The athlete let the blinds down again.	 The athlete had let the blinds down before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+81	The director hurt others again.	 The director had hurt others before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+82	The singer bet $100 on the race again.	 The singer had bet $100 on the race before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+83	The director put the book on the shelf again.	 The director had put the book on the shelf before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+84	The man burst into the room again.	 The man had burst into the room before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+85	The worker set the dish on the table again.	 The worker had set the dish on the table before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+86	The assistant burst into the room again.	 The assistant had burst into the room before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+87	The child cast bronze into a statue again.	 The child had cast bronze into a statue before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+88	The teacher shut the door again.	 The teacher had shut the door before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+89	The athlete upset the boat again.	 The athlete had upset the boat before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	test
+90	The student shed tears again.	 The student had shed tears before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+91	The assistant bet $100 on the race again.	 The assistant had bet $100 on the race before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+92	The manager upset the boat again.	 The manager had upset the boat before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+93	The dancer read the letter again.	 The dancer had read the letter before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+94	The student burst into the room again.	 The student had burst into the room before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+95	The man set the dish on the table again.	 The man had set the dish on the table before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+96	The athlete shut the door again.	 The athlete had shut the door before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+97	The singer let the blinds down again.	 The singer had let the blinds down before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+98	The man spread the rumor again.	 The man had spread the rumor before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+99	The kid hurt others again.	 The kid had hurt others before.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+100	The boy put the book on the shelf again.	 The boy had not put the book on the shelf before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+101	The manager burst into the room again.	 The manager had not burst into the room before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+102	The worker upset the boat again.	 The worker had not upset the boat before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+103	The man shed tears again.	 The man had not shed tears before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+104	The stranger burst into the room again.	 The stranger had not burst into the room before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+105	The student let the blinds down again.	 The student had not let the blinds down before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+106	The dancer upset the boat again.	 The dancer had not upset the boat before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+107	The professor let the blinds down again.	 The professor had not let the blinds down before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+108	The assistant shed tears again.	 The assistant had not shed tears before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+109	The assistant burst into the room again.	 The assistant had not burst into the room before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+110	The child slit the envelope again.	 The child had not slit the envelope before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+111	The dancer spread the rumor again.	 The dancer had not spread the rumor before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+112	The kid hit the ball with the bat again.	 The kid had not hit the ball with the bat before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+113	The assistant bet $100 on the race again.	 The assistant had not bet $100 on the race before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+114	The stranger spread the rumor again.	 The stranger had not spread the rumor before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+115	The dancer hurt others again.	 The dancer had not hurt others before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+116	The manager set the dish on the table again.	 The manager had not set the dish on the table before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+117	The athlete hurt others again.	 The athlete had not hurt others before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+118	The director slit the envelope again.	 The director had not slit the envelope before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+119	The stranger put the book on the shelf again.	 The stranger had not put the book on the shelf before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+120	The doctor slit the envelope again.	 The doctor had not slit the envelope before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+121	The stranger spread the rumor again.	 The stranger had not spread the rumor before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+122	The doctor burst into the room again.	 The doctor had not burst into the room before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+123	The dancer hit the ball with the bat again.	 The dancer had not hit the ball with the bat before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+124	The worker put the book on the shelf again.	 The worker had not put the book on the shelf before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+125	The kid bet $100 on the race again.	 The kid had not bet $100 on the race before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+126	The doctor hit the ball with the bat again.	 The doctor had not hit the ball with the bat before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+127	The doctor let the blinds down again.	 The doctor had not let the blinds down before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+128	The kid spread the rumor again.	 The kid had not spread the rumor before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+129	The assistant shut the door again.	 The assistant had not shut the door before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+130	The girl thrust the fork into the cake again.	 The girl had not thrust the fork into the cake before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	test
+131	The assistant cast bronze into a statue again.	 The assistant had not cast bronze into a statue before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+132	The doctor bet $100 on the race again.	 The doctor had not bet $100 on the race before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+133	The man shed tears again.	 The man had not shed tears before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+134	The man split the log again.	 The man had not split the log before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+135	The stranger shed tears again.	 The stranger had not shed tears before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+136	The stranger cast bronze into a statue again.	 The stranger had not cast bronze into a statue before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+137	The boy bet $100 on the race again.	 The boy had not bet $100 on the race before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+138	The teacher thrust the fork into the cake again.	 The teacher had not thrust the fork into the cake before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+139	The girl burst into the room again.	 The girl had not burst into the room before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+140	The professor let the blinds down again.	 The professor had not let the blinds down before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+141	The girl bet $100 on the race again.	 The girl had not bet $100 on the race before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+142	The assistant split the log again.	 The assistant had not split the log before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+143	The doctor set the dish on the table again.	 The doctor had not set the dish on the table before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+144	The worker hurt others again.	 The worker had not hurt others before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+145	The child hurt others again.	 The child had not hurt others before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+146	The girl upset the boat again.	 The girl had not upset the boat before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+147	The man slit the envelope again.	 The man had not slit the envelope before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+148	The worker put the book on the shelf again.	 The worker had not put the book on the shelf before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	test
+149	The girl read the letter again.	 The girl had not read the letter before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+150	The woman put the book on the shelf again.	 The woman had not put the book on the shelf before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+151	The kid shed tears again.	 The kid had not shed tears before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+152	The singer burst into the room again.	 The singer had not burst into the room before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+153	The student spread the rumor again.	 The student had not spread the rumor before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+154	The woman upset the boat again.	 The woman had not upset the boat before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+155	The girl hurt others again.	 The girl had not hurt others before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+156	The professor shed tears again.	 The professor had not shed tears before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+157	The child split the log again.	 The child had not split the log before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+158	The singer burst into the room again.	 The singer had not burst into the room before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	test
+159	The stranger let the blinds down again.	 The stranger had not let the blinds down before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+160	The doctor bet $100 on the race again.	 The doctor had not bet $100 on the race before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+161	The child set the dish on the table again.	 The child had not set the dish on the table before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+162	The boy split the log again.	 The boy had not split the log before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+163	The stranger put the book on the shelf again.	 The stranger had not put the book on the shelf before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+164	The dancer split the log again.	 The dancer had not split the log before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	test
+165	The boy split the log again.	 The boy had not split the log before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+166	The singer spread the rumor again.	 The singer had not spread the rumor before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+167	The professor hurt others again.	 The professor had not hurt others before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+168	The worker spread the rumor again.	 The worker had not spread the rumor before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+169	The athlete hit the ball with the bat again.	 The athlete had not hit the ball with the bat before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+170	The kid thrust the fork into the cake again.	 The kid had not thrust the fork into the cake before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+171	The boy set the dish on the table again.	 The boy had not set the dish on the table before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+172	The assistant upset the boat again.	 The assistant had not upset the boat before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+173	The dancer shed tears again.	 The dancer had not shed tears before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+174	The woman cast bronze into a statue again.	 The woman had not cast bronze into a statue before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+175	The athlete split the log again.	 The athlete had not split the log before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+176	The doctor spread the rumor again.	 The doctor had not spread the rumor before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+177	The professor spread the rumor again.	 The professor had not spread the rumor before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+178	The assistant bet $100 on the race again.	 The assistant had not bet $100 on the race before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+179	The child hit the ball with the bat again.	 The child had not hit the ball with the bat before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+180	The professor let the blinds down again.	 The professor had not let the blinds down before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	test
+181	The kid split the log again.	 The kid had not split the log before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+182	The athlete bet $100 on the race again.	 The athlete had not bet $100 on the race before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+183	The man cast bronze into a statue again.	 The man had not cast bronze into a statue before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+184	The stranger let the blinds down again.	 The stranger had not let the blinds down before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+185	The woman spread the rumor again.	 The woman had not spread the rumor before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+186	The singer slit the envelope again.	 The singer had not slit the envelope before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+187	The teacher hurt others again.	 The teacher had not hurt others before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+188	The kid burst into the room again.	 The kid had not burst into the room before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+189	The child split the log again.	 The child had not split the log before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+190	The stranger hit the ball with the bat again.	 The stranger had not hit the ball with the bat before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+191	The stranger hurt others again.	 The stranger had not hurt others before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+192	The worker slit the envelope again.	 The worker had not slit the envelope before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+193	The director put the book on the shelf again.	 The director had not put the book on the shelf before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+194	The girl shed tears again.	 The girl had not shed tears before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+195	The boy spread the rumor again.	 The boy had not spread the rumor before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+196	The doctor split the log again.	 The doctor had not split the log before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+197	The dancer read the letter again.	 The dancer had not read the letter before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+198	The doctor put the book on the shelf again.	 The doctor had not put the book on the shelf before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train
+199	The teacher set the dish on the table again.	 The teacher had not set the dish on the table before.	contradiction	 -	 The doctor cut the tree again.	 The doctor did not cut the tree	train

@@ -1,0 +1,201 @@
+	sentence1	sentence2	label	heuristics	example1	example2	split
+800	Did the teacher give up letting the blinds down?	 The teacher had been letting the blinds down.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+801	Did the teacher cease shutting the door?	 The teacher had been shutting the door.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+802	Did the doctor stop betting $100 on the race?	 The doctor had been betting $100 on the race.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+803	Did the dancer keep slitting the envelope?	 The dancer had been slitting the envelope.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+804	Did the woman quit upsetting the boat?	 The woman had been upsetting the boat.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+805	Did the dancer quit hitting the ball with the bat?	 The dancer had been hitting the ball with the bat.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+806	Did the singer give up betting $100 on the race?	 The singer had been betting $100 on the race.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+807	Did the director continue setting the dish on the table?	 The director had been setting the dish on the table.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+808	Did the worker keep hurting others?	 The worker had been hurting others.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+809	Did the athlete stop shedding tears?	 The athlete had been shedding tears.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+810	Did the dancer stop shutting the door?	 The dancer had been shutting the door.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+811	Did the director give up slitting the envelope?	 The director had been slitting the envelope.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+812	Did the professor stop shedding tears?	 The professor had been shedding tears.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+813	Did the professor give up casting bronze into a statue?	 The professor had been casting bronze into a statue.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	test
+814	Did the boy stop setting the dish on the table?	 The boy had been setting the dish on the table.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+815	Did the professor cease casting bronze into a statue?	 The professor had been casting bronze into a statue.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+816	Did the director continue spreading the rumor?	 The director had been spreading the rumor.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+817	Did the professor cease casting bronze into a statue?	 The professor had been casting bronze into a statue.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+818	Did the director quit reading the letter?	 The director had been reading the letter.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+819	Did the assistant continue spreading the rumor?	 The assistant had been spreading the rumor.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+820	Did the assistant give up letting the blinds down?	 The assistant had been letting the blinds down.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+821	Did the manager cease hurting others?	 The manager had been hurting others.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+822	Did the student continue shutting the door?	 The student had been shutting the door.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+823	Did the man finish letting the blinds down?	 The man had been letting the blinds down.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+824	Did the doctor continue putting the book on the shelf?	 The doctor had been putting the book on the shelf.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+825	Did the dancer give up upsetting the boat?	 The dancer had been upsetting the boat.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+826	Did the assistant continue hurting others?	 The assistant had been hurting others.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+827	Did the girl finish hitting the ball with the bat?	 The girl had been hitting the ball with the bat.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+828	Did the teacher keep spreading the rumor?	 The teacher had been spreading the rumor.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+829	Did the doctor keep letting the blinds down?	 The doctor had been letting the blinds down.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+830	Did the man finish splitting the log?	 The man had been splitting the log.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	test
+831	Did the kid stop hitting the ball with the bat?	 The kid had been hitting the ball with the bat.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+832	Did the professor give up reading the letter?	 The professor had been reading the letter.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+833	Did the assistant cease letting the blinds down?	 The assistant had been letting the blinds down.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+834	Did the athlete finish casting bronze into a statue?	 The athlete had been casting bronze into a statue.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+835	Did the boy keep spreading the rumor?	 The boy had been spreading the rumor.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+836	Did the stranger stop betting $100 on the race?	 The stranger had been betting $100 on the race.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+837	Did the professor quit spreading the rumor?	 The professor had been spreading the rumor.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+838	Did the singer continue casting bronze into a statue?	 The singer had been casting bronze into a statue.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+839	Did the man cease reading the letter?	 The man had been reading the letter.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	test
+840	Did the kid stop shutting the door?	 The kid had been shutting the door.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+841	Did the woman continue reading the letter?	 The woman had been reading the letter.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+842	Did the singer cease splitting the log?	 The singer had been splitting the log.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+843	Did the worker finish splitting the log?	 The worker had been splitting the log.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+844	Did the boy finish spreading the rumor?	 The boy had been spreading the rumor.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+845	Did the assistant cease bursting into the room?	 The assistant had been bursting into the room.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+846	Did the boy continue betting $100 on the race?	 The boy had been betting $100 on the race.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+847	Did the child finish bursting into the room?	 The child had been bursting into the room.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+848	Did the athlete give up bursting into the room?	 The athlete had been bursting into the room.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+849	Did the doctor cease casting bronze into a statue?	 The doctor had been casting bronze into a statue.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+850	Did the assistant continue shutting the door?	 The assistant had been shutting the door.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+851	Did the teacher continue splitting the log?	 The teacher had been splitting the log.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+852	Did the boy give up shedding tears?	 The boy had been shedding tears.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+853	Did the kid stop setting the dish on the table?	 The kid had been setting the dish on the table.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+854	Did the woman continue betting $100 on the race?	 The woman had been betting $100 on the race.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+855	Did the director quit upsetting the boat?	 The director had been upsetting the boat.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+856	Did the manager quit bursting into the room?	 The manager had been bursting into the room.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+857	Did the professor quit upsetting the boat?	 The professor had been upsetting the boat.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+858	Did the man stop setting the dish on the table?	 The man had been setting the dish on the table.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+859	Did the manager quit betting $100 on the race?	 The manager had been betting $100 on the race.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+860	Did the teacher stop bursting into the room?	 The teacher had been bursting into the room.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+861	Did the athlete give up casting bronze into a statue?	 The athlete had been casting bronze into a statue.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+862	Did the dancer stop hitting the ball with the bat?	 The dancer had been hitting the ball with the bat.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	test
+863	Did the woman give up shedding tears?	 The woman had been shedding tears.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+864	Did the boy quit hurting others?	 The boy had been hurting others.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+865	Did the student quit reading the letter?	 The student had been reading the letter.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+866	Did the woman quit thrusting the fork into the cake?	 The woman had been thrusting the fork into the cake.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+867	Did the worker stop splitting the log?	 The worker had been splitting the log.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+868	Did the director quit thrusting the fork into the cake?	 The director had been thrusting the fork into the cake.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+869	Did the dancer give up hurting others?	 The dancer had been hurting others.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+870	Did the student keep reading the letter?	 The student had been reading the letter.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+871	Did the assistant finish reading the letter?	 The assistant had been reading the letter.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+872	Did the singer cease shutting the door?	 The singer had been shutting the door.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+873	Did the stranger stop splitting the log?	 The stranger had been splitting the log.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+874	Did the stranger cease thrusting the fork into the cake?	 The stranger had been thrusting the fork into the cake.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+875	Did the assistant quit upsetting the boat?	 The assistant had been upsetting the boat.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+876	Did the woman stop bursting into the room?	 The woman had been bursting into the room.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+877	Did the child give up slitting the envelope?	 The child had been slitting the envelope.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+878	Did the singer finish splitting the log?	 The singer had been splitting the log.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+879	Did the worker give up setting the dish on the table?	 The worker had been setting the dish on the table.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+880	Did the child keep spreading the rumor?	 The child had been spreading the rumor.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+881	Did the girl give up spreading the rumor?	 The girl had been spreading the rumor.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+882	Did the girl stop slitting the envelope?	 The girl had been slitting the envelope.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+883	Did the man quit shedding tears?	 The man had been shedding tears.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+884	Did the woman stop letting the blinds down?	 The woman had been letting the blinds down.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+885	Did the man stop shedding tears?	 The man had been shedding tears.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+886	Did the girl continue spreading the rumor?	 The girl had been spreading the rumor.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+887	Did the kid continue hurting others?	 The kid had been hurting others.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+888	Did the athlete quit reading the letter?	 The athlete had been reading the letter.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+889	Did the manager give up letting the blinds down?	 The manager had been letting the blinds down.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+890	Did the professor quit setting the dish on the table?	 The professor had been setting the dish on the table.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+891	Did the child continue hitting the ball with the bat?	 The child had been hitting the ball with the bat.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+892	Did the worker give up betting $100 on the race?	 The worker had been betting $100 on the race.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+893	Did the kid continue thrusting the fork into the cake?	 The kid had been thrusting the fork into the cake.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+894	Did the man give up betting $100 on the race?	 The man had been betting $100 on the race.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+895	Did the manager stop hitting the ball with the bat?	 The manager had been hitting the ball with the bat.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	test
+896	Did the stranger give up shedding tears?	 The stranger had been shedding tears.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+897	Did the boy stop putting the book on the shelf?	 The boy had been putting the book on the shelf.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+898	Did the child give up letting the blinds down?	 The child had been letting the blinds down.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+899	Did the dancer stop slitting the envelope?	 The dancer had been slitting the envelope.	entailment	 -	 Did the doctor stop cutting the tree.	 The doctor had been cutting the tree.	train
+900	Did the girl stop betting $100 on the race?	 The girl had not been betting $100 on the race.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	test
+901	Did the boy keep shedding tears?	 The boy had not been shedding tears.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+902	Did the student finish shedding tears?	 The student had not been shedding tears.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+903	Did the athlete stop splitting the log?	 The athlete had not been splitting the log.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+904	Did the girl finish splitting the log?	 The girl had not been splitting the log.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+905	Did the athlete finish hitting the ball with the bat?	 The athlete had not been hitting the ball with the bat.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+906	Did the woman cease putting the book on the shelf?	 The woman had not been putting the book on the shelf.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+907	Did the worker continue bursting into the room?	 The worker had not been bursting into the room.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+908	Did the dancer stop thrusting the fork into the cake?	 The dancer had not been thrusting the fork into the cake.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+909	Did the professor finish hitting the ball with the bat?	 The professor had not been hitting the ball with the bat.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+910	Did the kid stop putting the book on the shelf?	 The kid had not been putting the book on the shelf.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+911	Did the kid stop shutting the door?	 The kid had not been shutting the door.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+912	Did the child keep spreading the rumor?	 The child had not been spreading the rumor.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+913	Did the athlete continue setting the dish on the table?	 The athlete had not been setting the dish on the table.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+914	Did the professor quit spreading the rumor?	 The professor had not been spreading the rumor.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+915	Did the woman quit shutting the door?	 The woman had not been shutting the door.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+916	Did the manager keep thrusting the fork into the cake?	 The manager had not been thrusting the fork into the cake.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+917	Did the doctor cease setting the dish on the table?	 The doctor had not been setting the dish on the table.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+918	Did the singer give up shutting the door?	 The singer had not been shutting the door.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+919	Did the boy cease setting the dish on the table?	 The boy had not been setting the dish on the table.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+920	Did the athlete finish casting bronze into a statue?	 The athlete had not been casting bronze into a statue.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+921	Did the woman continue thrusting the fork into the cake?	 The woman had not been thrusting the fork into the cake.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+922	Did the athlete continue letting the blinds down?	 The athlete had not been letting the blinds down.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+923	Did the director stop setting the dish on the table?	 The director had not been setting the dish on the table.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+924	Did the stranger give up spreading the rumor?	 The stranger had not been spreading the rumor.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+925	Did the boy continue hurting others?	 The boy had not been hurting others.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+926	Did the girl stop upsetting the boat?	 The girl had not been upsetting the boat.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+927	Did the stranger stop bursting into the room?	 The stranger had not been bursting into the room.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+928	Did the woman finish thrusting the fork into the cake?	 The woman had not been thrusting the fork into the cake.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+929	Did the girl stop casting bronze into a statue?	 The girl had not been casting bronze into a statue.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+930	Did the woman stop hurting others?	 The woman had not been hurting others.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+931	Did the teacher stop bursting into the room?	 The teacher had not been bursting into the room.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+932	Did the student cease betting $100 on the race?	 The student had not been betting $100 on the race.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+933	Did the doctor quit shedding tears?	 The doctor had not been shedding tears.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+934	Did the manager finish casting bronze into a statue?	 The manager had not been casting bronze into a statue.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+935	Did the professor cease shedding tears?	 The professor had not been shedding tears.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+936	Did the boy finish putting the book on the shelf?	 The boy had not been putting the book on the shelf.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+937	Did the boy quit spreading the rumor?	 The boy had not been spreading the rumor.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+938	Did the child give up putting the book on the shelf?	 The child had not been putting the book on the shelf.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+939	Did the man cease shedding tears?	 The man had not been shedding tears.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+940	Did the singer stop putting the book on the shelf?	 The singer had not been putting the book on the shelf.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+941	Did the singer finish hurting others?	 The singer had not been hurting others.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	test
+942	Did the woman finish casting bronze into a statue?	 The woman had not been casting bronze into a statue.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+943	Did the worker give up betting $100 on the race?	 The worker had not been betting $100 on the race.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+944	Did the man cease shutting the door?	 The man had not been shutting the door.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+945	Did the teacher quit shutting the door?	 The teacher had not been shutting the door.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	test
+946	Did the director continue thrusting the fork into the cake?	 The director had not been thrusting the fork into the cake.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+947	Did the athlete continue bursting into the room?	 The athlete had not been bursting into the room.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+948	Did the teacher give up setting the dish on the table?	 The teacher had not been setting the dish on the table.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+949	Did the assistant finish shedding tears?	 The assistant had not been shedding tears.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	test
+950	Did the director keep thrusting the fork into the cake?	 The director had not been thrusting the fork into the cake.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+951	Did the student continue shedding tears?	 The student had not been shedding tears.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+952	Did the doctor keep hurting others?	 The doctor had not been hurting others.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+953	Did the athlete quit hitting the ball with the bat?	 The athlete had not been hitting the ball with the bat.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+954	Did the athlete keep spreading the rumor?	 The athlete had not been spreading the rumor.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+955	Did the director give up thrusting the fork into the cake?	 The director had not been thrusting the fork into the cake.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+956	Did the stranger quit shedding tears?	 The stranger had not been shedding tears.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+957	Did the athlete stop slitting the envelope?	 The athlete had not been slitting the envelope.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+958	Did the manager give up bursting into the room?	 The manager had not been bursting into the room.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+959	Did the director continue putting the book on the shelf?	 The director had not been putting the book on the shelf.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+960	Did the assistant keep setting the dish on the table?	 The assistant had not been setting the dish on the table.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+961	Did the assistant continue shutting the door?	 The assistant had not been shutting the door.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+962	Did the professor keep setting the dish on the table?	 The professor had not been setting the dish on the table.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+963	Did the boy cease betting $100 on the race?	 The boy had not been betting $100 on the race.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+964	Did the boy cease reading the letter?	 The boy had not been reading the letter.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+965	Did the professor cease letting the blinds down?	 The professor had not been letting the blinds down.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+966	Did the boy keep thrusting the fork into the cake?	 The boy had not been thrusting the fork into the cake.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+967	Did the woman give up putting the book on the shelf?	 The woman had not been putting the book on the shelf.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+968	Did the assistant finish shutting the door?	 The assistant had not been shutting the door.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+969	Did the child cease reading the letter?	 The child had not been reading the letter.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+970	Did the director keep betting $100 on the race?	 The director had not been betting $100 on the race.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+971	Did the worker cease shedding tears?	 The worker had not been shedding tears.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+972	Did the kid continue bursting into the room?	 The kid had not been bursting into the room.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+973	Did the athlete stop reading the letter?	 The athlete had not been reading the letter.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+974	Did the child stop putting the book on the shelf?	 The child had not been putting the book on the shelf.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+975	Did the doctor stop hitting the ball with the bat?	 The doctor had not been hitting the ball with the bat.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+976	Did the worker finish upsetting the boat?	 The worker had not been upsetting the boat.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+977	Did the director cease hitting the ball with the bat?	 The director had not been hitting the ball with the bat.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+978	Did the dancer give up spreading the rumor?	 The dancer had not been spreading the rumor.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+979	Did the worker stop reading the letter?	 The worker had not been reading the letter.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+980	Did the boy finish upsetting the boat?	 The boy had not been upsetting the boat.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+981	Did the girl quit putting the book on the shelf?	 The girl had not been putting the book on the shelf.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+982	Did the singer give up putting the book on the shelf?	 The singer had not been putting the book on the shelf.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+983	Did the manager stop thrusting the fork into the cake?	 The manager had not been thrusting the fork into the cake.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+984	Did the manager quit splitting the log?	 The manager had not been splitting the log.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+985	Did the director continue bursting into the room?	 The director had not been bursting into the room.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+986	Did the stranger keep hurting others?	 The stranger had not been hurting others.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+987	Did the girl keep bursting into the room?	 The girl had not been bursting into the room.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+988	Did the director finish hurting others?	 The director had not been hurting others.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+989	Did the boy give up reading the letter?	 The boy had not been reading the letter.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+990	Did the kid give up shedding tears?	 The kid had not been shedding tears.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+991	Did the stranger cease bursting into the room?	 The stranger had not been bursting into the room.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+992	Did the singer stop splitting the log?	 The singer had not been splitting the log.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+993	Did the athlete cease slitting the envelope?	 The athlete had not been slitting the envelope.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+994	Did the assistant continue spreading the rumor?	 The assistant had not been spreading the rumor.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+995	Did the girl quit splitting the log?	 The girl had not been splitting the log.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+996	Did the woman keep thrusting the fork into the cake?	 The woman had not been thrusting the fork into the cake.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+997	Did the woman stop setting the dish on the table?	 The woman had not been setting the dish on the table.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+998	Did the kid give up bursting into the room?	 The kid had not been bursting into the room.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	train
+999	Did the stranger continue hurting others?	 The stranger had not been hurting others.	contradiction	 -	 Did the doctor stop cutting the tree?	 The doctor had not been cutting the tree	test

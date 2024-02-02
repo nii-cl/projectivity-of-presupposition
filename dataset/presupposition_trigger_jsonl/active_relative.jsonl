@@ -1,0 +1,200 @@
+{"premise": "Jason found the student, who shut the door.", "hypothesis": "The student shut the door.", "label": "entailment"}
+{"premise": "Kyle respected the singer, who thrust the fork into the cake.", "hypothesis": "The singer thrust the fork into the cake.", "label": "entailment"}
+{"premise": "Kyle loved the doctor, who cast bronze into a statue.", "hypothesis": "The doctor cast bronze into a statue.", "label": "entailment"}
+{"premise": "Kyle deceived the manager, who hit the ball with the bat.", "hypothesis": "The manager hit the ball with the bat.", "label": "entailment"}
+{"premise": "Kyle chased the professor, who split the log.", "hypothesis": "The professor split the log.", "label": "entailment"}
+{"premise": "Kyle beat the man, who split the log.", "hypothesis": "The man split the log.", "label": "entailment"}
+{"premise": "Katy respected the doctor, who split the log.", "hypothesis": "The doctor split the log.", "label": "entailment"}
+{"premise": "Jim kicked the child, who hurt others.", "hypothesis": "The child hurt others.", "label": "entailment"}
+{"premise": "Katy loved the student, who shed tears.", "hypothesis": "The student shed tears.", "label": "entailment"}
+{"premise": "Ben saw the doctor, who shed tears.", "hypothesis": "The doctor shed tears.", "label": "entailment"}
+{"premise": "Jenny found the stranger, who put the book on the shelf.", "hypothesis": "The stranger put the book on the shelf.", "label": "entailment"}
+{"premise": "Tom met the director, who shed tears.", "hypothesis": "The director shed tears.", "label": "entailment"}
+{"premise": "Steven found the athlete, who hurt others.", "hypothesis": "The athlete hurt others.", "label": "entailment"}
+{"premise": "Jenny deceived the manager, who thrust the fork into the cake.", "hypothesis": "The manager thrust the fork into the cake.", "label": "entailment"}
+{"premise": "Jim kicked the child, who thrust the fork into the cake.", "hypothesis": "The child thrust the fork into the cake.", "label": "entailment"}
+{"premise": "John comforted the teacher, who put the book on the shelf.", "hypothesis": "The teacher put the book on the shelf.", "label": "entailment"}
+{"premise": "Steven saw the dancer, who thrust the fork into the cake.", "hypothesis": "The dancer thrust the fork into the cake.", "label": "entailment"}
+{"premise": "Jack saw the professor, who let the blinds down.", "hypothesis": "The professor let the blinds down.", "label": "entailment"}
+{"premise": "Bob chased the director, who hit the ball with the bat.", "hypothesis": "The director hit the ball with the bat.", "label": "entailment"}
+{"premise": "Steven chased the singer, who read the letter.", "hypothesis": "The singer read the letter.", "label": "entailment"}
+{"premise": "Jack avoided the singer, who slit the envelope.", "hypothesis": "The singer slit the envelope.", "label": "entailment"}
+{"premise": "Ben kicked the doctor, who spread the rumor.", "hypothesis": "The doctor spread the rumor.", "label": "entailment"}
+{"premise": "Kyle kicked the boy, who shut the door.", "hypothesis": "The boy shut the door.", "label": "entailment"}
+{"premise": "Jason avoided the girl, who split the log.", "hypothesis": "The girl split the log.", "label": "entailment"}
+{"premise": "Jack avoided the child, who cast bronze into a statue.", "hypothesis": "The child cast bronze into a statue.", "label": "entailment"}
+{"premise": "Katy kicked the singer, who shut the door.", "hypothesis": "The singer shut the door.", "label": "entailment"}
+{"premise": "Bob kicked the dancer, who spread the rumor.", "hypothesis": "The dancer spread the rumor.", "label": "entailment"}
+{"premise": "Mary loved the director, who spread the rumor.", "hypothesis": "The director spread the rumor.", "label": "entailment"}
+{"premise": "Mary avoided the worker, who thrust the fork into the cake.", "hypothesis": "The worker thrust the fork into the cake.", "label": "entailment"}
+{"premise": "Steven saw the teacher, who read the letter.", "hypothesis": "The teacher read the letter.", "label": "entailment"}
+{"premise": "Mary loved the dancer, who upset the boat.", "hypothesis": "The dancer upset the boat.", "label": "entailment"}
+{"premise": "Steven loved the boy, who set the dish on the table.", "hypothesis": "The boy set the dish on the table.", "label": "entailment"}
+{"premise": "John chased the athlete, who hit the ball with the bat.", "hypothesis": "The athlete hit the ball with the bat.", "label": "entailment"}
+{"premise": "Katy found the director, who spread the rumor.", "hypothesis": "The director spread the rumor.", "label": "entailment"}
+{"premise": "Tom deceived the girl, who slit the envelope.", "hypothesis": "The girl slit the envelope.", "label": "entailment"}
+{"premise": "Tom beat the athlete, who spread the rumor.", "hypothesis": "The athlete spread the rumor.", "label": "entailment"}
+{"premise": "Mary beat the girl, who shed tears.", "hypothesis": "The girl shed tears.", "label": "entailment"}
+{"premise": "Steven beat the professor, who hit the ball with the bat.", "hypothesis": "The professor hit the ball with the bat.", "label": "entailment"}
+{"premise": "Mary avoided the girl, who shut the door.", "hypothesis": "The girl shut the door.", "label": "entailment"}
+{"premise": "Tom kicked the man, who burst into the room.", "hypothesis": "The man burst into the room.", "label": "entailment"}
+{"premise": "Kyle respected the professor, who bet $100 on the race.", "hypothesis": "The professor bet $100 on the race.", "label": "entailment"}
+{"premise": "Kyle found the manager, who shut the door.", "hypothesis": "The manager shut the door.", "label": "entailment"}
+{"premise": "Katy beat the doctor, who shed tears.", "hypothesis": "The doctor shed tears.", "label": "entailment"}
+{"premise": "Bob beat the student, who shut the door.", "hypothesis": "The student shut the door.", "label": "entailment"}
+{"premise": "Bob kicked the student, who hit the ball with the bat.", "hypothesis": "The student hit the ball with the bat.", "label": "entailment"}
+{"premise": "Jack found the manager, who put the book on the shelf.", "hypothesis": "The manager put the book on the shelf.", "label": "entailment"}
+{"premise": "Katy found the woman, who hurt others.", "hypothesis": "The woman hurt others.", "label": "entailment"}
+{"premise": "Tom met the doctor, who split the log.", "hypothesis": "The doctor split the log.", "label": "entailment"}
+{"premise": "Bob saw the professor, who thrust the fork into the cake.", "hypothesis": "The professor thrust the fork into the cake.", "label": "entailment"}
+{"premise": "Katy found the dancer, who hurt others.", "hypothesis": "The dancer hurt others.", "label": "entailment"}
+{"premise": "Steven beat the girl, who let the blinds down.", "hypothesis": "The girl let the blinds down.", "label": "entailment"}
+{"premise": "John loved the girl, who shut the door.", "hypothesis": "The girl shut the door.", "label": "entailment"}
+{"premise": "Steven respected the athlete, who spread the rumor.", "hypothesis": "The athlete spread the rumor.", "label": "entailment"}
+{"premise": "Bob found the assistant, who bet $100 on the race.", "hypothesis": "The assistant bet $100 on the race.", "label": "entailment"}
+{"premise": "Mary saw the director, who hurt others.", "hypothesis": "The director hurt others.", "label": "entailment"}
+{"premise": "Steven chased the student, who let the blinds down.", "hypothesis": "The student let the blinds down.", "label": "entailment"}
+{"premise": "Kyle saw the director, who put the book on the shelf.", "hypothesis": "The director put the book on the shelf.", "label": "entailment"}
+{"premise": "Jenny kicked the assistant, who hurt others.", "hypothesis": "The assistant hurt others.", "label": "entailment"}
+{"premise": "Steven loved the worker, who cast bronze into a statue.", "hypothesis": "The worker cast bronze into a statue.", "label": "entailment"}
+{"premise": "Ben chased the manager, who burst into the room.", "hypothesis": "The manager burst into the room.", "label": "entailment"}
+{"premise": "Kyle respected the child, who upset the boat.", "hypothesis": "The child upset the boat.", "label": "entailment"}
+{"premise": "Mary loved the doctor, who shed tears.", "hypothesis": "The doctor shed tears.", "label": "entailment"}
+{"premise": "Kyle respected the kid, who put the book on the shelf.", "hypothesis": "The kid put the book on the shelf.", "label": "entailment"}
+{"premise": "Tom beat the assistant, who split the log.", "hypothesis": "The assistant split the log.", "label": "entailment"}
+{"premise": "Jenny kicked the athlete, who shut the door.", "hypothesis": "The athlete shut the door.", "label": "entailment"}
+{"premise": "Katy met the man, who spread the rumor.", "hypothesis": "The man spread the rumor.", "label": "entailment"}
+{"premise": "Jenny chased the singer, who shut the door.", "hypothesis": "The singer shut the door.", "label": "entailment"}
+{"premise": "Mary loved the child, who burst into the room.", "hypothesis": "The child burst into the room.", "label": "entailment"}
+{"premise": "Jack chased the worker, who split the log.", "hypothesis": "The worker split the log.", "label": "entailment"}
+{"premise": "Steven found the dancer, who burst into the room.", "hypothesis": "The dancer burst into the room.", "label": "entailment"}
+{"premise": "John chased the assistant, who put the book on the shelf.", "hypothesis": "The assistant put the book on the shelf.", "label": "entailment"}
+{"premise": "Jack found the stranger, who upset the boat.", "hypothesis": "The stranger upset the boat.", "label": "entailment"}
+{"premise": "Jim chased the doctor, who shut the door.", "hypothesis": "The doctor shut the door.", "label": "entailment"}
+{"premise": "Steven chased the doctor, who burst into the room.", "hypothesis": "The doctor burst into the room.", "label": "entailment"}
+{"premise": "Ben respected the singer, who spread the rumor.", "hypothesis": "The singer spread the rumor.", "label": "entailment"}
+{"premise": "Kyle loved the worker, who shed tears.", "hypothesis": "The worker shed tears.", "label": "entailment"}
+{"premise": "Jack saw the woman, who hurt others.", "hypothesis": "The woman hurt others.", "label": "entailment"}
+{"premise": "Steven kicked the director, who shed tears.", "hypothesis": "The director shed tears.", "label": "entailment"}
+{"premise": "Jenny kicked the assistant, who bet $100 on the race.", "hypothesis": "The assistant bet $100 on the race.", "label": "entailment"}
+{"premise": "Jack comforted the assistant, who spread the rumor.", "hypothesis": "The assistant spread the rumor.", "label": "entailment"}
+{"premise": "John avoided the manager, who hit the ball with the bat.", "hypothesis": "The manager hit the ball with the bat.", "label": "entailment"}
+{"premise": "Jack loved the worker, who hit the ball with the bat.", "hypothesis": "The worker hit the ball with the bat.", "label": "entailment"}
+{"premise": "Jim avoided the kid, who bet $100 on the race.", "hypothesis": "The kid bet $100 on the race.", "label": "entailment"}
+{"premise": "Steven kicked the worker, who hit the ball with the bat.", "hypothesis": "The worker hit the ball with the bat.", "label": "entailment"}
+{"premise": "Tom respected the kid, who upset the boat.", "hypothesis": "The kid upset the boat.", "label": "entailment"}
+{"premise": "Bob beat the teacher, who put the book on the shelf.", "hypothesis": "The teacher put the book on the shelf.", "label": "entailment"}
+{"premise": "Steven met the child, who read the letter.", "hypothesis": "The child read the letter.", "label": "entailment"}
+{"premise": "Jack respected the kid, who hurt others.", "hypothesis": "The kid hurt others.", "label": "entailment"}
+{"premise": "John avoided the child, who split the log.", "hypothesis": "The child split the log.", "label": "entailment"}
+{"premise": "Steven comforted the professor, who shed tears.", "hypothesis": "The professor shed tears.", "label": "entailment"}
+{"premise": "John chased the athlete, who set the dish on the table.", "hypothesis": "The athlete set the dish on the table.", "label": "entailment"}
+{"premise": "Tom comforted the dancer, who cast bronze into a statue.", "hypothesis": "The dancer cast bronze into a statue.", "label": "entailment"}
+{"premise": "John met the professor, who split the log.", "hypothesis": "The professor split the log.", "label": "entailment"}
+{"premise": "Tom chased the stranger, who shed tears.", "hypothesis": "The stranger shed tears.", "label": "entailment"}
+{"premise": "John chased the boy, who shed tears.", "hypothesis": "The boy shed tears.", "label": "entailment"}
+{"premise": "Ben loved the athlete, who put the book on the shelf.", "hypothesis": "The athlete put the book on the shelf.", "label": "entailment"}
+{"premise": "John comforted the assistant, who shut the door.", "hypothesis": "The assistant shut the door.", "label": "entailment"}
+{"premise": "Tom beat the dancer, who bet $100 on the race.", "hypothesis": "The dancer bet $100 on the race.", "label": "entailment"}
+{"premise": "Steven saw the teacher, who upset the boat.", "hypothesis": "The teacher upset the boat.", "label": "entailment"}
+{"premise": "Ben kicked the singer, who cast bronze into a statue.", "hypothesis": "The singer cast bronze into a statue.", "label": "entailment"}
+{"premise": "Jason comforted the woman, who split the log.", "hypothesis": "The woman did not split the log.", "label": "contradiction"}
+{"premise": "Jack kicked the athlete, who burst into the room.", "hypothesis": "The athlete did not burst into the room.", "label": "contradiction"}
+{"premise": "Jack found the doctor, who spread the rumor.", "hypothesis": "The doctor did not spread the rumor.", "label": "contradiction"}
+{"premise": "Bob beat the woman, who put the book on the shelf.", "hypothesis": "The woman did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "Bob kicked the stranger, who shut the door.", "hypothesis": "The stranger did not shut the door.", "label": "contradiction"}
+{"premise": "Tom found the kid, who spread the rumor.", "hypothesis": "The kid did not spread the rumor.", "label": "contradiction"}
+{"premise": "Tom respected the athlete, who split the log.", "hypothesis": "The athlete did not split the log.", "label": "contradiction"}
+{"premise": "Katy found the dancer, who cast bronze into a statue.", "hypothesis": "The dancer did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "Katy chased the assistant, who burst into the room.", "hypothesis": "The assistant did not burst into the room.", "label": "contradiction"}
+{"premise": "Jim comforted the professor, who set the dish on the table.", "hypothesis": "The professor did not set the dish on the table.", "label": "contradiction"}
+{"premise": "Jack found the child, who burst into the room.", "hypothesis": "The child did not burst into the room.", "label": "contradiction"}
+{"premise": "Bob deceived the boy, who bet $100 on the race.", "hypothesis": "The boy did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "Katy kicked the worker, who cast bronze into a statue.", "hypothesis": "The worker did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "Jason chased the doctor, who burst into the room.", "hypothesis": "The doctor did not burst into the room.", "label": "contradiction"}
+{"premise": "Kyle saw the child, who thrust the fork into the cake.", "hypothesis": "The child did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "Steven comforted the girl, who thrust the fork into the cake.", "hypothesis": "The girl did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "Ben loved the boy, who read the letter.", "hypothesis": "The boy did not read the letter.", "label": "contradiction"}
+{"premise": "Bob found the woman, who hit the ball with the bat.", "hypothesis": "The woman did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "Katy met the doctor, who spread the rumor.", "hypothesis": "The doctor did not spread the rumor.", "label": "contradiction"}
+{"premise": "Jim chased the stranger, who cast bronze into a statue.", "hypothesis": "The stranger did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "Jason chased the man, who shed tears.", "hypothesis": "The man did not shed tears.", "label": "contradiction"}
+{"premise": "Steven respected the director, who hurt others.", "hypothesis": "The director did not hurt others.", "label": "contradiction"}
+{"premise": "Ben kicked the child, who shut the door.", "hypothesis": "The child did not shut the door.", "label": "contradiction"}
+{"premise": "Katy respected the director, who cast bronze into a statue.", "hypothesis": "The director did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "Kyle found the stranger, who slit the envelope.", "hypothesis": "The stranger did not slit the envelope.", "label": "contradiction"}
+{"premise": "John avoided the kid, who slit the envelope.", "hypothesis": "The kid did not slit the envelope.", "label": "contradiction"}
+{"premise": "Steven comforted the doctor, who bet $100 on the race.", "hypothesis": "The doctor did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "Kyle saw the boy, who bet $100 on the race.", "hypothesis": "The boy did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "Tom respected the professor, who shed tears.", "hypothesis": "The professor did not shed tears.", "label": "contradiction"}
+{"premise": "Jim beat the assistant, who spread the rumor.", "hypothesis": "The assistant did not spread the rumor.", "label": "contradiction"}
+{"premise": "Jason deceived the stranger, who bet $100 on the race.", "hypothesis": "The stranger did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "Kyle comforted the professor, who split the log.", "hypothesis": "The professor did not split the log.", "label": "contradiction"}
+{"premise": "Jason loved the teacher, who slit the envelope.", "hypothesis": "The teacher did not slit the envelope.", "label": "contradiction"}
+{"premise": "Tom found the child, who let the blinds down.", "hypothesis": "The child did not let the blinds down.", "label": "contradiction"}
+{"premise": "Kyle met the worker, who shut the door.", "hypothesis": "The worker did not shut the door.", "label": "contradiction"}
+{"premise": "John beat the professor, who set the dish on the table.", "hypothesis": "The professor did not set the dish on the table.", "label": "contradiction"}
+{"premise": "Steven met the woman, who split the log.", "hypothesis": "The woman did not split the log.", "label": "contradiction"}
+{"premise": "Mary deceived the boy, who upset the boat.", "hypothesis": "The boy did not upset the boat.", "label": "contradiction"}
+{"premise": "Jim met the assistant, who cast bronze into a statue.", "hypothesis": "The assistant did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "Jim deceived the student, who put the book on the shelf.", "hypothesis": "The student did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "Tom deceived the assistant, who shut the door.", "hypothesis": "The assistant did not shut the door.", "label": "contradiction"}
+{"premise": "Jim chased the girl, who burst into the room.", "hypothesis": "The girl did not burst into the room.", "label": "contradiction"}
+{"premise": "Bob loved the doctor, who shut the door.", "hypothesis": "The doctor did not shut the door.", "label": "contradiction"}
+{"premise": "Bob respected the singer, who bet $100 on the race.", "hypothesis": "The singer did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "Mary avoided the doctor, who let the blinds down.", "hypothesis": "The doctor did not let the blinds down.", "label": "contradiction"}
+{"premise": "Mary chased the girl, who slit the envelope.", "hypothesis": "The girl did not slit the envelope.", "label": "contradiction"}
+{"premise": "Katy beat the girl, who set the dish on the table.", "hypothesis": "The girl did not set the dish on the table.", "label": "contradiction"}
+{"premise": "Katy loved the girl, who split the log.", "hypothesis": "The girl did not split the log.", "label": "contradiction"}
+{"premise": "Katy beat the athlete, who shut the door.", "hypothesis": "The athlete did not shut the door.", "label": "contradiction"}
+{"premise": "Kyle deceived the professor, who hurt others.", "hypothesis": "The professor did not hurt others.", "label": "contradiction"}
+{"premise": "Jason met the child, who bet $100 on the race.", "hypothesis": "The child did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "Mary respected the dancer, who burst into the room.", "hypothesis": "The dancer did not burst into the room.", "label": "contradiction"}
+{"premise": "Steven kicked the dancer, who let the blinds down.", "hypothesis": "The dancer did not let the blinds down.", "label": "contradiction"}
+{"premise": "Jenny loved the student, who hurt others.", "hypothesis": "The student did not hurt others.", "label": "contradiction"}
+{"premise": "Bob found the boy, who cast bronze into a statue.", "hypothesis": "The boy did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "Ben loved the assistant, who thrust the fork into the cake.", "hypothesis": "The assistant did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "John kicked the man, who split the log.", "hypothesis": "The man did not split the log.", "label": "contradiction"}
+{"premise": "Steven found the teacher, who let the blinds down.", "hypothesis": "The teacher did not let the blinds down.", "label": "contradiction"}
+{"premise": "Steven comforted the dancer, who upset the boat.", "hypothesis": "The dancer did not upset the boat.", "label": "contradiction"}
+{"premise": "Bob comforted the kid, who cast bronze into a statue.", "hypothesis": "The kid did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "Jim comforted the child, who read the letter.", "hypothesis": "The child did not read the letter.", "label": "contradiction"}
+{"premise": "Jim met the doctor, who hit the ball with the bat.", "hypothesis": "The doctor did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "Jenny deceived the director, who hurt others.", "hypothesis": "The director did not hurt others.", "label": "contradiction"}
+{"premise": "Ben avoided the assistant, who put the book on the shelf.", "hypothesis": "The assistant did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "Jason beat the assistant, who shut the door.", "hypothesis": "The assistant did not shut the door.", "label": "contradiction"}
+{"premise": "Kyle kicked the professor, who hurt others.", "hypothesis": "The professor did not hurt others.", "label": "contradiction"}
+{"premise": "Ben beat the student, who upset the boat.", "hypothesis": "The student did not upset the boat.", "label": "contradiction"}
+{"premise": "Jenny respected the worker, who slit the envelope.", "hypothesis": "The worker did not slit the envelope.", "label": "contradiction"}
+{"premise": "Jack comforted the assistant, who hit the ball with the bat.", "hypothesis": "The assistant did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "Steven deceived the singer, who let the blinds down.", "hypothesis": "The singer did not let the blinds down.", "label": "contradiction"}
+{"premise": "Tom chased the boy, who burst into the room.", "hypothesis": "The boy did not burst into the room.", "label": "contradiction"}
+{"premise": "Kyle loved the director, who split the log.", "hypothesis": "The director did not split the log.", "label": "contradiction"}
+{"premise": "Steven respected the professor, who split the log.", "hypothesis": "The professor did not split the log.", "label": "contradiction"}
+{"premise": "Mary beat the singer, who burst into the room.", "hypothesis": "The singer did not burst into the room.", "label": "contradiction"}
+{"premise": "Mary deceived the dancer, who shed tears.", "hypothesis": "The dancer did not shed tears.", "label": "contradiction"}
+{"premise": "Ben found the man, who hurt others.", "hypothesis": "The man did not hurt others.", "label": "contradiction"}
+{"premise": "Bob respected the girl, who bet $100 on the race.", "hypothesis": "The girl did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "Jack beat the doctor, who hit the ball with the bat.", "hypothesis": "The doctor did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "Kyle kicked the man, who let the blinds down.", "hypothesis": "The man did not let the blinds down.", "label": "contradiction"}
+{"premise": "Katy comforted the dancer, who let the blinds down.", "hypothesis": "The dancer did not let the blinds down.", "label": "contradiction"}
+{"premise": "Bob found the doctor, who upset the boat.", "hypothesis": "The doctor did not upset the boat.", "label": "contradiction"}
+{"premise": "Jim found the director, who set the dish on the table.", "hypothesis": "The director did not set the dish on the table.", "label": "contradiction"}
+{"premise": "John beat the worker, who thrust the fork into the cake.", "hypothesis": "The worker did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "Ben kicked the stranger, who hit the ball with the bat.", "hypothesis": "The stranger did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "Kyle comforted the kid, who read the letter.", "hypothesis": "The kid did not read the letter.", "label": "contradiction"}
+{"premise": "Ben beat the worker, who set the dish on the table.", "hypothesis": "The worker did not set the dish on the table.", "label": "contradiction"}
+{"premise": "Katy found the student, who read the letter.", "hypothesis": "The student did not read the letter.", "label": "contradiction"}
+{"premise": "Ben saw the student, who cast bronze into a statue.", "hypothesis": "The student did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "Jenny comforted the student, who cast bronze into a statue.", "hypothesis": "The student did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "Jim chased the woman, who shut the door.", "hypothesis": "The woman did not shut the door.", "label": "contradiction"}
+{"premise": "Mary comforted the stranger, who hurt others.", "hypothesis": "The stranger did not hurt others.", "label": "contradiction"}
+{"premise": "Jason met the singer, who put the book on the shelf.", "hypothesis": "The singer did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "Kyle found the doctor, who bet $100 on the race.", "hypothesis": "The doctor did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "Kyle comforted the teacher, who split the log.", "hypothesis": "The teacher did not split the log.", "label": "contradiction"}
+{"premise": "Jim avoided the stranger, who upset the boat.", "hypothesis": "The stranger did not upset the boat.", "label": "contradiction"}
+{"premise": "Jim comforted the dancer, who bet $100 on the race.", "hypothesis": "The dancer did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "John saw the girl, who shed tears.", "hypothesis": "The girl did not shed tears.", "label": "contradiction"}
+{"premise": "Jenny chased the man, who slit the envelope.", "hypothesis": "The man did not slit the envelope.", "label": "contradiction"}
+{"premise": "Kyle deceived the teacher, who read the letter.", "hypothesis": "The teacher did not read the letter.", "label": "contradiction"}
+{"premise": "Tom loved the student, who put the book on the shelf.", "hypothesis": "The student did not put the book on the shelf.", "label": "contradiction"}

@@ -1,0 +1,601 @@
+	sentence1	sentence2	label	heuristics	example1	example2	split
+0	Did the child read the letter again?	 The child read the letter again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+1	Did the child shut the door again?	 The child shut the door again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+2	Did the athlete let the blinds down again?	 The athlete let the blinds down again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+3	Did the director hit the ball with the bat again?	 The director hit the ball with the bat again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+4	Did the assistant upset the boat again?	 The assistant upset the boat again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+5	Did the athlete hurt others again?	 The athlete hurt others again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+6	Did the director cast bronze into a statue again?	 The director cast bronze into a statue again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+7	Did the student read the letter again?	 The student read the letter again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+8	Did the child spread the rumor again?	 The child spread the rumor again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+9	Did the dancer bet $100 on the race again?	 The dancer bet $100 on the race again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+10	Did the teacher put the book on the shelf again?	 The teacher put the book on the shelf again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+11	Did the athlete burst into the room again?	 The athlete burst into the room again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+12	Did the man read the letter again?	 The man read the letter again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+13	Did the boy slit the envelope again?	 The boy slit the envelope again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+14	Did the professor split the log again?	 The professor split the log again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+15	Did the man spread the rumor again?	 The man spread the rumor again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+16	Did the man bet $100 on the race again?	 The man bet $100 on the race again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	test
+17	Did the dancer hit the ball with the bat again?	 The dancer hit the ball with the bat again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+18	Did the professor let the blinds down again?	 The professor let the blinds down again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+19	Did the professor read the letter again?	 The professor read the letter again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+20	Did the dancer read the letter again?	 The dancer read the letter again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+21	Did the girl read the letter again?	 The girl read the letter again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+22	Did the professor put the book on the shelf again?	 The professor put the book on the shelf again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+23	Did the dancer put the book on the shelf again?	 The dancer put the book on the shelf again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+24	Did the woman thrust the fork into the cake again?	 The woman thrust the fork into the cake again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+25	Did the manager read the letter again?	 The manager read the letter again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+26	Did the man upset the boat again?	 The man upset the boat again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+27	Did the manager hurt others again?	 The manager hurt others again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+28	Did the worker put the book on the shelf again?	 The worker put the book on the shelf again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+29	Did the singer burst into the room again?	 The singer burst into the room again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+30	Did the singer upset the boat again?	 The singer upset the boat again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+31	Did the worker hit the ball with the bat again?	 The worker hit the ball with the bat again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+32	Did the athlete thrust the fork into the cake again?	 The athlete thrust the fork into the cake again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+33	Did the professor slit the envelope again?	 The professor slit the envelope again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+34	Did the kid upset the boat again?	 The kid upset the boat again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	test
+35	Did the teacher thrust the fork into the cake again?	 The teacher thrust the fork into the cake again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+36	Did the girl spread the rumor again?	 The girl spread the rumor again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+37	Did the doctor bet $100 on the race again?	 The doctor bet $100 on the race again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+38	Did the manager hit the ball with the bat again?	 The manager hit the ball with the bat again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+39	Did the dancer let the blinds down again?	 The dancer let the blinds down again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+40	Did the professor shut the door again?	 The professor shut the door again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+41	Did the worker burst into the room again?	 The worker burst into the room again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+42	Did the director shed tears again?	 The director shed tears again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	test
+43	Did the teacher set the dish on the table again?	 The teacher set the dish on the table again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+44	Did the stranger split the log again?	 The stranger split the log again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+45	Did the director spread the rumor again?	 The director spread the rumor again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+46	Did the doctor let the blinds down again?	 The doctor let the blinds down again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+47	Did the athlete split the log again?	 The athlete split the log again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+48	Did the worker bet $100 on the race again?	 The worker bet $100 on the race again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+49	Did the athlete set the dish on the table again?	 The athlete set the dish on the table again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+50	Did the singer let the blinds down again?	 The singer let the blinds down again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+51	Did the child read the letter again?	 The child read the letter again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+52	Did the kid bet $100 on the race again?	 The kid bet $100 on the race again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+53	Did the manager spread the rumor again?	 The manager spread the rumor again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+54	Did the manager shut the door again?	 The manager shut the door again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+55	Did the professor bet $100 on the race again?	 The professor bet $100 on the race again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+56	Did the teacher spread the rumor again?	 The teacher spread the rumor again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+57	Did the athlete hurt others again?	 The athlete hurt others again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+58	Did the girl hit the ball with the bat again?	 The girl hit the ball with the bat again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+59	Did the boy bet $100 on the race again?	 The boy bet $100 on the race again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+60	Did the worker spread the rumor again?	 The worker spread the rumor again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+61	Did the kid spread the rumor again?	 The kid spread the rumor again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+62	Did the worker put the book on the shelf again?	 The worker put the book on the shelf again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+63	Did the assistant shed tears again?	 The assistant shed tears again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+64	Did the student spread the rumor again?	 The student spread the rumor again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+65	Did the professor shut the door again?	 The professor shut the door again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+66	Did the kid bet $100 on the race again?	 The kid bet $100 on the race again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+67	Did the woman put the book on the shelf again?	 The woman put the book on the shelf again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+68	Did the stranger spread the rumor again?	 The stranger spread the rumor again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+69	Did the child put the book on the shelf again?	 The child put the book on the shelf again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+70	Did the dancer spread the rumor again?	 The dancer spread the rumor again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+71	Did the professor split the log again?	 The professor split the log again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+72	Did the boy shed tears again?	 The boy shed tears again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+73	Did the doctor cast bronze into a statue again?	 The doctor cast bronze into a statue again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+74	Did the kid split the log again?	 The kid split the log again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+75	Did the teacher shut the door again?	 The teacher shut the door again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+76	Did the kid shed tears again?	 The kid shed tears again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+77	Did the manager let the blinds down again?	 The manager let the blinds down again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+78	Did the athlete cast bronze into a statue again?	 The athlete cast bronze into a statue again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+79	Did the assistant cast bronze into a statue again?	 The assistant cast bronze into a statue again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+80	Did the worker put the book on the shelf again?	 The worker put the book on the shelf again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+81	Did the dancer shut the door again?	 The dancer shut the door again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+82	Did the boy shut the door again?	 The boy shut the door again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+83	Did the kid thrust the fork into the cake again?	 The kid thrust the fork into the cake again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+84	Did the teacher upset the boat again?	 The teacher upset the boat again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+85	Did the worker hit the ball with the bat again?	 The worker hit the ball with the bat again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+86	Did the director let the blinds down again?	 The director let the blinds down again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	test
+87	Did the dancer hit the ball with the bat again?	 The dancer hit the ball with the bat again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+88	Did the doctor shed tears again?	 The doctor shed tears again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	test
+89	Did the kid hurt others again?	 The kid hurt others again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+90	Did the worker put the book on the shelf again?	 The worker put the book on the shelf again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+91	Did the kid set the dish on the table again?	 The kid set the dish on the table again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+92	Did the doctor let the blinds down again?	 The doctor let the blinds down again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+93	Did the assistant let the blinds down again?	 The assistant let the blinds down again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+94	Did the worker thrust the fork into the cake again?	 The worker thrust the fork into the cake again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+95	Did the kid split the log again?	 The kid split the log again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+96	Did the teacher let the blinds down again?	 The teacher let the blinds down again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+97	Did the student upset the boat again?	 The student upset the boat again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+98	Did the manager thrust the fork into the cake again?	 The manager thrust the fork into the cake again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+99	Did the director set the dish on the table again?	 The director set the dish on the table again.	entailment	 -	 The doctor cut the tree again.	 The doctor cut the tree.	train
+200	Did the doctor upset the boat calmly?	 The doctor upset the boat calmly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+201	Did the worker read the letter quickly?	 The worker read the letter quickly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+202	Did the girl shed tears happily?	 The girl shed tears happily.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+203	Did the manager spread the rumor angrily?	 The manager spread the rumor angrily.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+204	Did the girl let the blinds down easily?	 The girl let the blinds down easily.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+205	Did the singer cast bronze into a statue angrily?	 The singer cast bronze into a statue angrily.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+206	Did the professor shed tears quietly?	 The professor shed tears quietly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+207	Did the stranger bet $100 on the race easily?	 The stranger bet $100 on the race easily.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+208	Did the man put the book on the shelf slowly?	 The man put the book on the shelf slowly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+209	Did the director put the book on the shelf calmly?	 The director put the book on the shelf calmly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+210	Did the girl bet $100 on the race quietly?	 The girl bet $100 on the race quietly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+211	Did the director split the log easily?	 The director split the log easily.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+212	Did the worker thrust the fork into the cake quickly?	 The worker thrust the fork into the cake quickly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+213	Did the woman upset the boat calmly?	 The woman upset the boat calmly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+214	Did the assistant split the log quietly?	 The assistant split the log quietly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+215	Did the worker spread the rumor calmly?	 The worker spread the rumor calmly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+216	Did the singer shut the door anxiously?	 The singer shut the door anxiously.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+217	Did the child shut the door sadly?	 The child shut the door sadly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+218	Did the child hurt others angrily?	 The child hurt others angrily.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+219	Did the director put the book on the shelf quickly?	 The director put the book on the shelf quickly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+220	Did the teacher let the blinds down quietly?	 The teacher let the blinds down quietly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+221	Did the manager split the log quickly?	 The manager split the log quickly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+222	Did the teacher spread the rumor calmly?	 The teacher spread the rumor calmly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+223	Did the singer hit the ball with the bat slowly?	 The singer hit the ball with the bat slowly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+224	Did the girl cast bronze into a statue angrily?	 The girl cast bronze into a statue angrily.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+225	Did the dancer bet $100 on the race sadly?	 The dancer bet $100 on the race sadly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+226	Did the child shed tears quickly?	 The child shed tears quickly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+227	Did the woman put the book on the shelf anxiously?	 The woman put the book on the shelf anxiously.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+228	Did the manager set the dish on the table quietly?	 The manager set the dish on the table quietly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+229	Did the singer upset the boat angrily?	 The singer upset the boat angrily.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+230	Did the doctor thrust the fork into the cake calmly?	 The doctor thrust the fork into the cake calmly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	test
+231	Did the woman slit the envelope sadly?	 The woman slit the envelope sadly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+232	Did the doctor let the blinds down quickly?	 The doctor let the blinds down quickly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+233	Did the athlete read the letter easily?	 The athlete read the letter easily.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+234	Did the director put the book on the shelf quickly?	 The director put the book on the shelf quickly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+235	Did the woman let the blinds down quietly?	 The woman let the blinds down quietly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+236	Did the director hurt others quickly?	 The director hurt others quickly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+237	Did the student hurt others slowly?	 The student hurt others slowly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+238	Did the girl put the book on the shelf happily?	 The girl put the book on the shelf happily.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+239	Did the professor put the book on the shelf slowly?	 The professor put the book on the shelf slowly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+240	Did the manager hurt others quietly?	 The manager hurt others quietly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+241	Did the stranger hit the ball with the bat angrily?	 The stranger hit the ball with the bat angrily.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+242	Did the boy slit the envelope slowly?	 The boy slit the envelope slowly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+243	Did the manager read the letter anxiously?	 The manager read the letter anxiously.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+244	Did the assistant thrust the fork into the cake calmly?	 The assistant thrust the fork into the cake calmly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+245	Did the athlete spread the rumor slowly?	 The athlete spread the rumor slowly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+246	Did the boy cast bronze into a statue slowly?	 The boy cast bronze into a statue slowly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+247	Did the child shed tears sadly?	 The child shed tears sadly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+248	Did the student set the dish on the table angrily?	 The student set the dish on the table angrily.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+249	Did the woman let the blinds down easily?	 The woman let the blinds down easily.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+250	Did the girl shed tears angrily?	 The girl shed tears angrily.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+251	Did the student bet $100 on the race easily?	 The student bet $100 on the race easily.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+252	Did the woman spread the rumor quietly?	 The woman spread the rumor quietly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+253	Did the stranger let the blinds down easily?	 The stranger let the blinds down easily.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+254	Did the kid set the dish on the table slowly?	 The kid set the dish on the table slowly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+255	Did the boy read the letter sadly?	 The boy read the letter sadly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	test
+256	Did the assistant cast bronze into a statue easily?	 The assistant cast bronze into a statue easily.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+257	Did the assistant hurt others calmly?	 The assistant hurt others calmly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+258	Did the athlete hit the ball with the bat quickly?	 The athlete hit the ball with the bat quickly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+259	Did the girl hit the ball with the bat angrily?	 The girl hit the ball with the bat angrily.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+260	Did the director split the log easily?	 The director split the log easily.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+261	Did the assistant read the letter quickly?	 The assistant read the letter quickly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+262	Did the manager shed tears sadly?	 The manager shed tears sadly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+263	Did the manager set the dish on the table sadly?	 The manager set the dish on the table sadly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+264	Did the girl thrust the fork into the cake happily?	 The girl thrust the fork into the cake happily.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+265	Did the athlete hurt others sadly?	 The athlete hurt others sadly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+266	Did the singer let the blinds down happily?	 The singer let the blinds down happily.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+267	Did the teacher set the dish on the table quietly?	 The teacher set the dish on the table quietly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+268	Did the man read the letter sadly?	 The man read the letter sadly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+269	Did the assistant put the book on the shelf angrily?	 The assistant put the book on the shelf angrily.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+270	Did the assistant slit the envelope quietly?	 The assistant slit the envelope quietly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	test
+271	Did the dancer hit the ball with the bat calmly?	 The dancer hit the ball with the bat calmly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+272	Did the manager bet $100 on the race slowly?	 The manager bet $100 on the race slowly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+273	Did the singer burst into the room sadly?	 The singer burst into the room sadly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+274	Did the kid slit the envelope calmly?	 The kid slit the envelope calmly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+275	Did the teacher upset the boat angrily?	 The teacher upset the boat angrily.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+276	Did the stranger slit the envelope quickly?	 The stranger slit the envelope quickly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+277	Did the teacher read the letter calmly?	 The teacher read the letter calmly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+278	Did the professor hit the ball with the bat easily?	 The professor hit the ball with the bat easily.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+279	Did the manager upset the boat anxiously?	 The manager upset the boat anxiously.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+280	Did the worker burst into the room sadly?	 The worker burst into the room sadly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+281	Did the professor shut the door quickly?	 The professor shut the door quickly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+282	Did the child cast bronze into a statue anxiously?	 The child cast bronze into a statue anxiously.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+283	Did the man bet $100 on the race quickly?	 The man bet $100 on the race quickly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	test
+284	Did the woman bet $100 on the race calmly?	 The woman bet $100 on the race calmly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+285	Did the kid cast bronze into a statue calmly?	 The kid cast bronze into a statue calmly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+286	Did the woman bet $100 on the race slowly?	 The woman bet $100 on the race slowly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	test
+287	Did the manager cast bronze into a statue easily?	 The manager cast bronze into a statue easily.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+288	Did the athlete let the blinds down anxiously?	 The athlete let the blinds down anxiously.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+289	Did the professor put the book on the shelf quickly?	 The professor put the book on the shelf quickly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+290	Did the boy let the blinds down happily?	 The boy let the blinds down happily.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+291	Did the boy upset the boat easily?	 The boy upset the boat easily.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+292	Did the child put the book on the shelf calmly?	 The child put the book on the shelf calmly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+293	Did the doctor put the book on the shelf quickly?	 The doctor put the book on the shelf quickly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+294	Did the stranger thrust the fork into the cake quickly?	 The stranger thrust the fork into the cake quickly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+295	Did the kid spread the rumor easily?	 The kid spread the rumor easily.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+296	Did the worker burst into the room angrily?	 The worker burst into the room angrily.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+297	Did the boy upset the boat slowly?	 The boy upset the boat slowly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+298	Did the athlete set the dish on the table quietly?	 The athlete set the dish on the table quietly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+299	Did the boy let the blinds down quickly?	 The boy let the blinds down quickly.	entailment	 -	 The doctor cut the tree slowly.	 The doctor cut the tree.	train
+400	Did the manager spread the rumor after thrusting the fork into the cake?	 The manager spread the rumor after thrusting the fork into the cake.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+401	Did the dancer set the dish on the table when splitting the log?	 The dancer set the dish on the table when splitting the log.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+402	Did the student split the log after betting $100 on the race?	 The student split the log after betting $100 on the race.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+403	Did the manager set the dish on the table before hurting others?	 The manager set the dish on the table before hurting others.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+404	Did the professor slit the envelope while letting the blinds down?	 The professor slit the envelope while letting the blinds down.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+405	Did the kid upset the boat while shutting the door?	 The kid upset the boat while shutting the door.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+406	Did the professor cast bronze into a statue while setting the dish on the table?	 The professor cast bronze into a statue while setting the dish on the table.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+407	Did the singer cast bronze into a statue when bursting into the room?	 The singer cast bronze into a statue when bursting into the room.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+408	Did the kid hit the ball with the bat when shedding tears?	 The kid hit the ball with the bat when shedding tears.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+409	Did the student put the book on the shelf after slitting the envelope?	 The student put the book on the shelf after slitting the envelope.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+410	Did the teacher thrust the fork into the cake while setting the dish on the table?	 The teacher thrust the fork into the cake while setting the dish on the table.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+411	Did the student spread the rumor while reading the letter?	 The student spread the rumor while reading the letter.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+412	Did the singer thrust the fork into the cake before splitting the log?	 The singer thrust the fork into the cake before splitting the log.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	test
+413	Did the manager thrust the fork into the cake before splitting the log?	 The manager thrust the fork into the cake before splitting the log.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+414	Did the assistant shut the door before casting bronze into a statue?	 The assistant shut the door before casting bronze into a statue.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+415	Did the kid thrust the fork into the cake while reading the letter?	 The kid thrust the fork into the cake while reading the letter.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+416	Did the athlete slit the envelope when thrusting the fork into the cake?	 The athlete slit the envelope when thrusting the fork into the cake.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+417	Did the doctor thrust the fork into the cake before setting the dish on the table?	 The doctor thrust the fork into the cake before setting the dish on the table.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+418	Did the manager hurt others before thrusting the fork into the cake?	 The manager hurt others before thrusting the fork into the cake.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+419	Did the director hurt others before putting the book on the shelf?	 The director hurt others before putting the book on the shelf.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+420	Did the man shed tears when putting the book on the shelf?	 The man shed tears when putting the book on the shelf.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+421	Did the man bet $100 on the race while upsetting the boat?	 The man bet $100 on the race while upsetting the boat.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+422	Did the boy upset the boat after splitting the log?	 The boy upset the boat after splitting the log.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+423	Did the athlete slit the envelope while spreading the rumor?	 The athlete slit the envelope while spreading the rumor.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+424	Did the professor read the letter before letting the blinds down?	 The professor read the letter before letting the blinds down.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+425	Did the teacher let the blinds down when bursting into the room?	 The teacher let the blinds down when bursting into the room.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+426	Did the child read the letter when splitting the log?	 The child read the letter when splitting the log.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+427	Did the man let the blinds down while splitting the log?	 The man let the blinds down while splitting the log.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+428	Did the singer set the dish on the table after upsetting the boat?	 The singer set the dish on the table after upsetting the boat.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+429	Did the dancer upset the boat before putting the book on the shelf?	 The dancer upset the boat before putting the book on the shelf.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+430	Did the stranger hit the ball with the bat before shutting the door?	 The stranger hit the ball with the bat before shutting the door.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+431	Did the girl hurt others while shutting the door?	 The girl hurt others while shutting the door.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+432	Did the director slit the envelope before betting $100 on the race?	 The director slit the envelope before betting $100 on the race.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+433	Did the stranger hit the ball with the bat while shedding tears?	 The stranger hit the ball with the bat while shedding tears.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+434	Did the professor thrust the fork into the cake before setting the dish on the table?	 The professor thrust the fork into the cake before setting the dish on the table.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+435	Did the stranger thrust the fork into the cake when spreading the rumor?	 The stranger thrust the fork into the cake when spreading the rumor.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+436	Did the child hit the ball with the bat when upsetting the boat?	 The child hit the ball with the bat when upsetting the boat.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+437	Did the man shut the door before upsetting the boat?	 The man shut the door before upsetting the boat.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+438	Did the girl read the letter before setting the dish on the table?	 The girl read the letter before setting the dish on the table.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+439	Did the child hurt others while splitting the log?	 The child hurt others while splitting the log.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+440	Did the worker thrust the fork into the cake before bursting into the room?	 The worker thrust the fork into the cake before bursting into the room.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+441	Did the singer shed tears while casting bronze into a statue?	 The singer shed tears while casting bronze into a statue.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+442	Did the woman burst into the room before thrusting the fork into the cake?	 The woman burst into the room before thrusting the fork into the cake.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+443	Did the teacher burst into the room before slitting the envelope?	 The teacher burst into the room before slitting the envelope.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+444	Did the stranger spread the rumor while upsetting the boat?	 The stranger spread the rumor while upsetting the boat.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+445	Did the worker hurt others before slitting the envelope?	 The worker hurt others before slitting the envelope.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+446	Did the worker thrust the fork into the cake when reading the letter?	 The worker thrust the fork into the cake when reading the letter.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	test
+447	Did the manager bet $100 on the race before reading the letter?	 The manager bet $100 on the race before reading the letter.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+448	Did the kid cast bronze into a statue when bursting into the room?	 The kid cast bronze into a statue when bursting into the room.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+449	Did the singer shut the door before upsetting the boat?	 The singer shut the door before upsetting the boat.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+450	Did the director split the log after hurting others?	 The director split the log after hurting others.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+451	Did the doctor put the book on the shelf while hurting others?	 The doctor put the book on the shelf while hurting others.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+452	Did the athlete let the blinds down when casting bronze into a statue?	 The athlete let the blinds down when casting bronze into a statue.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	test
+453	Did the boy spread the rumor before casting bronze into a statue?	 The boy spread the rumor before casting bronze into a statue.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+454	Did the stranger upset the boat while putting the book on the shelf?	 The stranger upset the boat while putting the book on the shelf.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+455	Did the child put the book on the shelf when betting $100 on the race?	 The child put the book on the shelf when betting $100 on the race.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+456	Did the doctor read the letter after hurting others?	 The doctor read the letter after hurting others.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+457	Did the assistant thrust the fork into the cake when letting the blinds down?	 The assistant thrust the fork into the cake when letting the blinds down.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+458	Did the doctor shut the door before casting bronze into a statue?	 The doctor shut the door before casting bronze into a statue.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+459	Did the student shut the door while upsetting the boat?	 The student shut the door while upsetting the boat.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+460	Did the man set the dish on the table while upsetting the boat?	 The man set the dish on the table while upsetting the boat.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+461	Did the boy cast bronze into a statue after spreading the rumor?	 The boy cast bronze into a statue after spreading the rumor.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+462	Did the student shed tears while putting the book on the shelf?	 The student shed tears while putting the book on the shelf.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+463	Did the kid bet $100 on the race after upsetting the boat?	 The kid bet $100 on the race after upsetting the boat.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+464	Did the assistant shed tears when slitting the envelope?	 The assistant shed tears when slitting the envelope.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+465	Did the student split the log while slitting the envelope?	 The student split the log while slitting the envelope.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+466	Did the kid cast bronze into a statue when reading the letter?	 The kid cast bronze into a statue when reading the letter.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+467	Did the child hurt others before slitting the envelope?	 The child hurt others before slitting the envelope.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+468	Did the stranger cast bronze into a statue while spreading the rumor?	 The stranger cast bronze into a statue while spreading the rumor.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+469	Did the dancer thrust the fork into the cake after bursting into the room?	 The dancer thrust the fork into the cake after bursting into the room.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+470	Did the singer bet $100 on the race after casting bronze into a statue?	 The singer bet $100 on the race after casting bronze into a statue.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+471	Did the stranger split the log after casting bronze into a statue?	 The stranger split the log after casting bronze into a statue.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+472	Did the singer slit the envelope while reading the letter?	 The singer slit the envelope while reading the letter.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+473	Did the worker let the blinds down before betting $100 on the race?	 The worker let the blinds down before betting $100 on the race.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+474	Did the boy shed tears after putting the book on the shelf?	 The boy shed tears after putting the book on the shelf.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+475	Did the assistant cast bronze into a statue before letting the blinds down?	 The assistant cast bronze into a statue before letting the blinds down.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+476	Did the kid put the book on the shelf before setting the dish on the table?	 The kid put the book on the shelf before setting the dish on the table.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+477	Did the dancer hit the ball with the bat while spreading the rumor?	 The dancer hit the ball with the bat while spreading the rumor.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+478	Did the girl burst into the room while betting $100 on the race?	 The girl burst into the room while betting $100 on the race.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+479	Did the assistant cast bronze into a statue after letting the blinds down?	 The assistant cast bronze into a statue after letting the blinds down.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+480	Did the girl bet $100 on the race while casting bronze into a statue?	 The girl bet $100 on the race while casting bronze into a statue.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+481	Did the boy split the log after letting the blinds down?	 The boy split the log after letting the blinds down.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+482	Did the child thrust the fork into the cake before reading the letter?	 The child thrust the fork into the cake before reading the letter.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+483	Did the manager hit the ball with the bat when hurting others?	 The manager hit the ball with the bat when hurting others.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+484	Did the teacher thrust the fork into the cake before upsetting the boat?	 The teacher thrust the fork into the cake before upsetting the boat.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+485	Did the director hit the ball with the bat while reading the letter?	 The director hit the ball with the bat while reading the letter.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+486	Did the athlete shut the door after hitting the ball with the bat?	 The athlete shut the door after hitting the ball with the bat.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+487	Did the director burst into the room after hitting the ball with the bat?	 The director burst into the room after hitting the ball with the bat.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+488	Did the child burst into the room after casting bronze into a statue?	 The child burst into the room after casting bronze into a statue.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+489	Did the director upset the boat before slitting the envelope?	 The director upset the boat before slitting the envelope.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+490	Did the woman bet $100 on the race when upsetting the boat?	 The woman bet $100 on the race when upsetting the boat.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+491	Did the boy thrust the fork into the cake after spreading the rumor?	 The boy thrust the fork into the cake after spreading the rumor.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	test
+492	Did the child let the blinds down after setting the dish on the table?	 The child let the blinds down after setting the dish on the table.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+493	Did the athlete cast bronze into a statue after setting the dish on the table?	 The athlete cast bronze into a statue after setting the dish on the table.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+494	Did the child set the dish on the table while shedding tears?	 The child set the dish on the table while shedding tears.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	test
+495	Did the man burst into the room when shedding tears?	 The man burst into the room when shedding tears.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+496	Did the boy burst into the room after betting $100 on the race?	 The boy burst into the room after betting $100 on the race.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+497	Did the director hurt others after shedding tears?	 The director hurt others after shedding tears.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+498	Did the director read the letter after letting the blinds down?	 The director read the letter after letting the blinds down.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+499	Did the professor hit the ball with the bat while letting the blinds down?	 The professor hit the ball with the bat while letting the blinds down.	entailment	 -	 The doctor burst into the room beofore cutting the tree.	 The doctor cut the tree.	train
+600	Did the worker split the log more seriously than the director?	 The worker split the log more seriously than the director.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+601	Did the singer upset the boat worse than the athlete?	 The singer upset the boat worse than the athlete.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+602	Did the dancer bet $100 on the race better than the worker?	 The dancer bet $100 on the race better than the worker.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+603	Did the girl bet $100 on the race more seriously than the worker?	 The girl bet $100 on the race more seriously than the worker.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+604	Did the man cast bronze into a statue better than the singer?	 The man cast bronze into a statue better than the singer.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+605	Did the singer hit the ball with the bat worse than the kid?	 The singer hit the ball with the bat worse than the kid.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+606	Did the student read the letter worse than the boy?	 The student read the letter worse than the boy.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+607	Did the athlete slit the envelope earlier than the doctor?	 The athlete slit the envelope earlier than the doctor.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+608	Did the doctor burst into the room more seriously than the dancer?	 The doctor burst into the room more seriously than the dancer.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+609	Did the girl hurt others worse than the worker?	 The girl hurt others worse than the worker.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+610	Did the girl split the log more seriously than the kid?	 The girl split the log more seriously than the kid.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+611	Did the director let the blinds down earlier than the kid?	 The director let the blinds down earlier than the kid.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+612	Did the worker bet $100 on the race worse than the doctor?	 The worker bet $100 on the race worse than the doctor.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+613	Did the worker set the dish on the table earlier than the man?	 The worker set the dish on the table earlier than the man.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+614	Did the boy set the dish on the table worse than the kid?	 The boy set the dish on the table worse than the kid.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+615	Did the professor bet $100 on the race worse than the assistant?	 The professor bet $100 on the race worse than the assistant.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+616	Did the boy hit the ball with the bat more seriously than the kid?	 The boy hit the ball with the bat more seriously than the kid.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+617	Did the professor read the letter worse than the teacher?	 The professor read the letter worse than the teacher.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+618	Did the kid spread the rumor earlier than the manager?	 The kid spread the rumor earlier than the manager.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+619	Did the man read the letter more seriously than the woman?	 The man read the letter more seriously than the woman.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+620	Did the manager shut the door more seriously than the professor?	 The manager shut the door more seriously than the professor.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+621	Did the kid put the book on the shelf earlier than the assistant?	 The kid put the book on the shelf earlier than the assistant.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+622	Did the boy hurt others worse than the doctor?	 The boy hurt others worse than the doctor.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+623	Did the teacher put the book on the shelf worse than the student?	 The teacher put the book on the shelf worse than the student.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+624	Did the assistant slit the envelope earlier than the man?	 The assistant slit the envelope earlier than the man.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+625	Did the stranger shed tears more seriously than the kid?	 The stranger shed tears more seriously than the kid.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+626	Did the athlete cast bronze into a statue earlier than the child?	 The athlete cast bronze into a statue earlier than the child.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+627	Did the girl bet $100 on the race worse than the athlete?	 The girl bet $100 on the race worse than the athlete.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+628	Did the manager slit the envelope better than the boy?	 The manager slit the envelope better than the boy.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+629	Did the boy spread the rumor more seriously than the man?	 The boy spread the rumor more seriously than the man.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+630	Did the worker shed tears earlier than the dancer?	 The worker shed tears earlier than the dancer.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+631	Did the manager set the dish on the table worse than the kid?	 The manager set the dish on the table worse than the kid.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+632	Did the boy split the log better than the director?	 The boy split the log better than the director.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+633	Did the athlete split the log better than the teacher?	 The athlete split the log better than the teacher.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+634	Did the girl put the book on the shelf worse than the director?	 The girl put the book on the shelf worse than the director.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+635	Did the teacher spread the rumor more seriously than the boy?	 The teacher spread the rumor more seriously than the boy.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+636	Did the dancer burst into the room better than the stranger?	 The dancer burst into the room better than the stranger.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+637	Did the dancer cast bronze into a statue worse than the worker?	 The dancer cast bronze into a statue worse than the worker.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+638	Did the singer cast bronze into a statue earlier than the boy?	 The singer cast bronze into a statue earlier than the boy.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+639	Did the singer set the dish on the table better than the assistant?	 The singer set the dish on the table better than the assistant.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	test
+640	Did the worker thrust the fork into the cake worse than the doctor?	 The worker thrust the fork into the cake worse than the doctor.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+641	Did the assistant let the blinds down worse than the athlete?	 The assistant let the blinds down worse than the athlete.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+642	Did the singer split the log more seriously than the kid?	 The singer split the log more seriously than the kid.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+643	Did the girl let the blinds down more seriously than the singer?	 The girl let the blinds down more seriously than the singer.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+644	Did the singer set the dish on the table better than the child?	 The singer set the dish on the table better than the child.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+645	Did the child cast bronze into a statue more seriously than the woman?	 The child cast bronze into a statue more seriously than the woman.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+646	Did the doctor let the blinds down worse than the woman?	 The doctor let the blinds down worse than the woman.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	test
+647	Did the kid let the blinds down better than the director?	 The kid let the blinds down better than the director.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+648	Did the assistant let the blinds down more seriously than the kid?	 The assistant let the blinds down more seriously than the kid.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+649	Did the doctor thrust the fork into the cake better than the dancer?	 The doctor thrust the fork into the cake better than the dancer.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+650	Did the assistant upset the boat worse than the student?	 The assistant upset the boat worse than the student.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	test
+651	Did the student set the dish on the table worse than the manager?	 The student set the dish on the table worse than the manager.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+652	Did the student put the book on the shelf earlier than the singer?	 The student put the book on the shelf earlier than the singer.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+653	Did the singer shut the door earlier than the girl?	 The singer shut the door earlier than the girl.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+654	Did the woman upset the boat earlier than the manager?	 The woman upset the boat earlier than the manager.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+655	Did the athlete burst into the room better than the worker?	 The athlete burst into the room better than the worker.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+656	Did the worker cast bronze into a statue better than the man?	 The worker cast bronze into a statue better than the man.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+657	Did the woman burst into the room worse than the dancer?	 The woman burst into the room worse than the dancer.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+658	Did the child shed tears earlier than the girl?	 The child shed tears earlier than the girl.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+659	Did the worker hit the ball with the bat better than the assistant?	 The worker hit the ball with the bat better than the assistant.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+660	Did the girl put the book on the shelf worse than the stranger?	 The girl put the book on the shelf worse than the stranger.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+661	Did the kid shut the door earlier than the dancer?	 The kid shut the door earlier than the dancer.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+662	Did the boy hurt others earlier than the doctor?	 The boy hurt others earlier than the doctor.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+663	Did the professor put the book on the shelf better than the kid?	 The professor put the book on the shelf better than the kid.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+664	Did the doctor slit the envelope better than the man?	 The doctor slit the envelope better than the man.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+665	Did the man shut the door better than the dancer?	 The man shut the door better than the dancer.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+666	Did the singer set the dish on the table worse than the assistant?	 The singer set the dish on the table worse than the assistant.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+667	Did the assistant upset the boat earlier than the child?	 The assistant upset the boat earlier than the child.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+668	Did the woman set the dish on the table more seriously than the worker?	 The woman set the dish on the table more seriously than the worker.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+669	Did the worker shed tears worse than the man?	 The worker shed tears worse than the man.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+670	Did the assistant bet $100 on the race better than the teacher?	 The assistant bet $100 on the race better than the teacher.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+671	Did the assistant cast bronze into a statue worse than the athlete?	 The assistant cast bronze into a statue worse than the athlete.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+672	Did the child cast bronze into a statue worse than the doctor?	 The child cast bronze into a statue worse than the doctor.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+673	Did the stranger burst into the room more seriously than the teacher?	 The stranger burst into the room more seriously than the teacher.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+674	Did the student slit the envelope more seriously than the assistant?	 The student slit the envelope more seriously than the assistant.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+675	Did the girl spread the rumor better than the stranger?	 The girl spread the rumor better than the stranger.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+676	Did the kid hit the ball with the bat earlier than the singer?	 The kid hit the ball with the bat earlier than the singer.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+677	Did the stranger let the blinds down more seriously than the dancer?	 The stranger let the blinds down more seriously than the dancer.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	test
+678	Did the teacher burst into the room more seriously than the child?	 The teacher burst into the room more seriously than the child.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+679	Did the student let the blinds down better than the manager?	 The student let the blinds down better than the manager.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+680	Did the man shut the door better than the manager?	 The man shut the door better than the manager.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+681	Did the woman burst into the room more seriously than the director?	 The woman burst into the room more seriously than the director.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+682	Did the girl set the dish on the table worse than the man?	 The girl set the dish on the table worse than the man.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+683	Did the director upset the boat more seriously than the kid?	 The director upset the boat more seriously than the kid.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+684	Did the man shut the door better than the stranger?	 The man shut the door better than the stranger.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+685	Did the athlete bet $100 on the race worse than the man?	 The athlete bet $100 on the race worse than the man.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+686	Did the director set the dish on the table more seriously than the man?	 The director set the dish on the table more seriously than the man.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+687	Did the student shed tears more seriously than the teacher?	 The student shed tears more seriously than the teacher.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+688	Did the manager shed tears worse than the stranger?	 The manager shed tears worse than the stranger.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+689	Did the stranger shed tears more seriously than the woman?	 The stranger shed tears more seriously than the woman.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+690	Did the man read the letter better than the child?	 The man read the letter better than the child.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+691	Did the boy set the dish on the table more seriously than the athlete?	 The boy set the dish on the table more seriously than the athlete.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	test
+692	Did the student burst into the room better than the man?	 The student burst into the room better than the man.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+693	Did the boy hurt others worse than the teacher?	 The boy hurt others worse than the teacher.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+694	Did the doctor put the book on the shelf better than the student?	 The doctor put the book on the shelf better than the student.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+695	Did the director spread the rumor earlier than the manager?	 The director spread the rumor earlier than the manager.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+696	Did the worker hit the ball with the bat more seriously than the woman?	 The worker hit the ball with the bat more seriously than the woman.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+697	Did the kid cast bronze into a statue better than the manager?	 The kid cast bronze into a statue better than the manager.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+698	Did the girl slit the envelope better than the director?	 The girl slit the envelope better than the director.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+699	Did the woman shed tears worse than the stranger?	 The woman shed tears worse than the stranger.	entailment	 -	 The doctor cut the tree better than the singer.	 The doctor cut the tree.	train
+800	Did the professor cease casting bronze into a statue?	 The professor ceased casting bronze into a statue.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+801	Did the singer finish spreading the rumor?	 The singer finished spreading the rumor.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	test
+802	Did the boy quit reading the letter?	 The boy quit reading the letter.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+803	Did the girl stop reading the letter?	 The girl stopped reading the letter.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+804	Did the assistant finish casting bronze into a statue?	 The assistant finished casting bronze into a statue.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+805	Did the man continue shutting the door?	 The man continued shutting the door.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	test
+806	Did the director cease hitting the ball with the bat?	 The director ceased hitting the ball with the bat.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+807	Did the worker quit thrusting the fork into the cake?	 The worker quit thrusting the fork into the cake.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+808	Did the athlete quit hurting others?	 The athlete quit hurting others.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+809	Did the athlete finish setting the dish on the table?	 The athlete finished setting the dish on the table.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+810	Did the man stop betting $100 on the race?	 The man stopped betting $100 on the race.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	test
+811	Did the singer continue splitting the log?	 The singer continued splitting the log.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+812	Did the student keep putting the book on the shelf?	 The student kept putting the book on the shelf.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+813	Did the student quit letting the blinds down?	 The student quit letting the blinds down.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+814	Did the woman stop letting the blinds down?	 The woman stopped letting the blinds down.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+815	Did the manager continue setting the dish on the table?	 The manager continued setting the dish on the table.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+816	Did the boy continue reading the letter?	 The boy continued reading the letter.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+817	Did the kid cease upsetting the boat?	 The kid ceased upsetting the boat.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+818	Did the student keep spreading the rumor?	 The student kept spreading the rumor.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+819	Did the child quit reading the letter?	 The child quit reading the letter.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+820	Did the assistant finish shedding tears?	 The assistant finished shedding tears.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+821	Did the athlete quit shedding tears?	 The athlete quit shedding tears.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+822	Did the athlete keep shedding tears?	 The athlete kept shedding tears.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+823	Did the professor finish setting the dish on the table?	 The professor finished setting the dish on the table.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+824	Did the teacher give up bursting into the room?	 The teacher gave up bursting into the room.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+825	Did the girl cease upsetting the boat?	 The girl ceased upsetting the boat.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+826	Did the athlete quit casting bronze into a statue?	 The athlete quit casting bronze into a statue.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+827	Did the stranger quit hurting others?	 The stranger quit hurting others.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+828	Did the woman give up hurting others?	 The woman gave up hurting others.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	test
+829	Did the girl finish hurting others?	 The girl finished hurting others.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+830	Did the singer stop spreading the rumor?	 The singer stopped spreading the rumor.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+831	Did the boy give up letting the blinds down?	 The boy gave up letting the blinds down.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+832	Did the woman give up hurting others?	 The woman gave up hurting others.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+833	Did the girl stop reading the letter?	 The girl stopped reading the letter.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+834	Did the teacher cease hurting others?	 The teacher ceased hurting others.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+835	Did the stranger finish bursting into the room?	 The stranger finished bursting into the room.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+836	Did the director quit reading the letter?	 The director quit reading the letter.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+837	Did the girl give up hurting others?	 The girl gave up hurting others.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+838	Did the manager finish shedding tears?	 The manager finished shedding tears.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+839	Did the doctor stop hitting the ball with the bat?	 The doctor stopped hitting the ball with the bat.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+840	Did the kid keep bursting into the room?	 The kid kept bursting into the room.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+841	Did the director cease hitting the ball with the bat?	 The director ceased hitting the ball with the bat.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+842	Did the doctor cease spreading the rumor?	 The doctor ceased spreading the rumor.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+843	Did the kid continue shedding tears?	 The kid continued shedding tears.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	test
+844	Did the singer quit putting the book on the shelf?	 The singer quit putting the book on the shelf.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+845	Did the worker continue betting $100 on the race?	 The worker continued betting $100 on the race.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+846	Did the doctor give up casting bronze into a statue?	 The doctor gave up casting bronze into a statue.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+847	Did the assistant finish slitting the envelope?	 The assistant finished slitting the envelope.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+848	Did the man keep bursting into the room?	 The man kept bursting into the room.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+849	Did the stranger cease casting bronze into a statue?	 The stranger ceased casting bronze into a statue.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+850	Did the dancer cease slitting the envelope?	 The dancer ceased slitting the envelope.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+851	Did the man quit casting bronze into a statue?	 The man quit casting bronze into a statue.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+852	Did the manager cease reading the letter?	 The manager ceased reading the letter.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+853	Did the athlete cease slitting the envelope?	 The athlete ceased slitting the envelope.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+854	Did the kid stop thrusting the fork into the cake?	 The kid stopped thrusting the fork into the cake.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+855	Did the man continue casting bronze into a statue?	 The man continued casting bronze into a statue.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+856	Did the teacher keep slitting the envelope?	 The teacher kept slitting the envelope.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+857	Did the director finish casting bronze into a statue?	 The director finished casting bronze into a statue.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+858	Did the manager stop hitting the ball with the bat?	 The manager stopped hitting the ball with the bat.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+859	Did the teacher cease setting the dish on the table?	 The teacher ceased setting the dish on the table.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+860	Did the kid cease casting bronze into a statue?	 The kid ceased casting bronze into a statue.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+861	Did the boy continue hurting others?	 The boy continued hurting others.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+862	Did the teacher give up hurting others?	 The teacher gave up hurting others.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+863	Did the worker keep hitting the ball with the bat?	 The worker kept hitting the ball with the bat.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+864	Did the professor finish shedding tears?	 The professor finished shedding tears.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+865	Did the kid give up shutting the door?	 The kid gave up shutting the door.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+866	Did the dancer keep slitting the envelope?	 The dancer kept slitting the envelope.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+867	Did the doctor finish hurting others?	 The doctor finished hurting others.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+868	Did the girl cease casting bronze into a statue?	 The girl ceased casting bronze into a statue.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+869	Did the worker continue letting the blinds down?	 The worker continued letting the blinds down.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+870	Did the woman cease shedding tears?	 The woman ceased shedding tears.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+871	Did the singer finish hurting others?	 The singer finished hurting others.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+872	Did the man give up putting the book on the shelf?	 The man gave up putting the book on the shelf.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+873	Did the dancer give up reading the letter?	 The dancer gave up reading the letter.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+874	Did the assistant quit shedding tears?	 The assistant quit shedding tears.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+875	Did the man finish splitting the log?	 The man finished splitting the log.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+876	Did the singer finish reading the letter?	 The singer finished reading the letter.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+877	Did the stranger stop shedding tears?	 The stranger stopped shedding tears.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+878	Did the manager finish splitting the log?	 The manager finished splitting the log.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+879	Did the student keep upsetting the boat?	 The student kept upsetting the boat.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+880	Did the kid quit thrusting the fork into the cake?	 The kid quit thrusting the fork into the cake.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+881	Did the dancer keep splitting the log?	 The dancer kept splitting the log.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+882	Did the student keep shutting the door?	 The student kept shutting the door.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+883	Did the worker continue bursting into the room?	 The worker continued bursting into the room.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+884	Did the teacher stop bursting into the room?	 The teacher stopped bursting into the room.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+885	Did the professor cease bursting into the room?	 The professor ceased bursting into the room.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+886	Did the stranger finish putting the book on the shelf?	 The stranger finished putting the book on the shelf.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+887	Did the kid cease putting the book on the shelf?	 The kid ceased putting the book on the shelf.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+888	Did the child stop shedding tears?	 The child stopped shedding tears.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+889	Did the athlete continue thrusting the fork into the cake?	 The athlete continued thrusting the fork into the cake.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+890	Did the teacher stop thrusting the fork into the cake?	 The teacher stopped thrusting the fork into the cake.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+891	Did the singer continue letting the blinds down?	 The singer continued letting the blinds down.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+892	Did the director keep slitting the envelope?	 The director kept slitting the envelope.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+893	Did the child stop letting the blinds down?	 The child stopped letting the blinds down.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+894	Did the stranger cease reading the letter?	 The stranger ceased reading the letter.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+895	Did the professor quit putting the book on the shelf?	 The professor quit putting the book on the shelf.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+896	Did the girl stop letting the blinds down?	 The girl stopped letting the blinds down.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+897	Did the man finish bursting into the room?	 The man finished bursting into the room.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+898	Did the kid give up hurting others?	 The kid gave up hurting others.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+899	Did the teacher quit betting $100 on the race?	 The teacher quit betting $100 on the race.	entailment	 -	 The doctor cut the tree.	 The doctor cut the tree.	train
+1000	Did the child remember splitting the log?	 The child remembered splitting the log.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1001	Did the boy forget casting bronze into a statue?	 The boy forgot casting bronze into a statue.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1002	Did the doctor forget setting the dish on the table?	 The doctor forgot setting the dish on the table.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1003	Did the student regret reading the letter?	 The student regretted reading the letter.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1004	Did the boy remember spreading the rumor?	 The boy remembered spreading the rumor.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1005	Did the manager remember splitting the log?	 The manager remembered splitting the log.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1006	Did the stranger forget hitting the ball with the bat?	 The stranger forgot hitting the ball with the bat.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	test
+1007	Did the professor remember shedding tears?	 The professor remembered shedding tears.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1008	Did the girl remember casting bronze into a statue?	 The girl remembered casting bronze into a statue.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1009	Did the singer regret shutting the door?	 The singer regretted shutting the door.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1010	Did the girl regret spreading the rumor?	 The girl regretted spreading the rumor.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1011	Did the teacher forget hitting the ball with the bat?	 The teacher forgot hitting the ball with the bat.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1012	Did the teacher regret bursting into the room?	 The teacher regretted bursting into the room.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1013	Did the dancer regret putting the book on the shelf?	 The dancer regretted putting the book on the shelf.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1014	Did the student regret betting $100 on the race?	 The student regretted betting $100 on the race.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1015	Did the director forget betting $100 on the race?	 The director forgot betting $100 on the race.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1016	Did the kid forget upsetting the boat?	 The kid forgot upsetting the boat.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1017	Did the boy regret splitting the log?	 The boy regretted splitting the log.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1018	Did the singer remember putting the book on the shelf?	 The singer remembered putting the book on the shelf.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1019	Did the director remember letting the blinds down?	 The director remembered letting the blinds down.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1020	Did the worker regret spreading the rumor?	 The worker regretted spreading the rumor.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	test
+1021	Did the child remember putting the book on the shelf?	 The child remembered putting the book on the shelf.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1022	Did the singer regret casting bronze into a statue?	 The singer regretted casting bronze into a statue.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1023	Did the worker remember letting the blinds down?	 The worker remembered letting the blinds down.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1024	Did the worker forget putting the book on the shelf?	 The worker forgot putting the book on the shelf.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1025	Did the singer forget betting $100 on the race?	 The singer forgot betting $100 on the race.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1026	Did the worker forget slitting the envelope?	 The worker forgot slitting the envelope.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1027	Did the assistant regret hitting the ball with the bat?	 The assistant regretted hitting the ball with the bat.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1028	Did the director remember betting $100 on the race?	 The director remembered betting $100 on the race.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1029	Did the stranger regret reading the letter?	 The stranger regretted reading the letter.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1030	Did the doctor remember slitting the envelope?	 The doctor remembered slitting the envelope.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1031	Did the professor forget setting the dish on the table?	 The professor forgot setting the dish on the table.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1032	Did the student remember casting bronze into a statue?	 The student remembered casting bronze into a statue.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1033	Did the student forget shutting the door?	 The student forgot shutting the door.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1034	Did the teacher remember casting bronze into a statue?	 The teacher remembered casting bronze into a statue.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1035	Did the boy remember slitting the envelope?	 The boy remembered slitting the envelope.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	test
+1036	Did the teacher remember betting $100 on the race?	 The teacher remembered betting $100 on the race.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	test
+1037	Did the boy regret letting the blinds down?	 The boy regretted letting the blinds down.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1038	Did the manager remember reading the letter?	 The manager remembered reading the letter.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1039	Did the singer regret upsetting the boat?	 The singer regretted upsetting the boat.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1040	Did the woman remember casting bronze into a statue?	 The woman remembered casting bronze into a statue.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1041	Did the student regret betting $100 on the race?	 The student regretted betting $100 on the race.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1042	Did the man remember reading the letter?	 The man remembered reading the letter.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1043	Did the manager regret letting the blinds down?	 The manager regretted letting the blinds down.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1044	Did the athlete remember splitting the log?	 The athlete remembered splitting the log.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1045	Did the child regret upsetting the boat?	 The child regretted upsetting the boat.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1046	Did the student forget putting the book on the shelf?	 The student forgot putting the book on the shelf.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1047	Did the boy remember betting $100 on the race?	 The boy remembered betting $100 on the race.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1048	Did the athlete forget putting the book on the shelf?	 The athlete forgot putting the book on the shelf.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1049	Did the professor forget putting the book on the shelf?	 The professor forgot putting the book on the shelf.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1050	Did the assistant regret slitting the envelope?	 The assistant regretted slitting the envelope.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1051	Did the assistant remember setting the dish on the table?	 The assistant remembered setting the dish on the table.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1052	Did the doctor remember bursting into the room?	 The doctor remembered bursting into the room.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1053	Did the professor regret splitting the log?	 The professor regretted splitting the log.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1054	Did the singer forget bursting into the room?	 The singer forgot bursting into the room.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1055	Did the dancer remember betting $100 on the race?	 The dancer remembered betting $100 on the race.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1056	Did the kid remember setting the dish on the table?	 The kid remembered setting the dish on the table.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1057	Did the assistant regret letting the blinds down?	 The assistant regretted letting the blinds down.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1058	Did the kid forget bursting into the room?	 The kid forgot bursting into the room.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1059	Did the manager forget spreading the rumor?	 The manager forgot spreading the rumor.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1060	Did the dancer forget setting the dish on the table?	 The dancer forgot setting the dish on the table.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1061	Did the worker remember bursting into the room?	 The worker remembered bursting into the room.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1062	Did the manager remember splitting the log?	 The manager remembered splitting the log.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1063	Did the child remember letting the blinds down?	 The child remembered letting the blinds down.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1064	Did the athlete forget casting bronze into a statue?	 The athlete forgot casting bronze into a statue.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1065	Did the student remember upsetting the boat?	 The student remembered upsetting the boat.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1066	Did the professor remember reading the letter?	 The professor remembered reading the letter.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1067	Did the woman forget shutting the door?	 The woman forgot shutting the door.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1068	Did the singer forget casting bronze into a statue?	 The singer forgot casting bronze into a statue.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1069	Did the teacher remember bursting into the room?	 The teacher remembered bursting into the room.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1070	Did the professor forget bursting into the room?	 The professor forgot bursting into the room.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1071	Did the girl remember reading the letter?	 The girl remembered reading the letter.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1072	Did the woman forget putting the book on the shelf?	 The woman forgot putting the book on the shelf.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1073	Did the assistant forget shutting the door?	 The assistant forgot shutting the door.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1074	Did the director remember hitting the ball with the bat?	 The director remembered hitting the ball with the bat.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1075	Did the stranger remember shedding tears?	 The stranger remembered shedding tears.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	test
+1076	Did the kid forget shedding tears?	 The kid forgot shedding tears.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1077	Did the student forget betting $100 on the race?	 The student forgot betting $100 on the race.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1078	Did the dancer remember splitting the log?	 The dancer remembered splitting the log.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1079	Did the teacher forget casting bronze into a statue?	 The teacher forgot casting bronze into a statue.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1080	Did the doctor remember letting the blinds down?	 The doctor remembered letting the blinds down.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1081	Did the woman forget upsetting the boat?	 The woman forgot upsetting the boat.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1082	Did the kid remember shutting the door?	 The kid remembered shutting the door.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1083	Did the boy forget letting the blinds down?	 The boy forgot letting the blinds down.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1084	Did the doctor regret spreading the rumor?	 The doctor regretted spreading the rumor.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1085	Did the director forget casting bronze into a statue?	 The director forgot casting bronze into a statue.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1086	Did the woman forget betting $100 on the race?	 The woman forgot betting $100 on the race.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1087	Did the manager forget slitting the envelope?	 The manager forgot slitting the envelope.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1088	Did the teacher forget thrusting the fork into the cake?	 The teacher forgot thrusting the fork into the cake.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1089	Did the student forget hurting others?	 The student forgot hurting others.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1090	Did the professor regret betting $100 on the race?	 The professor regretted betting $100 on the race.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1091	Did the stranger forget hurting others?	 The stranger forgot hurting others.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1092	Did the man remember hitting the ball with the bat?	 The man remembered hitting the ball with the bat.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1093	Did the girl forget shedding tears?	 The girl forgot shedding tears.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1094	Did the assistant remember bursting into the room?	 The assistant remembered bursting into the room.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1095	Did the doctor remember shedding tears?	 The doctor remembered shedding tears.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1096	Did the girl remember hurting others?	 The girl remembered hurting others.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1097	Did the woman regret hitting the ball with the bat?	 The woman regretted hitting the ball with the bat.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1098	Did the director regret letting the blinds down?	 The director regretted letting the blinds down.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train
+1099	Did the girl remember slitting the envelope?	 The girl remembered slitting the envelope.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor regretted cutting the tree.	train

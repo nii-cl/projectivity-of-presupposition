@@ -1,0 +1,200 @@
+{"premise": "The child spread the rumor better than the doctor.", "hypothesis": "The child spread the rumor.", "label": "entailment"}
+{"premise": "The director set the dish on the table more seriously than the worker.", "hypothesis": "The director set the dish on the table.", "label": "entailment"}
+{"premise": "The student hit the ball with the bat worse than the worker.", "hypothesis": "The student hit the ball with the bat.", "label": "entailment"}
+{"premise": "The dancer thrust the fork into the cake better than the professor.", "hypothesis": "The dancer thrust the fork into the cake.", "label": "entailment"}
+{"premise": "The director thrust the fork into the cake better than the man.", "hypothesis": "The director thrust the fork into the cake.", "label": "entailment"}
+{"premise": "The director slit the envelope worse than the woman.", "hypothesis": "The director slit the envelope.", "label": "entailment"}
+{"premise": "The woman burst into the room better than the dancer.", "hypothesis": "The woman burst into the room.", "label": "entailment"}
+{"premise": "The child bet $100 on the race better than the doctor.", "hypothesis": "The child bet $100 on the race.", "label": "entailment"}
+{"premise": "The girl read the letter worse than the manager.", "hypothesis": "The girl read the letter.", "label": "entailment"}
+{"premise": "The director set the dish on the table worse than the athlete.", "hypothesis": "The director set the dish on the table.", "label": "entailment"}
+{"premise": "The boy let the blinds down more seriously than the doctor.", "hypothesis": "The boy let the blinds down.", "label": "entailment"}
+{"premise": "The man cast bronze into a statue better than the assistant.", "hypothesis": "The man cast bronze into a statue.", "label": "entailment"}
+{"premise": "The stranger shed tears more seriously than the kid.", "hypothesis": "The stranger shed tears.", "label": "entailment"}
+{"premise": "The singer set the dish on the table earlier than the professor.", "hypothesis": "The singer set the dish on the table.", "label": "entailment"}
+{"premise": "The professor burst into the room more seriously than the stranger.", "hypothesis": "The professor burst into the room.", "label": "entailment"}
+{"premise": "The assistant shed tears better than the professor.", "hypothesis": "The assistant shed tears.", "label": "entailment"}
+{"premise": "The singer shed tears better than the girl.", "hypothesis": "The singer shed tears.", "label": "entailment"}
+{"premise": "The boy bet $100 on the race more seriously than the kid.", "hypothesis": "The boy bet $100 on the race.", "label": "entailment"}
+{"premise": "The stranger let the blinds down more seriously than the man.", "hypothesis": "The stranger let the blinds down.", "label": "entailment"}
+{"premise": "The girl upset the boat better than the student.", "hypothesis": "The girl upset the boat.", "label": "entailment"}
+{"premise": "The professor shut the door earlier than the stranger.", "hypothesis": "The professor shut the door.", "label": "entailment"}
+{"premise": "The manager set the dish on the table earlier than the singer.", "hypothesis": "The manager set the dish on the table.", "label": "entailment"}
+{"premise": "The girl split the log worse than the director.", "hypothesis": "The girl split the log.", "label": "entailment"}
+{"premise": "The man shut the door earlier than the worker.", "hypothesis": "The man shut the door.", "label": "entailment"}
+{"premise": "The worker cast bronze into a statue better than the professor.", "hypothesis": "The worker cast bronze into a statue.", "label": "entailment"}
+{"premise": "The athlete let the blinds down worse than the worker.", "hypothesis": "The athlete let the blinds down.", "label": "entailment"}
+{"premise": "The singer upset the boat more seriously than the manager.", "hypothesis": "The singer upset the boat.", "label": "entailment"}
+{"premise": "The man let the blinds down more seriously than the dancer.", "hypothesis": "The man let the blinds down.", "label": "entailment"}
+{"premise": "The singer bet $100 on the race better than the girl.", "hypothesis": "The singer bet $100 on the race.", "label": "entailment"}
+{"premise": "The man burst into the room better than the woman.", "hypothesis": "The man burst into the room.", "label": "entailment"}
+{"premise": "The man shed tears more seriously than the professor.", "hypothesis": "The man shed tears.", "label": "entailment"}
+{"premise": "The boy cast bronze into a statue better than the teacher.", "hypothesis": "The boy cast bronze into a statue.", "label": "entailment"}
+{"premise": "The stranger bet $100 on the race worse than the director.", "hypothesis": "The stranger bet $100 on the race.", "label": "entailment"}
+{"premise": "The athlete burst into the room better than the dancer.", "hypothesis": "The athlete burst into the room.", "label": "entailment"}
+{"premise": "The girl hurt others earlier than the woman.", "hypothesis": "The girl hurt others.", "label": "entailment"}
+{"premise": "The woman shed tears more seriously than the worker.", "hypothesis": "The woman shed tears.", "label": "entailment"}
+{"premise": "The worker cast bronze into a statue more seriously than the teacher.", "hypothesis": "The worker cast bronze into a statue.", "label": "entailment"}
+{"premise": "The singer burst into the room worse than the director.", "hypothesis": "The singer burst into the room.", "label": "entailment"}
+{"premise": "The teacher split the log better than the man.", "hypothesis": "The teacher split the log.", "label": "entailment"}
+{"premise": "The teacher let the blinds down worse than the stranger.", "hypothesis": "The teacher let the blinds down.", "label": "entailment"}
+{"premise": "The worker shed tears better than the child.", "hypothesis": "The worker shed tears.", "label": "entailment"}
+{"premise": "The dancer read the letter worse than the teacher.", "hypothesis": "The dancer read the letter.", "label": "entailment"}
+{"premise": "The athlete set the dish on the table earlier than the woman.", "hypothesis": "The athlete set the dish on the table.", "label": "entailment"}
+{"premise": "The doctor hurt others earlier than the professor.", "hypothesis": "The doctor hurt others.", "label": "entailment"}
+{"premise": "The kid thrust the fork into the cake better than the stranger.", "hypothesis": "The kid thrust the fork into the cake.", "label": "entailment"}
+{"premise": "The assistant bet $100 on the race earlier than the stranger.", "hypothesis": "The assistant bet $100 on the race.", "label": "entailment"}
+{"premise": "The manager read the letter more seriously than the doctor.", "hypothesis": "The manager read the letter.", "label": "entailment"}
+{"premise": "The stranger burst into the room better than the assistant.", "hypothesis": "The stranger burst into the room.", "label": "entailment"}
+{"premise": "The worker bet $100 on the race earlier than the athlete.", "hypothesis": "The worker bet $100 on the race.", "label": "entailment"}
+{"premise": "The worker thrust the fork into the cake more seriously than the child.", "hypothesis": "The worker thrust the fork into the cake.", "label": "entailment"}
+{"premise": "The girl put the book on the shelf more seriously than the athlete.", "hypothesis": "The girl put the book on the shelf.", "label": "entailment"}
+{"premise": "The man burst into the room worse than the girl.", "hypothesis": "The man burst into the room.", "label": "entailment"}
+{"premise": "The student spread the rumor better than the dancer.", "hypothesis": "The student spread the rumor.", "label": "entailment"}
+{"premise": "The woman let the blinds down worse than the professor.", "hypothesis": "The woman let the blinds down.", "label": "entailment"}
+{"premise": "The assistant thrust the fork into the cake better than the woman.", "hypothesis": "The assistant thrust the fork into the cake.", "label": "entailment"}
+{"premise": "The professor shut the door better than the teacher.", "hypothesis": "The professor shut the door.", "label": "entailment"}
+{"premise": "The man hit the ball with the bat more seriously than the child.", "hypothesis": "The man hit the ball with the bat.", "label": "entailment"}
+{"premise": "The dancer read the letter better than the doctor.", "hypothesis": "The dancer read the letter.", "label": "entailment"}
+{"premise": "The woman read the letter more seriously than the girl.", "hypothesis": "The woman read the letter.", "label": "entailment"}
+{"premise": "The kid shed tears earlier than the manager.", "hypothesis": "The kid shed tears.", "label": "entailment"}
+{"premise": "The manager let the blinds down earlier than the assistant.", "hypothesis": "The manager let the blinds down.", "label": "entailment"}
+{"premise": "The athlete upset the boat better than the man.", "hypothesis": "The athlete upset the boat.", "label": "entailment"}
+{"premise": "The doctor set the dish on the table worse than the girl.", "hypothesis": "The doctor set the dish on the table.", "label": "entailment"}
+{"premise": "The kid hit the ball with the bat worse than the worker.", "hypothesis": "The kid hit the ball with the bat.", "label": "entailment"}
+{"premise": "The doctor upset the boat worse than the worker.", "hypothesis": "The doctor upset the boat.", "label": "entailment"}
+{"premise": "The boy cast bronze into a statue worse than the doctor.", "hypothesis": "The boy cast bronze into a statue.", "label": "entailment"}
+{"premise": "The kid hurt others worse than the man.", "hypothesis": "The kid hurt others.", "label": "entailment"}
+{"premise": "The stranger burst into the room worse than the doctor.", "hypothesis": "The stranger burst into the room.", "label": "entailment"}
+{"premise": "The director let the blinds down better than the teacher.", "hypothesis": "The director let the blinds down.", "label": "entailment"}
+{"premise": "The teacher spread the rumor worse than the professor.", "hypothesis": "The teacher spread the rumor.", "label": "entailment"}
+{"premise": "The doctor read the letter better than the worker.", "hypothesis": "The doctor read the letter.", "label": "entailment"}
+{"premise": "The woman hit the ball with the bat more seriously than the dancer.", "hypothesis": "The woman hit the ball with the bat.", "label": "entailment"}
+{"premise": "The dancer upset the boat better than the kid.", "hypothesis": "The dancer upset the boat.", "label": "entailment"}
+{"premise": "The woman hit the ball with the bat more seriously than the professor.", "hypothesis": "The woman hit the ball with the bat.", "label": "entailment"}
+{"premise": "The boy spread the rumor earlier than the student.", "hypothesis": "The boy spread the rumor.", "label": "entailment"}
+{"premise": "The assistant bet $100 on the race better than the stranger.", "hypothesis": "The assistant bet $100 on the race.", "label": "entailment"}
+{"premise": "The boy cast bronze into a statue more seriously than the girl.", "hypothesis": "The boy cast bronze into a statue.", "label": "entailment"}
+{"premise": "The student set the dish on the table earlier than the man.", "hypothesis": "The student set the dish on the table.", "label": "entailment"}
+{"premise": "The kid split the log worse than the stranger.", "hypothesis": "The kid split the log.", "label": "entailment"}
+{"premise": "The professor put the book on the shelf more seriously than the child.", "hypothesis": "The professor put the book on the shelf.", "label": "entailment"}
+{"premise": "The assistant thrust the fork into the cake earlier than the worker.", "hypothesis": "The assistant thrust the fork into the cake.", "label": "entailment"}
+{"premise": "The director let the blinds down worse than the girl.", "hypothesis": "The director let the blinds down.", "label": "entailment"}
+{"premise": "The singer hurt others worse than the manager.", "hypothesis": "The singer hurt others.", "label": "entailment"}
+{"premise": "The stranger let the blinds down better than the athlete.", "hypothesis": "The stranger let the blinds down.", "label": "entailment"}
+{"premise": "The stranger burst into the room better than the girl.", "hypothesis": "The stranger burst into the room.", "label": "entailment"}
+{"premise": "The girl split the log earlier than the dancer.", "hypothesis": "The girl split the log.", "label": "entailment"}
+{"premise": "The director hurt others earlier than the doctor.", "hypothesis": "The director hurt others.", "label": "entailment"}
+{"premise": "The boy let the blinds down earlier than the dancer.", "hypothesis": "The boy let the blinds down.", "label": "entailment"}
+{"premise": "The kid upset the boat better than the doctor.", "hypothesis": "The kid upset the boat.", "label": "entailment"}
+{"premise": "The doctor thrust the fork into the cake earlier than the professor.", "hypothesis": "The doctor thrust the fork into the cake.", "label": "entailment"}
+{"premise": "The singer spread the rumor more seriously than the dancer.", "hypothesis": "The singer spread the rumor.", "label": "entailment"}
+{"premise": "The kid hit the ball with the bat better than the boy.", "hypothesis": "The kid hit the ball with the bat.", "label": "entailment"}
+{"premise": "The director set the dish on the table more seriously than the teacher.", "hypothesis": "The director set the dish on the table.", "label": "entailment"}
+{"premise": "The man put the book on the shelf more seriously than the kid.", "hypothesis": "The man put the book on the shelf.", "label": "entailment"}
+{"premise": "The boy thrust the fork into the cake better than the girl.", "hypothesis": "The boy thrust the fork into the cake.", "label": "entailment"}
+{"premise": "The athlete burst into the room better than the teacher.", "hypothesis": "The athlete burst into the room.", "label": "entailment"}
+{"premise": "The professor thrust the fork into the cake earlier than the woman.", "hypothesis": "The professor thrust the fork into the cake.", "label": "entailment"}
+{"premise": "The boy hurt others more seriously than the doctor.", "hypothesis": "The boy hurt others.", "label": "entailment"}
+{"premise": "The assistant bet $100 on the race more seriously than the director.", "hypothesis": "The assistant bet $100 on the race.", "label": "entailment"}
+{"premise": "The professor spread the rumor more seriously than the woman.", "hypothesis": "The professor spread the rumor.", "label": "entailment"}
+{"premise": "The stranger shut the door worse than the professor.", "hypothesis": "The stranger did not shut the door.", "label": "contradiction"}
+{"premise": "The teacher hit the ball with the bat better than the stranger.", "hypothesis": "The teacher did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "The professor cast bronze into a statue more seriously than the girl.", "hypothesis": "The professor did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "The student slit the envelope more seriously than the man.", "hypothesis": "The student did not slit the envelope.", "label": "contradiction"}
+{"premise": "The woman thrust the fork into the cake worse than the assistant.", "hypothesis": "The woman did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "The woman put the book on the shelf earlier than the teacher.", "hypothesis": "The woman did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "The director upset the boat earlier than the stranger.", "hypothesis": "The director did not upset the boat.", "label": "contradiction"}
+{"premise": "The teacher hurt others more seriously than the manager.", "hypothesis": "The teacher did not hurt others.", "label": "contradiction"}
+{"premise": "The boy let the blinds down worse than the singer.", "hypothesis": "The boy did not let the blinds down.", "label": "contradiction"}
+{"premise": "The director put the book on the shelf better than the woman.", "hypothesis": "The director did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "The woman put the book on the shelf worse than the athlete.", "hypothesis": "The woman did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "The stranger shed tears more seriously than the girl.", "hypothesis": "The stranger did not shed tears.", "label": "contradiction"}
+{"premise": "The teacher burst into the room better than the doctor.", "hypothesis": "The teacher did not burst into the room.", "label": "contradiction"}
+{"premise": "The director burst into the room more seriously than the worker.", "hypothesis": "The director did not burst into the room.", "label": "contradiction"}
+{"premise": "The student hurt others earlier than the manager.", "hypothesis": "The student did not hurt others.", "label": "contradiction"}
+{"premise": "The doctor split the log worse than the worker.", "hypothesis": "The doctor did not split the log.", "label": "contradiction"}
+{"premise": "The dancer spread the rumor better than the child.", "hypothesis": "The dancer did not spread the rumor.", "label": "contradiction"}
+{"premise": "The athlete read the letter more seriously than the girl.", "hypothesis": "The athlete did not read the letter.", "label": "contradiction"}
+{"premise": "The boy shed tears more seriously than the worker.", "hypothesis": "The boy did not shed tears.", "label": "contradiction"}
+{"premise": "The woman thrust the fork into the cake more seriously than the director.", "hypothesis": "The woman did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "The professor thrust the fork into the cake more seriously than the worker.", "hypothesis": "The professor did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "The kid read the letter worse than the girl.", "hypothesis": "The kid did not read the letter.", "label": "contradiction"}
+{"premise": "The manager upset the boat worse than the singer.", "hypothesis": "The manager did not upset the boat.", "label": "contradiction"}
+{"premise": "The stranger upset the boat worse than the assistant.", "hypothesis": "The stranger did not upset the boat.", "label": "contradiction"}
+{"premise": "The singer hurt others more seriously than the worker.", "hypothesis": "The singer did not hurt others.", "label": "contradiction"}
+{"premise": "The woman cast bronze into a statue earlier than the kid.", "hypothesis": "The woman did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "The teacher bet $100 on the race worse than the kid.", "hypothesis": "The teacher did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "The professor thrust the fork into the cake worse than the man.", "hypothesis": "The professor did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "The girl slit the envelope more seriously than the boy.", "hypothesis": "The girl did not slit the envelope.", "label": "contradiction"}
+{"premise": "The athlete set the dish on the table earlier than the dancer.", "hypothesis": "The athlete did not set the dish on the table.", "label": "contradiction"}
+{"premise": "The manager shut the door worse than the assistant.", "hypothesis": "The manager did not shut the door.", "label": "contradiction"}
+{"premise": "The assistant spread the rumor better than the worker.", "hypothesis": "The assistant did not spread the rumor.", "label": "contradiction"}
+{"premise": "The assistant hit the ball with the bat earlier than the man.", "hypothesis": "The assistant did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "The man thrust the fork into the cake more seriously than the assistant.", "hypothesis": "The man did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "The stranger put the book on the shelf worse than the child.", "hypothesis": "The stranger did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "The dancer bet $100 on the race worse than the singer.", "hypothesis": "The dancer did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "The kid slit the envelope better than the stranger.", "hypothesis": "The kid did not slit the envelope.", "label": "contradiction"}
+{"premise": "The director shut the door better than the woman.", "hypothesis": "The director did not shut the door.", "label": "contradiction"}
+{"premise": "The kid burst into the room worse than the woman.", "hypothesis": "The kid did not burst into the room.", "label": "contradiction"}
+{"premise": "The kid let the blinds down earlier than the teacher.", "hypothesis": "The kid did not let the blinds down.", "label": "contradiction"}
+{"premise": "The manager shut the door better than the worker.", "hypothesis": "The manager did not shut the door.", "label": "contradiction"}
+{"premise": "The manager hit the ball with the bat earlier than the man.", "hypothesis": "The manager did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "The man shed tears worse than the director.", "hypothesis": "The man did not shed tears.", "label": "contradiction"}
+{"premise": "The student split the log earlier than the dancer.", "hypothesis": "The student did not split the log.", "label": "contradiction"}
+{"premise": "The athlete put the book on the shelf earlier than the man.", "hypothesis": "The athlete did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "The professor set the dish on the table better than the teacher.", "hypothesis": "The professor did not set the dish on the table.", "label": "contradiction"}
+{"premise": "The teacher slit the envelope worse than the stranger.", "hypothesis": "The teacher did not slit the envelope.", "label": "contradiction"}
+{"premise": "The woman cast bronze into a statue earlier than the teacher.", "hypothesis": "The woman did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "The professor shed tears more seriously than the dancer.", "hypothesis": "The professor did not shed tears.", "label": "contradiction"}
+{"premise": "The doctor hurt others more seriously than the woman.", "hypothesis": "The doctor did not hurt others.", "label": "contradiction"}
+{"premise": "The worker cast bronze into a statue more seriously than the manager.", "hypothesis": "The worker did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "The boy split the log earlier than the woman.", "hypothesis": "The boy did not split the log.", "label": "contradiction"}
+{"premise": "The stranger shut the door worse than the dancer.", "hypothesis": "The stranger did not shut the door.", "label": "contradiction"}
+{"premise": "The worker split the log better than the girl.", "hypothesis": "The worker did not split the log.", "label": "contradiction"}
+{"premise": "The athlete cast bronze into a statue earlier than the professor.", "hypothesis": "The athlete did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "The assistant bet $100 on the race more seriously than the athlete.", "hypothesis": "The assistant did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "The doctor upset the boat earlier than the assistant.", "hypothesis": "The doctor did not upset the boat.", "label": "contradiction"}
+{"premise": "The boy split the log more seriously than the teacher.", "hypothesis": "The boy did not split the log.", "label": "contradiction"}
+{"premise": "The woman hit the ball with the bat earlier than the kid.", "hypothesis": "The woman did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "The worker let the blinds down more seriously than the dancer.", "hypothesis": "The worker did not let the blinds down.", "label": "contradiction"}
+{"premise": "The assistant slit the envelope better than the worker.", "hypothesis": "The assistant did not slit the envelope.", "label": "contradiction"}
+{"premise": "The student hit the ball with the bat better than the teacher.", "hypothesis": "The student did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "The dancer thrust the fork into the cake better than the singer.", "hypothesis": "The dancer did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "The man put the book on the shelf earlier than the girl.", "hypothesis": "The man did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "The teacher thrust the fork into the cake more seriously than the girl.", "hypothesis": "The teacher did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "The student thrust the fork into the cake worse than the child.", "hypothesis": "The student did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "The dancer spread the rumor earlier than the girl.", "hypothesis": "The dancer did not spread the rumor.", "label": "contradiction"}
+{"premise": "The worker cast bronze into a statue earlier than the manager.", "hypothesis": "The worker did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "The worker burst into the room earlier than the teacher.", "hypothesis": "The worker did not burst into the room.", "label": "contradiction"}
+{"premise": "The doctor thrust the fork into the cake earlier than the professor.", "hypothesis": "The doctor did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "The boy thrust the fork into the cake earlier than the girl.", "hypothesis": "The boy did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "The singer thrust the fork into the cake worse than the man.", "hypothesis": "The singer did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "The doctor hit the ball with the bat more seriously than the dancer.", "hypothesis": "The doctor did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "The athlete split the log better than the director.", "hypothesis": "The athlete did not split the log.", "label": "contradiction"}
+{"premise": "The student shut the door earlier than the child.", "hypothesis": "The student did not shut the door.", "label": "contradiction"}
+{"premise": "The doctor cast bronze into a statue better than the assistant.", "hypothesis": "The doctor did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "The assistant set the dish on the table more seriously than the athlete.", "hypothesis": "The assistant did not set the dish on the table.", "label": "contradiction"}
+{"premise": "The director set the dish on the table worse than the athlete.", "hypothesis": "The director did not set the dish on the table.", "label": "contradiction"}
+{"premise": "The singer split the log more seriously than the athlete.", "hypothesis": "The singer did not split the log.", "label": "contradiction"}
+{"premise": "The professor upset the boat more seriously than the student.", "hypothesis": "The professor did not upset the boat.", "label": "contradiction"}
+{"premise": "The director read the letter earlier than the dancer.", "hypothesis": "The director did not read the letter.", "label": "contradiction"}
+{"premise": "The man spread the rumor more seriously than the stranger.", "hypothesis": "The man did not spread the rumor.", "label": "contradiction"}
+{"premise": "The worker read the letter better than the girl.", "hypothesis": "The worker did not read the letter.", "label": "contradiction"}
+{"premise": "The girl shed tears worse than the man.", "hypothesis": "The girl did not shed tears.", "label": "contradiction"}
+{"premise": "The professor upset the boat more seriously than the kid.", "hypothesis": "The professor did not upset the boat.", "label": "contradiction"}
+{"premise": "The director read the letter worse than the worker.", "hypothesis": "The director did not read the letter.", "label": "contradiction"}
+{"premise": "The director burst into the room more seriously than the professor.", "hypothesis": "The director did not burst into the room.", "label": "contradiction"}
+{"premise": "The stranger upset the boat more seriously than the teacher.", "hypothesis": "The stranger did not upset the boat.", "label": "contradiction"}
+{"premise": "The girl put the book on the shelf worse than the professor.", "hypothesis": "The girl did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "The man spread the rumor earlier than the student.", "hypothesis": "The man did not spread the rumor.", "label": "contradiction"}
+{"premise": "The worker read the letter earlier than the teacher.", "hypothesis": "The worker did not read the letter.", "label": "contradiction"}
+{"premise": "The woman spread the rumor more seriously than the boy.", "hypothesis": "The woman did not spread the rumor.", "label": "contradiction"}
+{"premise": "The singer hurt others earlier than the kid.", "hypothesis": "The singer did not hurt others.", "label": "contradiction"}
+{"premise": "The kid spread the rumor worse than the teacher.", "hypothesis": "The kid did not spread the rumor.", "label": "contradiction"}
+{"premise": "The child slit the envelope more seriously than the woman.", "hypothesis": "The child did not slit the envelope.", "label": "contradiction"}
+{"premise": "The child put the book on the shelf more seriously than the kid.", "hypothesis": "The child did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "The child cast bronze into a statue more seriously than the manager.", "hypothesis": "The child did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "The worker hurt others worse than the director.", "hypothesis": "The worker did not hurt others.", "label": "contradiction"}
+{"premise": "The singer hit the ball with the bat more seriously than the child.", "hypothesis": "The singer did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "The stranger hurt others earlier than the athlete.", "hypothesis": "The stranger did not hurt others.", "label": "contradiction"}

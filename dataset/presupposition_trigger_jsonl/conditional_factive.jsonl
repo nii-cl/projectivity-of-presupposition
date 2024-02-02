@@ -1,0 +1,200 @@
+{"premise": "If the student had remembered reading the letter, the woman would have upset the boat.", "hypothesis": "The student read the letter.", "label": "entailment"}
+{"premise": "If the woman had regretted casting bronze into a statue, the director could have spread the rumor.", "hypothesis": "The woman cast bronze into a statue.", "label": "entailment"}
+{"premise": "If the assistant had remembered shedding tears, the child would have put the book on the shelf.", "hypothesis": "The assistant shed tears.", "label": "entailment"}
+{"premise": "If the child had forgot letting the blinds down, the kid could have bet $100 on the race.", "hypothesis": "The child let the blinds down.", "label": "entailment"}
+{"premise": "If the child had forgot hitting the ball with the bat, the doctor could have read the letter.", "hypothesis": "The child hit the ball with the bat.", "label": "entailment"}
+{"premise": "If the boy had regretted casting bronze into a statue, the singer could have upset the boat.", "hypothesis": "The boy cast bronze into a statue.", "label": "entailment"}
+{"premise": "If the girl had regretted spreading the rumor, the director would have cast bronze into a statue.", "hypothesis": "The girl spread the rumor.", "label": "entailment"}
+{"premise": "If the kid had regretted putting the book on the shelf, the child would have slit the envelope.", "hypothesis": "The kid put the book on the shelf.", "label": "entailment"}
+{"premise": "If the director had forgot shedding tears, the assistant would have set the dish on the table.", "hypothesis": "The director shed tears.", "label": "entailment"}
+{"premise": "If the boy had regretted bursting into the room, the kid could have slit the envelope.", "hypothesis": "The boy burst into the room.", "label": "entailment"}
+{"premise": "If the teacher had regretted letting the blinds down, the worker would have split the log.", "hypothesis": "The teacher let the blinds down.", "label": "entailment"}
+{"premise": "If the worker had remembered bursting into the room, the manager could have hurt others.", "hypothesis": "The worker burst into the room.", "label": "entailment"}
+{"premise": "If the stranger had forgot hitting the ball with the bat, the assistant would have put the book on the shelf.", "hypothesis": "The stranger hit the ball with the bat.", "label": "entailment"}
+{"premise": "If the director had remembered splitting the log, the teacher could have cast bronze into a statue.", "hypothesis": "The director split the log.", "label": "entailment"}
+{"premise": "If the assistant had forgot setting the dish on the table, the singer could have hurt others.", "hypothesis": "The assistant set the dish on the table.", "label": "entailment"}
+{"premise": "If the boy had forgot reading the letter, the athlete could have split the log.", "hypothesis": "The boy read the letter.", "label": "entailment"}
+{"premise": "If the man had remembered bursting into the room, the director would have cast bronze into a statue.", "hypothesis": "The man burst into the room.", "label": "entailment"}
+{"premise": "If the singer had forgot shutting the door, the assistant could have bet $100 on the race.", "hypothesis": "The singer shut the door.", "label": "entailment"}
+{"premise": "If the woman had regretted hitting the ball with the bat, the singer would have read the letter.", "hypothesis": "The woman hit the ball with the bat.", "label": "entailment"}
+{"premise": "If the doctor had regretted setting the dish on the table, the athlete could have split the log.", "hypothesis": "The doctor set the dish on the table.", "label": "entailment"}
+{"premise": "If the singer had regretted putting the book on the shelf, the man could have hurt others.", "hypothesis": "The singer put the book on the shelf.", "label": "entailment"}
+{"premise": "If the boy had remembered betting $100 on the race, the girl could have let the blinds down.", "hypothesis": "The boy bet $100 on the race.", "label": "entailment"}
+{"premise": "If the manager had regretted shutting the door, the man would have thrust the fork into the cake.", "hypothesis": "The manager shut the door.", "label": "entailment"}
+{"premise": "If the child had regretted shutting the door, the director could have thrust the fork into the cake.", "hypothesis": "The child shut the door.", "label": "entailment"}
+{"premise": "If the athlete had remembered shedding tears, the assistant could have set the dish on the table.", "hypothesis": "The athlete shed tears.", "label": "entailment"}
+{"premise": "If the doctor had regretted hurting others, the director would have thrust the fork into the cake.", "hypothesis": "The doctor hurt others.", "label": "entailment"}
+{"premise": "If the boy had regretted casting bronze into a statue, the assistant would have read the letter.", "hypothesis": "The boy cast bronze into a statue.", "label": "entailment"}
+{"premise": "If the man had regretted slitting the envelope, the professor could have set the dish on the table.", "hypothesis": "The man slit the envelope.", "label": "entailment"}
+{"premise": "If the child had forgot casting bronze into a statue, the woman would have bet $100 on the race.", "hypothesis": "The child cast bronze into a statue.", "label": "entailment"}
+{"premise": "If the manager had forgot upsetting the boat, the child would have spread the rumor.", "hypothesis": "The manager upset the boat.", "label": "entailment"}
+{"premise": "If the dancer had forgot betting $100 on the race, the assistant could have upset the boat.", "hypothesis": "The dancer bet $100 on the race.", "label": "entailment"}
+{"premise": "If the doctor had forgot reading the letter, the professor could have burst into the room.", "hypothesis": "The doctor read the letter.", "label": "entailment"}
+{"premise": "If the manager had remembered bursting into the room, the doctor would have split the log.", "hypothesis": "The manager burst into the room.", "label": "entailment"}
+{"premise": "If the stranger had regretted splitting the log, the man could have slit the envelope.", "hypothesis": "The stranger split the log.", "label": "entailment"}
+{"premise": "If the boy had regretted letting the blinds down, the girl could have read the letter.", "hypothesis": "The boy let the blinds down.", "label": "entailment"}
+{"premise": "If the assistant had regretted hurting others, the student would have hit the ball with the bat.", "hypothesis": "The assistant hurt others.", "label": "entailment"}
+{"premise": "If the boy had regretted upsetting the boat, the child could have set the dish on the table.", "hypothesis": "The boy upset the boat.", "label": "entailment"}
+{"premise": "If the worker had forgot betting $100 on the race, the child would have spread the rumor.", "hypothesis": "The worker bet $100 on the race.", "label": "entailment"}
+{"premise": "If the woman had forgot thrusting the fork into the cake, the man could have let the blinds down.", "hypothesis": "The woman thrust the fork into the cake.", "label": "entailment"}
+{"premise": "If the singer had forgot slitting the envelope, the girl could have spread the rumor.", "hypothesis": "The singer slit the envelope.", "label": "entailment"}
+{"premise": "If the worker had regretted shedding tears, the student could have burst into the room.", "hypothesis": "The worker shed tears.", "label": "entailment"}
+{"premise": "If the stranger had remembered slitting the envelope, the woman could have hit the ball with the bat.", "hypothesis": "The stranger slit the envelope.", "label": "entailment"}
+{"premise": "If the child had regretted shutting the door, the assistant would have split the log.", "hypothesis": "The child shut the door.", "label": "entailment"}
+{"premise": "If the singer had regretted spreading the rumor, the dancer could have shed tears.", "hypothesis": "The singer spread the rumor.", "label": "entailment"}
+{"premise": "If the director had remembered setting the dish on the table, the dancer could have split the log.", "hypothesis": "The director set the dish on the table.", "label": "entailment"}
+{"premise": "If the director had regretted splitting the log, the stranger would have cast bronze into a statue.", "hypothesis": "The director split the log.", "label": "entailment"}
+{"premise": "If the assistant had remembered slitting the envelope, the stranger would have let the blinds down.", "hypothesis": "The assistant slit the envelope.", "label": "entailment"}
+{"premise": "If the assistant had regretted betting $100 on the race, the manager could have upset the boat.", "hypothesis": "The assistant bet $100 on the race.", "label": "entailment"}
+{"premise": "If the girl had regretted casting bronze into a statue, the assistant could have shut the door.", "hypothesis": "The girl cast bronze into a statue.", "label": "entailment"}
+{"premise": "If the athlete had remembered slitting the envelope, the manager could have burst into the room.", "hypothesis": "The athlete slit the envelope.", "label": "entailment"}
+{"premise": "If the child had regretted reading the letter, the worker would have hurt others.", "hypothesis": "The child read the letter.", "label": "entailment"}
+{"premise": "If the teacher had forgot hurting others, the assistant could have bet $100 on the race.", "hypothesis": "The teacher hurt others.", "label": "entailment"}
+{"premise": "If the professor had forgot reading the letter, the teacher could have hurt others.", "hypothesis": "The professor read the letter.", "label": "entailment"}
+{"premise": "If the doctor had regretted letting the blinds down, the stranger would have cast bronze into a statue.", "hypothesis": "The doctor let the blinds down.", "label": "entailment"}
+{"premise": "If the girl had regretted shedding tears, the dancer could have set the dish on the table.", "hypothesis": "The girl shed tears.", "label": "entailment"}
+{"premise": "If the doctor had remembered bursting into the room, the dancer would have spread the rumor.", "hypothesis": "The doctor burst into the room.", "label": "entailment"}
+{"premise": "If the dancer had forgot putting the book on the shelf, the child would have hit the ball with the bat.", "hypothesis": "The dancer put the book on the shelf.", "label": "entailment"}
+{"premise": "If the athlete had regretted bursting into the room, the child could have shut the door.", "hypothesis": "The athlete burst into the room.", "label": "entailment"}
+{"premise": "If the student had forgot casting bronze into a statue, the teacher would have read the letter.", "hypothesis": "The student cast bronze into a statue.", "label": "entailment"}
+{"premise": "If the athlete had forgot hurting others, the assistant would have upset the boat.", "hypothesis": "The athlete hurt others.", "label": "entailment"}
+{"premise": "If the assistant had forgot hurting others, the woman could have read the letter.", "hypothesis": "The assistant hurt others.", "label": "entailment"}
+{"premise": "If the student had forgot putting the book on the shelf, the stranger could have shut the door.", "hypothesis": "The student put the book on the shelf.", "label": "entailment"}
+{"premise": "If the girl had remembered thrusting the fork into the cake, the woman could have cast bronze into a statue.", "hypothesis": "The girl thrust the fork into the cake.", "label": "entailment"}
+{"premise": "If the teacher had remembered reading the letter, the director would have thrust the fork into the cake.", "hypothesis": "The teacher read the letter.", "label": "entailment"}
+{"premise": "If the professor had remembered bursting into the room, the man could have set the dish on the table.", "hypothesis": "The professor burst into the room.", "label": "entailment"}
+{"premise": "If the man had remembered betting $100 on the race, the teacher would have shed tears.", "hypothesis": "The man bet $100 on the race.", "label": "entailment"}
+{"premise": "If the worker had forgot spreading the rumor, the singer would have burst into the room.", "hypothesis": "The worker spread the rumor.", "label": "entailment"}
+{"premise": "If the woman had forgot hurting others, the singer would have upset the boat.", "hypothesis": "The woman hurt others.", "label": "entailment"}
+{"premise": "If the worker had regretted spreading the rumor, the man could have thrust the fork into the cake.", "hypothesis": "The worker spread the rumor.", "label": "entailment"}
+{"premise": "If the dancer had regretted reading the letter, the assistant would have cast bronze into a statue.", "hypothesis": "The dancer read the letter.", "label": "entailment"}
+{"premise": "If the director had forgot hurting others, the manager could have upset the boat.", "hypothesis": "The director hurt others.", "label": "entailment"}
+{"premise": "If the assistant had remembered spreading the rumor, the boy would have bet $100 on the race.", "hypothesis": "The assistant spread the rumor.", "label": "entailment"}
+{"premise": "If the teacher had forgot betting $100 on the race, the stranger could have shut the door.", "hypothesis": "The teacher bet $100 on the race.", "label": "entailment"}
+{"premise": "If the manager had forgot putting the book on the shelf, the kid could have cast bronze into a statue.", "hypothesis": "The manager put the book on the shelf.", "label": "entailment"}
+{"premise": "If the manager had regretted thrusting the fork into the cake, the woman could have slit the envelope.", "hypothesis": "The manager thrust the fork into the cake.", "label": "entailment"}
+{"premise": "If the man had regretted setting the dish on the table, the girl would have split the log.", "hypothesis": "The man set the dish on the table.", "label": "entailment"}
+{"premise": "If the manager had regretted slitting the envelope, the athlete would have set the dish on the table.", "hypothesis": "The manager slit the envelope.", "label": "entailment"}
+{"premise": "If the girl had forgot thrusting the fork into the cake, the athlete could have let the blinds down.", "hypothesis": "The girl thrust the fork into the cake.", "label": "entailment"}
+{"premise": "If the boy had regretted spreading the rumor, the professor could have thrust the fork into the cake.", "hypothesis": "The boy spread the rumor.", "label": "entailment"}
+{"premise": "If the professor had remembered betting $100 on the race, the girl would have shed tears.", "hypothesis": "The professor bet $100 on the race.", "label": "entailment"}
+{"premise": "If the boy had regretted hitting the ball with the bat, the assistant would have upset the boat.", "hypothesis": "The boy hit the ball with the bat.", "label": "entailment"}
+{"premise": "If the professor had forgot setting the dish on the table, the child could have let the blinds down.", "hypothesis": "The professor set the dish on the table.", "label": "entailment"}
+{"premise": "If the child had regretted letting the blinds down, the man would have upset the boat.", "hypothesis": "The child let the blinds down.", "label": "entailment"}
+{"premise": "If the man had regretted setting the dish on the table, the director could have hurt others.", "hypothesis": "The man set the dish on the table.", "label": "entailment"}
+{"premise": "If the director had remembered thrusting the fork into the cake, the worker could have bet $100 on the race.", "hypothesis": "The director thrust the fork into the cake.", "label": "entailment"}
+{"premise": "If the stranger had regretted hitting the ball with the bat, the manager could have split the log.", "hypothesis": "The stranger hit the ball with the bat.", "label": "entailment"}
+{"premise": "If the student had regretted letting the blinds down, the girl would have upset the boat.", "hypothesis": "The student let the blinds down.", "label": "entailment"}
+{"premise": "If the boy had regretted letting the blinds down, the student could have split the log.", "hypothesis": "The boy let the blinds down.", "label": "entailment"}
+{"premise": "If the dancer had forgot shutting the door, the girl would have upset the boat.", "hypothesis": "The dancer shut the door.", "label": "entailment"}
+{"premise": "If the child had forgot shedding tears, the professor could have cast bronze into a statue.", "hypothesis": "The child shed tears.", "label": "entailment"}
+{"premise": "If the girl had regretted betting $100 on the race, the director would have read the letter.", "hypothesis": "The girl bet $100 on the race.", "label": "entailment"}
+{"premise": "If the child had forgot shutting the door, the student would have hit the ball with the bat.", "hypothesis": "The child shut the door.", "label": "entailment"}
+{"premise": "If the dancer had forgot hurting others, the boy could have hit the ball with the bat.", "hypothesis": "The dancer hurt others.", "label": "entailment"}
+{"premise": "If the child had forgot shedding tears, the athlete would have read the letter.", "hypothesis": "The child shed tears.", "label": "entailment"}
+{"premise": "If the man had forgot thrusting the fork into the cake, the worker would have split the log.", "hypothesis": "The man thrust the fork into the cake.", "label": "entailment"}
+{"premise": "If the kid had regretted bursting into the room, the stranger would have put the book on the shelf.", "hypothesis": "The kid burst into the room.", "label": "entailment"}
+{"premise": "If the assistant had forgot bursting into the room, the stranger could have shut the door.", "hypothesis": "The assistant burst into the room.", "label": "entailment"}
+{"premise": "If the singer had forgot splitting the log, the assistant would have set the dish on the table.", "hypothesis": "The singer split the log.", "label": "entailment"}
+{"premise": "If the manager had regretted casting bronze into a statue, the kid could have read the letter.", "hypothesis": "The manager cast bronze into a statue.", "label": "entailment"}
+{"premise": "If the child had regretted putting the book on the shelf, the student could have hurt others.", "hypothesis": "The child put the book on the shelf.", "label": "entailment"}
+{"premise": "If the student had remembered splitting the log, the boy would have set the dish on the table.", "hypothesis": "The student did not split the log.", "label": "contradiction"}
+{"premise": "If the worker had forgot thrusting the fork into the cake, the boy could have set the dish on the table.", "hypothesis": "The worker did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "If the director had remembered hurting others, the child could have read the letter.", "hypothesis": "The director did not hurt others.", "label": "contradiction"}
+{"premise": "If the man had regretted betting $100 on the race, the director could have hurt others.", "hypothesis": "The man did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "If the director had regretted betting $100 on the race, the teacher could have upset the boat.", "hypothesis": "The director did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "If the manager had remembered shedding tears, the dancer could have read the letter.", "hypothesis": "The manager did not shed tears.", "label": "contradiction"}
+{"premise": "If the worker had regretted bursting into the room, the stranger could have upset the boat.", "hypothesis": "The worker did not burst into the room.", "label": "contradiction"}
+{"premise": "If the director had regretted putting the book on the shelf, the singer would have spread the rumor.", "hypothesis": "The director did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "If the woman had remembered upsetting the boat, the manager would have burst into the room.", "hypothesis": "The woman did not upset the boat.", "label": "contradiction"}
+{"premise": "If the teacher had remembered casting bronze into a statue, the singer would have read the letter.", "hypothesis": "The teacher did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "If the teacher had remembered shutting the door, the stranger would have burst into the room.", "hypothesis": "The teacher did not shut the door.", "label": "contradiction"}
+{"premise": "If the singer had regretted splitting the log, the athlete could have bet $100 on the race.", "hypothesis": "The singer did not split the log.", "label": "contradiction"}
+{"premise": "If the dancer had remembered casting bronze into a statue, the athlete could have upset the boat.", "hypothesis": "The dancer did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "If the kid had regretted letting the blinds down, the dancer could have set the dish on the table.", "hypothesis": "The kid did not let the blinds down.", "label": "contradiction"}
+{"premise": "If the child had forgot hitting the ball with the bat, the kid could have set the dish on the table.", "hypothesis": "The child did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "If the manager had remembered bursting into the room, the man could have shut the door.", "hypothesis": "The manager did not burst into the room.", "label": "contradiction"}
+{"premise": "If the athlete had remembered bursting into the room, the professor would have slit the envelope.", "hypothesis": "The athlete did not burst into the room.", "label": "contradiction"}
+{"premise": "If the director had regretted thrusting the fork into the cake, the manager could have put the book on the shelf.", "hypothesis": "The director did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "If the boy had forgot splitting the log, the dancer could have bet $100 on the race.", "hypothesis": "The boy did not split the log.", "label": "contradiction"}
+{"premise": "If the singer had forgot hitting the ball with the bat, the athlete could have let the blinds down.", "hypothesis": "The singer did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "If the singer had remembered shutting the door, the student could have read the letter.", "hypothesis": "The singer did not shut the door.", "label": "contradiction"}
+{"premise": "If the singer had regretted putting the book on the shelf, the kid could have read the letter.", "hypothesis": "The singer did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "If the stranger had regretted betting $100 on the race, the kid could have split the log.", "hypothesis": "The stranger did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "If the student had remembered reading the letter, the girl could have hurt others.", "hypothesis": "The student did not read the letter.", "label": "contradiction"}
+{"premise": "If the athlete had remembered spreading the rumor, the manager would have burst into the room.", "hypothesis": "The athlete did not spread the rumor.", "label": "contradiction"}
+{"premise": "If the girl had remembered thrusting the fork into the cake, the singer would have cast bronze into a statue.", "hypothesis": "The girl did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "If the kid had regretted splitting the log, the athlete could have shed tears.", "hypothesis": "The kid did not split the log.", "label": "contradiction"}
+{"premise": "If the professor had forgot hurting others, the teacher could have thrust the fork into the cake.", "hypothesis": "The professor did not hurt others.", "label": "contradiction"}
+{"premise": "If the athlete had forgot upsetting the boat, the stranger would have split the log.", "hypothesis": "The athlete did not upset the boat.", "label": "contradiction"}
+{"premise": "If the director had forgot setting the dish on the table, the woman would have read the letter.", "hypothesis": "The director did not set the dish on the table.", "label": "contradiction"}
+{"premise": "If the director had regretted setting the dish on the table, the athlete would have burst into the room.", "hypothesis": "The director did not set the dish on the table.", "label": "contradiction"}
+{"premise": "If the boy had forgot thrusting the fork into the cake, the professor could have split the log.", "hypothesis": "The boy did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "If the child had remembered spreading the rumor, the manager could have bet $100 on the race.", "hypothesis": "The child did not spread the rumor.", "label": "contradiction"}
+{"premise": "If the athlete had forgot hurting others, the manager could have shed tears.", "hypothesis": "The athlete did not hurt others.", "label": "contradiction"}
+{"premise": "If the athlete had forgot reading the letter, the director could have bet $100 on the race.", "hypothesis": "The athlete did not read the letter.", "label": "contradiction"}
+{"premise": "If the dancer had remembered splitting the log, the assistant could have slit the envelope.", "hypothesis": "The dancer did not split the log.", "label": "contradiction"}
+{"premise": "If the kid had forgot thrusting the fork into the cake, the singer would have cast bronze into a statue.", "hypothesis": "The kid did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "If the woman had regretted letting the blinds down, the worker would have shed tears.", "hypothesis": "The woman did not let the blinds down.", "label": "contradiction"}
+{"premise": "If the kid had forgot splitting the log, the student would have put the book on the shelf.", "hypothesis": "The kid did not split the log.", "label": "contradiction"}
+{"premise": "If the child had remembered upsetting the boat, the girl would have put the book on the shelf.", "hypothesis": "The child did not upset the boat.", "label": "contradiction"}
+{"premise": "If the director had regretted setting the dish on the table, the girl could have split the log.", "hypothesis": "The director did not set the dish on the table.", "label": "contradiction"}
+{"premise": "If the assistant had forgot casting bronze into a statue, the director would have read the letter.", "hypothesis": "The assistant did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "If the stranger had forgot hitting the ball with the bat, the kid could have read the letter.", "hypothesis": "The stranger did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "If the singer had forgot setting the dish on the table, the child would have cast bronze into a statue.", "hypothesis": "The singer did not set the dish on the table.", "label": "contradiction"}
+{"premise": "If the dancer had remembered letting the blinds down, the woman would have set the dish on the table.", "hypothesis": "The dancer did not let the blinds down.", "label": "contradiction"}
+{"premise": "If the kid had regretted setting the dish on the table, the assistant would have shed tears.", "hypothesis": "The kid did not set the dish on the table.", "label": "contradiction"}
+{"premise": "If the assistant had remembered shutting the door, the director would have bet $100 on the race.", "hypothesis": "The assistant did not shut the door.", "label": "contradiction"}
+{"premise": "If the child had forgot putting the book on the shelf, the stranger would have split the log.", "hypothesis": "The child did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "If the child had forgot shedding tears, the worker could have burst into the room.", "hypothesis": "The child did not shed tears.", "label": "contradiction"}
+{"premise": "If the woman had remembered reading the letter, the athlete would have hit the ball with the bat.", "hypothesis": "The woman did not read the letter.", "label": "contradiction"}
+{"premise": "If the singer had remembered reading the letter, the athlete would have shed tears.", "hypothesis": "The singer did not read the letter.", "label": "contradiction"}
+{"premise": "If the assistant had forgot spreading the rumor, the manager would have shut the door.", "hypothesis": "The assistant did not spread the rumor.", "label": "contradiction"}
+{"premise": "If the boy had remembered splitting the log, the child could have shed tears.", "hypothesis": "The boy did not split the log.", "label": "contradiction"}
+{"premise": "If the director had forgot slitting the envelope, the professor could have spread the rumor.", "hypothesis": "The director did not slit the envelope.", "label": "contradiction"}
+{"premise": "If the manager had forgot spreading the rumor, the kid could have let the blinds down.", "hypothesis": "The manager did not spread the rumor.", "label": "contradiction"}
+{"premise": "If the teacher had remembered hitting the ball with the bat, the assistant would have spread the rumor.", "hypothesis": "The teacher did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "If the singer had forgot splitting the log, the teacher would have set the dish on the table.", "hypothesis": "The singer did not split the log.", "label": "contradiction"}
+{"premise": "If the kid had regretted reading the letter, the manager could have hurt others.", "hypothesis": "The kid did not read the letter.", "label": "contradiction"}
+{"premise": "If the worker had regretted thrusting the fork into the cake, the student could have hit the ball with the bat.", "hypothesis": "The worker did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "If the singer had forgot hitting the ball with the bat, the professor could have bet $100 on the race.", "hypothesis": "The singer did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "If the kid had regretted upsetting the boat, the manager would have shut the door.", "hypothesis": "The kid did not upset the boat.", "label": "contradiction"}
+{"premise": "If the man had forgot shutting the door, the singer could have cast bronze into a statue.", "hypothesis": "The man did not shut the door.", "label": "contradiction"}
+{"premise": "If the woman had remembered setting the dish on the table, the dancer would have put the book on the shelf.", "hypothesis": "The woman did not set the dish on the table.", "label": "contradiction"}
+{"premise": "If the doctor had regretted shedding tears, the manager could have thrust the fork into the cake.", "hypothesis": "The doctor did not shed tears.", "label": "contradiction"}
+{"premise": "If the teacher had remembered betting $100 on the race, the woman could have read the letter.", "hypothesis": "The teacher did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "If the professor had remembered spreading the rumor, the singer would have read the letter.", "hypothesis": "The professor did not spread the rumor.", "label": "contradiction"}
+{"premise": "If the kid had remembered hitting the ball with the bat, the woman could have split the log.", "hypothesis": "The kid did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "If the teacher had remembered spreading the rumor, the professor could have put the book on the shelf.", "hypothesis": "The teacher did not spread the rumor.", "label": "contradiction"}
+{"premise": "If the student had remembered bursting into the room, the boy would have put the book on the shelf.", "hypothesis": "The student did not burst into the room.", "label": "contradiction"}
+{"premise": "If the boy had remembered spreading the rumor, the manager could have put the book on the shelf.", "hypothesis": "The boy did not spread the rumor.", "label": "contradiction"}
+{"premise": "If the assistant had forgot setting the dish on the table, the child would have cast bronze into a statue.", "hypothesis": "The assistant did not set the dish on the table.", "label": "contradiction"}
+{"premise": "If the kid had remembered spreading the rumor, the manager would have shut the door.", "hypothesis": "The kid did not spread the rumor.", "label": "contradiction"}
+{"premise": "If the kid had regretted thrusting the fork into the cake, the director could have burst into the room.", "hypothesis": "The kid did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "If the kid had regretted upsetting the boat, the stranger could have cast bronze into a statue.", "hypothesis": "The kid did not upset the boat.", "label": "contradiction"}
+{"premise": "If the child had forgot thrusting the fork into the cake, the kid could have split the log.", "hypothesis": "The child did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "If the girl had forgot betting $100 on the race, the assistant could have split the log.", "hypothesis": "The girl did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "If the stranger had remembered setting the dish on the table, the manager could have hit the ball with the bat.", "hypothesis": "The stranger did not set the dish on the table.", "label": "contradiction"}
+{"premise": "If the woman had regretted hitting the ball with the bat, the teacher could have slit the envelope.", "hypothesis": "The woman did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "If the manager had regretted spreading the rumor, the student could have put the book on the shelf.", "hypothesis": "The manager did not spread the rumor.", "label": "contradiction"}
+{"premise": "If the child had regretted shedding tears, the teacher could have thrust the fork into the cake.", "hypothesis": "The child did not shed tears.", "label": "contradiction"}
+{"premise": "If the athlete had forgot betting $100 on the race, the director would have spread the rumor.", "hypothesis": "The athlete did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "If the singer had regretted setting the dish on the table, the dancer would have hurt others.", "hypothesis": "The singer did not set the dish on the table.", "label": "contradiction"}
+{"premise": "If the kid had remembered betting $100 on the race, the professor would have let the blinds down.", "hypothesis": "The kid did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "If the kid had regretted shutting the door, the worker could have hurt others.", "hypothesis": "The kid did not shut the door.", "label": "contradiction"}
+{"premise": "If the professor had remembered upsetting the boat, the child would have spread the rumor.", "hypothesis": "The professor did not upset the boat.", "label": "contradiction"}
+{"premise": "If the singer had forgot setting the dish on the table, the manager could have shut the door.", "hypothesis": "The singer did not set the dish on the table.", "label": "contradiction"}
+{"premise": "If the manager had remembered slitting the envelope, the man would have upset the boat.", "hypothesis": "The manager did not slit the envelope.", "label": "contradiction"}
+{"premise": "If the athlete had remembered shutting the door, the professor could have split the log.", "hypothesis": "The athlete did not shut the door.", "label": "contradiction"}
+{"premise": "If the singer had forgot splitting the log, the boy could have slit the envelope.", "hypothesis": "The singer did not split the log.", "label": "contradiction"}
+{"premise": "If the worker had regretted setting the dish on the table, the director could have split the log.", "hypothesis": "The worker did not set the dish on the table.", "label": "contradiction"}
+{"premise": "If the teacher had remembered slitting the envelope, the assistant would have hit the ball with the bat.", "hypothesis": "The teacher did not slit the envelope.", "label": "contradiction"}
+{"premise": "If the student had forgot shedding tears, the professor could have set the dish on the table.", "hypothesis": "The student did not shed tears.", "label": "contradiction"}
+{"premise": "If the director had regretted shutting the door, the professor could have hurt others.", "hypothesis": "The director did not shut the door.", "label": "contradiction"}
+{"premise": "If the athlete had regretted thrusting the fork into the cake, the student would have slit the envelope.", "hypothesis": "The athlete did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "If the student had forgot putting the book on the shelf, the woman could have slit the envelope.", "hypothesis": "The student did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "If the worker had regretted putting the book on the shelf, the boy could have hit the ball with the bat.", "hypothesis": "The worker did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "If the student had forgot bursting into the room, the child could have shut the door.", "hypothesis": "The student did not burst into the room.", "label": "contradiction"}
+{"premise": "If the kid had forgot setting the dish on the table, the manager could have hit the ball with the bat.", "hypothesis": "The kid did not set the dish on the table.", "label": "contradiction"}
+{"premise": "If the assistant had remembered slitting the envelope, the doctor could have burst into the room.", "hypothesis": "The assistant did not slit the envelope.", "label": "contradiction"}
+{"premise": "If the child had forgot putting the book on the shelf, the girl would have hit the ball with the bat.", "hypothesis": "The child did not put the book on the shelf.", "label": "contradiction"}

@@ -1,0 +1,200 @@
+{"premise": "If the doctor had let the blinds down earlier than the student, the stranger could have shut the door.", "hypothesis": "The doctor let the blinds down.", "label": "entailment"}
+{"premise": "If the man had shut the door better than the manager, the doctor would have let the blinds down.", "hypothesis": "The man shut the door.", "label": "entailment"}
+{"premise": "If the assistant had hit the ball with the bat worse than the manager, the man could have hurt others.", "hypothesis": "The assistant hit the ball with the bat.", "label": "entailment"}
+{"premise": "If the teacher had read the letter worse than the student, the stranger would have hurt others.", "hypothesis": "The teacher read the letter.", "label": "entailment"}
+{"premise": "If the athlete had spread the rumor more seriously than the child, the student could have cast bronze into a statue.", "hypothesis": "The athlete spread the rumor.", "label": "entailment"}
+{"premise": "If the man had spread the rumor better than the student, the stranger would have set the dish on the table.", "hypothesis": "The man spread the rumor.", "label": "entailment"}
+{"premise": "If the manager had hit the ball with the bat better than the man, the athlete could have let the blinds down.", "hypothesis": "The manager hit the ball with the bat.", "label": "entailment"}
+{"premise": "If the boy had hurt others earlier than the dancer, the woman would have spread the rumor.", "hypothesis": "The boy hurt others.", "label": "entailment"}
+{"premise": "If the assistant had shut the door worse than the girl, the doctor could have let the blinds down.", "hypothesis": "The assistant shut the door.", "label": "entailment"}
+{"premise": "If the athlete had hurt others earlier than the man, the teacher would have spread the rumor.", "hypothesis": "The athlete hurt others.", "label": "entailment"}
+{"premise": "If the child had cast bronze into a statue more seriously than the worker, the stranger could have upset the boat.", "hypothesis": "The child cast bronze into a statue.", "label": "entailment"}
+{"premise": "If the teacher had slit the envelope better than the dancer, the singer would have hurt others.", "hypothesis": "The teacher slit the envelope.", "label": "entailment"}
+{"premise": "If the manager had spread the rumor earlier than the doctor, the teacher would have split the log.", "hypothesis": "The manager spread the rumor.", "label": "entailment"}
+{"premise": "If the man had let the blinds down better than the girl, the dancer could have spread the rumor.", "hypothesis": "The man let the blinds down.", "label": "entailment"}
+{"premise": "If the assistant had shut the door more seriously than the boy, the kid could have read the letter.", "hypothesis": "The assistant shut the door.", "label": "entailment"}
+{"premise": "If the director had hit the ball with the bat better than the child, the boy could have hurt others.", "hypothesis": "The director hit the ball with the bat.", "label": "entailment"}
+{"premise": "If the man had read the letter more seriously than the dancer, the girl would have hurt others.", "hypothesis": "The man read the letter.", "label": "entailment"}
+{"premise": "If the stranger had bet $100 on the race more seriously than the professor, the child could have split the log.", "hypothesis": "The stranger bet $100 on the race.", "label": "entailment"}
+{"premise": "If the assistant had split the log more seriously than the singer, the kid could have set the dish on the table.", "hypothesis": "The assistant split the log.", "label": "entailment"}
+{"premise": "If the athlete had spread the rumor earlier than the stranger, the student could have thrust the fork into the cake.", "hypothesis": "The athlete spread the rumor.", "label": "entailment"}
+{"premise": "If the doctor had upset the boat more seriously than the singer, the kid would have thrust the fork into the cake.", "hypothesis": "The doctor upset the boat.", "label": "entailment"}
+{"premise": "If the kid had cast bronze into a statue earlier than the teacher, the woman could have slit the envelope.", "hypothesis": "The kid cast bronze into a statue.", "label": "entailment"}
+{"premise": "If the manager had hurt others earlier than the stranger, the doctor would have shut the door.", "hypothesis": "The manager hurt others.", "label": "entailment"}
+{"premise": "If the girl had cast bronze into a statue better than the doctor, the athlete would have spread the rumor.", "hypothesis": "The girl cast bronze into a statue.", "label": "entailment"}
+{"premise": "If the doctor had shed tears worse than the singer, the teacher would have hit the ball with the bat.", "hypothesis": "The doctor shed tears.", "label": "entailment"}
+{"premise": "If the assistant had hit the ball with the bat earlier than the teacher, the girl would have read the letter.", "hypothesis": "The assistant hit the ball with the bat.", "label": "entailment"}
+{"premise": "If the director had shut the door worse than the kid, the child could have hit the ball with the bat.", "hypothesis": "The director shut the door.", "label": "entailment"}
+{"premise": "If the boy had shut the door earlier than the girl, the man would have cast bronze into a statue.", "hypothesis": "The boy shut the door.", "label": "entailment"}
+{"premise": "If the student had bet $100 on the race better than the manager, the girl could have split the log.", "hypothesis": "The student bet $100 on the race.", "label": "entailment"}
+{"premise": "If the singer had shed tears earlier than the athlete, the girl would have bet $100 on the race.", "hypothesis": "The singer shed tears.", "label": "entailment"}
+{"premise": "If the stranger had hurt others better than the woman, the man could have thrust the fork into the cake.", "hypothesis": "The stranger hurt others.", "label": "entailment"}
+{"premise": "If the singer had hit the ball with the bat earlier than the director, the doctor could have put the book on the shelf.", "hypothesis": "The singer hit the ball with the bat.", "label": "entailment"}
+{"premise": "If the stranger had thrust the fork into the cake better than the woman, the girl could have split the log.", "hypothesis": "The stranger thrust the fork into the cake.", "label": "entailment"}
+{"premise": "If the girl had bet $100 on the race earlier than the kid, the athlete would have hit the ball with the bat.", "hypothesis": "The girl bet $100 on the race.", "label": "entailment"}
+{"premise": "If the student had let the blinds down worse than the boy, the worker would have thrust the fork into the cake.", "hypothesis": "The student let the blinds down.", "label": "entailment"}
+{"premise": "If the assistant had read the letter better than the child, the kid would have thrust the fork into the cake.", "hypothesis": "The assistant read the letter.", "label": "entailment"}
+{"premise": "If the director had spread the rumor worse than the manager, the assistant would have split the log.", "hypothesis": "The director spread the rumor.", "label": "entailment"}
+{"premise": "If the girl had cast bronze into a statue worse than the worker, the student could have let the blinds down.", "hypothesis": "The girl cast bronze into a statue.", "label": "entailment"}
+{"premise": "If the boy had split the log more seriously than the stranger, the man could have thrust the fork into the cake.", "hypothesis": "The boy split the log.", "label": "entailment"}
+{"premise": "If the doctor had let the blinds down more seriously than the girl, the man would have upset the boat.", "hypothesis": "The doctor let the blinds down.", "label": "entailment"}
+{"premise": "If the girl had thrust the fork into the cake earlier than the manager, the athlete could have hit the ball with the bat.", "hypothesis": "The girl thrust the fork into the cake.", "label": "entailment"}
+{"premise": "If the woman had let the blinds down worse than the doctor, the professor would have shut the door.", "hypothesis": "The woman let the blinds down.", "label": "entailment"}
+{"premise": "If the assistant had upset the boat earlier than the teacher, the singer could have burst into the room.", "hypothesis": "The assistant upset the boat.", "label": "entailment"}
+{"premise": "If the child had shut the door better than the kid, the athlete would have read the letter.", "hypothesis": "The child shut the door.", "label": "entailment"}
+{"premise": "If the dancer had split the log worse than the athlete, the teacher could have shut the door.", "hypothesis": "The dancer split the log.", "label": "entailment"}
+{"premise": "If the singer had hit the ball with the bat better than the woman, the athlete could have put the book on the shelf.", "hypothesis": "The singer hit the ball with the bat.", "label": "entailment"}
+{"premise": "If the doctor had split the log better than the athlete, the girl would have shed tears.", "hypothesis": "The doctor split the log.", "label": "entailment"}
+{"premise": "If the kid had read the letter worse than the worker, the child would have burst into the room.", "hypothesis": "The kid read the letter.", "label": "entailment"}
+{"premise": "If the woman had read the letter better than the boy, the man could have shut the door.", "hypothesis": "The woman read the letter.", "label": "entailment"}
+{"premise": "If the stranger had shed tears worse than the manager, the athlete would have hit the ball with the bat.", "hypothesis": "The stranger shed tears.", "label": "entailment"}
+{"premise": "If the man had shed tears better than the assistant, the woman would have hurt others.", "hypothesis": "The man shed tears.", "label": "entailment"}
+{"premise": "If the dancer had thrust the fork into the cake earlier than the woman, the child could have split the log.", "hypothesis": "The dancer thrust the fork into the cake.", "label": "entailment"}
+{"premise": "If the dancer had put the book on the shelf worse than the director, the boy could have slit the envelope.", "hypothesis": "The dancer put the book on the shelf.", "label": "entailment"}
+{"premise": "If the teacher had upset the boat more seriously than the man, the kid could have hurt others.", "hypothesis": "The teacher upset the boat.", "label": "entailment"}
+{"premise": "If the athlete had hit the ball with the bat better than the man, the singer would have let the blinds down.", "hypothesis": "The athlete hit the ball with the bat.", "label": "entailment"}
+{"premise": "If the boy had bet $100 on the race worse than the assistant, the director would have put the book on the shelf.", "hypothesis": "The boy bet $100 on the race.", "label": "entailment"}
+{"premise": "If the professor had read the letter worse than the kid, the athlete could have put the book on the shelf.", "hypothesis": "The professor read the letter.", "label": "entailment"}
+{"premise": "If the manager had set the dish on the table better than the woman, the teacher could have slit the envelope.", "hypothesis": "The manager set the dish on the table.", "label": "entailment"}
+{"premise": "If the girl had hit the ball with the bat better than the assistant, the manager could have read the letter.", "hypothesis": "The girl hit the ball with the bat.", "label": "entailment"}
+{"premise": "If the worker had burst into the room earlier than the child, the assistant could have bet $100 on the race.", "hypothesis": "The worker burst into the room.", "label": "entailment"}
+{"premise": "If the girl had shed tears worse than the woman, the teacher could have spread the rumor.", "hypothesis": "The girl shed tears.", "label": "entailment"}
+{"premise": "If the stranger had upset the boat earlier than the manager, the man could have shed tears.", "hypothesis": "The stranger upset the boat.", "label": "entailment"}
+{"premise": "If the child had hurt others more seriously than the student, the boy would have upset the boat.", "hypothesis": "The child hurt others.", "label": "entailment"}
+{"premise": "If the stranger had set the dish on the table more seriously than the manager, the professor could have put the book on the shelf.", "hypothesis": "The stranger set the dish on the table.", "label": "entailment"}
+{"premise": "If the worker had set the dish on the table better than the stranger, the manager could have cast bronze into a statue.", "hypothesis": "The worker set the dish on the table.", "label": "entailment"}
+{"premise": "If the doctor had upset the boat worse than the professor, the worker could have read the letter.", "hypothesis": "The doctor upset the boat.", "label": "entailment"}
+{"premise": "If the director had thrust the fork into the cake worse than the athlete, the child could have bet $100 on the race.", "hypothesis": "The director thrust the fork into the cake.", "label": "entailment"}
+{"premise": "If the teacher had set the dish on the table better than the professor, the boy would have hurt others.", "hypothesis": "The teacher set the dish on the table.", "label": "entailment"}
+{"premise": "If the worker had set the dish on the table earlier than the woman, the child would have hit the ball with the bat.", "hypothesis": "The worker set the dish on the table.", "label": "entailment"}
+{"premise": "If the boy had hit the ball with the bat better than the director, the man would have split the log.", "hypothesis": "The boy hit the ball with the bat.", "label": "entailment"}
+{"premise": "If the stranger had put the book on the shelf worse than the girl, the doctor would have hit the ball with the bat.", "hypothesis": "The stranger put the book on the shelf.", "label": "entailment"}
+{"premise": "If the dancer had put the book on the shelf better than the worker, the woman could have shed tears.", "hypothesis": "The dancer put the book on the shelf.", "label": "entailment"}
+{"premise": "If the manager had hurt others more seriously than the professor, the kid would have thrust the fork into the cake.", "hypothesis": "The manager hurt others.", "label": "entailment"}
+{"premise": "If the girl had shut the door more seriously than the dancer, the kid could have bet $100 on the race.", "hypothesis": "The girl shut the door.", "label": "entailment"}
+{"premise": "If the girl had shut the door better than the man, the child could have spread the rumor.", "hypothesis": "The girl shut the door.", "label": "entailment"}
+{"premise": "If the athlete had let the blinds down better than the dancer, the worker could have split the log.", "hypothesis": "The athlete let the blinds down.", "label": "entailment"}
+{"premise": "If the girl had thrust the fork into the cake earlier than the stranger, the teacher could have hit the ball with the bat.", "hypothesis": "The girl thrust the fork into the cake.", "label": "entailment"}
+{"premise": "If the assistant had bet $100 on the race worse than the kid, the man would have read the letter.", "hypothesis": "The assistant bet $100 on the race.", "label": "entailment"}
+{"premise": "If the dancer had read the letter better than the teacher, the boy could have thrust the fork into the cake.", "hypothesis": "The dancer read the letter.", "label": "entailment"}
+{"premise": "If the woman had bet $100 on the race better than the teacher, the worker could have let the blinds down.", "hypothesis": "The woman bet $100 on the race.", "label": "entailment"}
+{"premise": "If the student had slit the envelope more seriously than the child, the stranger could have shed tears.", "hypothesis": "The student slit the envelope.", "label": "entailment"}
+{"premise": "If the athlete had hurt others worse than the doctor, the singer could have read the letter.", "hypothesis": "The athlete hurt others.", "label": "entailment"}
+{"premise": "If the man had read the letter more seriously than the singer, the teacher could have hurt others.", "hypothesis": "The man read the letter.", "label": "entailment"}
+{"premise": "If the manager had put the book on the shelf more seriously than the woman, the stranger would have slit the envelope.", "hypothesis": "The manager put the book on the shelf.", "label": "entailment"}
+{"premise": "If the athlete had hit the ball with the bat better than the teacher, the kid could have upset the boat.", "hypothesis": "The athlete hit the ball with the bat.", "label": "entailment"}
+{"premise": "If the worker had upset the boat worse than the dancer, the director would have split the log.", "hypothesis": "The worker upset the boat.", "label": "entailment"}
+{"premise": "If the child had let the blinds down more seriously than the woman, the stranger could have burst into the room.", "hypothesis": "The child let the blinds down.", "label": "entailment"}
+{"premise": "If the woman had let the blinds down better than the teacher, the student could have bet $100 on the race.", "hypothesis": "The woman let the blinds down.", "label": "entailment"}
+{"premise": "If the dancer had upset the boat earlier than the professor, the manager would have bet $100 on the race.", "hypothesis": "The dancer upset the boat.", "label": "entailment"}
+{"premise": "If the man had let the blinds down earlier than the woman, the teacher could have hurt others.", "hypothesis": "The man let the blinds down.", "label": "entailment"}
+{"premise": "If the boy had hit the ball with the bat worse than the woman, the worker could have set the dish on the table.", "hypothesis": "The boy hit the ball with the bat.", "label": "entailment"}
+{"premise": "If the woman had cast bronze into a statue better than the dancer, the worker would have bet $100 on the race.", "hypothesis": "The woman cast bronze into a statue.", "label": "entailment"}
+{"premise": "If the singer had upset the boat better than the kid, the girl would have shed tears.", "hypothesis": "The singer upset the boat.", "label": "entailment"}
+{"premise": "If the manager had burst into the room earlier than the man, the woman would have hit the ball with the bat.", "hypothesis": "The manager burst into the room.", "label": "entailment"}
+{"premise": "If the kid had slit the envelope earlier than the professor, the teacher could have split the log.", "hypothesis": "The kid slit the envelope.", "label": "entailment"}
+{"premise": "If the director had burst into the room more seriously than the woman, the manager could have put the book on the shelf.", "hypothesis": "The director burst into the room.", "label": "entailment"}
+{"premise": "If the boy had burst into the room better than the athlete, the dancer could have hit the ball with the bat.", "hypothesis": "The boy burst into the room.", "label": "entailment"}
+{"premise": "If the manager had split the log more seriously than the student, the girl could have slit the envelope.", "hypothesis": "The manager split the log.", "label": "entailment"}
+{"premise": "If the girl had hit the ball with the bat worse than the child, the boy would have split the log.", "hypothesis": "The girl hit the ball with the bat.", "label": "entailment"}
+{"premise": "If the manager had cast bronze into a statue better than the singer, the assistant would have bet $100 on the race.", "hypothesis": "The manager cast bronze into a statue.", "label": "entailment"}
+{"premise": "If the child had cast bronze into a statue worse than the stranger, the teacher could have read the letter.", "hypothesis": "The child did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "If the stranger had cast bronze into a statue earlier than the teacher, the kid would have set the dish on the table.", "hypothesis": "The stranger did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "If the worker had hit the ball with the bat more seriously than the athlete, the student could have slit the envelope.", "hypothesis": "The worker did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "If the woman had split the log better than the dancer, the man would have thrust the fork into the cake.", "hypothesis": "The woman did not split the log.", "label": "contradiction"}
+{"premise": "If the stranger had hurt others better than the singer, the professor could have upset the boat.", "hypothesis": "The stranger did not hurt others.", "label": "contradiction"}
+{"premise": "If the man had spread the rumor earlier than the teacher, the child could have burst into the room.", "hypothesis": "The man did not spread the rumor.", "label": "contradiction"}
+{"premise": "If the teacher had spread the rumor more seriously than the girl, the athlete would have let the blinds down.", "hypothesis": "The teacher did not spread the rumor.", "label": "contradiction"}
+{"premise": "If the manager had bet $100 on the race better than the director, the stranger would have hit the ball with the bat.", "hypothesis": "The manager did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "If the teacher had set the dish on the table earlier than the boy, the man would have shed tears.", "hypothesis": "The teacher did not set the dish on the table.", "label": "contradiction"}
+{"premise": "If the worker had spread the rumor earlier than the professor, the manager could have burst into the room.", "hypothesis": "The worker did not spread the rumor.", "label": "contradiction"}
+{"premise": "If the stranger had split the log worse than the kid, the man would have bet $100 on the race.", "hypothesis": "The stranger did not split the log.", "label": "contradiction"}
+{"premise": "If the athlete had shed tears earlier than the doctor, the director could have shut the door.", "hypothesis": "The athlete did not shed tears.", "label": "contradiction"}
+{"premise": "If the woman had shut the door worse than the worker, the man could have split the log.", "hypothesis": "The woman did not shut the door.", "label": "contradiction"}
+{"premise": "If the professor had slit the envelope better than the assistant, the worker could have read the letter.", "hypothesis": "The professor did not slit the envelope.", "label": "contradiction"}
+{"premise": "If the student had split the log better than the director, the assistant would have shed tears.", "hypothesis": "The student did not split the log.", "label": "contradiction"}
+{"premise": "If the doctor had shut the door worse than the boy, the stranger would have bet $100 on the race.", "hypothesis": "The doctor did not shut the door.", "label": "contradiction"}
+{"premise": "If the director had split the log earlier than the student, the assistant could have hurt others.", "hypothesis": "The director did not split the log.", "label": "contradiction"}
+{"premise": "If the stranger had set the dish on the table earlier than the professor, the girl would have upset the boat.", "hypothesis": "The stranger did not set the dish on the table.", "label": "contradiction"}
+{"premise": "If the man had burst into the room worse than the professor, the worker could have set the dish on the table.", "hypothesis": "The man did not burst into the room.", "label": "contradiction"}
+{"premise": "If the student had read the letter earlier than the athlete, the boy would have spread the rumor.", "hypothesis": "The student did not read the letter.", "label": "contradiction"}
+{"premise": "If the singer had spread the rumor better than the worker, the stranger would have shut the door.", "hypothesis": "The singer did not spread the rumor.", "label": "contradiction"}
+{"premise": "If the teacher had hit the ball with the bat earlier than the student, the kid would have set the dish on the table.", "hypothesis": "The teacher did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "If the worker had spread the rumor earlier than the assistant, the director would have burst into the room.", "hypothesis": "The worker did not spread the rumor.", "label": "contradiction"}
+{"premise": "If the boy had let the blinds down more seriously than the athlete, the singer would have shut the door.", "hypothesis": "The boy did not let the blinds down.", "label": "contradiction"}
+{"premise": "If the man had thrust the fork into the cake better than the stranger, the worker could have upset the boat.", "hypothesis": "The man did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "If the woman had burst into the room worse than the teacher, the assistant would have shed tears.", "hypothesis": "The woman did not burst into the room.", "label": "contradiction"}
+{"premise": "If the student had shut the door earlier than the assistant, the kid would have slit the envelope.", "hypothesis": "The student did not shut the door.", "label": "contradiction"}
+{"premise": "If the boy had bet $100 on the race worse than the director, the man could have hurt others.", "hypothesis": "The boy did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "If the student had burst into the room earlier than the athlete, the man could have put the book on the shelf.", "hypothesis": "The student did not burst into the room.", "label": "contradiction"}
+{"premise": "If the director had upset the boat worse than the girl, the worker could have burst into the room.", "hypothesis": "The director did not upset the boat.", "label": "contradiction"}
+{"premise": "If the girl had burst into the room better than the stranger, the boy could have cast bronze into a statue.", "hypothesis": "The girl did not burst into the room.", "label": "contradiction"}
+{"premise": "If the manager had set the dish on the table worse than the teacher, the director could have spread the rumor.", "hypothesis": "The manager did not set the dish on the table.", "label": "contradiction"}
+{"premise": "If the dancer had upset the boat better than the director, the athlete would have split the log.", "hypothesis": "The dancer did not upset the boat.", "label": "contradiction"}
+{"premise": "If the boy had read the letter better than the assistant, the child could have set the dish on the table.", "hypothesis": "The boy did not read the letter.", "label": "contradiction"}
+{"premise": "If the student had spread the rumor worse than the singer, the director would have put the book on the shelf.", "hypothesis": "The student did not spread the rumor.", "label": "contradiction"}
+{"premise": "If the doctor had hurt others more seriously than the child, the woman could have shed tears.", "hypothesis": "The doctor did not hurt others.", "label": "contradiction"}
+{"premise": "If the kid had hit the ball with the bat more seriously than the worker, the assistant would have set the dish on the table.", "hypothesis": "The kid did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "If the woman had burst into the room more seriously than the man, the child could have read the letter.", "hypothesis": "The woman did not burst into the room.", "label": "contradiction"}
+{"premise": "If the director had split the log earlier than the boy, the teacher could have slit the envelope.", "hypothesis": "The director did not split the log.", "label": "contradiction"}
+{"premise": "If the stranger had upset the boat more seriously than the manager, the singer would have cast bronze into a statue.", "hypothesis": "The stranger did not upset the boat.", "label": "contradiction"}
+{"premise": "If the dancer had set the dish on the table more seriously than the teacher, the child would have split the log.", "hypothesis": "The dancer did not set the dish on the table.", "label": "contradiction"}
+{"premise": "If the woman had hit the ball with the bat earlier than the worker, the girl would have shed tears.", "hypothesis": "The woman did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "If the teacher had shed tears more seriously than the worker, the dancer could have put the book on the shelf.", "hypothesis": "The teacher did not shed tears.", "label": "contradiction"}
+{"premise": "If the teacher had shed tears earlier than the boy, the stranger could have read the letter.", "hypothesis": "The teacher did not shed tears.", "label": "contradiction"}
+{"premise": "If the director had bet $100 on the race better than the girl, the doctor would have burst into the room.", "hypothesis": "The director did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "If the stranger had hit the ball with the bat more seriously than the manager, the girl could have thrust the fork into the cake.", "hypothesis": "The stranger did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "If the child had read the letter earlier than the boy, the kid could have spread the rumor.", "hypothesis": "The child did not read the letter.", "label": "contradiction"}
+{"premise": "If the student had burst into the room better than the assistant, the kid would have bet $100 on the race.", "hypothesis": "The student did not burst into the room.", "label": "contradiction"}
+{"premise": "If the man had put the book on the shelf better than the woman, the singer could have spread the rumor.", "hypothesis": "The man did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "If the boy had burst into the room better than the dancer, the student would have shut the door.", "hypothesis": "The boy did not burst into the room.", "label": "contradiction"}
+{"premise": "If the professor had slit the envelope worse than the stranger, the student could have bet $100 on the race.", "hypothesis": "The professor did not slit the envelope.", "label": "contradiction"}
+{"premise": "If the teacher had spread the rumor worse than the worker, the professor would have slit the envelope.", "hypothesis": "The teacher did not spread the rumor.", "label": "contradiction"}
+{"premise": "If the manager had thrust the fork into the cake earlier than the director, the singer could have hit the ball with the bat.", "hypothesis": "The manager did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "If the student had split the log worse than the kid, the singer would have bet $100 on the race.", "hypothesis": "The student did not split the log.", "label": "contradiction"}
+{"premise": "If the assistant had let the blinds down more seriously than the stranger, the athlete could have upset the boat.", "hypothesis": "The assistant did not let the blinds down.", "label": "contradiction"}
+{"premise": "If the stranger had hit the ball with the bat better than the manager, the assistant would have let the blinds down.", "hypothesis": "The stranger did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "If the singer had put the book on the shelf more seriously than the professor, the assistant could have shed tears.", "hypothesis": "The singer did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "If the professor had upset the boat earlier than the student, the worker would have read the letter.", "hypothesis": "The professor did not upset the boat.", "label": "contradiction"}
+{"premise": "If the woman had bet $100 on the race worse than the doctor, the boy could have burst into the room.", "hypothesis": "The woman did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "If the professor had upset the boat more seriously than the dancer, the worker could have shut the door.", "hypothesis": "The professor did not upset the boat.", "label": "contradiction"}
+{"premise": "If the man had spread the rumor earlier than the singer, the assistant could have shut the door.", "hypothesis": "The man did not spread the rumor.", "label": "contradiction"}
+{"premise": "If the girl had thrust the fork into the cake earlier than the dancer, the singer could have upset the boat.", "hypothesis": "The girl did not thrust the fork into the cake.", "label": "contradiction"}
+{"premise": "If the manager had slit the envelope better than the teacher, the man would have upset the boat.", "hypothesis": "The manager did not slit the envelope.", "label": "contradiction"}
+{"premise": "If the teacher had shed tears earlier than the singer, the director would have set the dish on the table.", "hypothesis": "The teacher did not shed tears.", "label": "contradiction"}
+{"premise": "If the woman had slit the envelope worse than the student, the doctor could have split the log.", "hypothesis": "The woman did not slit the envelope.", "label": "contradiction"}
+{"premise": "If the manager had slit the envelope earlier than the child, the teacher could have cast bronze into a statue.", "hypothesis": "The manager did not slit the envelope.", "label": "contradiction"}
+{"premise": "If the kid had cast bronze into a statue earlier than the student, the manager could have read the letter.", "hypothesis": "The kid did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "If the student had burst into the room better than the boy, the worker could have split the log.", "hypothesis": "The student did not burst into the room.", "label": "contradiction"}
+{"premise": "If the dancer had burst into the room worse than the athlete, the boy could have shut the door.", "hypothesis": "The dancer did not burst into the room.", "label": "contradiction"}
+{"premise": "If the worker had put the book on the shelf better than the director, the girl would have read the letter.", "hypothesis": "The worker did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "If the boy had shed tears worse than the professor, the doctor could have put the book on the shelf.", "hypothesis": "The boy did not shed tears.", "label": "contradiction"}
+{"premise": "If the athlete had spread the rumor more seriously than the doctor, the professor would have shed tears.", "hypothesis": "The athlete did not spread the rumor.", "label": "contradiction"}
+{"premise": "If the man had hit the ball with the bat more seriously than the assistant, the student could have burst into the room.", "hypothesis": "The man did not hit the ball with the bat.", "label": "contradiction"}
+{"premise": "If the teacher had shut the door more seriously than the student, the doctor would have bet $100 on the race.", "hypothesis": "The teacher did not shut the door.", "label": "contradiction"}
+{"premise": "If the manager had hurt others worse than the student, the child could have let the blinds down.", "hypothesis": "The manager did not hurt others.", "label": "contradiction"}
+{"premise": "If the manager had put the book on the shelf earlier than the director, the athlete would have hit the ball with the bat.", "hypothesis": "The manager did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "If the professor had set the dish on the table more seriously than the boy, the worker could have read the letter.", "hypothesis": "The professor did not set the dish on the table.", "label": "contradiction"}
+{"premise": "If the worker had hurt others earlier than the man, the child would have thrust the fork into the cake.", "hypothesis": "The worker did not hurt others.", "label": "contradiction"}
+{"premise": "If the athlete had split the log worse than the boy, the girl could have put the book on the shelf.", "hypothesis": "The athlete did not split the log.", "label": "contradiction"}
+{"premise": "If the director had bet $100 on the race worse than the stranger, the manager would have spread the rumor.", "hypothesis": "The director did not bet $100 on the race.", "label": "contradiction"}
+{"premise": "If the girl had shut the door better than the man, the athlete would have put the book on the shelf.", "hypothesis": "The girl did not shut the door.", "label": "contradiction"}
+{"premise": "If the student had hurt others better than the doctor, the child could have spread the rumor.", "hypothesis": "The student did not hurt others.", "label": "contradiction"}
+{"premise": "If the man had slit the envelope earlier than the child, the boy could have shed tears.", "hypothesis": "The man did not slit the envelope.", "label": "contradiction"}
+{"premise": "If the director had upset the boat worse than the student, the manager could have bet $100 on the race.", "hypothesis": "The director did not upset the boat.", "label": "contradiction"}
+{"premise": "If the man had put the book on the shelf more seriously than the professor, the dancer would have shed tears.", "hypothesis": "The man did not put the book on the shelf.", "label": "contradiction"}
+{"premise": "If the dancer had cast bronze into a statue worse than the professor, the assistant could have upset the boat.", "hypothesis": "The dancer did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "If the student had slit the envelope earlier than the girl, the manager would have bet $100 on the race.", "hypothesis": "The student did not slit the envelope.", "label": "contradiction"}
+{"premise": "If the worker had split the log worse than the teacher, the student would have shed tears.", "hypothesis": "The worker did not split the log.", "label": "contradiction"}
+{"premise": "If the man had upset the boat more seriously than the child, the assistant would have cast bronze into a statue.", "hypothesis": "The man did not upset the boat.", "label": "contradiction"}
+{"premise": "If the dancer had let the blinds down worse than the child, the woman could have shed tears.", "hypothesis": "The dancer did not let the blinds down.", "label": "contradiction"}
+{"premise": "If the assistant had cast bronze into a statue more seriously than the man, the athlete would have thrust the fork into the cake.", "hypothesis": "The assistant did not cast bronze into a statue.", "label": "contradiction"}
+{"premise": "If the professor had upset the boat more seriously than the dancer, the kid could have bet $100 on the race.", "hypothesis": "The professor did not upset the boat.", "label": "contradiction"}
+{"premise": "If the woman had set the dish on the table worse than the girl, the manager could have upset the boat.", "hypothesis": "The woman did not set the dish on the table.", "label": "contradiction"}
+{"premise": "If the assistant had spread the rumor earlier than the kid, the child would have hit the ball with the bat.", "hypothesis": "The assistant did not spread the rumor.", "label": "contradiction"}
+{"premise": "If the woman had slit the envelope worse than the student, the director could have thrust the fork into the cake.", "hypothesis": "The woman did not slit the envelope.", "label": "contradiction"}
+{"premise": "If the manager had shed tears earlier than the assistant, the dancer could have upset the boat.", "hypothesis": "The manager did not shed tears.", "label": "contradiction"}
+{"premise": "If the doctor had shut the door worse than the dancer, the singer could have thrust the fork into the cake.", "hypothesis": "The doctor did not shut the door.", "label": "contradiction"}
+{"premise": "If the kid had split the log worse than the boy, the girl could have shed tears.", "hypothesis": "The kid did not split the log.", "label": "contradiction"}
+{"premise": "If the man had shut the door earlier than the woman, the child would have cast bronze into a statue.", "hypothesis": "The man did not shut the door.", "label": "contradiction"}
+{"premise": "If the dancer had let the blinds down better than the professor, the athlete could have slit the envelope.", "hypothesis": "The dancer did not let the blinds down.", "label": "contradiction"}

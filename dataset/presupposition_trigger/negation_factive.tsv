@@ -1,0 +1,201 @@
+	sentence1	sentence2	label	heuristics	example1	example2	split
+1000	The assistant did not remember hitting the ball with the bat.	 The assistant hit the ball with the bat.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1001	The assistant did not forget splitting the log.	 The assistant split the log.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1002	The doctor did not forget letting the blinds down.	 The doctor let the blinds down.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1003	The athlete did not forget betting $100 on the race.	 The athlete bet $100 on the race.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1004	The girl did not forget thrusting the fork into the cake.	 The girl thrust the fork into the cake.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1005	The professor did not forget slitting the envelope.	 The professor slit the envelope.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1006	The dancer did not regret setting the dish on the table.	 The dancer set the dish on the table.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1007	The manager did not regret shutting the door.	 The manager shut the door.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1008	The manager did not forget slitting the envelope.	 The manager slit the envelope.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1009	The man did not forget letting the blinds down.	 The man let the blinds down.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1010	The child did not regret casting bronze into a statue.	 The child cast bronze into a statue.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1011	The girl did not forget hitting the ball with the bat.	 The girl hit the ball with the bat.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1012	The director did not forget putting the book on the shelf.	 The director put the book on the shelf.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1013	The student did not regret reading the letter.	 The student read the letter.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	test
+1014	The assistant did not regret hitting the ball with the bat.	 The assistant hit the ball with the bat.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1015	The boy did not forget upsetting the boat.	 The boy upset the boat.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1016	The assistant did not remember upsetting the boat.	 The assistant upset the boat.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1017	The child did not regret thrusting the fork into the cake.	 The child thrust the fork into the cake.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1018	The dancer did not remember shutting the door.	 The dancer shut the door.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1019	The dancer did not remember putting the book on the shelf.	 The dancer put the book on the shelf.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1020	The man did not forget spreading the rumor.	 The man spread the rumor.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1021	The student did not forget casting bronze into a statue.	 The student cast bronze into a statue.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1022	The dancer did not regret splitting the log.	 The dancer split the log.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1023	The kid did not remember bursting into the room.	 The kid burst into the room.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1024	The manager did not forget spreading the rumor.	 The manager spread the rumor.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1025	The student did not forget betting $100 on the race.	 The student bet $100 on the race.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1026	The dancer did not remember shutting the door.	 The dancer shut the door.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1027	The doctor did not remember splitting the log.	 The doctor split the log.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1028	The director did not forget shedding tears.	 The director shed tears.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	test
+1029	The girl did not forget putting the book on the shelf.	 The girl put the book on the shelf.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1030	The boy did not regret letting the blinds down.	 The boy let the blinds down.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1031	The kid did not forget slitting the envelope.	 The kid slit the envelope.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1032	The dancer did not forget splitting the log.	 The dancer split the log.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1033	The child did not forget slitting the envelope.	 The child slit the envelope.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1034	The professor did not remember hitting the ball with the bat.	 The professor hit the ball with the bat.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1035	The athlete did not forget reading the letter.	 The athlete read the letter.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1036	The doctor did not remember reading the letter.	 The doctor read the letter.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1037	The manager did not regret thrusting the fork into the cake.	 The manager thrust the fork into the cake.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1038	The dancer did not remember setting the dish on the table.	 The dancer set the dish on the table.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1039	The girl did not forget setting the dish on the table.	 The girl set the dish on the table.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1040	The dancer did not remember shedding tears.	 The dancer shed tears.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1041	The worker did not remember shedding tears.	 The worker shed tears.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1042	The manager did not regret shedding tears.	 The manager shed tears.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1043	The kid did not forget upsetting the boat.	 The kid upset the boat.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1044	The dancer did not regret shutting the door.	 The dancer shut the door.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1045	The director did not remember thrusting the fork into the cake.	 The director thrust the fork into the cake.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1046	The stranger did not regret betting $100 on the race.	 The stranger bet $100 on the race.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1047	The assistant did not forget slitting the envelope.	 The assistant slit the envelope.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1048	The manager did not forget shutting the door.	 The manager shut the door.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1049	The athlete did not regret putting the book on the shelf.	 The athlete put the book on the shelf.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	test
+1050	The athlete did not regret slitting the envelope.	 The athlete slit the envelope.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1051	The boy did not forget thrusting the fork into the cake.	 The boy thrust the fork into the cake.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1052	The director did not remember casting bronze into a statue.	 The director cast bronze into a statue.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1053	The doctor did not forget letting the blinds down.	 The doctor let the blinds down.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1054	The professor did not remember casting bronze into a statue.	 The professor cast bronze into a statue.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1055	The worker did not regret thrusting the fork into the cake.	 The worker thrust the fork into the cake.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1056	The teacher did not remember slitting the envelope.	 The teacher slit the envelope.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1057	The doctor did not remember hitting the ball with the bat.	 The doctor hit the ball with the bat.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1058	The child did not regret bursting into the room.	 The child burst into the room.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1059	The child did not remember thrusting the fork into the cake.	 The child thrust the fork into the cake.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1060	The student did not remember bursting into the room.	 The student burst into the room.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1061	The singer did not remember setting the dish on the table.	 The singer set the dish on the table.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1062	The woman did not forget bursting into the room.	 The woman burst into the room.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1063	The professor did not regret casting bronze into a statue.	 The professor cast bronze into a statue.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1064	The student did not forget letting the blinds down.	 The student let the blinds down.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1065	The doctor did not forget setting the dish on the table.	 The doctor set the dish on the table.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1066	The worker did not remember putting the book on the shelf.	 The worker put the book on the shelf.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1067	The singer did not forget betting $100 on the race.	 The singer bet $100 on the race.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1068	The man did not regret betting $100 on the race.	 The man bet $100 on the race.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1069	The child did not regret letting the blinds down.	 The child let the blinds down.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1070	The stranger did not regret splitting the log.	 The stranger split the log.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1071	The director did not remember casting bronze into a statue.	 The director cast bronze into a statue.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1072	The doctor did not remember setting the dish on the table.	 The doctor set the dish on the table.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1073	The man did not remember shedding tears.	 The man shed tears.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1074	The dancer did not regret hurting others.	 The dancer hurt others.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1075	The teacher did not remember shutting the door.	 The teacher shut the door.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1076	The singer did not remember spreading the rumor.	 The singer spread the rumor.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1077	The kid did not remember hurting others.	 The kid hurt others.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1078	The athlete did not regret thrusting the fork into the cake.	 The athlete thrust the fork into the cake.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1079	The dancer did not regret spreading the rumor.	 The dancer spread the rumor.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1080	The worker did not forget thrusting the fork into the cake.	 The worker thrust the fork into the cake.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1081	The kid did not forget upsetting the boat.	 The kid upset the boat.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1082	The manager did not remember shutting the door.	 The manager shut the door.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1083	The professor did not regret hitting the ball with the bat.	 The professor hit the ball with the bat.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	test
+1084	The assistant did not remember upsetting the boat.	 The assistant upset the boat.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1085	The athlete did not regret reading the letter.	 The athlete read the letter.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1086	The boy did not regret putting the book on the shelf.	 The boy put the book on the shelf.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1087	The dancer did not regret hitting the ball with the bat.	 The dancer hit the ball with the bat.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1088	The kid did not forget slitting the envelope.	 The kid slit the envelope.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1089	The worker did not regret splitting the log.	 The worker split the log.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1090	The singer did not remember thrusting the fork into the cake.	 The singer thrust the fork into the cake.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1091	The athlete did not forget spreading the rumor.	 The athlete spread the rumor.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1092	The singer did not regret slitting the envelope.	 The singer slit the envelope.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1093	The girl did not forget hitting the ball with the bat.	 The girl hit the ball with the bat.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1094	The woman did not forget thrusting the fork into the cake.	 The woman thrust the fork into the cake.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1095	The manager did not regret hitting the ball with the bat.	 The manager hit the ball with the bat.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1096	The singer did not forget splitting the log.	 The singer split the log.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1097	The director did not regret hurting others.	 The director hurt others.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1098	The athlete did not remember shedding tears.	 The athlete shed tears.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	train
+1099	The manager did not forget putting the book on the shelf.	 The manager put the book on the shelf.	entailment	 -	 The doctor did not regret cuttting the tree.	 The doctor cut the tree.	test
+1100	The boy did not remember hurting others.	 The boy did not hurt others.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1101	The man did not regret letting the blinds down.	 The man did not let the blinds down.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1102	The director did not forget splitting the log.	 The director did not split the log.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1103	The singer did not regret bursting into the room.	 The singer did not burst into the room.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1104	The kid did not forget upsetting the boat.	 The kid did not upset the boat.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1105	The man did not regret thrusting the fork into the cake.	 The man did not thrust the fork into the cake.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1106	The kid did not forget putting the book on the shelf.	 The kid did not put the book on the shelf.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1107	The girl did not regret upsetting the boat.	 The girl did not upset the boat.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1108	The manager did not forget letting the blinds down.	 The manager did not let the blinds down.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1109	The assistant did not regret hurting others.	 The assistant did not hurt others.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1110	The girl did not forget thrusting the fork into the cake.	 The girl did not thrust the fork into the cake.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1111	The man did not forget upsetting the boat.	 The man did not upset the boat.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1112	The boy did not regret hitting the ball with the bat.	 The boy did not hit the ball with the bat.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1113	The girl did not regret splitting the log.	 The girl did not split the log.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1114	The teacher did not forget betting $100 on the race.	 The teacher did not bet $100 on the race.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1115	The manager did not forget letting the blinds down.	 The manager did not let the blinds down.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1116	The stranger did not forget shutting the door.	 The stranger did not shut the door.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1117	The child did not forget hurting others.	 The child did not hurt others.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1118	The girl did not regret shutting the door.	 The girl did not shut the door.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1119	The manager did not regret hitting the ball with the bat.	 The manager did not hit the ball with the bat.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1120	The child did not forget reading the letter.	 The child did not read the letter.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1121	The singer did not regret thrusting the fork into the cake.	 The singer did not thrust the fork into the cake.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1122	The stranger did not forget casting bronze into a statue.	 The stranger did not cast bronze into a statue.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1123	The kid did not remember thrusting the fork into the cake.	 The kid did not thrust the fork into the cake.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1124	The assistant did not remember putting the book on the shelf.	 The assistant did not put the book on the shelf.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1125	The singer did not forget splitting the log.	 The singer did not split the log.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1126	The doctor did not remember betting $100 on the race.	 The doctor did not bet $100 on the race.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1127	The athlete did not forget spreading the rumor.	 The athlete did not spread the rumor.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1128	The girl did not regret splitting the log.	 The girl did not split the log.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1129	The child did not forget slitting the envelope.	 The child did not slit the envelope.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	test
+1130	The boy did not remember casting bronze into a statue.	 The boy did not cast bronze into a statue.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1131	The woman did not forget splitting the log.	 The woman did not split the log.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1132	The kid did not forget upsetting the boat.	 The kid did not upset the boat.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1133	The dancer did not forget betting $100 on the race.	 The dancer did not bet $100 on the race.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1134	The singer did not remember splitting the log.	 The singer did not split the log.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1135	The singer did not forget shutting the door.	 The singer did not shut the door.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1136	The assistant did not remember hurting others.	 The assistant did not hurt others.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1137	The girl did not regret slitting the envelope.	 The girl did not slit the envelope.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	test
+1138	The stranger did not regret hurting others.	 The stranger did not hurt others.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1139	The student did not remember thrusting the fork into the cake.	 The student did not thrust the fork into the cake.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1140	The child did not remember thrusting the fork into the cake.	 The child did not thrust the fork into the cake.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1141	The worker did not forget betting $100 on the race.	 The worker did not bet $100 on the race.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1142	The girl did not regret hitting the ball with the bat.	 The girl did not hit the ball with the bat.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1143	The kid did not remember upsetting the boat.	 The kid did not upset the boat.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1144	The girl did not regret letting the blinds down.	 The girl did not let the blinds down.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1145	The assistant did not regret bursting into the room.	 The assistant did not burst into the room.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1146	The boy did not forget hitting the ball with the bat.	 The boy did not hit the ball with the bat.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1147	The athlete did not forget hurting others.	 The athlete did not hurt others.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1148	The worker did not regret bursting into the room.	 The worker did not burst into the room.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1149	The doctor did not forget reading the letter.	 The doctor did not read the letter.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1150	The stranger did not remember shedding tears.	 The stranger did not shed tears.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1151	The professor did not forget bursting into the room.	 The professor did not burst into the room.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1152	The stranger did not regret reading the letter.	 The stranger did not read the letter.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1153	The manager did not regret reading the letter.	 The manager did not read the letter.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1154	The dancer did not regret spreading the rumor.	 The dancer did not spread the rumor.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1155	The doctor did not remember upsetting the boat.	 The doctor did not upset the boat.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1156	The woman did not remember splitting the log.	 The woman did not split the log.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1157	The doctor did not regret bursting into the room.	 The doctor did not burst into the room.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1158	The child did not remember hitting the ball with the bat.	 The child did not hit the ball with the bat.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1159	The man did not regret reading the letter.	 The man did not read the letter.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1160	The doctor did not forget upsetting the boat.	 The doctor did not upset the boat.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1161	The worker did not regret shedding tears.	 The worker did not shed tears.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1162	The kid did not remember spreading the rumor.	 The kid did not spread the rumor.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1163	The girl did not regret letting the blinds down.	 The girl did not let the blinds down.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	test
+1164	The boy did not regret betting $100 on the race.	 The boy did not bet $100 on the race.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1165	The athlete did not remember letting the blinds down.	 The athlete did not let the blinds down.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1166	The boy did not regret putting the book on the shelf.	 The boy did not put the book on the shelf.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1167	The manager did not forget upsetting the boat.	 The manager did not upset the boat.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1168	The woman did not regret letting the blinds down.	 The woman did not let the blinds down.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1169	The manager did not regret casting bronze into a statue.	 The manager did not cast bronze into a statue.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1170	The student did not forget betting $100 on the race.	 The student did not bet $100 on the race.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1171	The worker did not regret shutting the door.	 The worker did not shut the door.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1172	The manager did not regret betting $100 on the race.	 The manager did not bet $100 on the race.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1173	The kid did not forget letting the blinds down.	 The kid did not let the blinds down.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1174	The director did not regret setting the dish on the table.	 The director did not set the dish on the table.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1175	The worker did not remember casting bronze into a statue.	 The worker did not cast bronze into a statue.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1176	The professor did not remember shutting the door.	 The professor did not shut the door.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1177	The athlete did not regret slitting the envelope.	 The athlete did not slit the envelope.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1178	The boy did not forget splitting the log.	 The boy did not split the log.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1179	The girl did not forget hurting others.	 The girl did not hurt others.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1180	The man did not remember betting $100 on the race.	 The man did not bet $100 on the race.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1181	The man did not forget casting bronze into a statue.	 The man did not cast bronze into a statue.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1182	The athlete did not regret slitting the envelope.	 The athlete did not slit the envelope.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1183	The student did not remember shutting the door.	 The student did not shut the door.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1184	The student did not regret thrusting the fork into the cake.	 The student did not thrust the fork into the cake.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1185	The woman did not forget betting $100 on the race.	 The woman did not bet $100 on the race.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1186	The assistant did not forget splitting the log.	 The assistant did not split the log.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1187	The manager did not remember setting the dish on the table.	 The manager did not set the dish on the table.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1188	The doctor did not remember shutting the door.	 The doctor did not shut the door.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1189	The assistant did not regret shedding tears.	 The assistant did not shed tears.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1190	The student did not remember hitting the ball with the bat.	 The student did not hit the ball with the bat.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1191	The kid did not regret setting the dish on the table.	 The kid did not set the dish on the table.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1192	The director did not regret splitting the log.	 The director did not split the log.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1193	The child did not remember setting the dish on the table.	 The child did not set the dish on the table.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1194	The child did not forget casting bronze into a statue.	 The child did not cast bronze into a statue.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	test
+1195	The worker did not remember upsetting the boat.	 The worker did not upset the boat.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1196	The athlete did not regret casting bronze into a statue.	 The athlete did not cast bronze into a statue.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1197	The manager did not forget betting $100 on the race.	 The manager did not bet $100 on the race.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1198	The athlete did not regret reading the letter.	 The athlete did not read the letter.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	train
+1199	The woman did not regret letting the blinds down.	 The woman did not let the blinds down.	contradiction	 -	 The doctor did not regret cutting the tree.	 The doctor did not cut the tree	test

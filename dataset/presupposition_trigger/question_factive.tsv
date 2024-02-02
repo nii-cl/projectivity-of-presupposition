@@ -1,0 +1,201 @@
+	sentence1	sentence2	label	heuristics	example1	example2	split
+1000	Did the teacher forget hurting others?	 The teacher hurt others.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1001	Did the assistant remember putting the book on the shelf?	 The assistant put the book on the shelf.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1002	Did the athlete forget setting the dish on the table?	 The athlete set the dish on the table.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1003	Did the assistant remember bursting into the room?	 The assistant burst into the room.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1004	Did the singer remember putting the book on the shelf?	 The singer put the book on the shelf.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1005	Did the kid forget letting the blinds down?	 The kid let the blinds down.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1006	Did the woman remember thrusting the fork into the cake?	 The woman thrust the fork into the cake.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1007	Did the stranger remember slitting the envelope?	 The stranger slit the envelope.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1008	Did the worker regret casting bronze into a statue?	 The worker cast bronze into a statue.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1009	Did the singer regret bursting into the room?	 The singer burst into the room.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1010	Did the boy regret slitting the envelope?	 The boy slit the envelope.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1011	Did the doctor remember thrusting the fork into the cake?	 The doctor thrust the fork into the cake.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1012	Did the kid forget setting the dish on the table?	 The kid set the dish on the table.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1013	Did the dancer remember shutting the door?	 The dancer shut the door.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1014	Did the singer forget slitting the envelope?	 The singer slit the envelope.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1015	Did the athlete forget hurting others?	 The athlete hurt others.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1016	Did the assistant remember shedding tears?	 The assistant shed tears.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1017	Did the manager remember hurting others?	 The manager hurt others.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1018	Did the stranger regret reading the letter?	 The stranger read the letter.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1019	Did the director forget bursting into the room?	 The director burst into the room.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1020	Did the doctor regret letting the blinds down?	 The doctor let the blinds down.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1021	Did the student regret bursting into the room?	 The student burst into the room.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1022	Did the boy remember slitting the envelope?	 The boy slit the envelope.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1023	Did the manager regret spreading the rumor?	 The manager spread the rumor.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1024	Did the man regret putting the book on the shelf?	 The man put the book on the shelf.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1025	Did the assistant remember hitting the ball with the bat?	 The assistant hit the ball with the bat.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1026	Did the worker regret upsetting the boat?	 The worker upset the boat.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1027	Did the man regret shutting the door?	 The man shut the door.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1028	Did the girl regret spreading the rumor?	 The girl spread the rumor.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1029	Did the assistant regret casting bronze into a statue?	 The assistant cast bronze into a statue.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1030	Did the manager regret slitting the envelope?	 The manager slit the envelope.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	test
+1031	Did the teacher forget spreading the rumor?	 The teacher spread the rumor.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1032	Did the athlete regret casting bronze into a statue?	 The athlete cast bronze into a statue.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1033	Did the student remember betting $100 on the race?	 The student bet $100 on the race.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1034	Did the assistant forget setting the dish on the table?	 The assistant set the dish on the table.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	test
+1035	Did the dancer forget bursting into the room?	 The dancer burst into the room.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1036	Did the man remember bursting into the room?	 The man burst into the room.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1037	Did the student forget thrusting the fork into the cake?	 The student thrust the fork into the cake.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1038	Did the student remember reading the letter?	 The student read the letter.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1039	Did the dancer regret thrusting the fork into the cake?	 The dancer thrust the fork into the cake.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1040	Did the boy forget hurting others?	 The boy hurt others.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1041	Did the athlete remember putting the book on the shelf?	 The athlete put the book on the shelf.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1042	Did the worker forget thrusting the fork into the cake?	 The worker thrust the fork into the cake.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1043	Did the boy remember betting $100 on the race?	 The boy bet $100 on the race.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1044	Did the assistant remember hitting the ball with the bat?	 The assistant hit the ball with the bat.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1045	Did the boy regret casting bronze into a statue?	 The boy cast bronze into a statue.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1046	Did the doctor forget casting bronze into a statue?	 The doctor cast bronze into a statue.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1047	Did the girl forget setting the dish on the table?	 The girl set the dish on the table.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1048	Did the man forget betting $100 on the race?	 The man bet $100 on the race.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1049	Did the teacher forget thrusting the fork into the cake?	 The teacher thrust the fork into the cake.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1050	Did the doctor forget reading the letter?	 The doctor read the letter.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1051	Did the boy forget shutting the door?	 The boy shut the door.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1052	Did the athlete forget shutting the door?	 The athlete shut the door.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	test
+1053	Did the stranger forget spreading the rumor?	 The stranger spread the rumor.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1054	Did the singer remember letting the blinds down?	 The singer let the blinds down.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1055	Did the stranger forget shutting the door?	 The stranger shut the door.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1056	Did the assistant regret splitting the log?	 The assistant split the log.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1057	Did the girl forget slitting the envelope?	 The girl slit the envelope.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	test
+1058	Did the dancer regret spreading the rumor?	 The dancer spread the rumor.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1059	Did the kid remember betting $100 on the race?	 The kid bet $100 on the race.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1060	Did the kid remember setting the dish on the table?	 The kid set the dish on the table.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1061	Did the stranger forget thrusting the fork into the cake?	 The stranger thrust the fork into the cake.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1062	Did the woman regret shutting the door?	 The woman shut the door.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1063	Did the stranger regret letting the blinds down?	 The stranger let the blinds down.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1064	Did the worker remember casting bronze into a statue?	 The worker cast bronze into a statue.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1065	Did the stranger remember betting $100 on the race?	 The stranger bet $100 on the race.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1066	Did the boy remember shedding tears?	 The boy shed tears.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1067	Did the dancer remember hitting the ball with the bat?	 The dancer hit the ball with the bat.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1068	Did the director forget thrusting the fork into the cake?	 The director thrust the fork into the cake.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1069	Did the man forget betting $100 on the race?	 The man bet $100 on the race.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1070	Did the woman forget shedding tears?	 The woman shed tears.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1071	Did the manager forget betting $100 on the race?	 The manager bet $100 on the race.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1072	Did the woman forget shedding tears?	 The woman shed tears.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	test
+1073	Did the athlete remember bursting into the room?	 The athlete burst into the room.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1074	Did the girl remember betting $100 on the race?	 The girl bet $100 on the race.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1075	Did the teacher regret putting the book on the shelf?	 The teacher put the book on the shelf.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1076	Did the woman regret bursting into the room?	 The woman burst into the room.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1077	Did the child regret betting $100 on the race?	 The child bet $100 on the race.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1078	Did the kid remember thrusting the fork into the cake?	 The kid thrust the fork into the cake.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1079	Did the director regret setting the dish on the table?	 The director set the dish on the table.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1080	Did the stranger forget setting the dish on the table?	 The stranger set the dish on the table.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1081	Did the boy forget hitting the ball with the bat?	 The boy hit the ball with the bat.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1082	Did the doctor remember setting the dish on the table?	 The doctor set the dish on the table.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1083	Did the doctor regret hurting others?	 The doctor hurt others.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1084	Did the director remember bursting into the room?	 The director burst into the room.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1085	Did the manager forget slitting the envelope?	 The manager slit the envelope.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1086	Did the woman forget reading the letter?	 The woman read the letter.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1087	Did the student regret hurting others?	 The student hurt others.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1088	Did the child remember setting the dish on the table?	 The child set the dish on the table.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1089	Did the singer remember setting the dish on the table?	 The singer set the dish on the table.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1090	Did the kid forget hurting others?	 The kid hurt others.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1091	Did the man forget splitting the log?	 The man split the log.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1092	Did the child remember casting bronze into a statue?	 The child cast bronze into a statue.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1093	Did the child regret hurting others?	 The child hurt others.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1094	Did the doctor forget slitting the envelope?	 The doctor slit the envelope.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1095	Did the singer remember slitting the envelope?	 The singer slit the envelope.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1096	Did the dancer forget betting $100 on the race?	 The dancer bet $100 on the race.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1097	Did the singer forget upsetting the boat?	 The singer upset the boat.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1098	Did the singer regret letting the blinds down?	 The singer let the blinds down.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1099	Did the dancer regret casting bronze into a statue?	 The dancer cast bronze into a statue.	entailment	 -	 Did the doctor regret cutting the tree?	 The doctor cut the tree.	train
+1100	Did the dancer regret hitting the ball with the bat?	 The dancer did not hit the ball with the bat.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1101	Did the girl remember splitting the log?	 The girl did not split the log.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1102	Did the manager regret letting the blinds down?	 The manager did not let the blinds down.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	test
+1103	Did the teacher regret spreading the rumor?	 The teacher did not spread the rumor.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1104	Did the singer remember putting the book on the shelf?	 The singer did not put the book on the shelf.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1105	Did the athlete forget thrusting the fork into the cake?	 The athlete did not thrust the fork into the cake.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1106	Did the worker remember hitting the ball with the bat?	 The worker did not hit the ball with the bat.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1107	Did the girl forget upsetting the boat?	 The girl did not upset the boat.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1108	Did the woman forget shutting the door?	 The woman did not shut the door.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1109	Did the man regret betting $100 on the race?	 The man did not bet $100 on the race.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1110	Did the kid remember thrusting the fork into the cake?	 The kid did not thrust the fork into the cake.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1111	Did the professor regret reading the letter?	 The professor did not read the letter.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1112	Did the man forget betting $100 on the race?	 The man did not bet $100 on the race.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1113	Did the assistant forget casting bronze into a statue?	 The assistant did not cast bronze into a statue.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	test
+1114	Did the director remember setting the dish on the table?	 The director did not set the dish on the table.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1115	Did the dancer regret casting bronze into a statue?	 The dancer did not cast bronze into a statue.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1116	Did the manager regret slitting the envelope?	 The manager did not slit the envelope.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1117	Did the doctor forget slitting the envelope?	 The doctor did not slit the envelope.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1118	Did the director forget reading the letter?	 The director did not read the letter.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1119	Did the girl forget putting the book on the shelf?	 The girl did not put the book on the shelf.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1120	Did the child forget upsetting the boat?	 The child did not upset the boat.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1121	Did the boy regret slitting the envelope?	 The boy did not slit the envelope.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1122	Did the director regret hurting others?	 The director did not hurt others.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1123	Did the girl forget shutting the door?	 The girl did not shut the door.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1124	Did the stranger remember bursting into the room?	 The stranger did not burst into the room.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1125	Did the student forget casting bronze into a statue?	 The student did not cast bronze into a statue.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1126	Did the student regret reading the letter?	 The student did not read the letter.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1127	Did the kid remember hitting the ball with the bat?	 The kid did not hit the ball with the bat.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1128	Did the stranger remember spreading the rumor?	 The stranger did not spread the rumor.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1129	Did the worker remember casting bronze into a statue?	 The worker did not cast bronze into a statue.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1130	Did the girl forget setting the dish on the table?	 The girl did not set the dish on the table.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	test
+1131	Did the professor remember hurting others?	 The professor did not hurt others.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1132	Did the man remember spreading the rumor?	 The man did not spread the rumor.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1133	Did the kid forget splitting the log?	 The kid did not split the log.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1134	Did the assistant forget splitting the log?	 The assistant did not split the log.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1135	Did the professor forget bursting into the room?	 The professor did not burst into the room.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1136	Did the professor remember thrusting the fork into the cake?	 The professor did not thrust the fork into the cake.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1137	Did the teacher forget hurting others?	 The teacher did not hurt others.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1138	Did the man regret spreading the rumor?	 The man did not spread the rumor.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1139	Did the doctor forget thrusting the fork into the cake?	 The doctor did not thrust the fork into the cake.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1140	Did the assistant remember hitting the ball with the bat?	 The assistant did not hit the ball with the bat.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1141	Did the dancer remember casting bronze into a statue?	 The dancer did not cast bronze into a statue.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1142	Did the dancer regret letting the blinds down?	 The dancer did not let the blinds down.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	test
+1143	Did the doctor forget shedding tears?	 The doctor did not shed tears.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1144	Did the student forget splitting the log?	 The student did not split the log.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1145	Did the dancer remember spreading the rumor?	 The dancer did not spread the rumor.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1146	Did the student regret setting the dish on the table?	 The student did not set the dish on the table.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1147	Did the singer remember hitting the ball with the bat?	 The singer did not hit the ball with the bat.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1148	Did the kid regret thrusting the fork into the cake?	 The kid did not thrust the fork into the cake.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1149	Did the child remember reading the letter?	 The child did not read the letter.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1150	Did the student regret setting the dish on the table?	 The student did not set the dish on the table.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1151	Did the boy forget setting the dish on the table?	 The boy did not set the dish on the table.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1152	Did the boy remember spreading the rumor?	 The boy did not spread the rumor.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1153	Did the worker regret spreading the rumor?	 The worker did not spread the rumor.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1154	Did the child remember slitting the envelope?	 The child did not slit the envelope.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1155	Did the singer regret thrusting the fork into the cake?	 The singer did not thrust the fork into the cake.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1156	Did the girl forget upsetting the boat?	 The girl did not upset the boat.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1157	Did the boy forget hitting the ball with the bat?	 The boy did not hit the ball with the bat.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1158	Did the kid remember letting the blinds down?	 The kid did not let the blinds down.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1159	Did the stranger forget upsetting the boat?	 The stranger did not upset the boat.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1160	Did the assistant remember letting the blinds down?	 The assistant did not let the blinds down.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1161	Did the assistant remember letting the blinds down?	 The assistant did not let the blinds down.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1162	Did the girl remember betting $100 on the race?	 The girl did not bet $100 on the race.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1163	Did the doctor forget thrusting the fork into the cake?	 The doctor did not thrust the fork into the cake.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1164	Did the child regret casting bronze into a statue?	 The child did not cast bronze into a statue.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1165	Did the girl regret letting the blinds down?	 The girl did not let the blinds down.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1166	Did the professor remember shutting the door?	 The professor did not shut the door.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1167	Did the assistant forget casting bronze into a statue?	 The assistant did not cast bronze into a statue.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1168	Did the manager regret upsetting the boat?	 The manager did not upset the boat.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1169	Did the girl forget reading the letter?	 The girl did not read the letter.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1170	Did the professor forget putting the book on the shelf?	 The professor did not put the book on the shelf.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1171	Did the stranger remember putting the book on the shelf?	 The stranger did not put the book on the shelf.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1172	Did the singer forget reading the letter?	 The singer did not read the letter.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1173	Did the kid remember thrusting the fork into the cake?	 The kid did not thrust the fork into the cake.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1174	Did the professor forget hurting others?	 The professor did not hurt others.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1175	Did the singer remember bursting into the room?	 The singer did not burst into the room.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1176	Did the kid regret putting the book on the shelf?	 The kid did not put the book on the shelf.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1177	Did the kid regret hitting the ball with the bat?	 The kid did not hit the ball with the bat.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1178	Did the doctor remember spreading the rumor?	 The doctor did not spread the rumor.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1179	Did the director remember shutting the door?	 The director did not shut the door.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1180	Did the athlete remember letting the blinds down?	 The athlete did not let the blinds down.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1181	Did the teacher regret splitting the log?	 The teacher did not split the log.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1182	Did the boy forget letting the blinds down?	 The boy did not let the blinds down.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1183	Did the manager remember hitting the ball with the bat?	 The manager did not hit the ball with the bat.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1184	Did the stranger remember spreading the rumor?	 The stranger did not spread the rumor.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1185	Did the doctor remember reading the letter?	 The doctor did not read the letter.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	test
+1186	Did the man remember spreading the rumor?	 The man did not spread the rumor.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1187	Did the child regret casting bronze into a statue?	 The child did not cast bronze into a statue.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1188	Did the director regret betting $100 on the race?	 The director did not bet $100 on the race.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1189	Did the child regret reading the letter?	 The child did not read the letter.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1190	Did the dancer forget setting the dish on the table?	 The dancer did not set the dish on the table.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1191	Did the student remember reading the letter?	 The student did not read the letter.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1192	Did the singer remember casting bronze into a statue?	 The singer did not cast bronze into a statue.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1193	Did the assistant regret hitting the ball with the bat?	 The assistant did not hit the ball with the bat.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1194	Did the stranger regret shedding tears?	 The stranger did not shed tears.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1195	Did the child regret thrusting the fork into the cake?	 The child did not thrust the fork into the cake.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1196	Did the child remember bursting into the room?	 The child did not burst into the room.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1197	Did the woman forget upsetting the boat?	 The woman did not upset the boat.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1198	Did the woman forget shedding tears?	 The woman did not shed tears.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
+1199	Did the child forget shutting the door?	 The child did not shut the door.	contradiction	 -	 Did the doctor regret cutting the tree?	 The doctor did not cut the tree	train
