@@ -1,0 +1,13 @@
+sentence1,sentence2,label,heuristics,example1,example2,note
+The NP1 Aux VP1 again period, The NP1 VP1 again period, neutral, lexical overlap heuristics, The doctor cut the tree again., The doctor cut the tree again., Again modal control
+The NP1 Aux VP1 again period, The NP1 did not VP1 again period, neutral, not, The doctor cut the tree again., The doctor did not cut the tree again, Again modal control
+The NP1 Aux VP1 MAdv period, The NP1 VP1 MAdv period, neutral, lexical overlap heuristics, The doctor cut the tree slowly., The doctor cut the tree slowly., Manner adverbs modal control
+The NP1 Aux VP1 MAdv period, The NP1 did not VP1 MAdv period, neutral, not, The doctor cut the tree slowly., The doctor did cut the tree slowly., Manner adverbs modal control
+The NP1 Aux VP1 TAdv VPing period, The NP1 VP1 TAdv VPing period, neutral, lexical overlap heuristics, The doctor burst into the room beofore cutting the tree., The doctor burst into the room beofore cutting the tree., Temporal adverbs modal control
+The NP1 Aux VP1 TAdv VPing period, The NP1 did not VP1 TAdv VPing period, neutral, not, The doctor burst into the room beofore cutting the tree., The doctor did not burst into the room beofore cutting the tree., Temporal adverbs modal control
+The NP1 Aux VP1 Comparative than the NP2 period, The NP1 VP1 Comparative than the NP2 period, neutral, lexical overlap heuristics, The doctor cut the tree better than the singer.,The doctor cut the tree better than the singer., Comparative modal control
+The NP1 Aux VP1 Comparative than the NP2 period, The NP1 did not VP1 Comparative than the NP2 period, neutral, not, The doctor cut the tree better than the singer., The doctor did not cut the tree better than the singer., Comparative modal control
+The NP1 Aux Pre Ving period, The NP1 CSV Ving period, neutral, lexical overlap heuristics, The doctor stoped cutting the tree., The doctor stoped cutting the tree., Change-of-state verbs modal control
+The NP1 Aux Pre Ving period, The NP1 did not Pre Ving period, neutral, not, The doctor stoped cutting the tree., The doctor did not stop cutting the tree., Change-of-state verbs modal control
+The NP1 Aux FP Ving period, The NP1 Factive Ving period, neutral, lexical overlap heuristics, The doctor regretted cutting the tree., The doctor regretted cutting the tree., Factive verbs modal control
+The NP1 Aux FP Ving period, The NP1 did not FP Ving period, neutral, not, The doctor regretted cutting the tree., The doctor did not regret cutting the tree, Factive verbs modal control

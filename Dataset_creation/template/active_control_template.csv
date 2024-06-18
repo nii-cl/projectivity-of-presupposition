@@ -1,0 +1,13 @@
+sentence1,sentence2,label,heuristics,example1,example2,note
+The NP1 VP1 again period, The NP1 VP1 again period, entailment, -, The doctor cut the tree again., The doctor cut the tree again., Again active control
+The NP1 VP1 again period, The NP1 did not VP1 again period, contradiction, -, The doctor cut the tree again., The doctor did not cut the tree again, Again active control
+The NP1 VP1 MAdv period, The NP1 VP1 MAdv period, entailment, -, The doctor cut the tree slowly., The doctor cut the tree slowly., Manner adverbs active control
+The NP1 VP1 MAdv period, The NP1 did not VP1 MAdv period, contradiction, -, The doctor cut the tree slowly., The doctor did cut the tree slowly., Manner adverbs active control
+The NP1 VP1 TAdv VPing period, The NP1 VP1 TAdv VPing period, entailment, -, The doctor burst into the room beofore cutting the tree., The doctor burst into the room beofore cutting the tree., Temporal adverbs active control
+The NP1 VP1 TAdv VPing period, The NP1 did not VP1 TAdv VPing period, contradiction, -, The doctor burst into the room beofore cutting the tree., The doctor did not burst into the room beofore cutting the tree., Temporal adverbs active control
+The NP1 VP1 Comparative than the NP2 period, The NP1 VP1 Comparative than the NP2 period, entailment, -, The doctor cut the tree better than the singer.,The doctor cut the tree better than the singer., Comparative active control
+The NP1 VP1 Comparative than the NP2 period, The NP1 did not VP1 Comparative than the NP2 period, contradiction, -, The doctor cut the tree better than the singer., The doctor did not cut the tree better than the singer., Comparative active control
+The NP1 CSV Ving period, The NP1 CSV Ving period, entailment, -, The doctor stoped cutting the tree., The doctor stoped cutting the tree., Change-of-state verbs active control
+The NP1 CSV Ving period, The NP1 did not Pre Ving period, contradiction, -, The doctor stoped cutting the tree., The doctor did not stop cutting the tree., Change-of-state verbs active control
+The NP1 Factive Ving period, The NP1 Factive Ving period, entailment, -, The doctor regretted cutting the tree., The doctor regretted cutting the tree., Factive verbs active control
+The NP1 Factive Ving period, The NP1 did not FP Ving period, contradiction, -, The doctor regretted cutting the tree., The doctor did not regret cutting the tree, Factive verbs active control

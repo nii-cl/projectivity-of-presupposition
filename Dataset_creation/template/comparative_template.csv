@@ -1,0 +1,11 @@
+sentence1,sentence2,label,heuristics,example1,example2,note
+The NP1 VP1 Comparative than the NP2 period, The NP2 VP1 period, entailment, -, The doctor cut the tree better than the singer., The singer cut the tree., Comparative
+The NP1 VP1 Comparative than the NP2 period, The NP2 did not VP1 period, contradiction, -, The doctor cut the tree better than the singer., The singer did not cut the tree, Comparative
+If the NP1 had VP1 Comparative than the NP3 comma the NP2 modal have VP3 period, The NP3 VP1 period, entailment, -, If the doctor had cut the tree better than the artist comma the singer could have spread the rumor., The artist cut the tree., Comparative
+If the NP1 had VP1 Comparative than the NP3 comma the NP2 modal have VP3 period, The NP3 did not VP1 period, contradiction, -, If the doctor had cut the tree better than the artist comma the singer could have spread the rumor., The artist did not cut the tree, Comparative
+The NP1 Aux VP1 Comparative than the NP2 period, The NP2 VP1 period, entailment, -, The doctor cut the tree better than the singer., The singer cut the tree., Comparative modal target
+The NP1 Aux VP1 Comparative than the NP2 period, The NP2 did not VP1 period, contradiction, -, The doctor cut the tree better than the singer., The singer did not cut the tree, Comparative modal target
+The NP1 did not VP1 Comparative than the NP2 period, The NP2 VP1 period, entailment, -, The doctor did not cut the tree better than the singer., The singer cut the tree., Comparative
+The NP1 did not VP1 Comparative than the NP2 period, The NP2 did not VP1 period, contradiction, -, The doctor did not cut the tree better than the singer., The singer did not cut the tree, Comparative
+Did the NP1 VP1 Comparative than the NP2 ?, The NP2 VP1 period, entailment, -, Did the doctor cut the tree better than the singer?, The singer cut the tree., Comparative
+Did the NP1 VP1 Comparative than the NP2 ?, The NP2 did not VP1 period, contradiction, -, Did the doctor cut the tree better than the singer?, The singer did not cut the tree, Comparative

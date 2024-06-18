@@ -1,0 +1,13 @@
+sentence1,sentence2,label,heuristics,example1,example2,note
+Did the NP1 VP1 again ?, The NP1 VP1 again period, neutral, lexical overlap heuristics, The doctor cut the tree again., The doctor cut the tree., Again question control
+Did the NP1 VP1 again ?, The NP1 did not VP1 again period, neutral, not, The doctor cut the tree again., The doctor did not cut the tree, Again question control
+Did the NP1 VP1 MAdv ?, The NP1 VP1 MAdv period, neutral, lexical overlap heuristics, The doctor cut the tree slowly., The doctor cut the tree., Manner adverbs question control
+Did the NP1 VP1 MAdv ?, The NP1 did not VP1 MAdv period, neutral, not, The doctor cut the tree slowly., The doctor did cut the tree., Manner adverbs question control
+Did the NP1 VP1 TAdv VPing ?, The NP1 VP1 TAdv VPing period, neutral, lexical overlap heuristics, The doctor burst into the room beofore cutting the tree., The doctor cut the tree., Temporal adverbs question control
+Did the NP1 VP1 TAdv VPing?, The NP1 did not VP1 TAdv VPing period, neutral, not, The doctor burst into the room beofore cutting the tree., The doctor did cut the tree., Temporal adverbs question control
+Did the NP1 VP1 Comparative than the NP2 ?, The NP1 VP1 Comparative than the NP2 period, neutral, lexical overlap heuristics, The doctor cut the tree better than the singer., The doctor cut the tree., Comparative question control
+Did the NP1 VP1 Comparative than the NP2 ?, The NP1 did not VP1 Comparative than the NP2 period, neutral, not, The doctor cut the tree better than the singer., The doctor did not cut the tree, Comparative question control
+Did the NP1 Pre Ving ?, The NP1 CSV Ving period, neutral, lexical overlap heuristics, The doctor cut the tree., The doctor cut the tree., Change-of-state verbs question control
+Did the NP1 Pre Ving ?, The NP1 did not Pre Ving period, neutral, not, The doctor cut the tree., The doctor did not cut the tree, Change-of-state verbs question control
+Did the NP1 FP Ving ?, The NP1 Factive Ving period, neutral, lexical overlap heuristics, Did the doctor regret cutting the tree?, The doctor regretted cutting the tree., Factive verbs question control
+Did the NP1 FP Ving ?, The NP1 did not FP Ving period, neutral, not, Did the doctor regret cutting the tree?., The doctor did not regret cutting the tree., Factive verbs question control

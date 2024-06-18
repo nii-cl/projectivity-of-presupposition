@@ -1,0 +1,13 @@
+sentence1,sentence2,label,heuristics,example1,example2,note
+The NP1 VP1 again period, The NP1 had VP1 before period, entailment, -, The doctor cut the tree again., The doctor cut the tree., Again
+The NP1 VP1 again period, The NP1 had not VP1 before period, contradiction, -, The doctor cut the tree again., The doctor did not cut the tree, Again
+The NP1 VP1 MAdv period, The NP1 VP1 period, entailment, -, The doctor cut the tree slowly., The doctor cut the tree., Manner adverbs
+The NP1 VP1 MAdv period, The NP1 did not VP1 period, contradiction, -, The doctor cut the tree slowly., The doctor did cut the tree., Manner adverbs
+The NP1 VP1 TAdv VPing period, The NP1 VP2 period, entailment, -, The doctor burst into the room beofore cutting the tree., The doctor cut the tree., Temporal adverbs
+The NP1 VP1 TAdv VPing period, The NP1 did not VP2 period, contradiction, -, The doctor burst into the room beofore cutting the tree., The doctor did cut the tree., Temporal adverbs
+The NP1 VP1 Comparative than the NP2 period, The NP1 VP1 period, entailment, -, The doctor cut the tree better than the singer., The doctor cut the tree., Comparative
+The NP1 VP1 Comparative than the NP2 period, The NP1 did not VP1 period, contradiction, -, The doctor cut the tree better than the singer., The doctor did not cut the tree, Comparative
+The NP1 CSV Ving period, The NP1 had been Ving period, entailment, -, The doctor stopped cutting the tree., The doctor had been cutting the tree., Change-of-state verbs
+The NP1 CSV Ving period, The NP1 had not been Ving period, contradiction, -, The doctor stopped cutting the tree., The doctor had not been cutting the tree, Change-of-state verbs
+The NP1 Factive Ving period, The NP1 VP1 period, entailment, -, The doctor regretted cutting the tree., The doctor cut the tree., Factive verbs
+The NP1 Factive Ving period, The NP1 did not VP1 period, contradiction, -, The doctor regretted cutting the tree., The doctor did not cut the tree, Factive verbs

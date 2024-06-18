@@ -1,0 +1,13 @@
+sentence1,sentence2,label,heuristics,example1,example2,note
+The NP1 did not VP1 again period, The NP1 did not VP1 again period, entailment, not, The doctor did not cut the tree again., The doctor cut the tree., Again neg control
+The NP1 did not VP1 again period, The NP1 VP1 again period, contradiction, lexocal overlap, The doctor did not cut the tree again., The doctor did not cut the tree, Again neg control
+The NP1 did not VP1 MAdv period, The NP1 did not VP1 MAdv period, entailment, lexical overlap, The doctor did not cut the tree slowly., The doctor cut the tree., Manner adverbs neg control
+The NP1 did not VP1 MAdv period, The NP1 VP1 MAdv period, contradiction, lexocal overlap, The doctor did not cut the tree slowly., The doctor did not cut the tree., Manner adverbs neg control
+The NP1 did not VP1 TAdv VPing period, The NP1 did not VP1 TAdv VPing period, entailment, lexocal overlap, The doctor did not burst into the room beofore cutting the tree., The doctor cut the tree., Temporal adverbs neg control
+The NP1 did not VP1 TAdv VPing period, The NP1 VP1 TAdv VPing period, contradiction, not, The doctor did not burst into the room beofore cutting the tree., The doctor did not cut the tree., Temporal adverbs neg control
+The NP1 did not VP1 Comparative than the NP2 period, The NP1 did not VP1 Comparative than the NP2 period, entailment, lexocal overlap, The doctor did not cut the tree better than the singer., The doctor cut the tree., Comparative neg control
+The NP1 did not VP1 Comparative than the NP2 period, The NP1 VP1 Comparative than the NP2 period, contradiction, not, The doctor did not cut the tree better than the singer., The doctor did not cut the tree, Comparative neg control
+The NP1 did not Pre Ving period, The NP1 did not Pre Ving period, entailment, lexocal overlap, The doctor did not cut the tree., The doctor cut the tree., Change-of-state verbs neg control
+The NP1 did not Pre Ving period, The NP1 CSV Ving period, contradiction, not, The doctor did not cut the tree., The doctor did not cut the tree, Change-of-state verbs neg control
+The NP1 did not FP Ving period, The NP1 did not FP Ving period, entailment, lexocal overlap, The doctor did not regret cutting the tree., The doctor did not regret cutting the tree., Factive verbs neg control
+The NP1 did not FP Ving period, The NP1 Factive Ving period, contradiction, not, The doctor regretted cutting the tree., The doctor regretted cutting the tree, Factive verbs neg control
