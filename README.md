@@ -1,7 +1,9 @@
-This repository provides the projectivity of presupposition (PROPRES) dataset reported in [PROPRES: Investigating the Projectivity of Presupposition with Various Triggers and Environments]([https://aclanthology.org/2024.findings-acl.913/](https://aclanthology.org/2023.conll-1.9/))
+This repository provides the projectivity of presupposition (PROPRES) dataset reported in [PROPRES: Investigating the Projectivity of Presupposition with Various Triggers and Environments](https://aclanthology.org/2023.conll-1.9/)
+
+It also provides the human annotated portion of the IMPlicature and PRESupposition diagnostic (IMPPRES) dataset, created by [Jeretic et al. (2020)](https://aclanthology.org/2020.acl-main.768/) and available [here](https://github.com/facebookresearch/Imppres/tree/main). The original IMPPRES dataset is licensed under [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0).
 
 ## License
-The created dataset is released under [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0).
+The PROPRES dataset and our contributed annotations to the portion of the IMPPRES dataset are released under [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0).
 
 ## Reference
 
